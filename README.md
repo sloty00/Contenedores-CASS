@@ -27,8 +27,8 @@ Rustdesk es una solución de escritorio remoto de código abierto. Permite el ac
 ![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/4539b3b5-5d42-4751-b47e-5966836aaa48)
 ![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/9ee02bff-6b6b-49ce-be15-2e53257819b9)
 
-###Nagios
-Este proyecto contiene la configuración y los scripts necesarios para implementar un sistema de monitoreo utilizando Nagios. A continuación, se detallan las funcionalidades y la arquitectura del sistema.
+### Nagios Monitoring System
+Esteste proyecto contiene la configuración y los scripts necesarios para implementar un sistema de monitoreo utilizando Nagios. A continuación, se detallan las funcionalidades y la arquitectura del sistema.
 
 #### Funcionalidades
 
