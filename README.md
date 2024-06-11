@@ -67,7 +67,8 @@ Para configurar el sistema de monitoreo, sigue estos pasos:
 3. **Implementación de PNP4Nagios**: Instalar y configurar PNP4Nagios para la generación de gráficos.
 4. **Configuración de SNMP, NRPE y NSCP**: Configurar los agentes y servicios necesarios en los dispositivos y servidores a monitorear.
 
-
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/a43dd921-2c1e-4c31-9f10-1a93d8a7fb87)
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/f2e56b9d-801d-49a6-a5d6-5611400b2736)
 
 ## Configuración y Despliegue
 
