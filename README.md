@@ -9,6 +9,8 @@ Bind DNS se configuró para permitir que los servicios internos sean accesibles 
 
 ### Documize
 Documize se utiliza como una base de conocimiento para la organización. Proporciona un espacio centralizado para almacenar, organizar y acceder a la información y documentación crítica.
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/2bfe7363-5c69-414e-b85b-9b0c88772203)
+
 
 ### GLPI
 GLPI se configuró como un sistema de Helpdesk y para el levantamiento en terreno de máquinas con notificaciones por correo electrónico. Se crearon dos ecosistemas: uno para CASS y otro para clientes. Cada caso de soporte se asigna a su correspondiente entidad/grupo cliente, y todos los datos se capturan desde el Active Directory (AD).
