@@ -1,32 +1,32 @@
-ASBUILD y Despliegues en Contenedores
+#ASBUILD y Despliegues en Contenedores
 
 Este repositorio contiene la documentación y los archivos de configuración YAML para diversos servicios implementados en 
 contenedores por José Vargas Oyarzun. A continuación, se presenta una descripción de cada servicio y su configuración.
 
-Servicios Implementados:
+##Servicios Implementados:
 
-Bind DNS
+###Bind DNS
 Bind DNS se configuró para permitir que los servicios internos sean accesibles desde fuera de la intranet. Esto facilita 
 la gestión y acceso remoto a los recursos y servicios internos de la organización.
 
-Documize
+###Documize
 Documize se utiliza como una base de conocimiento para la organización. Proporciona un espacio centralizado para almacenar, 
 organizar y acceder a la información y documentación crítica.
 
-GLPI
+###GLPI
 GLPI se configuró como un sistema de Helpdesk y para el levantamiento en terreno de máquinas con notificaciones por 
 correo electrónico. Se crearon dos ecosistemas: uno para CASS y otro para clientes. Cada caso de soporte se asigna a su 
 correspondiente entidad/grupo cliente, y todos los datos se capturan desde el Active Directory (AD).
 
-Rocketchat
+###Rocketchat
 Rocketchat es una plataforma de comunicación en tiempo real, similar a Slack. Facilita la colaboración y la comunicación
 entre equipos mediante canales, mensajes directos y más.
 
-Rustdesk
+###Rustdesk
 Rustdesk es una solución de escritorio remoto de código abierto. Permite el acceso remoto y la asistencia técnica a 
 los equipos, facilitando el soporte y la gestión remota de los dispositivos.
 
-Configuración y Despliegue
+###Configuración y Despliegue
 Los archivos de configuración .yml en este repositorio muestran cómo se han configurado estos servicios en contenedores. 
 Cada archivo está documentado con detalles específicos sobre los parámetros de configuración y los pasos necesarios para 
 su despliegue.
