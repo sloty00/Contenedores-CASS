@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+    bind:
+        container_name: bind
+        hostname: dns.cass.cl
+        network_mode: bridge
+        image: slab42/bind9.18
+        restart: unless-stopped
+        ports:
+            - "53:53/tcp"
+            - "53:53/udp"
+            - 10000:10000/tcp
+        volumes:
+            - /dns/data:/data
+        environment:
+            - WEBMIN_ENABLED=true
+#            - WEBMIN_INIT_SSL_ENABLED=false
+#            - WEBMIN_INIT_REFERERS=dns.cass.cl
+            - WEBMIN_INIT_REDIRECT_PORT=10000
+            - ROOT_PASSWORD=Admin.Cass.2023
+            - TZ=America/Santiago
