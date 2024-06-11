@@ -1,0 +1,842 @@
+[1693368000] LOG ROTATION: DAILY
+[1693368000] LOG VERSION: 2.0
+[1693368000] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.02 ms
+[1693368000] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.28 ms
+[1693368000] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1693368000] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.10 ms
+[1693368000] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.04 ms
+[1693368000] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1693368000] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.61 ms
+[1693368000] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.00 ms
+[1693368000] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1693368000] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 37%, RTA = 0.92 ms
+[1693368000] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 37.09 ms
+[1693368000] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.20 ms
+[1693368000] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 37.08 ms
+[1693368000] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1693368000] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.62 ms
+[1693368000] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.40 ms
+[1693368000] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.30 ms
+[1693368000] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.96 ms
+[1693368000] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1693368000] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1693368000] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1693368000] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1693368000] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1693368000] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 20.17 ms
+[1693368000] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1693368000] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1693368000] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.23 ms
+[1693368000] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.65 ms
+[1693368000] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.40 ms
+[1693368000] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1693368000] CURRENT HOST STATE: SRV12WEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1693368000] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1693368000] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1693368000] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.73 ms
+[1693368000] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.60 ms
+[1693368000] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1693368000] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.18 ms
+[1693368000] CURRENT HOST STATE: SRVMFSD;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.87 ms
+[1693368000] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1693368000] CURRENT HOST STATE: SRV_Oraculo_cass.cl;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.6)
+[1693368000] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1693368000] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1693368000] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1693368000] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.08 ms
+[1693368000] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1693368000] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1693368000] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1693368000] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1693368000] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1693368000] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.67 ms
+[1693368000] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.92 ms
+[1693368000] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.95 ms
+[1693368000] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.11 ms
+[1693368000] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 39.94 ms
+[1693368000] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1693368000] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 41.53 ms
+[1693368000] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1693368000] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.07 ms
+[1693368000] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.07 ms
+[1693368000] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.94 ms
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 10.31KB (0.01%), Average OUT: 5.88KB (0.00%)Total RX: 32.06GBytes, Total TX: 34.39GBytes
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 690.46B (0.00%), Average OUT: 791.74B (0.00%)Total RX: 550.97GBytes, Total TX: 531.11GBytes
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 32.73B (0.00%), Average OUT: 16.28B (0.00%)Total RX: 9056.85GBytes, Total TX: 5431.70GBytes
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1693368000] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (175015968) 20 days, 6:09:19.68
+[1693368000] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.71 ms
+[1693368000] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.31 ms
+[1693368000] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.89 ms
+[1693368000] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1693368000] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.34 ms
+[1693368000] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1693368000] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1693368000] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1693368000] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 44%, RTA = 1.29 ms
+[1693368000] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:28TB - Free:21TB - Used Space: 56%
+[1693368000] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1693368000] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1261MB - Free:2569MB = 33%
+[1693368000] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1693368000] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=35C
+[1693368000] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (307783697) 35 days, 14:57:16.97
+[1693368000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 11 critical, 0 optional
+[1693368000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 101.09 Gb (85%) - free 18.30 Gb (15%)
+[1693368000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 181.72 Gb (18%) - free 842.26 Gb (82%)
+[1693368000] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 5% (5 min average)
+[1693368000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:29952.35 MB - used: 20925.10 MB (70%) - free: 9027.26 MB (30%)
+[1693368000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.41 ms
+[1693368000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 42 day(s) 4 hour(s) 7 minute(s)
+[1693368000] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.61 ms
+[1693368000] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.65 ms
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  2 security update(s): 1 recommended update(s):  2 package update(s):
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78643 MiB (85.82% inode=-):
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.02, 0.01
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5000 MB - 64% [SWAP] Total: 7944 MB - Used: 477 MB - 6%
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 37%, RTA = 1.12 ms
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 320 processes
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on 10.0.2.13 port 443
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 130 day(s) 14 hour(s) 15 minute(s)
+[1693368000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1693368000] CURRENT SERVICE STATE: SRV12WEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 28%, RTA = 1.07 ms
+[1693368000] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.84 ms
+[1693368000] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.49 ms
+[1693368000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1693368000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 165.81 Gb (55%) - free 133.85 Gb (45%)
+[1693368000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1693368000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:18079.09 MB - used: 13993.51 MB (77%) - free: 4085.58 MB (23%)
+[1693368000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.65 ms
+[1693368000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 42 day(s) 3 hour(s) 15 minute(s)
+[1693368000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 0 optional
+[1693368000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 41.89 Gb (14%) - free 257.44 Gb (86%)
+[1693368000] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1693368000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 3994.06 MB (28%) - free: 10149.07 MB (72%)
+[1693368000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.40 ms
+[1693368000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 42 day(s) 3 hour(s) 18 minute(s)
+[1693368000] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.42 ms
+[1693368000] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1693368000] CURRENT SERVICE STATE: SRVMFSD;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2466428 MB (73% inode=-):
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.07, 0.08, 0.09
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1010 MB - 25% [SWAP] Total: 2047 MB - Used: 415 MB - 20%
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 305 processes
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 133 day(s) 2 hour(s) 3 minute(s)
+[1693368000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1693368000] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.6)
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118429 MiB (91.15% inode=-):
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1588 MB - 19% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 306 processes
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 160 day(s) 11 hour(s) 36 minute(s)
+[1693368000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1693368000] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.71 ms
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 971920 MiB (92.99% inode=-):
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.04, 0.06, 0.06
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3294 MB - 41% [SWAP] Total: 2048 MB - Used: 1074 MB - 52%
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 304 processes
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 1 process with STATE = Z
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on port 443
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1693368000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 476370 MiB (94.03% inode=-):
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1805964 MiB (92.22% inode=99%):
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 476500 MiB (99.84% inode=100%):
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.035 sec. response time
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2961 MB - 24% [SWAP] Total: 2048 MB - Used: 484 MB - 23%
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 310 processes
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 145 day(s) 10 hour(s) 46 minute(s)
+[1693368000] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1693368000] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 11 Updates Available
+[1693368000] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.02, 0.09, 0.12
+[1693368000] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 735 MB - 9% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1693368000] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1693368000] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 57 processes with STATE = RSZDT
+[1693368000] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1693368000] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 44%, RTA = 1.14 ms
+[1693368000] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1693368000] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 10.74KB (0.01%), Average OUT: 16.31KB (0.01%)Total RX: 37917.37GBytes, Total TX: 84702.31GBytes
+[1693368000] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1693368000] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1693368000] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1693368000] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (1386676344) 160 days, 11:52:43.44
+[1693368000] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 100%, approximately 0 minutes runtime remaining.
+[1693368000] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1693368000] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1693368000] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 22 degrees C (71.6 degrees F).
+[1693368000] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (12425118) 1 day, 10:30:51.18
+[1693368000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1693368000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 75.76 Gb (76%) - free 23.57 Gb (24%)
+[1693368000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 14% (5 min average)
+[1693368000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 11818.39 MB (42%) - free: 16340.87 MB (58%)
+[1693368000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1693368000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 13 hour(s) 52 minute(s)
+[1693368000] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 118 days on 2023-12-26 20:59 -0300/-03.
+[1693368000] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1069 bytes in 0.176 second response time
+[1693371031] Auto-save of retention data completed successfully.
+[1693372801] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693372921] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693374601] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693374631] Auto-save of retention data completed successfully.
+[1693374721] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693377174] SERVICE ALERT: Blueshell;Ping;CRITICAL;SOFT;1;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377175] HOST ALERT: Blueshell;DOWN;SOFT;1;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377175] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;1;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377185] SERVICE ALERT: FW Blueshell;Ping;CRITICAL;HARD;1;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377234] HOST ALERT: Blueshell;DOWN;SOFT;2;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377235] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;2;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377294] SERVICE ALERT: Blueshell;Ping;CRITICAL;HARD;3;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377295] HOST ALERT: Blueshell;DOWN;SOFT;3;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377295] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;3;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377355] HOST ALERT: Blueshell;DOWN;SOFT;4;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377355] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;4;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377415] HOST ALERT: Blueshell;DOWN;SOFT;5;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377415] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;5;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377475] HOST ALERT: Blueshell;DOWN;SOFT;6;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377475] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;6;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377535] HOST ALERT: Blueshell;DOWN;SOFT;7;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377535] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;7;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377595] HOST ALERT: Blueshell;DOWN;SOFT;8;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377595] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;8;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377655] HOST ALERT: Blueshell;DOWN;SOFT;9;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377656] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;9;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693377715] HOST NOTIFICATION: nagiosadmin;Blueshell;DOWN;notify-host-by-email;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377715] HOST NOTIFICATION: andresnavarro;Blueshell;DOWN;notify-host-by-email;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377715] HOST NOTIFICATION: soporteti;Blueshell;DOWN;notify-host-by-telegram;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377715] HOST NOTIFICATION: soporteti;Blueshell;DOWN;notify-host-by-email;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377715] HOST NOTIFICATION: carlosstange;Blueshell;DOWN;notify-host-by-telegram;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377715] HOST NOTIFICATION: carlosstange;Blueshell;DOWN;notify-host-by-email;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377715] HOST ALERT: Blueshell;DOWN;HARD;10;CRITICAL - Time to live exceeded (190.121.5.67)
+[1693377716] HOST ALERT: FW Blueshell;UNREACHABLE;HARD;10;CRITICAL - Time to live exceeded (190.121.5.68)
+[1693378231] Auto-save of retention data completed successfully.
+[1693379518] SERVICE ALERT: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.58 ms
+[1693379519] HOST NOTIFICATION: nagiosadmin;Blueshell;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 3.51 ms
+[1693379519] HOST NOTIFICATION: andresnavarro;Blueshell;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 3.51 ms
+[1693379519] HOST NOTIFICATION: soporteti;Blueshell;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 3.51 ms
+[1693379519] HOST NOTIFICATION: soporteti;Blueshell;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 3.51 ms
+[1693379519] HOST NOTIFICATION: carlosstange;Blueshell;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 3.51 ms
+[1693379519] HOST NOTIFICATION: carlosstange;Blueshell;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 3.51 ms
+[1693379519] HOST ALERT: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.51 ms
+[1693379520] HOST ALERT: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.67 ms
+[1693379525] SERVICE ALERT: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.65 ms
+[1693381831] Auto-save of retention data completed successfully.
+[1693383002] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1693383122] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 304 processes
+[1693385431] Auto-save of retention data completed successfully.
+[1693388402] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693388522] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 303 processes
+[1693389031] Auto-save of retention data completed successfully.
+[1693392631] Auto-save of retention data completed successfully.
+[1693396231] Auto-save of retention data completed successfully.
+[1693399831] Auto-save of retention data completed successfully.
+[1693400486] SERVICE ALERT: SRV_nagios;Actualizacion;WARNING;HARD;4;YUM WARNING: Yum output signature does not match current known format. Please make sure you have upgraded to the latest version from https://github.com/HariSekhon/Nagios-Plugins. If the problem persists, please raise a ticket at https://github.com/HariSekhon/Nagios-Plugins/issues with the full -vvv output
+[1693400788] SERVICE ALERT: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 11 Updates Available
+[1693401385] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693401433] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693401453] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693401506] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693401540] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693401568] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693401583] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693401670] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 12.32KB (0.01%), Average OUT: 9.55KB (0.01%)Total RX: 32.58GBytes, Total TX: 34.63GBytes
+[1693401703] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;3;OK: Interface eth1 (index 3) is up.
+[1693401800] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693401936] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693402048] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693402168] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 88.36KB (0.07%), Average OUT: 893.73KB (0.71%)Total RX: 563.52GBytes, Total TX: 534.01GBytes
+[1693403431] Auto-save of retention data completed successfully.
+[1693405719] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1693405839] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 158.40B (0.00%), Average OUT: 56.49B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693406401] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693406521] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693406630] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693406750] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 224.12B (0.00%), Average OUT: 81.25B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693407031] Auto-save of retention data completed successfully.
+[1693408956] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693408958] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693408966] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693409016] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693409076] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693409084] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 86.09KB (0.07%), Average OUT: 627.32KB (0.50%)Total RX: 564.15GBytes, Total TX: 537.72GBytes
+[1693409086] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 8.43KB (0.01%), Average OUT: 9.18KB (0.01%)Total RX: 32.75GBytes, Total TX: 34.75GBytes
+[1693409137] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693410631] Auto-save of retention data completed successfully.
+[1693411201] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693411256] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693411321] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 971914 MiB (92.99% inode=-):
+[1693411376] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 14.04KB (0.01%), Average OUT: 16.23KB (0.01%)Total RX: 32.84GBytes, Total TX: 34.78GBytes
+[1693411626] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693411746] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 10.01KB (0.01%), Average OUT: 9.47KB (0.01%)Total RX: 32.88GBytes, Total TX: 34.78GBytes
+[1693411801] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693411876] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693411921] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693411996] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 12.66KB (0.01%), Average OUT: 11.84KB (0.01%)Total RX: 32.88GBytes, Total TX: 34.79GBytes
+[1693412086] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693412206] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693412275] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693412395] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 111.43KB (0.09%), Average OUT: 1.11MB (0.89%)Total RX: 564.74GBytes, Total TX: 549.24GBytes
+[1693412401] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693412460] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693412521] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 971913 MiB (92.99% inode=-):
+[1693412581] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 172.06B (0.00%), Average OUT: 65.27B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693412748] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693412765] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (210819925991.58%) too high
+[1693412868] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693412891] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693412901] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693413026] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1693413026] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693413081] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (1400.06%) too high
+[1693413146] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 13.95KB (0.01%), Average OUT: 12.82KB (0.01%)Total RX: 32.90GBytes, Total TX: 34.80GBytes
+[1693413216] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693413216] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693413342] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 224.96B (0.00%), Average OUT: 83.22B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693413406] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (227036843328.59%) too high
+[1693413532] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693413536] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693413576] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693413601] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693413654] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693413667] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693413672] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693413696] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 45.29KB (0.04%), Average OUT: 12.84KB (0.01%)Total RX: 32.92GBytes, Total TX: 34.81GBytes
+[1693413721] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 971912 MiB (92.99% inode=-):
+[1693413774] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693413792] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (1151.65%) too high
+[1693413826] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693413857] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693413896] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693413907] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1693413922] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693413956] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693413965] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693413988] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693414021] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693414027] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (179619049) 20 days, 18:56:30.49
+[1693414052] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414052] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414052] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-telegram;(No output on stdout) stderr:
+[1693414052] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414052] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-telegram;(No output on stdout) stderr:
+[1693414052] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414052] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1693414078] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414086] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414086] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414086] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;notify-service-by-telegram;(No output on stdout) stderr:
+[1693414086] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414086] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;notify-service-by-telegram;(No output on stdout) stderr:
+[1693414086] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414086] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1693414090] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693414108] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;OK - Average IN: 312.08B (0.00%), Average OUT: 115.75B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693414112] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Ancho de Banda LAN;OK;notify-service-by-email;OK - Average IN: 66.16KB (0.05%), Average OUT: 638.98KB (0.51%)Total RX: 565.05GBytes, Total TX: 559.42GBytes
+[1693414112] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Ancho de Banda LAN;OK;notify-service-by-email;OK - Average IN: 66.16KB (0.05%), Average OUT: 638.98KB (0.51%)Total RX: 565.05GBytes, Total TX: 559.42GBytes
+[1693414112] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda LAN;OK;notify-service-by-telegram;OK - Average IN: 66.16KB (0.05%), Average OUT: 638.98KB (0.51%)Total RX: 565.05GBytes, Total TX: 559.42GBytes
+[1693414112] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda LAN;OK;notify-service-by-email;OK - Average IN: 66.16KB (0.05%), Average OUT: 638.98KB (0.51%)Total RX: 565.05GBytes, Total TX: 559.42GBytes
+[1693414112] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda LAN;OK;notify-service-by-telegram;OK - Average IN: 66.16KB (0.05%), Average OUT: 638.98KB (0.51%)Total RX: 565.05GBytes, Total TX: 559.42GBytes
+[1693414112] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda LAN;OK;notify-service-by-email;OK - Average IN: 66.16KB (0.05%), Average OUT: 638.98KB (0.51%)Total RX: 565.05GBytes, Total TX: 559.42GBytes
+[1693414112] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 66.16KB (0.05%), Average OUT: 638.98KB (0.51%)Total RX: 565.05GBytes, Total TX: 559.42GBytes
+[1693414146] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Ancho de Banda DMZ;OK;notify-service-by-email;OK - Average IN: 76.67KB (0.06%), Average OUT: 13.16KB (0.01%)Total RX: 32.95GBytes, Total TX: 34.81GBytes
+[1693414146] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Ancho de Banda DMZ;OK;notify-service-by-email;OK - Average IN: 76.67KB (0.06%), Average OUT: 13.16KB (0.01%)Total RX: 32.95GBytes, Total TX: 34.81GBytes
+[1693414146] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda DMZ;OK;notify-service-by-telegram;OK - Average IN: 76.67KB (0.06%), Average OUT: 13.16KB (0.01%)Total RX: 32.95GBytes, Total TX: 34.81GBytes
+[1693414146] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda DMZ;OK;notify-service-by-email;OK - Average IN: 76.67KB (0.06%), Average OUT: 13.16KB (0.01%)Total RX: 32.95GBytes, Total TX: 34.81GBytes
+[1693414146] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda DMZ;OK;notify-service-by-telegram;OK - Average IN: 76.67KB (0.06%), Average OUT: 13.16KB (0.01%)Total RX: 32.95GBytes, Total TX: 34.81GBytes
+[1693414146] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda DMZ;OK;notify-service-by-email;OK - Average IN: 76.67KB (0.06%), Average OUT: 13.16KB (0.01%)Total RX: 32.95GBytes, Total TX: 34.81GBytes
+[1693414146] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 76.67KB (0.06%), Average OUT: 13.16KB (0.01%)Total RX: 32.95GBytes, Total TX: 34.81GBytes
+[1693414198] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693414231] Auto-save of retention data completed successfully.
+[1693414276] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693414303] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693414411] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693414433] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693414460] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414471] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693414470
+[1693414471] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;OK - Average IN: 61.69KB (0.05%), Average OUT: 412.97KB (0.33%)Total RX: 565.07GBytes, Total TX: 559.56GBytes
+[1693414476] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693414475
+[1693414482] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693414480
+[1693414495] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda DMZ;1693414494
+[1693414501] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda DMZ;1693414499
+[1693414590] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414631] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693414666] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693414698] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1693414718] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693414721] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414721] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414721] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-telegram;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414721] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414721] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-telegram;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414721] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414721] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;HARD;3;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414767] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693414781] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1693414781] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1693414781] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-telegram;OK: Interface eth1 (index 3) is up.
+[1693414781] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1693414781] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-telegram;OK: Interface eth1 (index 3) is up.
+[1693414781] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1693414781] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1693414796] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693414801] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693414819] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (179698203) 20 days, 19:09:42.03
+[1693414853] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693414868] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693414921] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 971911 MiB (92.99% inode=-):
+[1693414926] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414926] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414926] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-telegram;(No output on stdout) stderr:
+[1693414926] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414926] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-telegram;(No output on stdout) stderr:
+[1693414926] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Ancho de Banda LAN;CRITICAL;notify-service-by-email;(No output on stdout) stderr:
+[1693414926] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1693414957] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693414988] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693415061] SERVICE FLAPPING ALERT: FW Cass Telsur;Ancho de Banda LAN;STARTED; Service appears to have started flapping (22.0% change >= 20.0% threshold)
+[1693415061] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;(No output on stdout) stderr:
+[1693415077] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 10.17KB (0.01%), Average OUT: 10.82KB (0.01%)Total RX: 32.97GBytes, Total TX: 34.83GBytes
+[1693415111] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693415178] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693415207] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693415236] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693415283] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693415296] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693415299] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693415342] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693415403] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 234.81B (0.00%), Average OUT: 105.06B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693415416] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 79.97KB (0.06%), Average OUT: 558.34KB (0.45%)Total RX: 565.14GBytes, Total TX: 560.12GBytes
+[1693415654] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693415712] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693415729] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693415774] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 423.84B (0.00%), Average OUT: 157.95B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693415846] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693415846] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693415847] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693415849] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693415881] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415880
+[1693415885] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415884
+[1693415890] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415889
+[1693415895] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693415896] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693415902] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415901
+[1693415912] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693415920] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Estado Puerto DMZ;1693415918
+[1693415920] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693415931] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415929
+[1693415936] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415934
+[1693415940] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415939
+[1693415946] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693415959] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;FW Cass Telsur;Ancho de Banda LAN
+[1693415979] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1693415978
+[1693416049] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693416097] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;FW Cass Telsur;Ancho de Banda DMZ
+[1693416120] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;FW Cass Telsur;Ancho de Banda WAN
+[1693416169] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 47.22KB (0.04%), Average OUT: 338.77KB (0.27%)Total RX: 565.19GBytes, Total TX: 560.49GBytes
+[1693416219] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693416232] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693416277] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693416339] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693416350] SERVICE FLAPPING ALERT: FW Cass Telsur;Ancho de Banda LAN;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1693416352] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693416397] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 35.86KB (0.03%), Average OUT: 60.78KB (0.05%)Total RX: 32.99GBytes, Total TX: 34.85GBytes
+[1693416542] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693416564] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693416599] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693416662] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693416684] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 239.00B (0.00%), Average OUT: 90.58B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693416719] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 53.39KB (0.04%), Average OUT: 411.81KB (0.33%)Total RX: 565.23GBytes, Total TX: 560.72GBytes
+[1693416815] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693416830] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693416849] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693416887] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693416889] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693416935] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 234.11B (0.00%), Average OUT: 84.42B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693416951] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693416972] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693416980] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693417007] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 8.19KB (0.01%), Average OUT: 13.79KB (0.01%)Total RX: 33.00GBytes, Total TX: 34.86GBytes
+[1693417009] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693417093] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693417115] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693417137] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693417267] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 7.94KB (0.01%), Average OUT: 8.10KB (0.01%)Total RX: 33.00GBytes, Total TX: 34.86GBytes
+[1693417343] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693417463] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693417517] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693417545] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693417559] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693417605] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693417647] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693417679] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693417680] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693417681] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693417713] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693417725] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 237.22B (0.00%), Average OUT: 88.49B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693417782] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;(No output on stdout) stderr:
+[1693417806] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693417831] Auto-save of retention data completed successfully.
+[1693417839] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693417969] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693417975] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693418089] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693418105] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 265.56B (0.00%), Average OUT: 98.69B (0.00%)Total RX: 9228.19GBytes, Total TX: 5578.85GBytes
+[1693418152] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693418272] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 27.29KB (0.02%), Average OUT: 7.75KB (0.01%)Total RX: 33.01GBytes, Total TX: 34.87GBytes
+[1693418536] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693418656] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693420201] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693420321] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693420750] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693420755] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693420766] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693420862] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693420885] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693420890] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693420891] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693420982] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 82.48KB (0.07%), Average OUT: 14.25KB (0.01%)Total RX: 33.07GBytes, Total TX: 34.89GBytes
+[1693421261] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693421381] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693421431] Auto-save of retention data completed successfully.
+[1693421441] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693421571] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 224.17B (0.00%), Average OUT: 82.74B (0.00%)Total RX: 9230.07GBytes, Total TX: 5582.68GBytes
+[1693421811] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693421931] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693422001] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693422061] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693422072] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693422121] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693422121] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693422196] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693422207] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693422241] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693422515] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693422601] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693422635] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 66.19KB (0.05%), Average OUT: 595.71KB (0.48%)Total RX: 565.73GBytes, Total TX: 568.82GBytes
+[1693422722] SERVICE ALERT: SRV_chat.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 971908 MiB (92.99% inode=-):
+[1693423185] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693423200] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693423316] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;2;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1693423320] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693423436] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;OK - Average IN: 50.85KB (0.04%), Average OUT: 583.17KB (0.47%)Total RX: 565.77GBytes, Total TX: 569.18GBytes
+[1693423509] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693423526] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693423537] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693423629] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693423656] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 218.94B (0.00%), Average OUT: 78.47B (0.00%)Total RX: 9230.07GBytes, Total TX: 5582.68GBytes
+[1693423662] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 5.11KB (0.00%), Average OUT: 7.16KB (0.01%)Total RX: 33.12GBytes, Total TX: 34.92GBytes
+[1693423871] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693423991] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693424046] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693424181] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693424212] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693424267] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693424347] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693424392] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 868.69B (0.00%), Average OUT: 189.13B (0.00%)Total RX: 9230.07GBytes, Total TX: 5582.68GBytes
+[1693424791] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693424830] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693424927] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693424951] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693425002] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693425019] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693425021] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693425031] Auto-save of retention data completed successfully.
+[1693425122] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 201.92B (0.00%), Average OUT: 76.53B (0.00%)Total RX: 9230.08GBytes, Total TX: 5582.68GBytes
+[1693425139] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693425141] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693425252] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693425378] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 237.02B (0.00%), Average OUT: 91.57B (0.00%)Total RX: 9230.08GBytes, Total TX: 5582.68GBytes
+[1693425418] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693425451] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693425543] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 54.14KB (0.04%), Average OUT: 644.18KB (0.52%)Total RX: 565.99GBytes, Total TX: 575.75GBytes
+[1693425572] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693425601] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693425721] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693425853] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693425857] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693425882] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693425981] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693425988] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693425988] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693425988] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693426007] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693426101] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693426118] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693426123] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;(No output on stdout) stderr:
+[1693426248] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1693426308] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 97.63B (0.00%), Average OUT: 33.52B (0.00%)Total RX: 9230.08GBytes, Total TX: 5582.68GBytes
+[1693426530] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693426539] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693426554] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693426650] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693426669] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693426689] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693426789] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;OK - Average IN: 57.26KB (0.05%), Average OUT: 774.72KB (0.62%)Total RX: 566.07GBytes, Total TX: 577.07GBytes
+[1693426919] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693426939] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693427038] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693427054] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693427069] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 60.61KB (0.05%), Average OUT: 13.63KB (0.01%)Total RX: 33.19GBytes, Total TX: 34.97GBytes
+[1693427071] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693427173] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693427184] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693427191] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693427261] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693427319] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693427337] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693427379] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693427381] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693427401] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.92: Connection reset by peer
+[1693427457] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693427514] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693427521] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693428004] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693428139] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693428203] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693428338] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693428631] Auto-save of retention data completed successfully.
+[1693428769] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693428809] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693428889] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693428904] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693428907] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693428934] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 6.99KB (0.01%), Average OUT: 10.14KB (0.01%)Total RX: 33.32GBytes, Total TX: 34.99GBytes
+[1693429024] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693429028] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693429065] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693429185] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 27.82KB (0.02%), Average OUT: 29.02KB (0.02%)Total RX: 33.33GBytes, Total TX: 34.99GBytes
+[1693429278] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693429315] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693429394] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693429398] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693429450] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693429515] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693429529] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693429645] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693429659] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693429780] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693429794] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693429851] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693429880] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693429972] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693430010] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 22.79KB (0.02%), Average OUT: 7.88KB (0.01%)Total RX: 33.34GBytes, Total TX: 35.00GBytes
+[1693430128] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693430151] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1693430201] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693430259] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693430286] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693430321] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693430342] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693430379] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;3;OK: Interface eth2 (index 4) is up.
+[1693430467] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693430569] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693430644] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693430656] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693430657] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693430689] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693430741] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693430751] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693430779] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693430783] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693430787] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693430876] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693430876] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693430922] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693431060] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693431066] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693431089] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693431126] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693431180] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693431196] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 7.42KB (0.01%), Average OUT: 11.68KB (0.01%)Total RX: 33.34GBytes, Total TX: 35.01GBytes
+[1693431224] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693431251] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693431272] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693431292] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693431326] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693431354] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693431370] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693431381] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693431392] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693431423] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693431457] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693431489] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693431490] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693431501] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693431558] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693431592] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;(No output on stdout) stderr:
+[1693431619] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693431630] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1693431688] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1693431750] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693431751] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (181391406) 20 days, 23:51:54.06
+[1693431818] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693431822] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693431860] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693431880] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1693431947] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693431953] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693431955] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;(No output on stdout) stderr:
+[1693431962] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693431980] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693432097] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693432130] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693432137] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693432170] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693432171] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693432228] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693432231] Auto-save of retention data completed successfully.
+[1693432265] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693432268] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693432295] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693432296] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693432323] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693432363] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693432393] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;3;OK: Interface eth0 (index 2) is up.
+[1693432396] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693432458] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693432485] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693432493] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693432523] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693432526] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693432546] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693432605] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693432610] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1693432628] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1693432643] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693432646] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;OK - Average IN: 90.19KB (0.07%), Average OUT: 1.10MB (0.88%)Total RX: 566.52GBytes, Total TX: 582.69GBytes
+[1693432666] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693432730] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;OK;SOFT;2;SMTP OK - 0.037 sec. response time
+[1693432818] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693432836] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693432939] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 33.66KB (0.03%), Average OUT: 28.14KB (0.02%)Total RX: 33.37GBytes, Total TX: 35.04GBytes
+[1693432956] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 66.33KB (0.05%), Average OUT: 945.64KB (0.76%)Total RX: 566.54GBytes, Total TX: 582.93GBytes
+[1693433086] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693433215] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693433222] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693433249] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693433335] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693433369] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 4.98KB (0.00%), Average OUT: 7.50KB (0.01%)Total RX: 33.38GBytes, Total TX: 35.04GBytes
+[1693433472] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693433592] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 56.67KB (0.05%), Average OUT: 380.04KB (0.30%)Total RX: 566.58GBytes, Total TX: 583.33GBytes
+[1693433722] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693433733] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693433843] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 86.40KB (0.07%), Average OUT: 737.86KB (0.59%)Total RX: 566.60GBytes, Total TX: 583.52GBytes
+[1693433853] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1693433973] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693433980] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693433982] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1693434093] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 78.96KB (0.06%), Average OUT: 790.34KB (0.63%)Total RX: 566.62GBytes, Total TX: 583.71GBytes
+[1693434100] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 62.20KB (0.05%), Average OUT: 25.90KB (0.02%)Total RX: 33.40GBytes, Total TX: 35.05GBytes
+[1693434102] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (181626561) 21 days, 0:31:05.61
+[1693434236] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693434268] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693434283] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1693434356] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1693434398] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1693434418] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1693434425] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1693434534] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;(No output on stdout) stderr:
+[1693434545] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1693435831] Auto-save of retention data completed successfully.
+[1693436401] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693436521] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693439431] Auto-save of retention data completed successfully.
+[1693440401] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693440402] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693440402] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693440403] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693440533] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693440534] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693440536] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693440536] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693441201] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693441201] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693441201] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693441202] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693441333] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693441334] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693441334] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693441334] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693442563] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693442564] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693442564] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693442694] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693442695] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693442696] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693442785] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693442848] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 13 critical, 0 optional
+[1693443001] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693443001] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693443005] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.16 port 5666: Connection refused
+[1693443015] SERVICE ALERT: SRV_SOS2021.cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.16 port 5666: Connection refused
+[1693443024] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693443030] SERVICE ALERT: SRV_SOS2021.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.16 port 5666: Connection refused
+[1693443031] Auto-save of retention data completed successfully.
+[1693443031] SERVICE ALERT: SRV_SOS2021.cass.cl;CPU;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.16 port 5666: Connection refused
+[1693443031] SERVICE ALERT: SRV_SOS2021.cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.16 port 5666: Connection refused
+[1693443044] SERVICE ALERT: SRV_SOS2021.cass.cl;Memoria;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.16 port 5666: Connection refused
+[1693443060] SERVICE ALERT: SRV_SOS2021.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.16 port 5666: Connection refused
+[1693443125] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 118431 MiB (91.15% inode=-):
+[1693443133] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693443133] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693443135] SERVICE ALERT: SRV_SOS2021.cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 0 users currently logged in
+[1693443150] SERVICE ALERT: SRV_SOS2021.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1693443151] SERVICE ALERT: SRV_SOS2021.cass.cl;CPU;OK;SOFT;2;OK - load average per CPU: 0.00, 0.01, 0.01
+[1693443152] SERVICE ALERT: SRV_SOS2021.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 320 processes
+[1693443155] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693443164] SERVICE ALERT: SRV_SOS2021.cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7946 MB - Used: 1589 MB - 19% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1693443180] SERVICE ALERT: SRV_SOS2021.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 161 day(s) 8 hour(s) 30 minute(s)
+[1693443485] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693443523] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693443524] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693443524] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1693443617] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693443655] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693443655] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693443657] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693444201] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693444201] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693444201] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693444333] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693444334] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693444334] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1693444802] SERVICE ALERT: SRV_chat.cass.cl;Procesos;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.92: Connection reset by peer
+[1693444802] SERVICE ALERT: SRV_chat.cass.cl;Procesos Zombies;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693444802] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1693444922] SERVICE ALERT: SRV_chat.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 306 processes
+[1693444922] SERVICE ALERT: SRV_chat.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 1 process with STATE = Z
+[1693444922] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1693446631] Auto-save of retention data completed successfully.
+[1693448401] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1693448521] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1693450231] Auto-save of retention data completed successfully.
+[1693453831] Auto-save of retention data completed successfully.

@@ -1,0 +1,798 @@
+[1695265200] LOG ROTATION: DAILY
+[1695265200] LOG VERSION: 2.0
+[1695265200] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.67 ms
+[1695265200] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.24 ms
+[1695265200] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1695265200] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1695265200] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 31.58 ms
+[1695265200] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.36 ms
+[1695265200] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.97 ms
+[1695265200] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.29 ms
+[1695265200] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.16 ms
+[1695265200] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1695265200] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.33 ms
+[1695265200] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.28 ms
+[1695265200] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.17 ms
+[1695265200] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.17 ms
+[1695265200] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1695265200] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.56 ms
+[1695265200] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1695265200] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.84 ms
+[1695265200] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.19 ms
+[1695265200] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.41 ms
+[1695265200] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.42 ms
+[1695265200] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1695265200] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1695265200] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1695265200] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1695265200] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 19.57 ms
+[1695265200] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1695265200] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1695265200] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.51 ms
+[1695265200] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1695265200] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.70 ms
+[1695265200] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1695265200] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.72 ms
+[1695265200] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1695265200] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.48 ms
+[1695265200] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.47 ms
+[1695265200] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.34 ms
+[1695265200] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1695265200] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.14 ms
+[1695265200] CURRENT HOST STATE: SRVMFSD;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1695265200] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 28%, RTA = 1.11 ms
+[1695265200] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1695265200] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1695265200] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1695265200] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1695265200] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1695265200] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1695265200] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.02 ms
+[1695265200] CURRENT HOST STATE: SRV_Soporte2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.92 ms
+[1695265200] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1695265200] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1695265200] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1695265200] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1695265200] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1695265200] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1695265200] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1695265200] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1695265200] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1695265200] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.70 ms
+[1695265200] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.19 ms
+[1695265200] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.47 ms
+[1695265200] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1695265200] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 28%, RTA = 34.77 ms
+[1695265200] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1695265200] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.24 ms
+[1695265200] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.18 ms
+[1695265200] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.35 ms
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 3.61KB (0.00%), Average OUT: 4.76KB (0.00%)Total RX: 56.46GBytes, Total TX: 63.37GBytes
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 3.88KB (0.00%), Average OUT: 6.86KB (0.01%)Total RX: 1144.87GBytes, Total TX: 1010.21GBytes
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 232.23B (0.00%), Average OUT: 81.30B (0.00%)Total RX: 12068.58GBytes, Total TX: 9932.48GBytes
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1695265200] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (56498787) 6 days, 12:56:27.87
+[1695265200] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.79 ms
+[1695265200] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 39.76 ms
+[1695265200] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.30 ms
+[1695265200] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.36 ms
+[1695265200] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1695265200] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1695265200] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1695265200] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1695265200] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1695265200] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:30TB - Free:19TB - Used Space: 60%
+[1695265200] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1695265200] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1279MB - Free:2551MB = 34%
+[1695265200] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1695265200] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=38C
+[1695265200] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (497499728) 57 days, 13:56:37.28
+[1695265200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 12 critical, 0 optional
+[1695265200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 96.10 Gb (80%) - free 23.30 Gb (20%)
+[1695265200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 182.19 Gb (18%) - free 841.79 Gb (82%)
+[1695265200] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1695265200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:26367.24 MB - used: 10647.90 MB (40%) - free: 15719.34 MB (60%)
+[1695265200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.50 ms
+[1695265200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 10 day(s) 15 hour(s) 50 minute(s)
+[1695265200] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1695265200] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.95 ms
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  2 security update(s): 1 recommended update(s):  2 package update(s):
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78628 MiB (85.80% inode=-):
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.02, 0.01
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 4963 MB - 64% [SWAP] Total: 7944 MB - Used: 730 MB - 9%
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.13 ms
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 313 processes
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 152 day(s) 13 hour(s) 14 minute(s)
+[1695265200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1695265200] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1695265200] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.63 ms
+[1695265200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1695265200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 166.11 Gb (55%) - free 133.55 Gb (45%)
+[1695265200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1695265200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:18079.09 MB - used: 14467.34 MB (80%) - free: 3611.76 MB (20%)
+[1695265200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.51 ms
+[1695265200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 64 day(s) 2 hour(s) 14 minute(s)
+[1695265200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1695265200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 40.40 Gb (13%) - free 258.93 Gb (87%)
+[1695265200] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1695265200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14635.18 MB - used: 5645.13 MB (39%) - free: 8990.05 MB (61%)
+[1695265200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.60 ms
+[1695265200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 64 day(s) 2 hour(s) 18 minute(s)
+[1695265200] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.41 ms
+[1695265200] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.94 ms
+[1695265200] CURRENT SERVICE STATE: SRVMFSD;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1695265200] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2463819 MB (73% inode=-):
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.17, 0.13, 0.09
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.001 second response time on port 443
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1020 MB - 26% [SWAP] Total: 2047 MB - Used: 454 MB - 22%
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 302 processes
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 155 day(s) 1 hour(s) 4 minute(s)
+[1695265200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1695265200] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.00 ms
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118418 MiB (91.14% inode=-):
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1625 MB - 20% [SWAP] Total: 10239 MB - Used: 1 MB - 0%
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 314 processes
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 182 day(s) 10 hour(s) 36 minute(s)
+[1695265200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1695265200] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.79 ms
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 970242 MiB (92.81% inode=-):
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.06, 0.04
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3061 MB - 38% [SWAP] Total: 2048 MB - Used: 571 MB - 27%
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 301 processes
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 1 process with STATE = Z
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.001 second response time on port 8000
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.001 second response time on port 9443
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1695265200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 476358 MiB (94.03% inode=-):
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1804739 MiB (92.16% inode=99%):
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 476445 MiB (99.83% inode=100%):
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.010 sec. response time
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 1861 MB - 15% [SWAP] Total: 2048 MB - Used: 9 MB - 0%
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 290 processes
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 9 day(s) 10 hour(s) 46 minute(s)
+[1695265200] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1695265200] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1695265200] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.04, 0.07, 0.05
+[1695265200] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 478 MB - 6% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1695265200] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1695265200] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 71 processes with STATE = RSZDT
+[1695265200] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1695265200] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1695265200] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1695265200] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 4.25KB (0.00%), Average OUT: 5.74KB (0.00%)Total RX: 42888.34GBytes, Total TX: 95101.73GBytes
+[1695265200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1695265200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1695265200] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1695265200] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (1576394353) 182 days, 10:52:23.53
+[1695265200] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 98%, approximately 0 minutes runtime remaining.
+[1695265200] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1695265200] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.04 ms
+[1695265200] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 24 degrees C (75.2 degrees F).
+[1695265200] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (140373211) 16 days, 5:55:32.11
+[1695265200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1695265200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 60.43 Gb (61%) - free 38.90 Gb (39%)
+[1695265200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 29% (5 min average)
+[1695265200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 9809.75 MB (35%) - free: 18349.50 MB (65%)
+[1695265200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.42 ms
+[1695265200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 7 hour(s) 31 minute(s)
+[1695265200] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 96 days on 2023-12-26 20:59 -0300/-03.
+[1695265200] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1079 bytes in 0.177 second response time
+[1695266401] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.2.25: Connection reset by peer
+[1695266521] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.002 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695266602] Auto-save of retention data completed successfully.
+[1695270202] Auto-save of retention data completed successfully.
+[1695273003] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695273123] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;OK;SOFT;2;SMTP OK - 0.006 sec. response time
+[1695273802] Auto-save of retention data completed successfully.
+[1695274801] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695274921] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695277402] Auto-save of retention data completed successfully.
+[1695281002] Auto-save of retention data completed successfully.
+[1695284401] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695284521] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695284602] Auto-save of retention data completed successfully.
+[1695286202] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695286322] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 9 day(s) 16 hour(s) 39 minute(s)
+[1695288202] Auto-save of retention data completed successfully.
+[1695291601] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1695291721] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695291802] Auto-save of retention data completed successfully.
+[1695295133] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695295201] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1695295253] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695295333] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1695295402] Auto-save of retention data completed successfully.
+[1695295970] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695296090] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 5.34MB (4.27%), Average OUT: 5.00MB (4.00%)Total RX: 12143.58GBytes, Total TX: 10070.49GBytes
+[1695296715] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1695298786] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1695298857] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1695298948] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1695299002] Auto-save of retention data completed successfully.
+[1695299010] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;Actualizacion;STARTED; Service appears to have started flapping (24.2% change >= 20.0% threshold)
+[1695299010] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1695299028] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1695299148] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 47.26KB (0.04%), Average OUT: 784.34KB (0.63%)Total RX: 1145.21GBytes, Total TX: 1013.25GBytes
+[1695300001] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695300072] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695300121] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695300152] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;Actualizacion;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1695300192] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695300371] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695300491] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1695300659] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1695300660] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695300682] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695300794] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1695300795] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1695300802] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1695300992] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695301112] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1695301321] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695301402] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695301451] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1695301522] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695301571] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;OK - Average IN: 10.54KB (0.01%), Average OUT: 9.47KB (0.01%)Total RX: 56.80GBytes, Total TX: 63.65GBytes
+[1695301801] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695301863] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695301921] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695301941] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695301945] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695301952] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695301983] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695302066] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 8.88KB (0.01%), Average OUT: 9.60KB (0.01%)Total RX: 56.81GBytes, Total TX: 63.65GBytes
+[1695302070] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 234.32B (0.00%), Average OUT: 88.97B (0.00%)Total RX: 12147.06GBytes, Total TX: 10074.63GBytes
+[1695302072] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695302124] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695302142] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695302202] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695302234] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695302256] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695302259] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1695302272] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695302327] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695302364] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695302392] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1695302392] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;3;OK: Interface eth0 (index 2) is up.
+[1695302458] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695302484] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;3;OK: Interface eth1 (index 3) is up.
+[1695302578] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695302602] Auto-save of retention data completed successfully.
+[1695304568] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695304688] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695304880] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1695304909] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695304922] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695305000] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (60483928) 7 days, 0:00:39.28
+[1695305029] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 67.79KB (0.05%), Average OUT: 427.29KB (0.34%)Total RX: 1164.69GBytes, Total TX: 1017.85GBytes
+[1695305043] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 15.62KB (0.01%), Average OUT: 11.50KB (0.01%)Total RX: 56.87GBytes, Total TX: 63.70GBytes
+[1695306202] Auto-save of retention data completed successfully.
+[1695306460] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695306580] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 289.66B (0.00%), Average OUT: 107.26B (0.00%)Total RX: 12147.06GBytes, Total TX: 10074.63GBytes
+[1695306747] SERVICE ALERT: FW ADL Diagnostic;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 90%, RTA = 34.42 ms
+[1695306757] SERVICE ALERT: FW Cass Entel;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1695306770] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695306777] wproc: Core Worker 25163: job 64476 (pid=2008) timed out. Killing it
+[1695306777] wproc: CHECK job 64476 from worker Core Worker 25163 timed out after 30.01s
+[1695306777] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695306777] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695306777] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695306777] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1695306778] wproc: Core Worker 25163: job 64476 (pid=2008): Dormant child reaped
+[1695306779] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695306782] wproc: Core Worker 25162: job 64481 (pid=2044) timed out. Killing it
+[1695306782] wproc: CHECK job 64481 from worker Core Worker 25162 timed out after 30.01s
+[1695306782] wproc:   host=FW Cass Entel; service=(null);
+[1695306782] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695306782] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695306782] HOST ALERT: FW Cass Entel;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1695306782] wproc: Core Worker 25162: job 64481 (pid=2044): Dormant child reaped
+[1695306847] wproc: Core Worker 25164: job 64534 (pid=2570) timed out. Killing it
+[1695306847] wproc: CHECK job 64534 from worker Core Worker 25164 timed out after 30.01s
+[1695306847] wproc:   host=FW Cass Entel; service=(null);
+[1695306847] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695306847] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695306847] HOST ALERT: FW Cass Entel;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1695306847] wproc: Core Worker 25164: job 64534 (pid=2570): Dormant child reaped
+[1695306867] wproc: Core Worker 25164: job 64547 (pid=2714) timed out. Killing it
+[1695306867] wproc: CHECK job 64547 from worker Core Worker 25164 timed out after 30.01s
+[1695306867] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695306867] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695306867] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695306867] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1695306868] wproc: Core Worker 25164: job 64547 (pid=2714): Dormant child reaped
+[1695306891] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 329.81B (0.00%), Average OUT: 167.25B (0.00%)Total RX: 12147.06GBytes, Total TX: 10074.63GBytes
+[1695306897] SERVICE ALERT: FW ADL Diagnostic;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1695306899] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 246.18KB (0.20%), Average OUT: 10.47MB (8.38%)Total RX: 1164.85GBytes, Total TX: 1021.64GBytes
+[1695306907] SERVICE ALERT: FW Cass Entel;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1695306937] wproc: Core Worker 25164: job 64611 (pid=3371) timed out. Killing it
+[1695306937] wproc: CHECK job 64611 from worker Core Worker 25164 timed out after 30.01s
+[1695306937] wproc:   host=FW Cass Entel; service=(null);
+[1695306937] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695306937] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695306937] HOST ALERT: FW Cass Entel;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1695306937] wproc: Core Worker 25164: job 64611 (pid=3371): Dormant child reaped
+[1695306957] wproc: Core Worker 25163: job 64628 (pid=3507) timed out. Killing it
+[1695306957] wproc: CHECK job 64628 from worker Core Worker 25163 timed out after 30.01s
+[1695306957] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695306957] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695306957] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695306957] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1695306958] wproc: Core Worker 25163: job 64628 (pid=3507): Dormant child reaped
+[1695307027] wproc: Core Worker 25162: job 64686 (pid=4056) timed out. Killing it
+[1695307027] wproc: CHECK job 64686 from worker Core Worker 25162 timed out after 30.01s
+[1695307027] wproc:   host=FW Cass Entel; service=(null);
+[1695307027] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307027] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307027] HOST ALERT: FW Cass Entel;DOWN;SOFT;4;(Host check timed out after 30.01 seconds)
+[1695307027] wproc: Core Worker 25162: job 64686 (pid=4056): Dormant child reaped
+[1695307047] wproc: Core Worker 25164: job 64699 (pid=4203) timed out. Killing it
+[1695307047] wproc: CHECK job 64699 from worker Core Worker 25164 timed out after 30.01s
+[1695307047] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307047] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307047] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307047] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;4;(Host check timed out after 30.01 seconds)
+[1695307048] wproc: Core Worker 25164: job 64699 (pid=4203): Dormant child reaped
+[1695307117] wproc: Core Worker 25162: job 64762 (pid=4839) timed out. Killing it
+[1695307117] wproc: CHECK job 64762 from worker Core Worker 25162 timed out after 30.01s
+[1695307117] wproc:   host=FW Cass Entel; service=(null);
+[1695307117] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307117] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307117] HOST ALERT: FW Cass Entel;DOWN;SOFT;5;(Host check timed out after 30.01 seconds)
+[1695307117] wproc: Core Worker 25162: job 64762 (pid=4839): Dormant child reaped
+[1695307137] wproc: Core Worker 25162: job 64779 (pid=4973) timed out. Killing it
+[1695307137] wproc: CHECK job 64779 from worker Core Worker 25162 timed out after 30.01s
+[1695307137] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307137] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307137] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307137] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;5;(Host check timed out after 30.01 seconds)
+[1695307138] wproc: Core Worker 25162: job 64779 (pid=4973): Dormant child reaped
+[1695307207] wproc: Core Worker 25165: job 64838 (pid=5540) timed out. Killing it
+[1695307207] wproc: CHECK job 64838 from worker Core Worker 25165 timed out after 30.01s
+[1695307207] wproc:   host=FW Cass Entel; service=(null);
+[1695307207] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307207] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307207] HOST ALERT: FW Cass Entel;DOWN;SOFT;6;(Host check timed out after 30.01 seconds)
+[1695307207] wproc: Core Worker 25165: job 64838 (pid=5540): Dormant child reaped
+[1695307227] wproc: Core Worker 25162: job 64852 (pid=5691) timed out. Killing it
+[1695307227] wproc: CHECK job 64852 from worker Core Worker 25162 timed out after 30.01s
+[1695307227] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307227] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307227] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307227] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;6;(Host check timed out after 30.01 seconds)
+[1695307228] wproc: Core Worker 25162: job 64852 (pid=5691): Dormant child reaped
+[1695307297] wproc: Core Worker 25163: job 64914 (pid=6343) timed out. Killing it
+[1695307297] wproc: CHECK job 64914 from worker Core Worker 25163 timed out after 30.01s
+[1695307297] wproc:   host=FW Cass Entel; service=(null);
+[1695307297] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307297] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307297] HOST ALERT: FW Cass Entel;DOWN;SOFT;7;(Host check timed out after 30.01 seconds)
+[1695307297] wproc: Core Worker 25163: job 64914 (pid=6343): Dormant child reaped
+[1695307317] wproc: Core Worker 25163: job 64931 (pid=6477) timed out. Killing it
+[1695307317] wproc: CHECK job 64931 from worker Core Worker 25163 timed out after 30.01s
+[1695307317] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307317] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307317] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307317] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;7;(Host check timed out after 30.01 seconds)
+[1695307318] wproc: Core Worker 25163: job 64931 (pid=6477): Dormant child reaped
+[1695307387] wproc: Core Worker 25163: job 64989 (pid=7029) timed out. Killing it
+[1695307387] wproc: CHECK job 64989 from worker Core Worker 25163 timed out after 30.01s
+[1695307387] wproc:   host=FW Cass Entel; service=(null);
+[1695307387] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307387] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307387] HOST ALERT: FW Cass Entel;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1695307387] wproc: Core Worker 25163: job 64989 (pid=7029): Dormant child reaped
+[1695307407] wproc: Core Worker 25162: job 65003 (pid=7174) timed out. Killing it
+[1695307407] wproc: CHECK job 65003 from worker Core Worker 25162 timed out after 30.01s
+[1695307407] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307407] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307407] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307407] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1695307408] wproc: Core Worker 25162: job 65003 (pid=7174): Dormant child reaped
+[1695307477] wproc: Core Worker 25165: job 65066 (pid=7816) timed out. Killing it
+[1695307477] wproc: CHECK job 65066 from worker Core Worker 25165 timed out after 30.01s
+[1695307477] wproc:   host=FW Cass Entel; service=(null);
+[1695307477] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307477] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307477] HOST ALERT: FW Cass Entel;DOWN;SOFT;9;(Host check timed out after 30.01 seconds)
+[1695307477] wproc: Core Worker 25165: job 65066 (pid=7816): Dormant child reaped
+[1695307497] wproc: Core Worker 25165: job 65084 (pid=7965) timed out. Killing it
+[1695307497] wproc: CHECK job 65084 from worker Core Worker 25165 timed out after 30.01s
+[1695307497] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307497] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307497] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307497] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;9;(Host check timed out after 30.01 seconds)
+[1695307498] wproc: Core Worker 25165: job 65084 (pid=7965): Dormant child reaped
+[1695307567] wproc: Core Worker 25164: job 65142 (pid=8521) timed out. Killing it
+[1695307567] wproc: CHECK job 65142 from worker Core Worker 25164 timed out after 30.01s
+[1695307567] wproc:   host=FW Cass Entel; service=(null);
+[1695307567] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307567] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307567] HOST NOTIFICATION: nagiosadmin;FW Cass Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307567] HOST NOTIFICATION: andresnavarro;FW Cass Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307567] HOST NOTIFICATION: soporteti;FW Cass Entel;DOWN;notify-host-by-telegram;(Host check timed out after 30.01 seconds)
+[1695307567] HOST NOTIFICATION: soporteti;FW Cass Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307567] HOST NOTIFICATION: carlosstange;FW Cass Entel;DOWN;notify-host-by-telegram;(Host check timed out after 30.01 seconds)
+[1695307567] HOST NOTIFICATION: carlosstange;FW Cass Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307567] HOST ALERT: FW Cass Entel;DOWN;HARD;10;(Host check timed out after 30.01 seconds)
+[1695307567] wproc: Core Worker 25164: job 65142 (pid=8521): Dormant child reaped
+[1695307587] wproc: Core Worker 25163: job 65155 (pid=8666) timed out. Killing it
+[1695307587] wproc: CHECK job 65155 from worker Core Worker 25163 timed out after 30.01s
+[1695307587] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307587] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307587] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307587] HOST NOTIFICATION: nagiosadmin;FW ADL Diagnostic;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307587] HOST NOTIFICATION: andresnavarro;FW ADL Diagnostic;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307587] HOST NOTIFICATION: soporteti;FW ADL Diagnostic;DOWN;notify-host-by-telegram;(Host check timed out after 30.01 seconds)
+[1695307587] HOST NOTIFICATION: soporteti;FW ADL Diagnostic;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307587] HOST NOTIFICATION: carlosstange;FW ADL Diagnostic;DOWN;notify-host-by-telegram;(Host check timed out after 30.01 seconds)
+[1695307587] HOST NOTIFICATION: carlosstange;FW ADL Diagnostic;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1695307587] HOST ALERT: FW ADL Diagnostic;DOWN;HARD;10;(Host check timed out after 30.01 seconds)
+[1695307588] wproc: Core Worker 25163: job 65155 (pid=8666): Dormant child reaped
+[1695307657] wproc: Core Worker 25164: job 65221 (pid=9359) timed out. Killing it
+[1695307657] wproc: CHECK job 65221 from worker Core Worker 25164 timed out after 30.01s
+[1695307657] wproc:   host=FW Cass Entel; service=(null);
+[1695307657] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307657] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307657] wproc: Core Worker 25164: job 65221 (pid=9359): Dormant child reaped
+[1695307677] wproc: Core Worker 25163: job 65238 (pid=9495) timed out. Killing it
+[1695307677] wproc: CHECK job 65238 from worker Core Worker 25163 timed out after 30.01s
+[1695307677] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307677] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307677] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307678] wproc: Core Worker 25163: job 65238 (pid=9495): Dormant child reaped
+[1695307717] wproc: Core Worker 25162: job 65272 (pid=9854) timed out. Killing it
+[1695307717] wproc: CHECK job 65272 from worker Core Worker 25162 timed out after 30.01s
+[1695307717] wproc:   host=FW Cass Entel; service=(null);
+[1695307717] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307717] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307717] wproc: Core Worker 25162: job 65272 (pid=9854): Dormant child reaped
+[1695307737] wproc: Core Worker 25165: job 65289 (pid=9990) timed out. Killing it
+[1695307737] wproc: CHECK job 65289 from worker Core Worker 25165 timed out after 30.01s
+[1695307737] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307737] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307737] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307738] wproc: Core Worker 25165: job 65289 (pid=9990): Dormant child reaped
+[1695307777] wproc: Core Worker 25162: job 65323 (pid=10343) timed out. Killing it
+[1695307777] wproc: CHECK job 65323 from worker Core Worker 25162 timed out after 30.01s
+[1695307777] wproc:   host=FW Cass Entel; service=(null);
+[1695307777] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307777] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307777] wproc: Core Worker 25162: job 65323 (pid=10343): Dormant child reaped
+[1695307797] wproc: Core Worker 25162: job 65341 (pid=10496) timed out. Killing it
+[1695307797] wproc: CHECK job 65341 from worker Core Worker 25162 timed out after 30.01s
+[1695307797] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307797] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307797] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307798] wproc: Core Worker 25162: job 65341 (pid=10496): Dormant child reaped
+[1695307801] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1695307837] wproc: Core Worker 25163: job 65374 (pid=10865) timed out. Killing it
+[1695307837] wproc: CHECK job 65374 from worker Core Worker 25163 timed out after 30.01s
+[1695307837] wproc:   host=FW Cass Entel; service=(null);
+[1695307837] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307837] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307837] wproc: Core Worker 25163: job 65374 (pid=10865): Dormant child reaped
+[1695307857] wproc: Core Worker 25162: job 65392 (pid=11005) timed out. Killing it
+[1695307857] wproc: CHECK job 65392 from worker Core Worker 25162 timed out after 30.01s
+[1695307857] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307857] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307857] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307858] wproc: Core Worker 25162: job 65392 (pid=11005): Dormant child reaped
+[1695307897] wproc: Core Worker 25162: job 65425 (pid=11355) timed out. Killing it
+[1695307897] wproc: CHECK job 65425 from worker Core Worker 25162 timed out after 30.01s
+[1695307897] wproc:   host=FW Cass Entel; service=(null);
+[1695307897] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307897] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307897] wproc: Core Worker 25162: job 65425 (pid=11355): Dormant child reaped
+[1695307917] wproc: Core Worker 25165: job 65442 (pid=11496) timed out. Killing it
+[1695307917] wproc: CHECK job 65442 from worker Core Worker 25165 timed out after 30.01s
+[1695307917] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307917] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307917] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307918] wproc: Core Worker 25165: job 65442 (pid=11496): Dormant child reaped
+[1695307921] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695307957] wproc: Core Worker 25163: job 65475 (pid=11849) timed out. Killing it
+[1695307957] wproc: CHECK job 65475 from worker Core Worker 25163 timed out after 30.01s
+[1695307957] wproc:   host=FW Cass Entel; service=(null);
+[1695307957] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307957] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695307957] wproc: Core Worker 25163: job 65475 (pid=11849): Dormant child reaped
+[1695307977] wproc: Core Worker 25163: job 65492 (pid=11987) timed out. Killing it
+[1695307977] wproc: CHECK job 65492 from worker Core Worker 25163 timed out after 30.01s
+[1695307977] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695307977] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695307977] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695307978] wproc: Core Worker 25163: job 65492 (pid=11987): Dormant child reaped
+[1695308017] wproc: Core Worker 25162: job 65526 (pid=12339) timed out. Killing it
+[1695308017] wproc: CHECK job 65526 from worker Core Worker 25162 timed out after 30.01s
+[1695308017] wproc:   host=FW Cass Entel; service=(null);
+[1695308017] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308017] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695308017] wproc: Core Worker 25162: job 65526 (pid=12339): Dormant child reaped
+[1695308037] wproc: Core Worker 25162: job 65543 (pid=12477) timed out. Killing it
+[1695308037] wproc: CHECK job 65543 from worker Core Worker 25162 timed out after 30.01s
+[1695308037] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695308037] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308037] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695308038] wproc: Core Worker 25162: job 65543 (pid=12477): Dormant child reaped
+[1695308077] wproc: Core Worker 25162: job 65577 (pid=12833) timed out. Killing it
+[1695308077] wproc: CHECK job 65577 from worker Core Worker 25162 timed out after 30.01s
+[1695308077] wproc:   host=FW Cass Entel; service=(null);
+[1695308077] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308077] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695308077] wproc: Core Worker 25162: job 65577 (pid=12833): Dormant child reaped
+[1695308097] wproc: Core Worker 25163: job 65594 (pid=12985) timed out. Killing it
+[1695308097] wproc: CHECK job 65594 from worker Core Worker 25163 timed out after 30.01s
+[1695308097] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695308097] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308097] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695308098] wproc: Core Worker 25163: job 65594 (pid=12985): Dormant child reaped
+[1695308137] wproc: Core Worker 25164: job 65628 (pid=13341) timed out. Killing it
+[1695308137] wproc: CHECK job 65628 from worker Core Worker 25164 timed out after 30.01s
+[1695308137] wproc:   host=FW Cass Entel; service=(null);
+[1695308137] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308137] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695308137] wproc: Core Worker 25164: job 65628 (pid=13341): Dormant child reaped
+[1695308157] wproc: Core Worker 25163: job 65645 (pid=13481) timed out. Killing it
+[1695308157] wproc: CHECK job 65645 from worker Core Worker 25163 timed out after 30.01s
+[1695308157] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695308157] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308157] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695308158] wproc: Core Worker 25163: job 65645 (pid=13481): Dormant child reaped
+[1695308197] wproc: Core Worker 25162: job 65679 (pid=13833) timed out. Killing it
+[1695308197] wproc: CHECK job 65679 from worker Core Worker 25162 timed out after 30.01s
+[1695308197] wproc:   host=FW Cass Entel; service=(null);
+[1695308197] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308197] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695308197] wproc: Core Worker 25162: job 65679 (pid=13833): Dormant child reaped
+[1695308217] wproc: Core Worker 25165: job 65696 (pid=13973) timed out. Killing it
+[1695308217] wproc: CHECK job 65696 from worker Core Worker 25165 timed out after 30.01s
+[1695308217] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695308217] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308217] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695308218] wproc: Core Worker 25165: job 65696 (pid=13973): Dormant child reaped
+[1695308257] wproc: Core Worker 25164: job 65729 (pid=14325) timed out. Killing it
+[1695308257] wproc: CHECK job 65729 from worker Core Worker 25164 timed out after 30.01s
+[1695308257] wproc:   host=FW Cass Entel; service=(null);
+[1695308257] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308257] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1695308257] wproc: Core Worker 25164: job 65729 (pid=14325): Dormant child reaped
+[1695308277] wproc: Core Worker 25162: job 65747 (pid=14467) timed out. Killing it
+[1695308277] wproc: CHECK job 65747 from worker Core Worker 25162 timed out after 30.01s
+[1695308277] wproc:   host=FW ADL Diagnostic; service=(null);
+[1695308277] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1695308277] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1695308278] wproc: Core Worker 25162: job 65747 (pid=14467): Dormant child reaped
+[1695308308] HOST NOTIFICATION: nagiosadmin;FW Cass Entel;UP;notify-host-by-email;PING OK - Packet loss = 77%, RTA = 36.69 ms
+[1695308308] HOST NOTIFICATION: andresnavarro;FW Cass Entel;UP;notify-host-by-email;PING OK - Packet loss = 77%, RTA = 36.69 ms
+[1695308308] HOST NOTIFICATION: soporteti;FW Cass Entel;UP;notify-host-by-telegram;PING OK - Packet loss = 77%, RTA = 36.69 ms
+[1695308308] HOST NOTIFICATION: soporteti;FW Cass Entel;UP;notify-host-by-email;PING OK - Packet loss = 77%, RTA = 36.69 ms
+[1695308308] HOST NOTIFICATION: carlosstange;FW Cass Entel;UP;notify-host-by-telegram;PING OK - Packet loss = 77%, RTA = 36.69 ms
+[1695308308] HOST NOTIFICATION: carlosstange;FW Cass Entel;UP;notify-host-by-email;PING OK - Packet loss = 77%, RTA = 36.69 ms
+[1695308308] HOST ALERT: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 77%, RTA = 36.69 ms
+[1695308311] SERVICE ALERT: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.48 ms
+[1695308312] HOST NOTIFICATION: nagiosadmin;FW ADL Diagnostic;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.77 ms
+[1695308312] HOST NOTIFICATION: andresnavarro;FW ADL Diagnostic;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.77 ms
+[1695308312] HOST NOTIFICATION: soporteti;FW ADL Diagnostic;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 36.77 ms
+[1695308312] HOST NOTIFICATION: soporteti;FW ADL Diagnostic;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.77 ms
+[1695308312] HOST NOTIFICATION: carlosstange;FW ADL Diagnostic;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 36.77 ms
+[1695308312] HOST NOTIFICATION: carlosstange;FW ADL Diagnostic;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.77 ms
+[1695308312] HOST ALERT: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.77 ms
+[1695308321] SERVICE ALERT: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.73 ms
+[1695309802] Auto-save of retention data completed successfully.
+[1695310389] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695310510] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 42.88KB (0.03%), Average OUT: 496.34KB (0.40%)Total RX: 1165.07GBytes, Total TX: 1027.01GBytes
+[1695312635] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695312740] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695312755] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695312865] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 42.99KB (0.03%), Average OUT: 359.65KB (0.29%)Total RX: 1165.21GBytes, Total TX: 1029.73GBytes
+[1695313175] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695313310] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1695313402] Auto-save of retention data completed successfully.
+[1695313501] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695313560] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695313626] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 225.23B (0.00%), Average OUT: 61.26B (0.00%)Total RX: 12150.84GBytes, Total TX: 10074.64GBytes
+[1695313681] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 54.17KB (0.04%), Average OUT: 512.03KB (0.41%)Total RX: 1165.26GBytes, Total TX: 1030.17GBytes
+[1695315001] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695315121] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695317002] Auto-save of retention data completed successfully.
+[1695317205] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695317325] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695317455] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695317476] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1695317576] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695317596] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 299.02B (0.00%), Average OUT: 107.80B (0.00%)Total RX: 12151.79GBytes, Total TX: 10076.28GBytes
+[1695318002] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1695318014] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695318122] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 10 day(s) 1 hour(s) 29 minute(s)
+[1695318144] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 7.15KB (0.01%), Average OUT: 8.00KB (0.01%)Total RX: 57.20GBytes, Total TX: 63.90GBytes
+[1695318917] SERVICE ALERT: SRV_nagios;Actualizacion;CRITICAL;SOFT;1;YUM CRITICAL: 10 Updates Available
+[1695318979] SERVICE ALERT: SRV_nagios;Actualizacion;CRITICAL;SOFT;2;YUM CRITICAL: 10 Updates Available
+[1695319041] SERVICE ALERT: SRV_nagios;Actualizacion;CRITICAL;SOFT;3;YUM CRITICAL: 10 Updates Available
+[1695319108] SERVICE ALERT: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 10 Updates Available
+[1695320254] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695320374] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 27.88KB (0.02%), Average OUT: 20.10KB (0.02%)Total RX: 57.23GBytes, Total TX: 63.93GBytes
+[1695320602] Auto-save of retention data completed successfully.
+[1695324001] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.2.25: Connection reset by peer
+[1695324122] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1695324202] Auto-save of retention data completed successfully.
+[1695324306] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695324426] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695324851] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695324858] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695324971] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 41.15KB (0.03%), Average OUT: 404.64KB (0.32%)Total RX: 1251.28GBytes, Total TX: 1037.45GBytes
+[1695324978] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695326103] SERVICE ALERT: SRV_sync.cass.cl;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 82%, RTA = 0.70 ms
+[1695326227] SERVICE ALERT: SRV_sync.cass.cl;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1695327584] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695327705] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 26.97KB (0.02%), Average OUT: 24.45KB (0.02%)Total RX: 57.36GBytes, Total TX: 64.02GBytes
+[1695327802] Auto-save of retention data completed successfully.
+[1695327902] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695327955] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695328022] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1695328075] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 14.27KB (0.01%), Average OUT: 8.15KB (0.01%)Total RX: 57.36GBytes, Total TX: 64.02GBytes
+[1695328108] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695328152] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695328205] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695328216] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695328221] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695328239] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695328272] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1695328325] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 56.56KB (0.05%), Average OUT: 20.93KB (0.02%)Total RX: 57.38GBytes, Total TX: 64.03GBytes
+[1695328336] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695328341] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 66.68KB (0.05%), Average OUT: 528.02KB (0.42%)Total RX: 1251.57GBytes, Total TX: 1039.17GBytes
+[1695328364] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;3;OK: Interface eth2 (index 4) is up.
+[1695328466] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695328515] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695328596] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1695328635] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 66.56KB (0.05%), Average OUT: 16.49KB (0.01%)Total RX: 57.40GBytes, Total TX: 64.03GBytes
+[1695328726] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;OK - Average IN: 279.38B (0.00%), Average OUT: 123.99B (0.00%)Total RX: 12152.30GBytes, Total TX: 10094.26GBytes
+[1695328831] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695328854] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695328945] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695328952] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 66.44KB (0.05%), Average OUT: 666.82KB (0.53%)Total RX: 1251.62GBytes, Total TX: 1039.53GBytes
+[1695328975] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695329066] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 8.95KB (0.01%), Average OUT: 8.84KB (0.01%)Total RX: 57.40GBytes, Total TX: 64.04GBytes
+[1695329276] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695329401] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 579.16B (0.00%), Average OUT: 214.84B (0.00%)Total RX: 12152.30GBytes, Total TX: 10094.26GBytes
+[1695330023] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695330071] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695330143] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1695330191] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 464.78B (0.00%), Average OUT: 167.86B (0.00%)Total RX: 12152.30GBytes, Total TX: 10094.26GBytes
+[1695330206] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695330326] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695330402] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695330537] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1695330546] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695330621] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695330625] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;1;CPU Load 95% (5 min average)
+[1695330636] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695330671] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1695330745] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;2;CPU Load 99% (5 min average)
+[1695330751] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 232.66B (0.00%), Average OUT: 88.17B (0.00%)Total RX: 12152.30GBytes, Total TX: 10094.26GBytes
+[1695330756] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695330865] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1695330865] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1695330865] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1695330865] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1695330865] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1695330865] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1695330865] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1695330907] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695330941] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695330947] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1695330996] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1695331042] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1695331061] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 231.22B (0.00%), Average OUT: 78.47B (0.00%)Total RX: 12152.30GBytes, Total TX: 10094.26GBytes
+[1695331067] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1695331116] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 7.30KB (0.01%), Average OUT: 8.06KB (0.01%)Total RX: 57.44GBytes, Total TX: 64.07GBytes
+[1695331165] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 87% (5 min average)
+[1695331165] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 87% (5 min average)
+[1695331165] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;OK;notify-service-by-telegram;CPU Load 87% (5 min average)
+[1695331165] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 87% (5 min average)
+[1695331165] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;OK;notify-service-by-telegram;CPU Load 87% (5 min average)
+[1695331165] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 87% (5 min average)
+[1695331165] SERVICE ALERT: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 87% (5 min average)
+[1695331402] Auto-save of retention data completed successfully.
+[1695335002] Auto-save of retention data completed successfully.
+[1695338072] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.85%) too high
+[1695338193] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 5.64MB (4.51%), Average OUT: 101.01MB (80.81%)Total RX: 43085.64GBytes, Total TX: 95480.96GBytes
+[1695338433] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.58%) too high
+[1695338553] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (95.48%) too high
+[1695338602] Auto-save of retention data completed successfully.
+[1695338673] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.55%) too high
+[1695340773] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.13%) too high
+[1695340833] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 458.56KB (0.37%), Average OUT: 94.42MB (75.53%)Total RX: 43087.94GBytes, Total TX: 95786.98GBytes
+[1695340894] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.22%) too high
+[1695341014] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 6.38MB (5.11%), Average OUT: 104.72MB (83.77%)Total RX: 43088.79GBytes, Total TX: 95806.42GBytes
+[1695342202] Auto-save of retention data completed successfully.
+[1695343276] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1695343337] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 153 day(s) 10 hour(s) 57 minute(s)
+[1695343534] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.00%) too high
+[1695343655] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (86.26%) too high
+[1695343775] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.35%) too high
+[1695343802] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1695343835] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 6.97MB (5.57%), Average OUT: 102.51MB (82.00%)Total RX: 43112.04GBytes, Total TX: 96071.68GBytes
+[1695343863] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1695343896] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.42%) too high
+[1695344016] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (93.76%) too high
+[1695344136] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.28%) too high
+[1695344436] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STARTED; Service appears to have started flapping (22.6% change >= 20.0% threshold)
+[1695344436] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 352.17KB (0.28%), Average OUT: 80.26MB (64.21%)Total RX: 43112.69GBytes, Total TX: 96140.02GBytes
+[1695344496] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.15%) too high
+[1695344617] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 6.63MB (5.30%), Average OUT: 106.03MB (84.83%)Total RX: 43113.57GBytes, Total TX: 96159.46GBytes
+[1695344977] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.34%) too high
+[1695345098] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 8.28MB (6.62%), Average OUT: 99.06MB (79.25%)Total RX: 43117.65GBytes, Total TX: 96208.69GBytes
+[1695345218] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.27%) too high
+[1695345338] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (86.77%) too high
+[1695345459] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (85.64%) too high
+[1695345640] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 6.89MB (5.52%), Average OUT: 103.95MB (83.16%)Total RX: 43122.20GBytes, Total TX: 96267.23GBytes
+[1695345699] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.01%) too high
+[1695345802] Auto-save of retention data completed successfully.
+[1695345819] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (90.96%) too high
+[1695345940] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (88.05%) too high
+[1695346000] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 6.45MB (5.16%), Average OUT: 99.81MB (79.85%)Total RX: 43125.02GBytes, Total TX: 96306.45GBytes
+[1695346060] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.28%) too high
+[1695346181] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 7.85MB (6.28%), Average OUT: 103.74MB (82.99%)Total RX: 43126.32GBytes, Total TX: 96325.47GBytes
+[1695346301] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.45%) too high
+[1695346421] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (87.91%) too high
+[1695346542] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (89.56%) too high
+[1695347477] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;HARD;3;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1695347537] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 153 day(s) 12 hour(s) 7 minute(s)
+[1695347622] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1695347863] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 426.47KB (0.34%), Average OUT: 97.96MB (78.37%)Total RX: 43132.82GBytes, Total TX: 96516.27GBytes
+[1695347922] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.20%) too high
+[1695348042] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 445.82KB (0.36%), Average OUT: 101.26MB (81.01%)Total RX: 43132.90GBytes, Total TX: 96534.77GBytes
+[1695348882] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.84%) too high
+[1695349003] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 463.99KB (0.37%), Average OUT: 105.14MB (84.11%)Total RX: 43138.11GBytes, Total TX: 96628.17GBytes
+[1695349183] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.19%) too high
+[1695349304] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (85.90%) too high
+[1695349402] Auto-save of retention data completed successfully.
+[1695349424] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (87.08%) too high
+[1695349485] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 462.89KB (0.37%), Average OUT: 105.69MB (84.55%)Total RX: 43138.33GBytes, Total TX: 96679.80GBytes
+[1695349544] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.45%) too high
+[1695349664] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (88.00%) too high
+[1695349785] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 439.55KB (0.35%), Average OUT: 101.16MB (80.93%)Total RX: 43138.47GBytes, Total TX: 96711.62GBytes
+[1695349905] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.05%) too high
+[1695350025] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 459.02KB (0.37%), Average OUT: 104.55MB (83.64%)Total RX: 43138.58GBytes, Total TX: 96737.37GBytes
+[1695350205] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.60%) too high
+[1695350325] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 456.67KB (0.37%), Average OUT: 104.21MB (83.37%)Total RX: 43138.72GBytes, Total TX: 96769.17GBytes
+[1695350925] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.91%) too high
+[1695351045] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;UNKNOWN;SOFT;2;
+[1695351166] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 445.34KB (0.36%), Average OUT: 100.67MB (80.53%)Total RX: 43139.11GBytes, Total TX: 96856.54GBytes
+[1695351346] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.27%) too high
+[1695351467] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 460.73KB (0.37%), Average OUT: 106.07MB (84.85%)Total RX: 43139.25GBytes, Total TX: 96888.63GBytes
+[1695351587] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.92%) too high

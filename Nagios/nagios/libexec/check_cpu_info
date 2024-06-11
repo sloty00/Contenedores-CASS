@@ -1,0 +1,80 @@
+#!/bin/bash
+
+#Get script name
+scrName=`basename ${BASH_SOURCE[0]}`
+
+# help function
+function showHelp {
+echo -e \\n"Help page for $scrName."\\n
+echo -e "Basic test: \\\bin\\\bash $scrName -w {warning_point} -c {critical_point}"\\n
+echo "Warning and critical points are optional, default values for warning and critical points are 94% and critical is 97% respectively."
+echo "-w : Sets warning point in percentage for Total CPU Usage. Default is 94%."
+echo "-c : Sets critical point in percentage for for Total CPU Usage. Default is 97%."
+echo -e "-h : Displays the help page."\\n
+echo -e "Example: /bin/bash $scrName -w 92 -c 96"\\n
+echo -e "Result: [CPU_INFO: 15.70% ] User: 9.60% - System: 3.60% - Idle: 84.30% - IOwait: 2.50%"\\n
+echo -e \\n"Author: anokpe.srai@gmail.com"\\n
+exit 1
+}
+
+#default values for warning and critical
+valCW=95
+valCC=98
+
+#Regular expression to check positive float number input
+pRex='^[0-9]+\.?[0-9]*$'
+
+while getopts :w:c:h FLAG; do
+  case $FLAG in
+    w)
+      if ! [[ $OPTARG =~ $pRex ]] ; then
+        echo "error: Use positive digits only" >&2; exit 1
+      else
+        valCW=$OPTARG
+      fi
+      ;;
+    c)
+      if ! [[ $OPTARG =~ $pRex ]] ; then
+        echo "error: Use positive digits only" >&2; exit 1
+      else
+        valCC=$OPTARG
+      fi
+      ;;
+    h)
+      showHelp
+      ;;
+    \?)
+      echo -e \\n"No option as -$OPTARG is present!!"
+      showHelp
+      exit 2
+      ;;
+  esac
+done
+
+shift $((OPTIND-1))
+
+array=($(top -bn 2 -d 1 | grep '^%Cpu' | tail -n 1 | tr -d ':,' | awk '{ printf ( "%.2f %.2f %.2f %.2f %.2f %.2f %.2f %.2f", $2, $4, $6, $8, $10, $12, $14, $16) }'))
+
+cpuUser=${array[0]}
+cpuSystem=${array[1]}
+cpuNice=${array[2]}
+cpuIdle=${array[3]}
+cpuUsed_t=$(echo 100 - ${array[3]} | bc)
+cpuWA=${array[4]}
+cpuHI=${array[5]}
+cpuSI=${array[6]}
+cpuST=${array[7]}
+ 
+
+message="[CPU_INFO: $cpuUsed_t% ]  User: $cpuUser% - System: $cpuSystem% - Idle: $cpuIdle% - IOwait: $cpuWA% | - Nice: $cpuNice% - Hardware_interrupts: $cpuHI% - Software_interrupts: $cpuSI% - Steal: $cpuST% "
+
+if (( $(echo "$cpuUsed_t >= $valCC" | bc -l) )); then
+  echo -e $message
+  $(exit 2)
+elif (( $(echo "$cpuUsed_t >= $valCW" | bc -l) )); then
+  echo -e $message
+  $(exit 1)
+else
+  echo -e $message
+  $(exit 0)
+fi

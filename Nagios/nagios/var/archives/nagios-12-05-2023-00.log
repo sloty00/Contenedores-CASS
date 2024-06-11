@@ -1,0 +1,574 @@
+[1701658800] LOG ROTATION: DAILY
+[1701658800] LOG VERSION: 2.0
+[1701658800] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 37.48 ms
+[1701658800] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.27 ms
+[1701658800] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1701658800] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.03 ms
+[1701658800] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 30.08 ms
+[1701658800] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.57 ms
+[1701658800] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.91 ms
+[1701658800] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.15 ms
+[1701658800] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.79 ms
+[1701658800] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1701658800] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.14 ms
+[1701658800] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.09 ms
+[1701658800] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.16 ms
+[1701658800] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.99 ms
+[1701658800] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1701658800] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.80 ms
+[1701658800] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1701658800] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 41.05 ms
+[1701658800] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.10 ms
+[1701658800] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1701658800] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.49 ms
+[1701658800] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1701658800] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1701658800] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1701658800] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.66 ms
+[1701658800] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 19.84 ms
+[1701658800] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1701658800] CURRENT HOST STATE: Qnap NAS;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.28)
+[1701658800] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.20 ms
+[1701658800] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.14 ms
+[1701658800] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.70 ms
+[1701658800] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1701658800] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1701658800] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1701658800] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.36 ms
+[1701658800] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.19 ms
+[1701658800] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.95 ms
+[1701658800] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.97 ms
+[1701658800] CURRENT HOST STATE: SRVDNS;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.30)
+[1701658800] CURRENT HOST STATE: SRVMFSD;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1701658800] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1701658800] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.66 ms
+[1701658800] CURRENT HOST STATE: SRV_GLPI;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.106)
+[1701658800] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1701658800] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1701658800] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1701658800] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.77 ms
+[1701658800] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1701658800] CURRENT HOST STATE: SRV_Soporte2;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.97)
+[1701658800] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1701658800] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1701658800] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1701658800] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1701658800] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1701658800] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1701658800] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1701658800] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1701658800] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1701658800] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.53 ms
+[1701658800] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.29 ms
+[1701658800] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 30.10 ms
+[1701658800] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1701658800] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.21 ms
+[1701658800] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1701658800] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.12 ms
+[1701658800] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.09 ms
+[1701658800] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.09 ms
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 7.37KB (0.01%), Average OUT: 4.59KB (0.00%)Total RX: 1.28GBytes, Total TX: 926.01MBytes
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 794.92B (0.00%), Average OUT: 1.73KB (0.00%)Total RX: 143.80MBytes, Total TX: 414.31MBytes
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 8.90B (0.00%), Average OUT: 14.18B (0.00%)Total RX: 15.27GBytes, Total TX: 34.29GBytes
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1701658800] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (15707744) 1 day, 19:37:57.44
+[1701658800] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.18 ms
+[1701658800] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 40.25 ms
+[1701658800] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.08 ms
+[1701658800] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 16%, RTA = 1.25 ms
+[1701658800] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1701658800] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.00 ms
+[1701658800] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1701658800] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1701658800] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1701658800] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;CRITICAL;HARD;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701658800] CURRENT SERVICE STATE: Qnap NAS;Estado;CRITICAL;HARD;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701658800] CURRENT SERVICE STATE: Qnap NAS;Memoria;CRITICAL;HARD;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701658800] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;CRITICAL;HARD;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701658800] CURRENT SERVICE STATE: Qnap NAS;Temperatura;CRITICAL;HARD;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701658800] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;CRITICAL;HARD;1;CRITICAL - Plugin timed out while executing system call
+[1701658800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1701658800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 96.47 Gb (81%) - free 22.92 Gb (19%)
+[1701658800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 248.90 Gb (24%) - free 775.08 Gb (76%)
+[1701658800] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1701658800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 2506.88 MB (11%) - free: 21044.33 MB (89%)
+[1701658800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.51 ms
+[1701658800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 19 hour(s) 34 minute(s)
+[1701658800] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.58 ms
+[1701658800] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.60 ms
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  2 security update(s): 1 recommended update(s):  2 package update(s):
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78619 MiB (85.78% inode=-):
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.02, 0.01
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 1589 MB - 20% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 267 processes
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 1 day(s) 19 hour(s) 31 minute(s)
+[1701658800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1701658800] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1701658800] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.61 ms
+[1701658800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1701658800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 163.47 Gb (55%) - free 136.18 Gb (45%)
+[1701658800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1701658800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 3586.62 MB (23%) - free: 11704.94 MB (77%)
+[1701658800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.84 ms
+[1701658800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 19 hour(s) 33 minute(s)
+[1701658800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1701658800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 41.50 Gb (14%) - free 257.83 Gb (86%)
+[1701658800] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 3% (5 min average)
+[1701658800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 2231.30 MB (16%) - free: 11911.84 MB (84%)
+[1701658800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.43 ms
+[1701658800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 19 hour(s) 36 minute(s)
+[1701658800] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1701658800] CURRENT SERVICE STATE: SRVDNS;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.30)
+[1701658800] CURRENT SERVICE STATE: SRVMFSD;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1701658800] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2438986 MB (72% inode=-):
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.12, 0.09, 0.09
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1337 MB - 34% [SWAP] Total: 2047 MB - Used: 2 MB - 0%
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 317 processes
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 1 day(s) 19 hour(s) 34 minute(s)
+[1701658800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1701658800] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118383 MiB (91.11% inode=-):
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.01, 0.01
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 670 MB - 8% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 303 processes
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 1 day(s) 19 hour(s) 31 minute(s)
+[1701658800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1701658800] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.78 ms
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 952156 MiB (91.14% inode=-):
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.06, 0.10, 0.09
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 2976 MB - 37% [SWAP] Total: 2048 MB - Used: 53 MB - 2%
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 281 processes
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.001 second response time on port 9443
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1701658800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 467827 MiB (92.36% inode=-):
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1792896 MiB (91.55% inode=99%):
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 476027 MiB (99.74% inode=100%):
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.03, 0.02
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.032 sec. response time
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 1676 MB - 14% [SWAP] Total: 2048 MB - Used: 0 MB - 0%
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 299 processes
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 1 day(s) 19 hour(s) 30 minute(s)
+[1701658800] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1701658800] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1701658800] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.16, 0.08, 0.06
+[1701658800] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 428 MB - 5% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1701658800] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1701658800] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 67 processes with STATE = RSZDT
+[1701658800] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1701658800] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1701658800] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1701658800] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 5.50KB (0.00%), Average OUT: 4.87KB (0.00%)Total RX: 893.51MBytes, Total TX: 1.09GBytes
+[1701658800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1701658800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1701658800] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1701658800] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (15717309) 1 day, 19:39:33.09
+[1701658800] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 100%, approximately 0 minutes runtime remaining.
+[1701658800] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1701658800] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1701658800] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 24 degrees C (75.2 degrees F).
+[1701658800] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (15725464) 1 day, 19:40:54.64
+[1701658800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1701658800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 87.82 Gb (88%) - free 11.51 Gb (12%)
+[1701658800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 17% (5 min average)
+[1701658800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 10968.56 MB (39%) - free: 17190.69 MB (61%)
+[1701658800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.74 ms
+[1701658800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 19 hour(s) 33 minute(s)
+[1701658800] CURRENT SERVICE STATE: web_cass_cl;Certificado;WARNING;HARD;3;SSL WARNING - Certificate '*.cass.cl' expires in 22 day(s) (2023-12-26 20:59 -0300/-03).
+[1701658800] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.153 second response time
+[1701659916] Auto-save of retention data completed successfully.
+[1701663516] Auto-save of retention data completed successfully.
+[1701667116] Auto-save of retention data completed successfully.
+[1701670716] Auto-save of retention data completed successfully.
+[1701674316] Auto-save of retention data completed successfully.
+[1701677916] Auto-save of retention data completed successfully.
+[1701681516] Auto-save of retention data completed successfully.
+[1701685116] Auto-save of retention data completed successfully.
+[1701687286] HOST NOTIFICATION: nagiosadmin;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1701687286] HOST NOTIFICATION: andresnavarro;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1701687286] HOST NOTIFICATION: soporteti;Qnap NAS;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1701687286] HOST NOTIFICATION: soporteti;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1701687286] HOST NOTIFICATION: carlosstange;Qnap NAS;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1701687286] HOST NOTIFICATION: carlosstange;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1701687286] HOST ALERT: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1701687289] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687289] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687289] SERVICE NOTIFICATION: soporteti;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687289] SERVICE NOTIFICATION: soporteti;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687289] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687289] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687303] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687303] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687303] SERVICE NOTIFICATION: soporteti;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687303] SERVICE NOTIFICATION: soporteti;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687303] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687303] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687306] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687306] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687306] SERVICE NOTIFICATION: soporteti;Qnap NAS;Estado;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687306] SERVICE NOTIFICATION: soporteti;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687306] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Estado;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687306] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687310] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687310] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687310] SERVICE NOTIFICATION: soporteti;Qnap NAS;Temperatura;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687310] SERVICE NOTIFICATION: soporteti;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687310] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Temperatura;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687310] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687331] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687331] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687331] SERVICE NOTIFICATION: soporteti;Qnap NAS;Memoria;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687331] SERVICE NOTIFICATION: soporteti;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687331] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Memoria;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687331] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701687338] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1701687338] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1701687338] SERVICE NOTIFICATION: soporteti;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-telegram;CRITICAL - Plugin timed out while executing system call
+[1701687338] SERVICE NOTIFICATION: soporteti;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1701687338] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-telegram;CRITICAL - Plugin timed out while executing system call
+[1701687338] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1701687387] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (103) 0:00:01.03
+[1701687387] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (103) 0:00:01.03
+[1701687387] SERVICE NOTIFICATION: soporteti;Qnap NAS;Tiempo Activo;OK;notify-service-by-telegram;SNMP OK - Timeticks: (103) 0:00:01.03
+[1701687387] SERVICE NOTIFICATION: soporteti;Qnap NAS;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (103) 0:00:01.03
+[1701687387] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Tiempo Activo;OK;notify-service-by-telegram;SNMP OK - Timeticks: (103) 0:00:01.03
+[1701687387] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (103) 0:00:01.03
+[1701687387] SERVICE ALERT: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (103) 0:00:01.03
+[1701687404] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Sysinfo;OK;notify-service-by-email;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701687404] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Sysinfo;OK;notify-service-by-email;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701687404] SERVICE NOTIFICATION: soporteti;Qnap NAS;Sysinfo;OK;notify-service-by-telegram;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701687404] SERVICE NOTIFICATION: soporteti;Qnap NAS;Sysinfo;OK;notify-service-by-email;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701687404] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Sysinfo;OK;notify-service-by-telegram;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701687404] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Sysinfo;OK;notify-service-by-email;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701687404] SERVICE ALERT: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701687419] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Almacenamiento;OK;notify-service-by-email;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701687419] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Almacenamiento;OK;notify-service-by-email;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701687419] SERVICE NOTIFICATION: soporteti;Qnap NAS;Almacenamiento;OK;notify-service-by-telegram;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701687419] SERVICE NOTIFICATION: soporteti;Qnap NAS;Almacenamiento;OK;notify-service-by-email;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701687419] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Almacenamiento;OK;notify-service-by-telegram;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701687419] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Almacenamiento;OK;notify-service-by-email;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701687419] SERVICE ALERT: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701687421] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Estado;OK;notify-service-by-email;Power Supply #1 - OK: GOOD
+[1701687421] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Estado;OK;notify-service-by-email;Power Supply #1 - OK: GOOD
+[1701687421] SERVICE NOTIFICATION: soporteti;Qnap NAS;Estado;OK;notify-service-by-telegram;Power Supply #1 - OK: GOOD
+[1701687421] SERVICE NOTIFICATION: soporteti;Qnap NAS;Estado;OK;notify-service-by-email;Power Supply #1 - OK: GOOD
+[1701687421] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Estado;OK;notify-service-by-telegram;Power Supply #1 - OK: GOOD
+[1701687421] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Estado;OK;notify-service-by-email;Power Supply #1 - OK: GOOD
+[1701687421] SERVICE ALERT: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1701687425] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Temperatura;OK;notify-service-by-email;OK: Temperature=30C
+[1701687425] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Temperatura;OK;notify-service-by-email;OK: Temperature=30C
+[1701687425] SERVICE NOTIFICATION: soporteti;Qnap NAS;Temperatura;OK;notify-service-by-telegram;OK: Temperature=30C
+[1701687425] SERVICE NOTIFICATION: soporteti;Qnap NAS;Temperatura;OK;notify-service-by-email;OK: Temperature=30C
+[1701687425] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Temperatura;OK;notify-service-by-telegram;OK: Temperature=30C
+[1701687425] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Temperatura;OK;notify-service-by-email;OK: Temperature=30C
+[1701687425] SERVICE ALERT: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=30C
+[1701687446] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Memoria;OK;notify-service-by-email;OK: Total:3830MB - Used:1092MB - Free:2738MB = 29%
+[1701687446] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Memoria;OK;notify-service-by-email;OK: Total:3830MB - Used:1092MB - Free:2738MB = 29%
+[1701687446] SERVICE NOTIFICATION: soporteti;Qnap NAS;Memoria;OK;notify-service-by-telegram;OK: Total:3830MB - Used:1092MB - Free:2738MB = 29%
+[1701687446] SERVICE NOTIFICATION: soporteti;Qnap NAS;Memoria;OK;notify-service-by-email;OK: Total:3830MB - Used:1092MB - Free:2738MB = 29%
+[1701687446] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Memoria;OK;notify-service-by-telegram;OK: Total:3830MB - Used:1092MB - Free:2738MB = 29%
+[1701687446] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Memoria;OK;notify-service-by-email;OK: Total:3830MB - Used:1092MB - Free:2738MB = 29%
+[1701687446] SERVICE ALERT: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1092MB - Free:2738MB = 29%
+[1701688058] SERVICE ALERT: Qnap NAS;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1701688070] SERVICE ALERT: Qnap NAS;Sysinfo;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701688083] SERVICE ALERT: Qnap NAS;Almacenamiento;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701688085] SERVICE ALERT: Qnap NAS;Estado;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701688090] SERVICE ALERT: Qnap NAS;Temperatura;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701688111] SERVICE ALERT: Qnap NAS;Memoria;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701688179] SERVICE ALERT: Qnap NAS;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (5017) 0:00:50.17
+[1701688190] SERVICE ALERT: Qnap NAS;Sysinfo;OK;SOFT;2;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701688203] SERVICE ALERT: Qnap NAS;Almacenamiento;OK;SOFT;2;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701688206] SERVICE ALERT: Qnap NAS;Estado;OK;SOFT;2;Power Supply #1 - OK: GOOD
+[1701688210] SERVICE ALERT: Qnap NAS;Temperatura;OK;SOFT;2;OK: Temperature=34C
+[1701688231] SERVICE ALERT: Qnap NAS;Memoria;OK;SOFT;2;OK: Total:3830MB - Used:968MB - Free:2862MB = 26%
+[1701688716] Auto-save of retention data completed successfully.
+[1701688964] HOST ALERT: SRVMFSD;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.2.12)
+[1701688964] SERVICE ALERT: SRVMFSD;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.12)
+[1701688988] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).
+[1701688997] HOST ALERT: SRV11VIBE_cass.cl;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.2.13)
+[1701688997] SERVICE ALERT: SRV11VIBE_cass.cl;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.13)
+[1701689011] SERVICE ALERT: SRV11VIBE_cass.cl;Proceso Vibe;CRITICAL;HARD;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: No route to host
+[1701689011] SERVICE ALERT: SRV11VIBE_cass.cl;CPU;CRITICAL;HARD;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: No route to host
+[1701689011] HOST ALERT: SRV11VIBE_cass.cl;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.2.13)
+[1701689014] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;HARD;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: No route to host
+[1701689017] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;HARD;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1701689017] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;HARD;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1701689027] HOST ALERT: SRVMFSD;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689049] HOST ALERT: SRV11VIBE_cass.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1701689050] SERVICE ALERT: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1701689068] SERVICE ALERT: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.30, 0.09, 0.03
+[1701689068] SERVICE ALERT: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1701689070] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1701689070] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 0 day(s) 0 hour(s) 1 minute(s)
+[1701689070] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 347 processes
+[1701689090] HOST ALERT: SRVMFSD;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689108] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 1646 MB - 21% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1701689153] HOST ALERT: SRVMFSD;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689197] SERVICE ALERT: Qnap NAS;Memoria;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701689210] SERVICE ALERT: Qnap NAS;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1701689215] SERVICE ALERT: Qnap NAS;Sysinfo;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701689216] HOST ALERT: SRVMFSD;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689228] SERVICE ALERT: Qnap NAS;Almacenamiento;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701689231] SERVICE ALERT: Qnap NAS;Estado;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701689235] SERVICE ALERT: Qnap NAS;Temperatura;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1701689279] HOST ALERT: SRVMFSD;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689317] SERVICE ALERT: Qnap NAS;Memoria;OK;SOFT;2;OK: Total:3830MB - Used:1277MB - Free:2553MB = 34%
+[1701689330] SERVICE ALERT: Qnap NAS;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (8858) 0:01:28.58
+[1701689335] SERVICE ALERT: Qnap NAS;Sysinfo;OK;SOFT;2;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701689342] HOST ALERT: SRVMFSD;DOWN;SOFT;7;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689348] SERVICE ALERT: Qnap NAS;Almacenamiento;OK;SOFT;2;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701689352] SERVICE ALERT: Qnap NAS;Estado;OK;SOFT;2;Power Supply #1 - OK: GOOD
+[1701689355] SERVICE ALERT: Qnap NAS;Temperatura;OK;SOFT;2;OK: Temperature=36C
+[1701689405] HOST ALERT: SRVMFSD;DOWN;SOFT;8;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689468] HOST ALERT: SRVMFSD;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.2.12)
+[1701689531] HOST ALERT: SRVMFSD;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.12)
+[1701690250] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701690370] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 560.59KB (0.45%), Average OUT: 1.00MB (0.80%)Total RX: 376.26MBytes, Total TX: 1.75GBytes
+[1701690685] SERVICE ALERT: SRV_chat.cass.cl;Puerto HTTPS;CRITICAL;SOFT;1;connect to address 127.0.0.1 and port 443: Connection refused
+[1701690805] SERVICE ALERT: SRV_chat.cass.cl;Puerto HTTPS;OK;SOFT;2;TCP OK - 0.000 second response time on port 443
+[1701691212] HOST NOTIFICATION: nagiosadmin;SRVDNS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.30)
+[1701691212] HOST NOTIFICATION: andresnavarro;SRVDNS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.30)
+[1701691212] HOST NOTIFICATION: soporteti;SRVDNS;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.2.30)
+[1701691212] HOST NOTIFICATION: soporteti;SRVDNS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.30)
+[1701691212] HOST NOTIFICATION: carlosstange;SRVDNS;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.2.30)
+[1701691212] HOST NOTIFICATION: carlosstange;SRVDNS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.30)
+[1701691223] HOST NOTIFICATION: nagiosadmin;SRV_GLPI;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.106)
+[1701691223] HOST NOTIFICATION: andresnavarro;SRV_GLPI;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.106)
+[1701691223] HOST NOTIFICATION: soporteti;SRV_GLPI;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.106)
+[1701691223] HOST NOTIFICATION: soporteti;SRV_GLPI;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.106)
+[1701691223] HOST NOTIFICATION: carlosstange;SRV_GLPI;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.106)
+[1701691223] HOST NOTIFICATION: carlosstange;SRV_GLPI;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.106)
+[1701691801] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701691921] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;OK;SOFT;2;PROCS OK: 0 processes with command name 'docker'
+[1701691944] HOST NOTIFICATION: nagiosadmin;SRV_GLPI;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1701691944] HOST NOTIFICATION: andresnavarro;SRV_GLPI;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1701691944] HOST NOTIFICATION: soporteti;SRV_GLPI;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1701691944] HOST NOTIFICATION: soporteti;SRV_GLPI;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1701691944] HOST NOTIFICATION: carlosstange;SRV_GLPI;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1701691944] HOST NOTIFICATION: carlosstange;SRV_GLPI;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1701691944] HOST ALERT: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1701692316] Auto-save of retention data completed successfully.
+[1701692434] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701692566] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701695916] Auto-save of retention data completed successfully.
+[1701696001] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701696121] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;OK;SOFT;2;PROCS OK: 0 processes with command name 'docker'
+[1701697015] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701697137] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1701697340] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701697475] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1701698401] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1701698521] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;OK;SOFT;2;PROCS OK: 0 processes with command name 'docker'
+[1701699516] Auto-save of retention data completed successfully.
+[1701702001] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1701702122] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;OK;SOFT;2;PROCS OK: 0 processes with command name 'docker'
+[1701702653] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701702773] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 55.20KB (0.04%), Average OUT: 71.50KB (0.06%)Total RX: 2.08GBytes, Total TX: 1.43GBytes
+[1701702946] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701703081] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1701703116] Auto-save of retention data completed successfully.
+[1701703202] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701703334] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701706483] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701706483] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701706484] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701706627] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701706633] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701706634] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701706716] Auto-save of retention data completed successfully.
+[1701706767] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1701706767] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1701710316] Auto-save of retention data completed successfully.
+[1701713916] Auto-save of retention data completed successfully.
+[1701714216] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701714275] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701714311] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701714336] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1701714395] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701714431] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 182.80KB (0.15%), Average OUT: 684.87KB (0.55%)Total RX: 24.51GBytes, Total TX: 21.32GBytes
+[1701715536] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701715656] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 4.91MB (3.93%), Average OUT: 4.86MB (3.88%)Total RX: 133.72GBytes, Total TX: 249.25GBytes
+[1701717516] Auto-save of retention data completed successfully.
+[1701718657] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701718666] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701718677] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701718792] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701718801] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701718802] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1701718803] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701718922] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;OK;SOFT;2;PROCS OK: 0 processes with command name 'docker'
+[1701718934] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1701718936] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1701718977] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701719110] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701719324] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701719326] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701719456] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701719459] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701719500] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701719632] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701719782] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701719786] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701719915] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701719919] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701720001] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701720001] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701720134] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701720135] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701721116] Auto-save of retention data completed successfully.
+[1701721725] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701721858] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701722402] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701722446] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701722534] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701722566] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 5.82MB (4.65%), Average OUT: 5.81MB (4.65%)Total RX: 168.15GBytes, Total TX: 294.14GBytes
+[1701723044] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701723177] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701723601] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701723735] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701724716] Auto-save of retention data completed successfully.
+[1701725585] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701725589] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701725720] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701725721] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701728316] Auto-save of retention data completed successfully.
+[1701731398] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (91.47%) too high
+[1701731518] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 4.88MB (3.91%), Average OUT: 101.06MB (80.85%)Total RX: 31.20GBytes, Total TX: 175.51GBytes
+[1701731698] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (89.39%) too high
+[1701731818] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 5.57MB (4.46%), Average OUT: 101.65MB (81.32%)Total RX: 32.96GBytes, Total TX: 206.79GBytes
+[1701731916] Auto-save of retention data completed successfully.
+[1701731998] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.44%) too high
+[1701732118] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 4.33MB (3.47%), Average OUT: 100.92MB (80.74%)Total RX: 34.34GBytes, Total TX: 236.50GBytes
+[1701732419] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.52%) too high
+[1701732539] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (87.26%) too high
+[1701732659] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (86.77%) too high
+[1701732779] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 3.25MB (2.60%), Average OUT: 102.56MB (82.05%)Total RX: 37.26GBytes, Total TX: 306.90GBytes
+[1701732840] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.56%) too high
+[1701732960] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (87.69%) too high
+[1701733080] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.98%) too high
+[1701733320] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STARTED; Service appears to have started flapping (22.9% change >= 20.0% threshold)
+[1701733320] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.50%) too high
+[1701733381] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.88%) too high
+[1701733441] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.76%) too high
+[1701733501] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.42%) too high
+[1701733681] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.70%) too high
+[1701733742] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.97%) too high
+[1701733862] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.52%) too high
+[1701733923] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.90%) too high
+[1701733983] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.01%) too high
+[1701734104] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.48%) too high
+[1701734164] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.41%) too high
+[1701734285] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.84%) too high
+[1701734345] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.60%) too high
+[1701734405] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.66%) too high
+[1701734466] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 756.28KB (0.61%), Average OUT: 96.87MB (77.50%)Total RX: 38.96GBytes, Total TX: 508.68GBytes
+[1701734525] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (93.98%) too high
+[1701734645] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (87.77%) too high
+[1701734766] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (86.76%) too high
+[1701734826] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 7.32MB (5.86%), Average OUT: 101.24MB (80.99%)Total RX: 41.26GBytes, Total TX: 547.97GBytes
+[1701734886] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (92.82%) too high
+[1701735007] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (91.41%) too high
+[1701735127] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (90.26%) too high
+[1701735428] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 6.36MB (5.09%), Average OUT: 104.30MB (83.44%)Total RX: 45.14GBytes, Total TX: 616.07GBytes
+[1701735487] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (89.95%) too high
+[1701735516] Auto-save of retention data completed successfully.
+[1701735607] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (94.03%) too high
+[1701735728] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 5.52MB (4.41%), Average OUT: 102.41MB (81.93%)Total RX: 46.27GBytes, Total TX: 649.20GBytes
+[1701735770] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701735771] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701735848] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.91%) too high
+[1701735902] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701735903] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701735968] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 5.37MB (4.29%), Average OUT: 105.21MB (84.17%)Total RX: 47.51GBytes, Total TX: 674.71GBytes
+[1701736148] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.25%) too high
+[1701736268] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 5.69MB (4.55%), Average OUT: 101.21MB (80.97%)Total RX: 49.09GBytes, Total TX: 705.74GBytes
+[1701736389] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.50%) too high
+[1701736509] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 4.17MB (3.33%), Average OUT: 103.76MB (83.01%)Total RX: 50.28GBytes, Total TX: 731.13GBytes
+[1701736690] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (89.38%) too high
+[1701736810] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 5.95MB (4.76%), Average OUT: 104.76MB (83.81%)Total RX: 52.13GBytes, Total TX: 763.20GBytes
+[1701736991] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.26%) too high
+[1701737111] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 4.42MB (3.54%), Average OUT: 101.35MB (81.08%)Total RX: 53.63GBytes, Total TX: 794.07GBytes
+[1701737291] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (89.17%) too high
+[1701737412] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (85.67%) too high
+[1701737532] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (85.99%) too high
+[1701737653] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 2.96MB (2.37%), Average OUT: 97.47MB (77.97%)Total RX: 56.48GBytes, Total TX: 851.61GBytes
+[1701737772] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.88%) too high
+[1701737893] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 9.56MB (7.64%), Average OUT: 87.61MB (70.09%)Total RX: 58.08GBytes, Total TX: 874.48GBytes
+[1701738013] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.45%) too high
+[1701738133] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 17.20MB (13.76%), Average OUT: 97.25MB (77.80%)Total RX: 62.54GBytes, Total TX: 899.27GBytes
+[1701738254] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (88.91%) too high
+[1701738374] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (89.70%) too high
+[1701738494] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (86.08%) too high
+[1701738614] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 791.59KB (0.63%), Average OUT: 103.64MB (82.91%)Total RX: 66.85GBytes, Total TX: 951.88GBytes
+[1701738735] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (93.14%) too high
+[1701738855] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (93.61%) too high
+[1701738975] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (90.16%) too high
+[1701739095] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.31%) too high
+[1701739116] Auto-save of retention data completed successfully.
+[1701739155] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.72%) too high
+[1701739635] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.29%) too high
+[1701739695] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.53%) too high
+[1701740835] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1701741015] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.65%) too high
+[1701741075] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.68%) too high
+[1701741195] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.89%) too high
+[1701741255] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STARTED; Service appears to have started flapping (23.9% change >= 20.0% threshold)
+[1701741255] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (90.55%) too high
+[1701741795] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.90%) too high
+[1701741856] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.17%) too high
+[1701742036] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.23%) too high
+[1701742097] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.07%) too high
+[1701742470] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701742534] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1701742716] Auto-save of retention data completed successfully.
+[1701742802] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701742877] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.34%) too high
+[1701742922] SERVICE ALERT: SRV_chat.cass.cl;Proceso Docker;OK;SOFT;2;PROCS OK: 0 processes with command name 'docker'
+[1701742937] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.84%) too high
+[1701743118] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.27%) too high
+[1701743178] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (88.32%) too high
+[1701743358] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.52%) too high
+[1701743479] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (87.46%) too high
+[1701743539] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.27%) too high
+[1701743599] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.16%) too high
+[1701743659] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 2.53MB (2.02%), Average OUT: 104.85MB (83.88%)Total RX: 84.32GBytes, Total TX: 1543.29GBytes
+[1701743779] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.17%) too high
+[1701743899] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (91.15%) too high
+[1701744020] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.89%) too high
+[1701744620] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.28%) too high
+[1701744680] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.59%) too high
+[1701745160] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.14%) too high

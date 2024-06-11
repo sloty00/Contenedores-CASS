@@ -1,0 +1,14 @@
+RemoveHandler .phtml
+RemoveHandler .php
+RemoveHandler .php3
+RemoveHandler .php4
+RemoveHandler .php5
+RemoveHandler .cgi
+RemoveHandler .exe
+RemoveHandler .pl
+RemoveHandler .asp
+RemoveHandler .aspx
+RemoveHandler .shtml
+<Files ~ "\.php|\.phtml|\.cgi|\.exe|\.pl|\.asp|\.aspx|\.shtml">
+Order allow,deny
+Deny from all

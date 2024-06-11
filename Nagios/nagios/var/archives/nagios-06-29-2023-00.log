@@ -1,0 +1,832 @@
+[1687924800] LOG ROTATION: DAILY
+[1687924800] LOG VERSION: 2.0
+[1687924800] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.28 ms
+[1687924800] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.28 ms
+[1687924800] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1687924800] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1687924800] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.85 ms
+[1687924800] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.30 ms
+[1687924800] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.01 ms
+[1687924800] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 44%, RTA = 33.31 ms
+[1687924800] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1687924800] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1687924800] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.11 ms
+[1687924800] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.28 ms
+[1687924800] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.32 ms
+[1687924800] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1687924800] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.72 ms
+[1687924800] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1687924800] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.83 ms
+[1687924800] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.18 ms
+[1687924800] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1687924800] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.80 ms
+[1687924800] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.36 ms
+[1687924800] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.49 ms
+[1687924800] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1687924800] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 17.20 ms
+[1687924800] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1687924800] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1687924800] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1687924800] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1687924800] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.79 ms
+[1687924800] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1687924800] CURRENT HOST STATE: SRV12WEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1687924800] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.57 ms
+[1687924800] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1687924800] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1687924800] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.30 ms
+[1687924800] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1687924800] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1687924800] CURRENT HOST STATE: SRVMFSD;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1687924800] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1687924800] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.82 ms
+[1687924800] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1687924800] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1687924800] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1687924800] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1687924800] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1687924800] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1687924800] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1687924800] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1687924800] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1687924800] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.86 ms
+[1687924800] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1687924800] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.08 ms
+[1687924800] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.21 ms
+[1687924800] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.67 ms
+[1687924800] CURRENT SERVICE STATE: Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 47.14 ms
+[1687924800] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.12 ms
+[1687924800] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1687924800] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.03 ms
+[1687924800] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 16%, RTA = 3.20 ms
+[1687924800] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.26 ms
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 8.95KB (0.01%), Average OUT: 14.23KB (0.01%)Total RX: 60.03MBytes, Total TX: 119.20MBytes
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 2.79KB (0.00%), Average OUT: 4.75KB (0.00%)Total RX: 24.48MBytes, Total TX: 58.42MBytes
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 403.93B (0.00%), Average OUT: 149.47B (0.00%)Total RX: 5.27GBytes, Total TX: 10.21GBytes
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.000 second response time on 201.220.96.34 port 4444
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1687924800] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (788033) 2:11:20.33
+[1687924800] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.81 ms
+[1687924800] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.17 ms
+[1687924800] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.12 ms
+[1687924800] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1687924800] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687924800] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.00 ms
+[1687924800] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687924800] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1687924800] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1687924800] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:30TB - Free:20TB - Used Space: 59%
+[1687924800] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1687924800] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1263MB - Free:2567MB = 33%
+[1687924800] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1687924800] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=37C
+[1687924800] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (411076613) 47 days, 13:52:46.13
+[1687924800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1687924800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;OK;HARD;1;c:\ - total: 119.40 Gb - used: 88.85 Gb (74%) - free 30.54 Gb (26%)
+[1687924800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 179.83 Gb (18%) - free 844.15 Gb (82%)
+[1687924800] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1687924800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 9199.38 MB (39%) - free: 14351.83 MB (61%)
+[1687924800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.16 ms
+[1687924800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 2 day(s) 15 hour(s) 57 minute(s)
+[1687924800] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.82 ms
+[1687924800] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: no updates available
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78752 MiB (85.97% inode=-):
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.00
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 3006 MB - 39% [SWAP] Total: 7944 MB - Used: 4 MB - 0%
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 312 processes
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 67 day(s) 14 hour(s) 15 minute(s)
+[1687924800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1687924800] CURRENT SERVICE STATE: SRV12WEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1687924800] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.64 ms
+[1687924800] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1687924800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1687924800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 156.94 Gb (52%) - free 142.72 Gb (48%)
+[1687924800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1687924800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:18171.58 MB - used: 12553.50 MB (69%) - free: 5618.08 MB (31%)
+[1687924800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.02 ms
+[1687924800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 6 day(s) 5 hour(s) 9 minute(s)
+[1687924800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1687924800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 42.29 Gb (14%) - free 257.04 Gb (86%)
+[1687924800] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 3% (5 min average)
+[1687924800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 3449.82 MB (24%) - free: 10693.31 MB (76%)
+[1687924800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.28 ms
+[1687924800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 12 day(s) 2 hour(s) 8 minute(s)
+[1687924800] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1687924800] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.13 ms
+[1687924800] CURRENT SERVICE STATE: SRVMFSD;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2479292 MB (73% inode=-):
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.04, 0.06, 0.08
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.001 second response time on port 443
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1027 MB - 26% [SWAP] Total: 2047 MB - Used: 320 MB - 15%
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 309 processes
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 70 day(s) 2 hour(s) 3 minute(s)
+[1687924800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1687924800] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118426 MiB (91.22% inode=-):
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1551 MB - 19% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.77 ms
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 317 processes
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 97 day(s) 11 hour(s) 37 minute(s)
+[1687924800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1687924800] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 972522 MiB (93.05% inode=-):
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.04, 0.06, 0.07
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 2915 MB - 36% [SWAP] Total: 2048 MB - Used: 473 MB - 23%
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 305 processes
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1687924800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 476349 MiB (94.03% inode=-):
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1813863 MiB (92.62% inode=99%):
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 476557 MiB (99.85% inode=100%):
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.01, 0.01
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.005 sec. response time
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2499 MB - 20% [SWAP] Total: 2048 MB - Used: 232 MB - 11%
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 294 processes
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 82 day(s) 10 hour(s) 46 minute(s)
+[1687924800] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1687924800] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 12 Updates Available
+[1687924800] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.00, 0.03, 0.05
+[1687924800] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 662 MB - 8% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1687924800] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1687924800] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 63 processes with STATE = RSZDT
+[1687924800] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1687924800] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1687924800] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1687924800] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 5.78KB (0.00%), Average OUT: 5.72KB (0.00%)Total RX: 24575.01GBytes, Total TX: 58221.64GBytes
+[1687924800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1687924800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1687924800] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1687924800] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (842361221) 97 days, 11:53:32.21
+[1687924800] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 98%, approximately 0 minutes runtime remaining.
+[1687924800] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1687924800] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1687924800] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 23 degrees C (73.4 degrees F).
+[1687924800] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (30671177) 3 days, 13:11:51.77
+[1687924800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1687924800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 56.31 Gb (57%) - free 43.02 Gb (43%)
+[1687924800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 9% (5 min average)
+[1687924800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:18815.17 MB - used: 8256.58 MB (44%) - free: 10558.59 MB (56%)
+[1687924800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1687924800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 8 hour(s) 11 minute(s)
+[1687924800] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 181 days on 2023-12-26 20:59 -0300/-03.
+[1687924800] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1079 bytes in 0.177 second response time
+[1687924801] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687924801] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687924801] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687924802] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687924933] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687924935] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687924935] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687924935] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687926590] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687926590] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687926590] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687926590] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687926590] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687926590] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687927831] Auto-save of retention data completed successfully.
+[1687929002] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687929122] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;OK;SOFT;2;DISK OK - free space: /mail 1813908 MiB (92.62% inode=99%):
+[1687930200] SERVICE ALERT: Electric Works;Ping;CRITICAL;SOFT;1;CRITICAL - Network Unreachable (190.171.184.81)
+[1687930200] HOST ALERT: Electric Works;DOWN;SOFT;1;CRITICAL - Network Unreachable (190.171.184.81)
+[1687930202] SERVICE ALERT: Clinica PV Movistar;Ping;CRITICAL;SOFT;1;CRITICAL - Network Unreachable (200.54.66.25)
+[1687930202] HOST ALERT: FW ADL Diagnostic;DOWN;SOFT;1;CRITICAL - Network Unreachable (190.151.63.108)
+[1687930202] HOST ALERT: Clinica PV Movistar;DOWN;SOFT;1;CRITICAL - Network Unreachable (200.54.66.25)
+[1687930264] HOST ALERT: Electric Works;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 30.13 ms
+[1687930266] HOST ALERT: FW ADL Diagnostic;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 32.52 ms
+[1687930266] HOST ALERT: Clinica PV Movistar;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 29.80 ms
+[1687930324] SERVICE ALERT: Electric Works;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 29.97 ms
+[1687930326] SERVICE ALERT: Clinica PV Movistar;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 29.33 ms
+[1687930490] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687930490] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687930490] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687930490] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687930490] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687930490] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687931431] Auto-save of retention data completed successfully.
+[1687931932] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.2.6)
+[1687931932] SERVICE ALERT: SRV_Oraculo_cass.cl;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.6)
+[1687931995] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932058] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932121] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932184] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932247] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932310] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;7;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932373] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;8;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932436] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932499] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.6)
+[1687932602] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687932602] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687932722] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687932722] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1687934390] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687934390] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687934390] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687934390] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687934390] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687934390] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687935002] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).
+[1687935031] Auto-save of retention data completed successfully.
+[1687935122] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1687937990] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687937990] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687937990] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687937990] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687937990] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687937990] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687938631] Auto-save of retention data completed successfully.
+[1687939243] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687939245] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687939245] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687939245] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687939390] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687939390] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687939392] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687939393] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687941594] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687941594] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687941594] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687941594] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687941594] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687941594] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687942231] Auto-save of retention data completed successfully.
+[1687945491] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687945491] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687945491] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687945491] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687945491] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687945491] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687945831] Auto-save of retention data completed successfully.
+[1687949091] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687949091] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687949091] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687949091] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687949091] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687949091] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687949431] Auto-save of retention data completed successfully.
+[1687952691] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687952691] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687952691] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687952691] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687952691] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687952691] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687953031] Auto-save of retention data completed successfully.
+[1687956591] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687956591] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687956591] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687956591] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687956591] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687956591] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687956631] Auto-save of retention data completed successfully.
+[1687957222] HOST NOTIFICATION: nagiosadmin;SRV_Oraculo_cass.cl;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.6)
+[1687957222] HOST NOTIFICATION: andresnavarro;SRV_Oraculo_cass.cl;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.6)
+[1687957222] HOST NOTIFICATION: soporteti;SRV_Oraculo_cass.cl;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.2.6)
+[1687957222] HOST NOTIFICATION: soporteti;SRV_Oraculo_cass.cl;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.6)
+[1687957222] HOST NOTIFICATION: carlosstange;SRV_Oraculo_cass.cl;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.2.6)
+[1687957222] HOST NOTIFICATION: carlosstange;SRV_Oraculo_cass.cl;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.2.6)
+[1687960191] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687960191] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687960191] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687960191] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687960191] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687960191] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687960231] Auto-save of retention data completed successfully.
+[1687962001] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.2.25. Check system logs on 10.0.2.25
+[1687962121] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687963831] Auto-save of retention data completed successfully.
+[1687964091] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687964091] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687964091] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687964091] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687964091] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687964091] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687965001] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687965121] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1687967401] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687967431] Auto-save of retention data completed successfully.
+[1687967521] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687967691] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687967691] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687967691] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687967691] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687967691] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687967691] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687971031] Auto-save of retention data completed successfully.
+[1687971591] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687971591] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687971591] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687971591] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687971591] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687971591] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687972004] SERVICE ALERT: Qnap NAS;Sysinfo;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687972017] SERVICE ALERT: Qnap NAS;Almacenamiento;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687972022] SERVICE ALERT: Qnap NAS;Temperatura;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687972039] SERVICE ALERT: Qnap NAS;Estado;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687972046] SERVICE ALERT: Qnap NAS;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1687972060] SERVICE ALERT: Qnap NAS;Memoria;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687972124] SERVICE ALERT: Qnap NAS;Sysinfo;OK;SOFT;2;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1687972138] SERVICE ALERT: Qnap NAS;Almacenamiento;OK;SOFT;2;OK: Total:50TB - Used:28TB - Free:21TB - Used Space: 56%
+[1687972142] SERVICE ALERT: Qnap NAS;Temperatura;OK;SOFT;2;OK: Temperature=36C
+[1687972159] SERVICE ALERT: Qnap NAS;Estado;OK;SOFT;2;Power Supply #1 - OK: GOOD
+[1687972166] SERVICE ALERT: Qnap NAS;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (9952) 0:01:39.52
+[1687972180] SERVICE ALERT: Qnap NAS;Memoria;OK;SOFT;2;OK: Total:3830MB - Used:1055MB - Free:2775MB = 28%
+[1687972454] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687972457] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687972574] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 57.96KB (0.05%), Average OUT: 288.15KB (0.23%)Total RX: 31.57GBytes, Total TX: 11.54GBytes
+[1687972577] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 76.19B (0.00%), Average OUT: 60.50B (0.00%)Total RX: 98.56GBytes, Total TX: 177.94GBytes
+[1687972636] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1687972756] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1687972885] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1687972927] SERVICE ALERT: Qnap NAS;Temperatura;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687973005] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1687973025] SERVICE ALERT: Qnap NAS;Memoria;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687973029] SERVICE ALERT: Qnap NAS;Sysinfo;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687973043] SERVICE ALERT: Qnap NAS;Almacenamiento;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687973052] SERVICE ALERT: Qnap NAS;Temperatura;CRITICAL;SOFT;2;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687973064] SERVICE ALERT: Qnap NAS;Estado;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1687973145] SERVICE ALERT: Qnap NAS;Memoria;OK;SOFT;2;OK: Total:3830MB - Used:1316MB - Free:2514MB = 35%
+[1687973150] SERVICE ALERT: Qnap NAS;Sysinfo;OK;SOFT;2;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1687973164] SERVICE ALERT: Qnap NAS;Almacenamiento;OK;SOFT;2;OK: Total:50TB - Used:28TB - Free:21TB - Used Space: 56%
+[1687973172] SERVICE ALERT: Qnap NAS;Temperatura;OK;SOFT;3;OK: Temperature=38C
+[1687973184] SERVICE ALERT: Qnap NAS;Estado;OK;SOFT;2;Power Supply #1 - OK: GOOD
+[1687973344] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687973364] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687973464] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 10.54KB (0.01%), Average OUT: 32.30KB (0.03%)Total RX: 795.17MBytes, Total TX: 1.51GBytes
+[1687973484] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 60.54KB (0.05%), Average OUT: 402.68KB (0.32%)Total RX: 31.63GBytes, Total TX: 11.90GBytes
+[1687974601] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687974631] Auto-save of retention data completed successfully.
+[1687974721] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687975192] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687975192] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687975192] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687975192] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687975192] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687975192] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687977001] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687977121] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 302 processes
+[1687978231] Auto-save of retention data completed successfully.
+[1687979092] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687979092] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687979092] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687979092] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687979092] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687979092] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687979620] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687979622] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687979680] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687979767] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687979772] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687979821] wproc: Core Worker 11600: job 2487704 (pid=25435) timed out. Killing it
+[1687979821] wproc: CHECK job 2487704 from worker Core Worker 11600 timed out after 30.01s
+[1687979821] wproc:   host=SRVDNS; service=(null);
+[1687979821] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687979821] Warning: Check of host 'SRVDNS' timed out after 30.01 seconds
+[1687979821] HOST ALERT: SRVDNS;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1687979821] wproc: Core Worker 11600: job 2487704 (pid=25435): Dormant child reaped
+[1687979830] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687979875] HOST ALERT: SRVDNS;UP;SOFT;1;PING OK - Packet loss = 16%, RTA = 0.82 ms
+[1687979915] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687979917] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687979923] SERVICE ALERT: SRV_SUM;Ping;CRITICAL;SOFT;1;CRITICAL - Host Unreachable (10.0.0.50)
+[1687979927] HOST ALERT: SRV_SUM;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.50)
+[1687979971] SERVICE ALERT: SRVDC1.cass.pmc;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1687979976] wproc: Core Worker 11598: job 2487833 (pid=26847) timed out. Killing it
+[1687979976] wproc: CHECK job 2487833 from worker Core Worker 11598 timed out after 30.01s
+[1687979976] wproc:   host=SRVDC1.cass.pmc; service=(null);
+[1687979976] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687979976] Warning: Check of host 'SRVDC1.cass.pmc' timed out after 30.01 seconds
+[1687979976] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1687979976] wproc: Core Worker 11598: job 2487833 (pid=26847): Dormant child reaped
+[1687979979] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687979982] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687979990] HOST ALERT: SRV_SUM;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980047] SERVICE ALERT: SRV_SUM;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980053] HOST ALERT: SRV_SUM;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980059] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687980061] wproc: Core Worker 11601: job 2487900 (pid=27569) timed out. Killing it
+[1687980061] wproc: CHECK job 2487900 from worker Core Worker 11601 timed out after 30.01s
+[1687980061] wproc:   host=SRVDC1.cass.pmc; service=(null);
+[1687980061] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687980061] Warning: Check of host 'SRVDC1.cass.pmc' timed out after 30.01 seconds
+[1687980061] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1687980062] wproc: Core Worker 11601: job 2487900 (pid=27569): Dormant child reaped
+[1687980065] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980116] HOST ALERT: SRV_SUM;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980121] SERVICE ALERT: SRVDC1.cass.pmc;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1687980127] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980129] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980131] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687980179] HOST ALERT: SRV_SUM;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980190] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980215] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980242] HOST ALERT: SRV_SUM;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980253] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980279] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980281] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980305] HOST ALERT: SRV_SUM;DOWN;SOFT;7;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980316] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980329] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980365] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980368] HOST ALERT: SRV_SUM;DOWN;SOFT;8;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980406] wproc: Core Worker 11599: job 2488181 (pid=30574) timed out. Killing it
+[1687980406] wproc: CHECK job 2488181 from worker Core Worker 11599 timed out after 30.01s
+[1687980406] wproc:   host=SRVDC1.cass.pmc; service=(null);
+[1687980406] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687980406] Warning: Check of host 'SRVDC1.cass.pmc' timed out after 30.01 seconds
+[1687980406] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;7;(Host check timed out after 30.01 seconds)
+[1687980407] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687980407] wproc: Core Worker 11599: job 2488181 (pid=30574): Dormant child reaped
+[1687980426] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687980431] HOST ALERT: SRV_SUM;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980479] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980494] HOST NOTIFICATION: nagiosadmin;SRV_SUM;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980494] HOST NOTIFICATION: andresnavarro;SRV_SUM;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980494] HOST NOTIFICATION: soporteti;SRV_SUM;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980494] HOST NOTIFICATION: soporteti;SRV_SUM;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980494] HOST NOTIFICATION: carlosstange;SRV_SUM;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980494] HOST NOTIFICATION: carlosstange;SRV_SUM;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980494] HOST ALERT: SRV_SUM;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.50)
+[1687980496] wproc: Core Worker 11598: job 2488253 (pid=31307) timed out. Killing it
+[1687980496] wproc: CHECK job 2488253 from worker Core Worker 11598 timed out after 30.01s
+[1687980496] wproc:   host=SRVDC1.cass.pmc; service=(null);
+[1687980496] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687980496] Warning: Check of host 'SRVDC1.cass.pmc' timed out after 30.01 seconds
+[1687980496] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1687980497] wproc: Core Worker 11598: job 2488253 (pid=31307): Dormant child reaped
+[1687980510] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687980560] wproc: Core Worker 11599: job 2488304 (pid=31859) timed out. Killing it
+[1687980560] wproc: CHECK job 2488304 from worker Core Worker 11599 timed out after 30.01s
+[1687980560] wproc:   host=SRVDNS; service=(null);
+[1687980560] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687980560] Warning: Check of host 'SRVDNS' timed out after 30.01 seconds
+[1687980560] HOST ALERT: SRVDNS;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1687980560] wproc: Core Worker 11599: job 2488304 (pid=31859): Dormant child reaped
+[1687980585] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980593] HOST ALERT: SRVDNS;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.03 ms
+[1687980602] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687980602] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687980602] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687980635] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980636] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980648] HOST NOTIFICATION: nagiosadmin;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980648] HOST NOTIFICATION: andresnavarro;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980648] HOST NOTIFICATION: soporteti;SRVDC1.cass.pmc;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980648] HOST NOTIFICATION: soporteti;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980648] HOST NOTIFICATION: carlosstange;SRVDC1.cass.pmc;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980648] HOST NOTIFICATION: carlosstange;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980648] HOST ALERT: SRVDC1.cass.pmc;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.123)
+[1687980692] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687980722] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;OK;SOFT;2;DISK OK - free space: /mail 1813763 MiB (92.62% inode=99%):
+[1687980722] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1687980777] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687980780] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687980780] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687981038] HOST NOTIFICATION: nagiosadmin;SRV_SUM;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687981038] HOST NOTIFICATION: andresnavarro;SRV_SUM;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687981038] HOST NOTIFICATION: soporteti;SRV_SUM;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687981038] HOST NOTIFICATION: soporteti;SRV_SUM;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687981038] HOST NOTIFICATION: carlosstange;SRV_SUM;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687981038] HOST NOTIFICATION: carlosstange;SRV_SUM;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687981038] HOST ALERT: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1687981055] SERVICE ALERT: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1687981059] HOST NOTIFICATION: nagiosadmin;SRVDC1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687981059] HOST NOTIFICATION: andresnavarro;SRVDC1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687981059] HOST NOTIFICATION: soporteti;SRVDC1.cass.pmc;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687981059] HOST NOTIFICATION: soporteti;SRVDC1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687981059] HOST NOTIFICATION: carlosstange;SRVDC1.cass.pmc;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687981059] HOST NOTIFICATION: carlosstange;SRVDC1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687981059] HOST ALERT: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687981067] SERVICE ALERT: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1687981088] SERVICE ALERT: SRVDNS;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 80%, RTA = 0.82 ms
+[1687981097] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981142] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981201] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1687981202] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687981202] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1687981202] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687981212] SERVICE ALERT: SRVDNS;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.84 ms
+[1687981238] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687981284] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687981287] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1687981321] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1687981322] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1687981339] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687981345] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687981388] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981407] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 293.85B (0.00%), Average OUT: 120.59B (0.00%)Total RX: 100.44GBytes, Total TX: 182.22GBytes
+[1687981533] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687981555] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981609] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981614] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981683] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981705] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981759] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981764] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981774] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687981831] Auto-save of retention data completed successfully.
+[1687981833] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981854] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687981894] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 152.49KB (0.12%), Average OUT: 570.74KB (0.46%)Total RX: 32.23GBytes, Total TX: 17.18GBytes
+[1687981909] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687981909] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687981947] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1687981982] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687981986] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687982004] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687982059] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687982067] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1687982120] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687982154] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687982207] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687982270] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687982304] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687982401] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687982401] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687982401] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687982402] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687982402] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687982406] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687982432] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687982488] SERVICE FLAPPING ALERT: SRV_email.cass.cl;Actualizacion;STARTED; Service appears to have started flapping (25.6% change >= 20.0% threshold)
+[1687982488] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687982521] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687982521] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1687982522] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1687982523] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;OK;SOFT;2;DISK OK - free space: /mail 1813750 MiB (92.62% inode=99%):
+[1687982537] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687982567] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687982694] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687982694] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687982694] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687982694] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687982694] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687982694] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687982987] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983001] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1687983002] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687983096] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983121] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 303 processes
+[1687983131] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687983150] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687983234] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983237] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687983384] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983461] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983517] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687983529] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687983567] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983603] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687983615] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687983637] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 1.20MB (0.96%), Average OUT: 5.31MB (4.25%)Total RX: 100.67GBytes, Total TX: 183.23GBytes
+[1687983660] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983704] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687983735] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 6.80KB (0.01%), Average OUT: 7.50KB (0.01%)Total RX: 1.10GBytes, Total TX: 2.05GBytes
+[1687983739] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983753] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983757] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1687983806] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687983834] SERVICE FLAPPING ALERT: SRV_SOS2021.cass.cl;Actualizacion;STARTED; Service appears to have started flapping (21.1% change >= 20.0% threshold)
+[1687983834] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1687983854] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687983878] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1687983888] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687984000] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687984023] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984038] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984150] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984163] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687984178] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687984297] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687984313] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984447] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984463] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984597] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984606] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687984688] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984738] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687984757] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687984836] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687984889] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687984932] SERVICE FLAPPING ALERT: SRV_email.cass.cl;Actualizacion;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1687984958] wproc: Core Worker 11600: job 2491903 (pid=5796) timed out. Killing it
+[1687984958] wproc: CHECK job 2491903 from worker Core Worker 11600 timed out after 30.01s
+[1687984958] wproc:   host=SRVDNS; service=(null);
+[1687984958] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687984958] Warning: Check of host 'SRVDNS' timed out after 30.01 seconds
+[1687984958] HOST ALERT: SRVDNS;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1687984958] wproc: Core Worker 11600: job 2491903 (pid=5796): Dormant child reaped
+[1687984962] SERVICE ALERT: SRVDNS;Ping;WARNING;HARD;1;PING WARNING - Packet loss = 93%, RTA = 0.74 ms
+[1687985000] SERVICE ALERT: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 44%, RTA = 0.83 ms
+[1687985006] HOST ALERT: SRVDNS;UP;SOFT;1;PING OK - Packet loss = 28%, RTA = 1.01 ms
+[1687985185] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687985320] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1687985345] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1687985401] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687985431] Auto-save of retention data completed successfully.
+[1687985445] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687985470] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1687985537] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687985565] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 61.60KB (0.05%), Average OUT: 388.15KB (0.31%)Total RX: 32.89GBytes, Total TX: 19.73GBytes
+[1687985803] SERVICE FLAPPING ALERT: SRV_SOS2021.cass.cl;Actualizacion;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1687985935] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687986056] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 263.79KB (0.21%), Average OUT: 398.08KB (0.32%)Total RX: 32.99GBytes, Total TX: 19.97GBytes
+[1687986590] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687986590] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687986590] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687986590] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687986590] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687986590] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687988320] SERVICE ALERT: SRVDNS;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 82%, RTA = 0.95 ms
+[1687988328] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988373] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988374] SERVICE ALERT: SRVDC1.cass.pmc;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988384] wproc: Core Worker 11600: job 2494719 (pid=3434) timed out. Killing it
+[1687988384] wproc: CHECK job 2494719 from worker Core Worker 11600 timed out after 30.01s
+[1687988384] wproc:   host=SRV_SUM; service=(null);
+[1687988384] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687988384] Warning: Check of host 'SRV_SUM' timed out after 30.01 seconds
+[1687988384] HOST ALERT: SRV_SUM;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1687988385] wproc: Core Worker 11600: job 2494719 (pid=3434): Dormant child reaped
+[1687988391] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988396] SERVICE ALERT: SRVAD1.cass.pmc;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988400] SERVICE ALERT: SRV_SUM;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988436] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988447] HOST ALERT: SRV_SUM;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988454] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988455] SERVICE ALERT: SRVDNS;Ping;OK;SOFT;2;PING OK - Packet loss = 68%, RTA = 0.94 ms
+[1687988499] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988510] HOST ALERT: SRV_SUM;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988517] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988562] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988573] HOST ALERT: SRV_SUM;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988580] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988625] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988636] HOST ALERT: SRV_SUM;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988643] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988688] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988699] HOST ALERT: SRV_SUM;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988706] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;7;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988710] wproc: Core Worker 11600: job 2494983 (pid=6220) timed out. Killing it
+[1687988710] wproc: CHECK job 2494983 from worker Core Worker 11600 timed out after 30.01s
+[1687988710] wproc:   host=SRVDNS; service=(null);
+[1687988710] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1687988710] Warning: Check of host 'SRVDNS' timed out after 30.01 seconds
+[1687988710] HOST ALERT: SRVDNS;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1687988710] wproc: Core Worker 11600: job 2494983 (pid=6220): Dormant child reaped
+[1687988723] HOST ALERT: SRVDNS;UP;SOFT;1;PING OK - Packet loss = 44%, RTA = 0.95 ms
+[1687988751] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;7;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988762] HOST ALERT: SRV_SUM;DOWN;SOFT;7;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988769] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;8;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988785] SERVICE ALERT: SRVDNS;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 86%, RTA = 1.07 ms
+[1687988814] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;8;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988825] HOST ALERT: SRV_SUM;DOWN;SOFT;8;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988832] HOST ALERT: SRVDC1.cass.pmc;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988876] HOST ALERT: SRVAD1.cass.pmc;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988888] HOST ALERT: SRV_SUM;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.0.50)
+[1687988895] HOST NOTIFICATION: nagiosadmin;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988895] HOST NOTIFICATION: andresnavarro;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988895] HOST NOTIFICATION: soporteti;SRVDC1.cass.pmc;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988895] HOST NOTIFICATION: soporteti;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988895] HOST NOTIFICATION: carlosstange;SRVDC1.cass.pmc;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988895] HOST NOTIFICATION: carlosstange;SRVDC1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988895] HOST ALERT: SRVDC1.cass.pmc;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.123)
+[1687988910] SERVICE ALERT: SRVDNS;Ping;OK;SOFT;2;PING OK - Packet loss = 16%, RTA = 1.09 ms
+[1687988936] HOST NOTIFICATION: nagiosadmin;SRVAD1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988936] HOST NOTIFICATION: andresnavarro;SRVAD1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988936] HOST NOTIFICATION: soporteti;SRVAD1.cass.pmc;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988936] HOST NOTIFICATION: soporteti;SRVAD1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988936] HOST NOTIFICATION: carlosstange;SRVAD1.cass.pmc;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988936] HOST NOTIFICATION: carlosstange;SRVAD1.cass.pmc;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988936] HOST ALERT: SRVAD1.cass.pmc;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.4)
+[1687988951] HOST ALERT: SRV_SUM;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.50)
+[1687989031] Auto-save of retention data completed successfully.
+[1687989313] SERVICE ALERT: SRV_SUM;Ping;WARNING;HARD;3;PING WARNING - Packet loss = 96%, RTA = 0.51 ms
+[1687989316] HOST ALERT: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 0.50 ms
+[1687989347] SERVICE ALERT: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1687989358] SERVICE ALERT: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 16%, RTA = 1.40 ms
+[1687989360] HOST NOTIFICATION: nagiosadmin;SRVAD1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687989360] HOST NOTIFICATION: andresnavarro;SRVAD1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687989360] HOST NOTIFICATION: soporteti;SRVAD1.cass.pmc;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687989360] HOST NOTIFICATION: soporteti;SRVAD1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687989360] HOST NOTIFICATION: carlosstange;SRVAD1.cass.pmc;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687989360] HOST NOTIFICATION: carlosstange;SRVAD1.cass.pmc;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687989360] HOST ALERT: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1687989726] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687989851] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 63.51KB (0.05%), Average OUT: 793.35KB (0.63%)Total RX: 33.27GBytes, Total TX: 21.86GBytes
+[1687990101] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1687990191] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687990191] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687990191] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687990191] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687990191] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687990191] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687990221] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 52.81KB (0.04%), Average OUT: 368.11KB (0.29%)Total RX: 33.29GBytes, Total TX: 22.00GBytes
+[1687990772] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1687990892] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 39.49KB (0.03%), Average OUT: 212.29KB (0.17%)Total RX: 33.32GBytes, Total TX: 22.14GBytes
+[1687992001] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687992121] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 299 processes
+[1687992631] Auto-save of retention data completed successfully.
+[1687993436] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687993440] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687993586] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687993590] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687993607] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687993719] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687993722] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1687993740] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687993791] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687993791] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687993791] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687993791] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687993791] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687993791] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687994401] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.2.25. Check system logs on 10.0.2.25
+[1687994401] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687994521] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.002 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687994534] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1687995001] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).
+[1687995121] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1687996231] Auto-save of retention data completed successfully.
+[1687996801] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1687996921] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1687997391] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687997391] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687997391] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687997391] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687997391] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1687997391] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1687998601] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1687998721] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1687999201] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1687999321] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1687999831] Auto-save of retention data completed successfully.
+[1687999844] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1687999977] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1688000040] SERVICE ALERT: SRVDNS;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 86%, RTA = 0.96 ms
+[1688000175] SERVICE ALERT: SRVDNS;Ping;OK;SOFT;2;PING OK - Packet loss = 68%, RTA = 1.06 ms
+[1688000401] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1688000537] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1688001291] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688001291] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688001291] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1688001291] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688001291] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1688001291] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688001450] wproc: Core Worker 11598: job 2505460 (pid=21480) timed out. Killing it
+[1688001450] wproc: CHECK job 2505460 from worker Core Worker 11598 timed out after 30.01s
+[1688001450] wproc:   host=SRVDNS; service=(null);
+[1688001450] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1688001450] Warning: Check of host 'SRVDNS' timed out after 30.01 seconds
+[1688001450] HOST ALERT: SRVDNS;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1688001450] wproc: Core Worker 11598: job 2505460 (pid=21480): Dormant child reaped
+[1688001462] HOST ALERT: SRVDNS;UP;SOFT;1;PING OK - Packet loss = 44%, RTA = 0.98 ms
+[1688003401] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1688003431] Auto-save of retention data completed successfully.
+[1688003521] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1688005191] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688005191] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688005191] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1688005191] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688005191] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1688005191] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688007031] Auto-save of retention data completed successfully.
+[1688008791] SERVICE NOTIFICATION: nagiosadmin;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688008791] SERVICE NOTIFICATION: andresnavarro;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688008791] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1688008791] SERVICE NOTIFICATION: soporteti;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688008791] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-telegram;YUM CRITICAL: 12 Updates Available
+[1688008791] SERVICE NOTIFICATION: carlosstange;SRV_nagios;Actualizacion;CRITICAL;notify-service-by-email;YUM CRITICAL: 12 Updates Available
+[1688010631] Auto-save of retention data completed successfully.

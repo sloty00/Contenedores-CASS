@@ -1,0 +1,986 @@
+[1712199600] LOG ROTATION: DAILY
+[1712199600] LOG VERSION: 2.0
+[1712199600] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.69 ms
+[1712199600] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.34 ms
+[1712199600] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1712199600] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1712199600] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.75 ms
+[1712199600] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.66 ms
+[1712199600] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 55.18 ms
+[1712199600] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.03 ms
+[1712199600] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.22 ms
+[1712199600] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1712199600] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1712199600] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.21 ms
+[1712199600] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.42 ms
+[1712199600] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.90 ms
+[1712199600] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1712199600] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.69 ms
+[1712199600] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.98 ms
+[1712199600] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 41.13 ms
+[1712199600] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.86 ms
+[1712199600] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.72 ms
+[1712199600] CURRENT HOST STATE: FW OyC;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 50.79 ms
+[1712199600] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.69 ms
+[1712199600] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.07 ms
+[1712199600] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1712199600] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1712199600] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1712199600] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 18.14 ms
+[1712199600] CURRENT HOST STATE: OyC Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 43.26 ms
+[1712199600] CURRENT HOST STATE: OyC Teledata;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 49.80 ms
+[1712199600] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.23 ms
+[1712199600] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1712199600] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.54 ms
+[1712199600] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1712199600] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.64 ms
+[1712199600] CURRENT HOST STATE: SRV05AD2_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.70 ms
+[1712199600] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1712199600] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.77 ms
+[1712199600] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1712199600] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.92 ms
+[1712199600] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.20 ms
+[1712199600] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1712199600] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.65 ms
+[1712199600] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.04 ms
+[1712199600] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1712199600] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1712199600] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.68 ms
+[1712199600] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.13 ms
+[1712199600] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.07 ms
+[1712199600] CURRENT HOST STATE: SRV_Prometheus;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1712199600] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1712199600] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1712199600] CURRENT HOST STATE: SRV_Sharepoint;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.53 ms
+[1712199600] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.50 ms
+[1712199600] CURRENT HOST STATE: SRV_VeeamOne;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.101)
+[1712199600] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1712199600] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.03 ms
+[1712199600] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1712199600] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1712199600] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1712199600] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1712199600] CURRENT HOST STATE: Ups Principal;DOWN;HARD;10;CRITICAL - Host Unreachable (192.168.10.19)
+[1712199600] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1712199600] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1712199600] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.84 ms
+[1712199600] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.44 ms
+[1712199600] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.13 ms
+[1712199600] CURRENT SERVICE STATE: Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 59.51 ms
+[1712199600] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.19 ms
+[1712199600] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1712199600] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.47 ms
+[1712199600] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.04 ms
+[1712199600] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.54 ms
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 8.38KB (0.01%), Average OUT: 5.56KB (0.00%)Total RX: 117.68GBytes, Total TX: 34.72GBytes
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 783.87B (0.00%), Average OUT: 1.62KB (0.00%)Total RX: 1003.33GBytes, Total TX: 834.18GBytes
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 108.33KB (0.09%), Average OUT: 6.34MB (5.07%)Total RX: 5014.41GBytes, Total TX: 5681.24GBytes
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.004 second response time on 201.220.96.34 port 4444
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1712199600] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (125209269) 14 days, 11:48:12.69
+[1712199600] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.91 ms
+[1712199600] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.72 ms
+[1712199600] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.73 ms
+[1712199600] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.01 ms
+[1712199600] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.68 ms
+[1712199600] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1712199600] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1712199600] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1712199600] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1712199600] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:36TB - Free:13TB - Used Space: 72%
+[1712199600] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1712199600] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1277MB - Free:2553MB = 34%
+[1712199600] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 2
+[1712199600] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=36C
+[1712199600] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (65060768) 7 days, 12:43:27.68
+[1712199600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1712199600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 98.65 Gb (83%) - free 20.75 Gb (17%)
+[1712199600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 227.08 Gb (22%) - free 796.91 Gb (78%)
+[1712199600] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1712199600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 7921.61 MB (34%) - free: 15629.60 MB (66%)
+[1712199600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.59 ms
+[1712199600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 3 day(s) 15 hour(s) 53 minute(s)
+[1712199600] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1712199600] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.70 ms
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78579 MiB (85.73% inode=-):
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.03, 0.02
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 3730 MB - 48% [SWAP] Total: 7944 MB - Used: 14 MB - 0%
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.84 ms
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 307 processes
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 26 day(s) 8 hour(s) 20 minute(s)
+[1712199600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1712199600] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.70 ms
+[1712199600] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.64 ms
+[1712199600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1712199600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 161.81 Gb (54%) - free 137.84 Gb (46%)
+[1712199600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1712199600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:16319.56 MB - used: 10492.43 MB (64%) - free: 5827.13 MB (36%)
+[1712199600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.24 ms
+[1712199600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 24 day(s) 15 hour(s) 8 minute(s)
+[1712199600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1712199600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 57.05 Gb (19%) - free 242.28 Gb (81%)
+[1712199600] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 4% (5 min average)
+[1712199600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:17997.56 MB - used: 5762.14 MB (32%) - free: 12235.43 MB (68%)
+[1712199600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.88 ms
+[1712199600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 15 day(s) 23 hour(s) 50 minute(s)
+[1712199600] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1712199600] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.87 ms
+[1712199600] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2381143 MB (71% inode=-):
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.08, 0.08, 0.09
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1226 MB - 31% [SWAP] Total: 2047 MB - Used: 166 MB - 8%
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 316 processes
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 26 day(s) 15 hour(s) 24 minute(s)
+[1712199600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1712199600] CURRENT SERVICE STATE: SRV_GLPI;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1712199600] CURRENT SERVICE STATE: SRV_GLPI;CPU;OK;HARD;1;OK: Percent was 0.00 %
+[1712199600] CURRENT SERVICE STATE: SRV_GLPI;Http;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 364 bytes in 0.001 second response time
+[1712199600] CURRENT SERVICE STATE: SRV_GLPI;Memoria;OK;HARD;1;OK: Memory usage was 14.50 % (Available: 14.35 GB, Total: 16.78 GB, Free: 0.53 GB, Used: 1.94 GB)
+[1712199600] CURRENT SERVICE STATE: SRV_GLPI;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1712199600] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118325 MiB (91.06% inode=-):
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.06, 0.02, 0.02
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1064 MB - 13% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 323 processes
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 26 day(s) 15 hour(s) 34 minute(s)
+[1712199600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1712199600] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1712199600] CURRENT SERVICE STATE: SRV_Soporte;Actualizacion;CRITICAL;HARD;3;Hay 5 actualizaciones pendientes.
+[1712199600] CURRENT SERVICE STATE: SRV_Soporte;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1712199600] CURRENT SERVICE STATE: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 32.12 %
+[1712199600] CURRENT SERVICE STATE: SRV_Soporte;Memoria;OK;HARD;1;OK: Memory usage was 31.90 % (Available: 11.70 GB, Total: 17.18 GB, Free: 11.70 GB, Used: 5.47 GB)
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 932170 MiB (89.17% inode=-):
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.04, 0.06, 0.07
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3233 MB - 40% [SWAP] Total: 2048 MB - Used: 391 MB - 19%
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 275 processes
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.001 second response time on port 8000
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1712199600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 459461 MiB (90.66% inode=-):
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1784687 MiB (91.13% inode=99%):
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 473912 MiB (99.30% inode=100%):
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.009 sec. response time
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2993 MB - 25% [SWAP] Total: 2048 MB - Used: 2 MB - 0%
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.95 ms
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 306 processes
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 26 day(s) 15 hour(s) 37 minute(s)
+[1712199600] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1712199600] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1712199600] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.09, 0.08, 0.11
+[1712199600] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 422 MB - 5% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1712199600] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1712199600] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 77 processes with STATE = RSZDT
+[1712199600] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1712199600] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.82 ms
+[1712199600] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1712199600] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 8.81KB (0.01%), Average OUT: 5.89KB (0.00%)Total RX: 15208.88GBytes, Total TX: 44579.91GBytes
+[1712199600] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1712199600] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1712199600] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.67 ms
+[1712199600] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (230341533) 26 days, 15:50:15.33
+[1712199600] CURRENT SERVICE STATE: Ups Principal;Carga;UNKNOWN;HARD;1;Plugin check_ups_snmp failure - snmpget command error.
+[1712199600] CURRENT SERVICE STATE: Ups Principal;Estado;UNKNOWN;HARD;1;Plugin check_ups_snmp failure - snmpget command error.
+[1712199600] CURRENT SERVICE STATE: Ups Principal;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.10.19)
+[1712199600] CURRENT SERVICE STATE: Ups Principal;Temperatura;UNKNOWN;HARD;1;Plugin check_ups_snmp failure - snmpget command error.
+[1712199600] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;CRITICAL;HARD;1;CRITICAL - Plugin timed out while executing system call
+[1712199600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1712199600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 63.45 Gb (64%) - free 35.88 Gb (36%)
+[1712199600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 11% (5 min average)
+[1712199600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:29070.81 MB - used: 19629.27 MB (68%) - free: 9441.55 MB (32%)
+[1712199600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.09 ms
+[1712199600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 19 day(s) 11 hour(s) 25 minute(s)
+[1712199600] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 274 days on 2025-01-03 20:59 -0300/-03.
+[1712199600] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.198 second response time
+[1712200211] SERVICE ALERT: SRV11VIBE_cass.cl;Puerto HTTPS;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1712200222] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712200225] wproc: Core Worker 1171: job 99617 (pid=20873) timed out. Killing it
+[1712200225] wproc: CHECK job 99617 from worker Core Worker 1171 timed out after 30.01s
+[1712200225] wproc:   host=ADL Diagnostic; service=(null);
+[1712200225] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200225] Warning: Check of host 'ADL Diagnostic' timed out after 30.01 seconds
+[1712200225] HOST ALERT: ADL Diagnostic;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200225] wproc: Core Worker 1171: job 99617 (pid=20873): Dormant child reaped
+[1712200228] wproc: Core Worker 1171: job 99618 (pid=20878) timed out. Killing it
+[1712200228] wproc: CHECK job 99618 from worker Core Worker 1171 timed out after 30.01s
+[1712200228] wproc:   host=Cass Telsur; service=(null);
+[1712200228] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200228] Warning: Check of host 'Cass Telsur' timed out after 30.01 seconds
+[1712200228] HOST ALERT: Cass Telsur;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200228] SERVICE ALERT: FW Clinica PV Movistar;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1712200229] wproc: Core Worker 1171: job 99618 (pid=20878): Dormant child reaped
+[1712200229] wproc: Core Worker 1170: job 99618 (pid=20884) timed out. Killing it
+[1712200229] wproc: CHECK job 99618 from worker Core Worker 1170 timed out after 30.01s
+[1712200229] wproc:   host=Cass Entel; service=(null);
+[1712200229] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200229] Warning: Check of host 'Cass Entel' timed out after 30.01 seconds
+[1712200229] HOST ALERT: Cass Entel;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200230] wproc: Core Worker 1170: job 99618 (pid=20884): Dormant child reaped
+[1712200230] wproc: Core Worker 1171: job 99619 (pid=20886) timed out. Killing it
+[1712200230] wproc: CHECK job 99619 from worker Core Worker 1171 timed out after 30.01s
+[1712200230] wproc:   host=Clinica PV Movistar; service=(null);
+[1712200230] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200230] Warning: Check of host 'Clinica PV Movistar' timed out after 30.01 seconds
+[1712200230] HOST ALERT: Clinica PV Movistar;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200231] wproc: Core Worker 1171: job 99619 (pid=20886): Dormant child reaped
+[1712200231] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712200231] wproc: Core Worker 1170: job 99619 (pid=20914) timed out. Killing it
+[1712200231] wproc: CHECK job 99619 from worker Core Worker 1170 timed out after 30.01s
+[1712200231] wproc:   host=Confe; service=(null);
+[1712200231] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200231] Warning: Check of host 'Confe' timed out after 30.01 seconds
+[1712200231] HOST ALERT: Confe;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200231] wproc: Core Worker 1170: job 99619 (pid=20914): Dormant child reaped
+[1712200232] wproc: Core Worker 1172: job 99620 (pid=20918) timed out. Killing it
+[1712200232] wproc: CHECK job 99620 from worker Core Worker 1172 timed out after 30.01s
+[1712200232] wproc:   host=Clinica PV Telsur; service=(null);
+[1712200232] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200232] Warning: Check of host 'Clinica PV Telsur' timed out after 30.01 seconds
+[1712200232] HOST ALERT: Clinica PV Telsur;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200232] wproc: Core Worker 1172: job 99620 (pid=20918): Dormant child reaped
+[1712200232] SERVICE ALERT: SRV_sync.cass.cl;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1712200234] wproc: Core Worker 1169: job 99621 (pid=20923) timed out. Killing it
+[1712200234] wproc: CHECK job 99621 from worker Core Worker 1169 timed out after 30.00s
+[1712200234] wproc:   host=Ext Entel; service=(null);
+[1712200234] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200234] Warning: Check of host 'Ext Entel' timed out after 30.00 seconds
+[1712200234] HOST ALERT: Ext Entel;DOWN;SOFT;1;(Host check timed out after 30.00 seconds)
+[1712200235] SERVICE ALERT: SRV_email.cass.cl;Memoria;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200235] wproc: Core Worker 1169: job 99621 (pid=20923): Dormant child reaped
+[1712200235] SERVICE ALERT: FW Cass Telsur;Estado TCP Sophos;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1712200235] SERVICE ALERT: SRV_Oraculo_cass.cl;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1712200235] wproc: Core Worker 1169: job 99622 (pid=20941) timed out. Killing it
+[1712200235] wproc: CHECK job 99622 from worker Core Worker 1169 timed out after 30.01s
+[1712200235] wproc:   host=Ext Telsur; service=(null);
+[1712200235] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200235] Warning: Check of host 'Ext Telsur' timed out after 30.01 seconds
+[1712200235] HOST ALERT: Ext Telsur;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200235] wproc: Core Worker 1172: job 99622 (pid=20943) timed out. Killing it
+[1712200235] wproc: CHECK job 99622 from worker Core Worker 1172 timed out after 30.01s
+[1712200235] wproc:   host=FW ADL Diagnostic; service=(null);
+[1712200235] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200235] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1712200235] HOST ALERT: FW ADL Diagnostic;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200236] wproc: Core Worker 1169: job 99622 (pid=20941): Dormant child reaped
+[1712200236] wproc: Core Worker 1172: job 99622 (pid=20943): Dormant child reaped
+[1712200237] wproc: Core Worker 1172: job 99623 (pid=20949) timed out. Killing it
+[1712200237] wproc: CHECK job 99623 from worker Core Worker 1172 timed out after 30.01s
+[1712200237] wproc:   host=FW Cass Entel; service=(null);
+[1712200237] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200237] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1712200237] HOST ALERT: FW Cass Entel;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200237] wproc: Core Worker 1170: job 99623 (pid=20951) timed out. Killing it
+[1712200237] wproc: CHECK job 99623 from worker Core Worker 1170 timed out after 30.01s
+[1712200237] wproc:   host=FW Blueshell; service=(null);
+[1712200237] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200237] Warning: Check of host 'FW Blueshell' timed out after 30.01 seconds
+[1712200237] HOST ALERT: FW Blueshell;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200237] wproc: Core Worker 1172: job 99623 (pid=20949): Dormant child reaped
+[1712200237] wproc: Core Worker 1170: job 99623 (pid=20951): Dormant child reaped
+[1712200239] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200239] wproc: Core Worker 1172: job 99624 (pid=20960) timed out. Killing it
+[1712200239] wproc: CHECK job 99624 from worker Core Worker 1172 timed out after 30.01s
+[1712200239] wproc:   host=web_cass_cl; service=(null);
+[1712200239] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200239] Warning: Check of host 'web_cass_cl' timed out after 30.01 seconds
+[1712200239] HOST ALERT: web_cass_cl;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200239] wproc: Core Worker 1172: job 99624 (pid=20960): Dormant child reaped
+[1712200240] SERVICE ALERT: FW ADL Diagnostic;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200240] wproc: Core Worker 1169: job 99625 (pid=20969) timed out. Killing it
+[1712200240] wproc: CHECK job 99625 from worker Core Worker 1169 timed out after 30.01s
+[1712200240] wproc:   host=FW Clinica PV Telsur; service=(null);
+[1712200240] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200240] Warning: Check of host 'FW Clinica PV Telsur' timed out after 30.01 seconds
+[1712200240] HOST ALERT: FW Clinica PV Telsur;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200240] wproc: Core Worker 1172: job 99625 (pid=20971) timed out. Killing it
+[1712200240] wproc: CHECK job 99625 from worker Core Worker 1172 timed out after 30.01s
+[1712200240] wproc:   host=FW Clinica PV Movistar; service=(null);
+[1712200240] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200240] Warning: Check of host 'FW Clinica PV Movistar' timed out after 30.01 seconds
+[1712200240] HOST ALERT: FW Clinica PV Movistar;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200241] wproc: Core Worker 1169: job 99625 (pid=20969): Dormant child reaped
+[1712200241] wproc: Core Worker 1172: job 99625 (pid=20971): Dormant child reaped
+[1712200241] wproc: Core Worker 1170: job 99625 (pid=20976) timed out. Killing it
+[1712200241] wproc: CHECK job 99625 from worker Core Worker 1170 timed out after 30.01s
+[1712200241] wproc:   host=FW Confe; service=(null);
+[1712200241] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200241] Warning: Check of host 'FW Confe' timed out after 30.01 seconds
+[1712200241] HOST ALERT: FW Confe;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200241] wproc: Core Worker 1171: job 99626 (pid=20978) timed out. Killing it
+[1712200241] wproc: CHECK job 99626 from worker Core Worker 1171 timed out after 30.01s
+[1712200241] wproc:   host=SRV11VIBE_cass.cl; service=(null);
+[1712200241] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200241] Warning: Check of host 'SRV11VIBE_cass.cl' timed out after 30.01 seconds
+[1712200241] HOST ALERT: SRV11VIBE_cass.cl;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200241] wproc: Core Worker 1170: job 99625 (pid=20976): Dormant child reaped
+[1712200242] wproc: Core Worker 1169: job 99626 (pid=20980) timed out. Killing it
+[1712200242] wproc: CHECK job 99626 from worker Core Worker 1169 timed out after 30.01s
+[1712200242] wproc:   host=FW Cass Telsur; service=(null);
+[1712200242] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200242] Warning: Check of host 'FW Cass Telsur' timed out after 30.01 seconds
+[1712200242] HOST ALERT: FW Cass Telsur;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200242] wproc: Core Worker 1171: job 99626 (pid=20978): Dormant child reaped
+[1712200242] wproc: Core Worker 1169: job 99626 (pid=20980): Dormant child reaped
+[1712200244] wproc: Core Worker 1170: job 99626 (pid=20983) timed out. Killing it
+[1712200244] wproc: CHECK job 99626 from worker Core Worker 1170 timed out after 30.01s
+[1712200244] wproc:   host=FW Gore Los Lagos; service=(null);
+[1712200244] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200244] Warning: Check of host 'FW Gore Los Lagos' timed out after 30.01 seconds
+[1712200244] HOST ALERT: FW Gore Los Lagos;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200244] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200244] wproc: Core Worker 1170: job 99626 (pid=20983): Dormant child reaped
+[1712200244] SERVICE ALERT: FW Electric Works;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1712200245] wproc: Core Worker 1170: job 99627 (pid=20989) timed out. Killing it
+[1712200245] wproc: CHECK job 99627 from worker Core Worker 1170 timed out after 30.01s
+[1712200245] wproc:   host=FW OyC; service=(null);
+[1712200245] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200245] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1712200245] HOST ALERT: FW OyC;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200245] wproc: Core Worker 1170: job 99627 (pid=20989): Dormant child reaped
+[1712200245] wproc: Core Worker 1171: job 99628 (pid=20991) timed out. Killing it
+[1712200245] wproc: CHECK job 99628 from worker Core Worker 1171 timed out after 30.00s
+[1712200245] wproc:   host=Ups Principal; service=(null);
+[1712200245] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200245] Warning: Check of host 'Ups Principal' timed out after 30.00 seconds
+[1712200245] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200245] wproc: Core Worker 1172: job 99628 (pid=20994) timed out. Killing it
+[1712200245] wproc: CHECK job 99628 from worker Core Worker 1172 timed out after 30.01s
+[1712200245] wproc:   host=Gore Los Lagos; service=(null);
+[1712200245] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200245] Warning: Check of host 'Gore Los Lagos' timed out after 30.01 seconds
+[1712200245] HOST ALERT: Gore Los Lagos;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200245] wproc: Core Worker 1171: job 99628 (pid=20991): Dormant child reaped
+[1712200246] wproc: Core Worker 1172: job 99628 (pid=20994): Dormant child reaped
+[1712200246] wproc: Core Worker 1171: job 99629 (pid=20997) timed out. Killing it
+[1712200246] wproc: CHECK job 99629 from worker Core Worker 1171 timed out after 30.01s
+[1712200246] wproc:   host=FW Pasmar; service=(null);
+[1712200246] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200246] Warning: Check of host 'FW Pasmar' timed out after 30.01 seconds
+[1712200246] HOST ALERT: FW Pasmar;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200247] wproc: Core Worker 1171: job 99629 (pid=20997): Dormant child reaped
+[1712200247] SERVICE ALERT: Electric Works;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1712200248] SERVICE ALERT: ADL Diagnostic;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200248] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200248] SERVICE ALERT: FW Blueshell;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200250] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;HARD;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200250] SERVICE ALERT: Clinica PV Movistar;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200250] SERVICE ALERT: FW Confe;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200251] wproc: Core Worker 1169: job 99633 (pid=21032) timed out. Killing it
+[1712200251] wproc: CHECK job 99633 from worker Core Worker 1169 timed out after 30.01s
+[1712200251] wproc:   host=FW Electric Works; service=(null);
+[1712200251] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200251] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1712200251] HOST ALERT: FW Electric Works;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200251] SERVICE ALERT: FW Cass Telsur;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200251] wproc: Core Worker 1169: job 99633 (pid=21032): Dormant child reaped
+[1712200251] wproc: Core Worker 1172: job 99634 (pid=21041) timed out. Killing it
+[1712200251] wproc: CHECK job 99634 from worker Core Worker 1172 timed out after 30.01s
+[1712200251] wproc:   host=Blueshell; service=(null);
+[1712200251] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200251] Warning: Check of host 'Blueshell' timed out after 30.01 seconds
+[1712200251] HOST ALERT: Blueshell;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200251] SERVICE ALERT: FW Pasmar;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200251] wproc: Core Worker 1172: job 99634 (pid=21041): Dormant child reaped
+[1712200252] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;HARD;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200252] SERVICE ALERT: SRV_email.cass.cl;CPU;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200252] wproc: Core Worker 1170: job 99635 (pid=21055) timed out. Killing it
+[1712200252] wproc: CHECK job 99635 from worker Core Worker 1170 timed out after 30.01s
+[1712200252] wproc:   host=OyC Entel; service=(null);
+[1712200252] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200252] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1712200252] HOST ALERT: OyC Entel;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200253] wproc: Core Worker 1170: job 99635 (pid=21055): Dormant child reaped
+[1712200253] wproc: Core Worker 1172: job 99636 (pid=21060) timed out. Killing it
+[1712200253] wproc: CHECK job 99636 from worker Core Worker 1172 timed out after 30.01s
+[1712200253] wproc:   host=OyC Teledata; service=(null);
+[1712200253] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200253] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1712200253] HOST ALERT: OyC Teledata;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200253] wproc: Core Worker 1172: job 99636 (pid=21060): Dormant child reaped
+[1712200254] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;HARD;1;CRITICAL - Plugin timed out while executing system call
+[1712200254] wproc: Core Worker 1171: job 99637 (pid=21067) timed out. Killing it
+[1712200254] wproc: CHECK job 99637 from worker Core Worker 1171 timed out after 30.01s
+[1712200254] wproc:   host=Pasmar; service=(null);
+[1712200254] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200254] Warning: Check of host 'Pasmar' timed out after 30.01 seconds
+[1712200254] HOST ALERT: Pasmar;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200254] SERVICE ALERT: SRV11VIBE_cass.cl;Almacenamiento /;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200254] wproc: Core Worker 1171: job 99637 (pid=21067): Dormant child reaped
+[1712200254] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos Zombies;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200254] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200255] wproc: Core Worker 1169: job 99638 (pid=21122) timed out. Killing it
+[1712200255] wproc: CHECK job 99638 from worker Core Worker 1169 timed out after 30.01s
+[1712200255] wproc:   host=Electric Works; service=(null);
+[1712200255] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200255] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1712200255] HOST ALERT: Electric Works;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200255] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200255] wproc: Core Worker 1169: job 99638 (pid=21122): Dormant child reaped
+[1712200255] SERVICE ALERT: SRV11VIBE_cass.cl;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200255] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;HARD;1;(No output on stdout) stderr:
+[1712200256] SERVICE ALERT: SRVDNS;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1712200257] SERVICE ALERT: SRV11VIBE_cass.cl;Puerto HTTP;CRITICAL;HARD;1;CRITICAL - Socket timeout
+[1712200257] SERVICE ALERT: web_cass_cl;HTTP;CRITICAL;HARD;1;CRITICAL - Socket timeout
+[1712200259] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200260] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200260] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200261] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200262] wproc: Core Worker 1171: job 99648 (pid=21192) timed out. Killing it
+[1712200262] wproc: CHECK job 99648 from worker Core Worker 1171 timed out after 30.01s
+[1712200262] wproc:   host=SRV_sync.cass.cl; service=(null);
+[1712200262] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200262] Warning: Check of host 'SRV_sync.cass.cl' timed out after 30.01 seconds
+[1712200262] HOST ALERT: SRV_sync.cass.cl;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200263] wproc: Core Worker 1171: job 99648 (pid=21192): Dormant child reaped
+[1712200265] wproc: Core Worker 1172: job 99650 (pid=21226) timed out. Killing it
+[1712200265] wproc: CHECK job 99650 from worker Core Worker 1172 timed out after 30.01s
+[1712200265] wproc:   host=SRV_email.cass.cl; service=(null);
+[1712200265] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200265] Warning: Check of host 'SRV_email.cass.cl' timed out after 30.01 seconds
+[1712200265] HOST ALERT: SRV_email.cass.cl;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200265] SERVICE ALERT: web_cass_cl;Certificado;CRITICAL;HARD;1;CRITICAL - Socket timeout
+[1712200265] wproc: Core Worker 1169: job 99650 (pid=21228) timed out. Killing it
+[1712200265] wproc: CHECK job 99650 from worker Core Worker 1169 timed out after 30.00s
+[1712200265] wproc:   host=Cass Entel; service=(null);
+[1712200265] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200265] Warning: Check of host 'Cass Entel' timed out after 30.00 seconds
+[1712200265] HOST ALERT: Cass Entel;UNREACHABLE;SOFT;2;(Host check timed out after 30.00 seconds)
+[1712200265] wproc: Core Worker 1172: job 99650 (pid=21226): Dormant child reaped
+[1712200265] SERVICE ALERT: SRV_email.cass.cl;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200265] wproc: Core Worker 1169: job 99650 (pid=21228): Dormant child reaped
+[1712200265] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200265] wproc: Core Worker 1172: job 99651 (pid=21235) timed out. Killing it
+[1712200265] wproc: CHECK job 99651 from worker Core Worker 1172 timed out after 30.01s
+[1712200265] wproc:   host=SRV_Oraculo_cass.cl; service=(null);
+[1712200265] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200265] Warning: Check of host 'SRV_Oraculo_cass.cl' timed out after 30.01 seconds
+[1712200265] HOST ALERT: SRV_Oraculo_cass.cl;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200265] wproc: Core Worker 1170: job 99651 (pid=21237) timed out. Killing it
+[1712200265] wproc: CHECK job 99651 from worker Core Worker 1170 timed out after 30.01s
+[1712200265] wproc:   host=Cass Telsur; service=(null);
+[1712200265] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200265] Warning: Check of host 'Cass Telsur' timed out after 30.01 seconds
+[1712200265] HOST ALERT: Cass Telsur;UNREACHABLE;SOFT;2;(Host check timed out after 30.01 seconds)
+[1712200265] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail2;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200266] wproc: Core Worker 1172: job 99651 (pid=21235): Dormant child reaped
+[1712200266] wproc: Core Worker 1169: job 99652 (pid=21240) timed out. Killing it
+[1712200266] wproc: CHECK job 99652 from worker Core Worker 1169 timed out after 30.01s
+[1712200266] wproc:   host=ADL Diagnostic; service=(null);
+[1712200266] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200266] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1712200266] Warning: Check of host 'ADL Diagnostic' timed out after 30.01 seconds
+[1712200266] HOST ALERT: ADL Diagnostic;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1712200266] wproc: Core Worker 1170: job 99651 (pid=21237): Dormant child reaped
+[1712200266] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200266] wproc: Core Worker 1169: job 99652 (pid=21240): Dormant child reaped
+[1712200266] SERVICE ALERT: SRV_email.cass.cl;Procesos;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200266] wproc: Core Worker 1170: job 99653 (pid=21248) timed out. Killing it
+[1712200266] wproc: CHECK job 99653 from worker Core Worker 1170 timed out after 30.01s
+[1712200266] wproc:   host=SRVDNS; service=(null);
+[1712200266] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200266] Warning: Check of host 'SRVDNS' timed out after 30.01 seconds
+[1712200266] HOST ALERT: SRVDNS;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200266] wproc: Core Worker 1170: job 99653 (pid=21248): Dormant child reaped
+[1712200267] SERVICE ALERT: SRV_email.cass.cl;Usuarios Login;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200269] wproc: Core Worker 1171: job 99655 (pid=21269) timed out. Killing it
+[1712200269] wproc: CHECK job 99655 from worker Core Worker 1171 timed out after 30.01s
+[1712200269] wproc:   host=SRVWEB_cass.cl; service=(null);
+[1712200269] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200269] Warning: Check of host 'SRVWEB_cass.cl' timed out after 30.01 seconds
+[1712200269] HOST ALERT: SRVWEB_cass.cl;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1712200269] wproc: Core Worker 1171: job 99655 (pid=21269): Dormant child reaped
+[1712200270] wproc: Core Worker 1172: job 99656 (pid=21282) timed out. Killing it
+[1712200270] wproc: CHECK job 99656 from worker Core Worker 1172 timed out after 30.01s
+[1712200270] wproc:   host=Clinica PV Telsur; service=(null);
+[1712200270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200270] Warning: Check of host 'Clinica PV Telsur' timed out after 30.01 seconds
+[1712200270] HOST ALERT: Clinica PV Telsur;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1712200270] wproc: Core Worker 1170: job 99656 (pid=21284) timed out. Killing it
+[1712200270] wproc: CHECK job 99656 from worker Core Worker 1170 timed out after 30.01s
+[1712200270] wproc:   host=Clinica PV Movistar; service=(null);
+[1712200270] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200270] Warning: Check of host 'Clinica PV Movistar' timed out after 30.01 seconds
+[1712200270] HOST ALERT: Clinica PV Movistar;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1712200270] SERVICE ALERT: FW Cass Entel;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200271] wproc: Core Worker 1172: job 99656 (pid=21282): Dormant child reaped
+[1712200271] wproc: Core Worker 1170: job 99656 (pid=21284): Dormant child reaped
+[1712200271] SERVICE ALERT: Blueshell;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200271] SERVICE ALERT: Ext Telsur;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200271] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200271] wproc: Core Worker 1170: job 99658 (pid=21298) timed out. Killing it
+[1712200271] wproc: CHECK job 99658 from worker Core Worker 1170 timed out after 30.01s
+[1712200271] wproc:   host=Confe; service=(null);
+[1712200271] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200271] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1712200271] Warning: Check of host 'Confe' timed out after 30.01 seconds
+[1712200271] HOST ALERT: Confe;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1712200272] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200272] wproc: Core Worker 1170: job 99658 (pid=21298): Dormant child reaped
+[1712200272] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200274] SERVICE ALERT: Pasmar;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200274] SERVICE ALERT: Gore Los Lagos;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200276] wproc: Core Worker 1172: job 99664 (pid=21347) timed out. Killing it
+[1712200276] wproc: CHECK job 99664 from worker Core Worker 1172 timed out after 30.01s
+[1712200276] wproc:   host=FW Gore Los Lagos; service=(null);
+[1712200276] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200276] Warning: Check of host 'FW Gore Los Lagos' timed out after 30.01 seconds
+[1712200276] HOST ALERT: FW Gore Los Lagos;UNREACHABLE;SOFT;2;(Host check timed out after 30.01 seconds)
+[1712200276] wproc: Core Worker 1172: job 99664 (pid=21347): Dormant child reaped
+[1712200277] SERVICE ALERT: SRV11VIBE_cass.cl;Proceso Vibe;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200278] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200278] SERVICE ALERT: SRV11VIBE_cass.cl;CPU;CRITICAL;HARD;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1712200278] SERVICE ALERT: FW Gore Los Lagos;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1712200279] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.171.184.82)
+[1712200279] HOST ALERT: Internet;DOWN;SOFT;1;CRITICAL - Host Unreachable (8.8.8.8)
+[1712200279] HOST ALERT: web_cass_cl;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (cfiler.cass.cl)
+[1712200279] HOST ALERT: FW OyC;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.151.71.212)
+[1712200279] SERVICE ALERT: SRVWEB_cass.cl;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.14)
+[1712200279] HOST ALERT: FW Pasmar;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.121.2.98)
+[1712200279] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.121.5.68)
+[1712200282] HOST ALERT: Blueshell;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.121.5.67)
+[1712200282] HOST ALERT: Clinica PV Movistar;UNREACHABLE;SOFT;3;CRITICAL - Host Unreachable (200.54.66.25)
+[1712200282] HOST ALERT: Ext Entel;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (152.231.86.226)
+[1712200282] HOST ALERT: OyC Teledata;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.151.71.212)
+[1712200282] HOST ALERT: Confe;UNREACHABLE;SOFT;3;CRITICAL - Host Unreachable (190.151.115.105)
+[1712200282] HOST ALERT: Clinica PV Telsur;UNREACHABLE;SOFT;3;CRITICAL - Host Unreachable (201.187.105.177)
+[1712200282] HOST ALERT: Gore Los Lagos;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.121.2.50)
+[1712200282] HOST ALERT: ADL Diagnostic;UNREACHABLE;SOFT;3;CRITICAL - Host Unreachable (190.151.63.105)
+[1712200282] HOST ALERT: OyC Entel;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.151.42.18)
+[1712200282] HOST ALERT: Electric Works;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.171.184.81)
+[1712200282] HOST ALERT: Pasmar;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.121.2.97)
+[1712200282] HOST ALERT: Ext Telsur;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (201.220.96.33)
+[1712200287] HOST ALERT: FW ADL Diagnostic;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.151.63.108)
+[1712200290] HOST ALERT: FW Cass Entel;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.151.63.108)
+[1712200293] HOST ALERT: FW Clinica PV Telsur;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (201.187.105.178)
+[1712200293] HOST ALERT: FW Confe;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (190.151.115.107)
+[1712200293] HOST ALERT: FW Clinica PV Movistar;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (200.54.66.26)
+[1712200299] HOST ALERT: FW Cass Telsur;UNREACHABLE;SOFT;2;CRITICAL - Host Unreachable (201.220.96.34)
+[1712200299] HOST ALERT: Cass Entel;UNREACHABLE;SOFT;3;CRITICAL - Host Unreachable (152.231.86.226)
+[1712200302] HOST ALERT: SRV11VIBE_cass.cl;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.2.13)
+[1712200302] HOST ALERT: Cass Telsur;UNREACHABLE;SOFT;3;CRITICAL - Host Unreachable (201.220.96.33)
+[1712200322] SERVICE ALERT: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1712200323] SERVICE ALERT: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.00, 0.01, 0.01
+[1712200323] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 26 day(s) 8 hour(s) 32 minute(s)
+[1712200324] HOST ALERT: SRV_email.cass.cl;UP;SOFT;1;PING OK - Packet loss = 16%, RTA = 0.67 ms
+[1712200324] HOST ALERT: SRVDNS;UP;SOFT;1;PING OK - Packet loss = 44%, RTA = 0.66 ms
+[1712200325] SERVICE ALERT: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 68%, RTA = 0.71 ms
+[1712200326] HOST ALERT: SRV_sync.cass.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1712200327] HOST ALERT: SRV11VIBE_cass.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1712200329] HOST ALERT: SRVWEB_cass.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1712200329] HOST ALERT: SRV_Oraculo_cass.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1712200331] SERVICE ALERT: SRV11VIBE_cass.cl;Puerto HTTPS;OK;SOFT;2;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1712200333] HOST ALERT: web_cass_cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1712200336] HOST ALERT: FW Gore Los Lagos;UNREACHABLE;SOFT;3;CRITICAL - Network Unreachable (190.121.2.51)
+[1712200344] SERVICE ALERT: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78579 MiB (85.73% inode=-):
+[1712200344] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 319 processes
+[1712200344] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1712200345] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1712200349] SERVICE ALERT: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.86 ms
+[1712200350] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 3740 MB - 48% [SWAP] Total: 7944 MB - Used: 14 MB - 0%
+[1712200351] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1712200352] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1712200355] SERVICE ALERT: SRV_email.cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 11939 MB - Used: 3004 MB - 25% [SWAP] Total: 2048 MB - Used: 2 MB - 0%
+[1712200355] SERVICE ALERT: FW Cass Telsur;Estado TCP Sophos;OK;SOFT;2;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1712200356] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 473912 MiB (99.30% inode=100%):
+[1712200357] SERVICE ALERT: SRV_sync.cass.cl;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.84 ms
+[1712200357] SERVICE ALERT: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 317 processes
+[1712200358] SERVICE ALERT: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1712200359] HOST ALERT: FW Cass Telsur;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.39 ms
+[1712200359] SERVICE ALERT: SRV_Oraculo_cass.cl;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1712200359] SERVICE ALERT: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1712200361] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1712200362] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1784688 MiB (91.13% inode=99%):
+[1712200363] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 459221 MiB (90.62% inode=-):
+[1712200363] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1712200364] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;2;Updates UNKNOWN : UNKNOWN: Error message: Failed to connect to download.opensuse.org port 80: Network is unreachable
+[1712200366] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;2;Updates UNKNOWN : UNKNOWN: Error message: Failed to connect to download.opensuse.org port 80: Network is unreachable
+[1712200367] SERVICE NOTIFICATION: nagiosadmin;SRV_email.cass.cl;Correo Smtp;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200367] SERVICE NOTIFICATION: andresnavarro;SRV_email.cass.cl;Correo Smtp;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200367] SERVICE NOTIFICATION: soporteti;SRV_email.cass.cl;Correo Smtp;CRITICAL;notify-service-by-telegram;CRITICAL - Socket timeout
+[1712200367] SERVICE NOTIFICATION: soporteti;SRV_email.cass.cl;Correo Smtp;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200367] SERVICE NOTIFICATION: carlosstange;SRV_email.cass.cl;Correo Smtp;CRITICAL;notify-service-by-telegram;CRITICAL - Socket timeout
+[1712200367] SERVICE NOTIFICATION: carlosstange;SRV_email.cass.cl;Correo Smtp;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200367] SERVICE ALERT: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on 10.0.2.13 port 80
+[1712200368] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1712200369] wproc: Core Worker 1169: job 99729 (pid=21924) timed out. Killing it
+[1712200369] wproc: CHECK job 99729 from worker Core Worker 1169 timed out after 30.01s
+[1712200369] wproc:   host=FW Electric Works; service=(null);
+[1712200369] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200369] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1712200369] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200369] wproc: Core Worker 1169: job 99730 (pid=21926) timed out. Killing it
+[1712200369] wproc: Core Worker 1170: job 99729 (pid=21927) timed out. Killing it
+[1712200369] wproc: CHECK job 99729 from worker Core Worker 1170 timed out after 30.01s
+[1712200369] wproc:   host=FW OyC; service=(null);
+[1712200369] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200369] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1712200369] HOST ALERT: FW OyC;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200369] wproc: CHECK job 99730 from worker Core Worker 1169 timed out after 30.01s
+[1712200369] wproc:   host=FW Blueshell; service=(null);
+[1712200369] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200369] Warning: Check of host 'FW Blueshell' timed out after 30.01 seconds
+[1712200369] HOST ALERT: FW Blueshell;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200369] wproc: Core Worker 1172: job 99729 (pid=21925) timed out. Killing it
+[1712200369] wproc: CHECK job 99729 from worker Core Worker 1172 timed out after 30.01s
+[1712200369] wproc:   host=Internet; service=(null);
+[1712200369] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200369] Warning: Check of host 'Internet' timed out after 30.01 seconds
+[1712200369] HOST ALERT: Internet;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1712200369] wproc: Core Worker 1171: job 99730 (pid=21928) timed out. Killing it
+[1712200369] wproc: CHECK job 99730 from worker Core Worker 1171 timed out after 30.02s
+[1712200369] wproc:   host=FW Pasmar; service=(null);
+[1712200369] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200369] Warning: Check of host 'FW Pasmar' timed out after 30.02 seconds
+[1712200369] HOST ALERT: FW Pasmar;UNREACHABLE;SOFT;3;(Host check timed out after 30.02 seconds)
+[1712200369] wproc: Core Worker 1169: job 99729 (pid=21924): Dormant child reaped
+[1712200369] wproc: Core Worker 1169: job 99730 (pid=21926): Dormant child reaped
+[1712200369] wproc: Core Worker 1172: job 99729 (pid=21925): Dormant child reaped
+[1712200369] wproc: Core Worker 1170: job 99729 (pid=21927): Dormant child reaped
+[1712200369] wproc: Core Worker 1171: job 99730 (pid=21928): Dormant child reaped
+[1712200369] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200370] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Estado Puerto DMZ;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200370] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Estado Puerto DMZ;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200370] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto DMZ;WARNING;notify-service-by-telegram;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200370] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto DMZ;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200370] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto DMZ;WARNING;notify-service-by-telegram;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200370] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto DMZ;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200371] SERVICE ALERT: FW Cass Telsur;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 96%, RTA = 0.44 ms
+[1712200371] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200371] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200371] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-telegram;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200371] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200371] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-telegram;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200371] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;WARNING;notify-service-by-email;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712200372] wproc: Core Worker 1170: job 99733 (pid=21968) timed out. Killing it
+[1712200372] wproc: CHECK job 99733 from worker Core Worker 1170 timed out after 30.01s
+[1712200372] wproc:   host=Ext Entel; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Ext Entel' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Ext Entel;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1169: job 99733 (pid=21967) timed out. Killing it
+[1712200372] wproc: CHECK job 99733 from worker Core Worker 1169 timed out after 30.01s
+[1712200372] wproc:   host=Blueshell; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Blueshell' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Blueshell;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1169: job 99734 (pid=21969) timed out. Killing it
+[1712200372] wproc: CHECK job 99734 from worker Core Worker 1169 timed out after 30.01s
+[1712200372] wproc:   host=Confe; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Confe' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Confe;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1172: job 99733 (pid=21970) timed out. Killing it
+[1712200372] wproc: CHECK job 99733 from worker Core Worker 1172 timed out after 30.01s
+[1712200372] wproc:   host=Clinica PV Movistar; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Clinica PV Movistar' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Clinica PV Movistar;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1171: job 99734 (pid=21971) timed out. Killing it
+[1712200372] wproc: CHECK job 99734 from worker Core Worker 1171 timed out after 30.01s
+[1712200372] wproc:   host=OyC Teledata; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1712200372] HOST ALERT: OyC Teledata;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1170: job 99734 (pid=21973) timed out. Killing it
+[1712200372] wproc: CHECK job 99734 from worker Core Worker 1170 timed out after 30.01s
+[1712200372] wproc:   host=Gore Los Lagos; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Gore Los Lagos' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Gore Los Lagos;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1172: job 99734 (pid=21972) timed out. Killing it
+[1712200372] wproc: CHECK job 99734 from worker Core Worker 1172 timed out after 30.01s
+[1712200372] wproc:   host=Clinica PV Telsur; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Clinica PV Telsur' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Clinica PV Telsur;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1171: job 99735 (pid=21974) timed out. Killing it
+[1712200372] wproc: CHECK job 99735 from worker Core Worker 1171 timed out after 30.01s
+[1712200372] wproc:   host=ADL Diagnostic; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'ADL Diagnostic' timed out after 30.01 seconds
+[1712200372] HOST ALERT: ADL Diagnostic;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1169: job 99735 (pid=21976) timed out. Killing it
+[1712200372] wproc: CHECK job 99735 from worker Core Worker 1169 timed out after 30.01s
+[1712200372] wproc:   host=OyC Entel; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1712200372] HOST ALERT: OyC Entel;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1170: job 99735 (pid=21977) timed out. Killing it
+[1712200372] wproc: CHECK job 99735 from worker Core Worker 1170 timed out after 30.01s
+[1712200372] wproc:   host=Pasmar; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Pasmar' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Pasmar;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1171: job 99736 (pid=21979) timed out. Killing it
+[1712200372] wproc: CHECK job 99736 from worker Core Worker 1171 timed out after 30.01s
+[1712200372] wproc:   host=Ext Telsur; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Ext Telsur' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Ext Telsur;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1172: job 99735 (pid=21978) timed out. Killing it
+[1712200372] wproc: CHECK job 99735 from worker Core Worker 1172 timed out after 30.01s
+[1712200372] wproc:   host=Electric Works; service=(null);
+[1712200372] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200372] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1712200372] HOST ALERT: Electric Works;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200372] wproc: Core Worker 1170: job 99735 (pid=21977): Dormant child reaped
+[1712200372] wproc: Core Worker 1169: job 99735 (pid=21976): Dormant child reaped
+[1712200372] wproc: Core Worker 1171: job 99736 (pid=21979): Dormant child reaped
+[1712200372] wproc: Core Worker 1172: job 99735 (pid=21978): Dormant child reaped
+[1712200372] SERVICE ALERT: SRV_email.cass.cl;CPU;OK;SOFT;2;OK - load average per CPU: 0.01, 0.02, 0.02
+[1712200374] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1712200374] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1712200374] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Tiempo Activo;CRITICAL;notify-service-by-telegram;CRITICAL - Plugin timed out while executing system call
+[1712200374] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1712200374] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Tiempo Activo;CRITICAL;notify-service-by-telegram;CRITICAL - Plugin timed out while executing system call
+[1712200374] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1712200377] wproc: Core Worker 1170: job 99741 (pid=22087) timed out. Killing it
+[1712200377] wproc: CHECK job 99741 from worker Core Worker 1170 timed out after 30.01s
+[1712200377] wproc:   host=FW ADL Diagnostic; service=(null);
+[1712200377] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200377] Warning: Check of host 'FW ADL Diagnostic' timed out after 30.01 seconds
+[1712200377] HOST ALERT: FW ADL Diagnostic;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200377] wproc: Core Worker 1170: job 99741 (pid=22087): Dormant child reaped
+[1712200378] SERVICE NOTIFICATION: nagiosadmin;web_cass_cl;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200378] SERVICE NOTIFICATION: andresnavarro;web_cass_cl;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200378] SERVICE NOTIFICATION: soporteti;web_cass_cl;HTTP;CRITICAL;notify-service-by-telegram;CRITICAL - Socket timeout
+[1712200378] SERVICE NOTIFICATION: soporteti;web_cass_cl;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200378] SERVICE NOTIFICATION: carlosstange;web_cass_cl;HTTP;CRITICAL;notify-service-by-telegram;CRITICAL - Socket timeout
+[1712200378] SERVICE NOTIFICATION: carlosstange;web_cass_cl;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1712200379] SERVICE ALERT: FW Clinica PV Movistar;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1712200379] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 26 day(s) 15 hour(s) 50 minute(s)
+[1712200380] wproc: Core Worker 1172: job 99744 (pid=22103) timed out. Killing it
+[1712200380] wproc: CHECK job 99744 from worker Core Worker 1172 timed out after 30.01s
+[1712200380] wproc:   host=FW Cass Entel; service=(null);
+[1712200380] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200380] Warning: Check of host 'FW Cass Entel' timed out after 30.01 seconds
+[1712200380] HOST ALERT: FW Cass Entel;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200380] SERVICE ALERT: SRVDNS;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.71 ms
+[1712200380] wproc: Core Worker 1172: job 99744 (pid=22103): Dormant child reaped
+[1712200382] SERVICE ALERT: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 274 days on 2025-01-03 20:59 -0300/-03.
+[1712200383] wproc: NOTIFY job 99765 from worker Core Worker 1172 is a non-check helper but exited with return code 6
+[1712200383] wproc:   host=SRV_email.cass.cl; service=Correo Smtp; contact=soporteti
+[1712200383] wproc:   early_timeout=0; exited_ok=1; wait_status=1536; error_code=0;
+[1712200383] wproc:   stderr line 01:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[1712200383] wproc:   stderr line 02:                                  Dload  Upload   Total   Spent    Left  Speed
+[1712200383] wproc:   stderr line 03:   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0curl: (6) Could not resolve host: api.telegram.org; Unknown error
+[1712200383] wproc: NOTIFY job 99766 from worker Core Worker 1171 is a non-check helper but exited with return code 6
+[1712200383] wproc:   host=SRV_email.cass.cl; service=Correo Smtp; contact=carlosstange
+[1712200383] wproc:   early_timeout=0; exited_ok=1; wait_status=1536; error_code=0;
+[1712200383] wproc:   stderr line 01:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[1712200383] wproc:   stderr line 02:                                  Dload  Upload   Total   Spent    Left  Speed
+[1712200383] wproc:   stderr line 03:   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0curl: (6) Could not resolve host: api.telegram.org; Unknown error
+[1712200383] wproc: Core Worker 1172: job 99748 (pid=22130) timed out. Killing it
+[1712200383] wproc: CHECK job 99748 from worker Core Worker 1172 timed out after 30.00s
+[1712200383] wproc:   host=FW Confe; service=(null);
+[1712200383] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200383] Warning: Check of host 'FW Confe' timed out after 30.00 seconds
+[1712200383] HOST ALERT: FW Confe;UNREACHABLE;SOFT;3;(Host check timed out after 30.00 seconds)
+[1712200383] wproc: Core Worker 1170: job 99748 (pid=22131) timed out. Killing it
+[1712200383] wproc: CHECK job 99748 from worker Core Worker 1170 timed out after 30.01s
+[1712200383] wproc:   host=FW Clinica PV Movistar; service=(null);
+[1712200383] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200383] Warning: Check of host 'FW Clinica PV Movistar' timed out after 30.01 seconds
+[1712200383] HOST ALERT: FW Clinica PV Movistar;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200383] wproc: Core Worker 1169: job 99748 (pid=22129) timed out. Killing it
+[1712200383] wproc: CHECK job 99748 from worker Core Worker 1169 timed out after 30.01s
+[1712200383] wproc:   host=FW Clinica PV Telsur; service=(null);
+[1712200383] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200383] Warning: Check of host 'FW Clinica PV Telsur' timed out after 30.01 seconds
+[1712200383] HOST ALERT: FW Clinica PV Telsur;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1712200384] wproc: Core Worker 1170: job 99748 (pid=22131): Dormant child reaped
+[1712200384] HOST ALERT: Cass Entel;UP;SOFT;1;PING WARNING - Packet loss = 80%, RTA = 0.38 ms
+[1712200384] wproc: Core Worker 1169: job 99748 (pid=22129): Dormant child reaped
+[1712200384] wproc: Core Worker 1172: job 99748 (pid=22130): Dormant child reaped
+[1712200390] SERVICE ALERT: FW Cass Entel;Ping;WARNING;HARD;3;PING WARNING - Packet loss = 86%, RTA = 33.56 ms
+[1712200390] SERVICE ALERT: Blueshell;Ping;WARNING;HARD;3;PING WARNING - Packet loss = 83%, RTA = 2.87 ms
+[1712200392] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1712200392] wproc: Core Worker 1170: job 99759 (pid=22232) timed out. Killing it
+[1712200392] wproc: CHECK job 99759 from worker Core Worker 1170 timed out after 30.01s
+[1712200392] wproc:   host=Cass Telsur; service=(null);
+[1712200392] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1712200392] Warning: Check of host 'Cass Telsur' timed out after 30.01 seconds
+[1712200392] HOST ALERT: Cass Telsur;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1712200393] wproc: Core Worker 1170: job 99759 (pid=22232): Dormant child reaped
+[1712200394] SERVICE ALERT: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.61 ms
+[1712200394] SERVICE ALERT: FW Electric Works;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1712200395] HOST ALERT: FW Cass Entel;UP;SOFT;1;PING OK - Packet loss = 58%, RTA = 33.62 ms
+[1712200398] SERVICE ALERT: Electric Works;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1712200398] HOST ALERT: FW ADL Diagnostic;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 33.61 ms
+[1712200400] HOST ALERT: FW Gore Los Lagos;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.84 ms
+[1712200402] SERVICE ALERT: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.88 ms
+[1712200402] SERVICE ALERT: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.22 ms
+[1712200404] SERVICE ALERT: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.25 ms
+[1712200404] SERVICE ALERT: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.69 ms
+[1712200405] SERVICE ALERT: FW Cass Telsur;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1712200405] SERVICE ALERT: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1712200406] HOST ALERT: FW Blueshell;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 2.87 ms
+[1712200406] HOST ALERT: ADL Diagnostic;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 33.18 ms
+[1712200408] HOST ALERT: Clinica PV Movistar;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 31.25 ms
+[1712200408] HOST ALERT: FW Confe;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 36.41 ms
+[1712200409] HOST ALERT: FW Pasmar;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.08 ms
+[1712200412] SERVICE ALERT: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.25 ms
+[1712200412] HOST ALERT: FW Clinica PV Movistar;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 32.37 ms
+[1712200416] SERVICE NOTIFICATION: nagiosadmin;SRV_email.cass.cl;Correo Smtp;OK;notify-service-by-email;SMTP OK - 0.021 sec. response time
+[1712200416] SERVICE NOTIFICATION: andresnavarro;SRV_email.cass.cl;Correo Smtp;OK;notify-service-by-email;SMTP OK - 0.021 sec. response time
+[1712200416] SERVICE NOTIFICATION: soporteti;SRV_email.cass.cl;Correo Smtp;OK;notify-service-by-telegram;SMTP OK - 0.021 sec. response time
+[1712200416] SERVICE NOTIFICATION: soporteti;SRV_email.cass.cl;Correo Smtp;OK;notify-service-by-email;SMTP OK - 0.021 sec. response time
+[1712200416] SERVICE NOTIFICATION: carlosstange;SRV_email.cass.cl;Correo Smtp;OK;notify-service-by-telegram;SMTP OK - 0.021 sec. response time
+[1712200416] SERVICE NOTIFICATION: carlosstange;SRV_email.cass.cl;Correo Smtp;OK;notify-service-by-email;SMTP OK - 0.021 sec. response time
+[1712200416] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.021 sec. response time
+[1712200420] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Estado Puerto DMZ;OK;notify-service-by-email;OK: Interface eth2 (index 4) is up.
+[1712200420] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Estado Puerto DMZ;OK;notify-service-by-email;OK: Interface eth2 (index 4) is up.
+[1712200420] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto DMZ;OK;notify-service-by-telegram;OK: Interface eth2 (index 4) is up.
+[1712200420] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto DMZ;OK;notify-service-by-email;OK: Interface eth2 (index 4) is up.
+[1712200420] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto DMZ;OK;notify-service-by-telegram;OK: Interface eth2 (index 4) is up.
+[1712200420] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto DMZ;OK;notify-service-by-email;OK: Interface eth2 (index 4) is up.
+[1712200420] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1712200421] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1712200421] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1712200421] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-telegram;OK: Interface eth1 (index 3) is up.
+[1712200421] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1712200421] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-telegram;OK: Interface eth1 (index 3) is up.
+[1712200421] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Estado Puerto WAN;OK;notify-service-by-email;OK: Interface eth1 (index 3) is up.
+[1712200421] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1712200423] SERVICE NOTIFICATION: nagiosadmin;FW Cass Telsur;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (4812) 0:00:48.12
+[1712200423] SERVICE NOTIFICATION: andresnavarro;FW Cass Telsur;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (4812) 0:00:48.12
+[1712200423] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Tiempo Activo;OK;notify-service-by-telegram;SNMP OK - Timeticks: (4812) 0:00:48.12
+[1712200423] SERVICE NOTIFICATION: soporteti;FW Cass Telsur;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (4812) 0:00:48.12
+[1712200423] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Tiempo Activo;OK;notify-service-by-telegram;SNMP OK - Timeticks: (4812) 0:00:48.12
+[1712200423] SERVICE NOTIFICATION: carlosstange;FW Cass Telsur;Tiempo Activo;OK;notify-service-by-email;SNMP OK - Timeticks: (4812) 0:00:48.12
+[1712200423] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (4812) 0:00:48.12
+[1712200425] SERVICE ALERT: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.66 ms
+[1712200425] SERVICE ALERT: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.87 ms
+[1712200426] SERVICE ALERT: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.85 ms
+[1712200428] SERVICE NOTIFICATION: nagiosadmin;web_cass_cl;HTTP;OK;notify-service-by-email;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.173 second response time
+[1712200428] SERVICE NOTIFICATION: andresnavarro;web_cass_cl;HTTP;OK;notify-service-by-email;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.173 second response time
+[1712200428] SERVICE NOTIFICATION: soporteti;web_cass_cl;HTTP;OK;notify-service-by-telegram;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.173 second response time
+[1712200428] SERVICE NOTIFICATION: soporteti;web_cass_cl;HTTP;OK;notify-service-by-email;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.173 second response time
+[1712200428] SERVICE NOTIFICATION: carlosstange;web_cass_cl;HTTP;OK;notify-service-by-telegram;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.173 second response time
+[1712200428] SERVICE NOTIFICATION: carlosstange;web_cass_cl;HTTP;OK;notify-service-by-email;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.173 second response time
+[1712200428] SERVICE ALERT: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.173 second response time
+[1712200428] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1712200428] SERVICE ALERT: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.00 ms
+[1712200428] SERVICE ALERT: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1712200428] SERVICE ALERT: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.68 ms
+[1712200429] HOST ALERT: Ext Telsur;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1712200430] HOST ALERT: Blueshell;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 2.90 ms
+[1712200432] SERVICE ALERT: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.89 ms
+[1712200432] SERVICE ALERT: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.91 ms
+[1712200432] HOST ALERT: Pasmar;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1712200432] HOST ALERT: Gore Los Lagos;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.91 ms
+[1712200432] HOST ALERT: FW Electric Works;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 32.69 ms
+[1712200433] HOST ALERT: Internet;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 16.33 ms
+[1712200433] HOST ALERT: FW OyC;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 43.98 ms
+[1712200433] HOST ALERT: Cass Telsur;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1712200436] HOST ALERT: OyC Teledata;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 43.46 ms
+[1712200437] HOST ALERT: Ext Entel;UP;SOFT;1;PING OK - Packet loss = 16%, RTA = 0.37 ms
+[1712200438] HOST ALERT: Clinica PV Telsur;UP;SOFT;1;PING OK - Packet loss = 28%, RTA = 1.04 ms
+[1712200438] HOST ALERT: Confe;UP;SOFT;1;PING OK - Packet loss = 28%, RTA = 36.71 ms
+[1712200438] HOST ALERT: Electric Works;UP;SOFT;1;PING OK - Packet loss = 28%, RTA = 31.89 ms
+[1712200438] HOST ALERT: OyC Entel;UP;SOFT;1;PING OK - Packet loss = 28%, RTA = 48.44 ms
+[1712200442] HOST ALERT: FW Clinica PV Telsur;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.08 ms
+[1712200462] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 220.68B (0.00%), Average OUT: 109.58B (0.00%)Total RX: 26.44KBytes, Total TX: 11.00KBytes
+[1712200481] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;HARD;3;CRITICAL - IN bandwidth (46116857675.94%) too high
+[1712200485] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 7.67KB (0.01%), Average OUT: 5.07KB (0.00%)Total RX: 1.04MBytes, Total TX: 803.39KBytes
+[1712200489] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;3;OK: Interface eth0 (index 2) is up.
+[1712200498] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1712200498] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1712200541] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 728.65B (0.00%), Average OUT: 1.52KB (0.00%)Total RX: 222.17KBytes, Total TX: 436.14KBytes
+[1712200801] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1712200801] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1712200934] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1712200934] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1712201275] Auto-save of retention data completed successfully.
+[1712202198] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1712202320] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1712204875] Auto-save of retention data completed successfully.
+[1712208475] Auto-save of retention data completed successfully.
+[1712212075] Auto-save of retention data completed successfully.
+[1712215675] Auto-save of retention data completed successfully.
+[1712219275] Auto-save of retention data completed successfully.
+[1712222875] Auto-save of retention data completed successfully.
+[1712226475] Auto-save of retention data completed successfully.
+[1712230075] Auto-save of retention data completed successfully.
+[1712233675] Auto-save of retention data completed successfully.
+[1712237275] Auto-save of retention data completed successfully.
+[1712237275] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712237395] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 116.66KB (0.09%), Average OUT: 16.45KB (0.01%)Total RX: 591.74MBytes, Total TX: 374.24MBytes
+[1712240042] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1712240104] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1712240875] Auto-save of retention data completed successfully.
+[1712244475] Auto-save of retention data completed successfully.
+[1712247302] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.90 %
+[1712247351] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712247423] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 9.80 %
+[1712247471] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1712247591] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712247711] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 100.45KB (0.08%), Average OUT: 536.61KB (0.43%)Total RX: 2.47GBytes, Total TX: 9.52GBytes
+[1712247961] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712247965] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712248075] Auto-save of retention data completed successfully.
+[1712248078] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712248085] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 67.38KB (0.05%), Average OUT: 20.04KB (0.02%)Total RX: 934.12MBytes, Total TX: 601.25MBytes
+[1712248086] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 70.21KB (0.06%), Average OUT: 816.11KB (0.65%)Total RX: 2.50GBytes, Total TX: 9.85GBytes
+[1712248130] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1712248198] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1712248250] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1712249072] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712249116] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712249192] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 316.39B (0.00%), Average OUT: 108.32B (0.00%)Total RX: 95.71GBytes, Total TX: 183.69GBytes
+[1712249237] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 84.66KB (0.07%), Average OUT: 1.11MB (0.89%)Total RX: 2.57GBytes, Total TX: 10.76GBytes
+[1712249284] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.90 %
+[1712249404] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.30 %
+[1712250665] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.85 %
+[1712250786] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 6.82 %
+[1712251675] Auto-save of retention data completed successfully.
+[1712253387] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712253507] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 52.36KB (0.04%), Average OUT: 975.56KB (0.78%)Total RX: 2.74GBytes, Total TX: 14.26GBytes
+[1712255275] Auto-save of retention data completed successfully.
+[1712258318] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1712258438] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 39.60KB (0.03%), Average OUT: 282.90KB (0.23%)Total RX: 3.00GBytes, Total TX: 16.58GBytes
+[1712258875] Auto-save of retention data completed successfully.
+[1712259162] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712259282] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 1.43MB (1.15%), Average OUT: 7.20MB (5.76%)Total RX: 98.45GBytes, Total TX: 190.17GBytes
+[1712262475] Auto-save of retention data completed successfully.
+[1712264647] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 70.45 %
+[1712264767] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 48.85 %
+[1712266075] Auto-save of retention data completed successfully.
+[1712268652] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1712268772] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 317.02B (0.00%), Average OUT: 104.88B (0.00%)Total RX: 98.99GBytes, Total TX: 204.58GBytes
+[1712269675] Auto-save of retention data completed successfully.
+[1712273275] Auto-save of retention data completed successfully.
+[1712276875] Auto-save of retention data completed successfully.
+[1712280475] Auto-save of retention data completed successfully.
+[1712284075] Auto-save of retention data completed successfully.

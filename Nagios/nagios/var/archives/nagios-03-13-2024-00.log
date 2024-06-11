@@ -1,0 +1,1276 @@
+[1710212400] LOG ROTATION: DAILY
+[1710212400] LOG VERSION: 2.0
+[1710212400] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.84 ms
+[1710212400] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.02 ms
+[1710212400] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1710212400] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1710212400] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.44 ms
+[1710212400] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 41.65 ms
+[1710212400] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 8.71 ms
+[1710212400] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 37.72 ms
+[1710212400] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 22.76 ms
+[1710212400] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1710212400] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.91 ms
+[1710212400] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.72 ms
+[1710212400] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.02 ms
+[1710212400] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.25 ms
+[1710212400] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1710212400] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.81 ms
+[1710212400] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 37.46 ms
+[1710212400] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 8.82 ms
+[1710212400] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.94 ms
+[1710212400] CURRENT HOST STATE: FW Gore Los Lagos;UNREACHABLE;HARD;10;(Host check timed out after 30.01 seconds)
+[1710212400] CURRENT HOST STATE: FW OyC;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 15.15 ms
+[1710212400] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.78 ms
+[1710212400] CURRENT HOST STATE: Gore Los Lagos;DOWN;HARD;10;(Host check timed out after 30.01 seconds)
+[1710212400] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1710212400] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 21.98 ms
+[1710212400] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1710212400] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 22.70 ms
+[1710212400] CURRENT HOST STATE: OyC Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.26 ms
+[1710212400] CURRENT HOST STATE: OyC Teledata;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 15.74 ms
+[1710212400] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.95 ms
+[1710212400] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1710212400] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 22.78 ms
+[1710212400] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 22.49 ms
+[1710212400] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.61 ms
+[1710212400] CURRENT HOST STATE: SRV05AD2_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.89 ms
+[1710212400] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.03 ms
+[1710212400] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.81 ms
+[1710212400] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.77 ms
+[1710212400] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 22.73 ms
+[1710212400] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.89 ms
+[1710212400] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.93 ms
+[1710212400] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.96 ms
+[1710212400] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1710212400] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.13 ms
+[1710212400] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 21.84 ms
+[1710212400] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1710212400] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.09 ms
+[1710212400] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.99 ms
+[1710212400] CURRENT HOST STATE: SRV_Prometheus;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1710212400] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 22.08 ms
+[1710212400] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1710212400] CURRENT HOST STATE: SRV_Sharepoint;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.82 ms
+[1710212400] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.42 ms
+[1710212400] CURRENT HOST STATE: SRV_VeeamOne;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.101)
+[1710212400] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 21.59 ms
+[1710212400] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1710212400] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1710212400] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1710212400] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 22.02 ms
+[1710212400] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1710212400] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1710212400] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.53 ms
+[1710212400] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1710212400] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.01 ms
+[1710212400] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 40.01 ms
+[1710212400] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.81 ms
+[1710212400] CURRENT SERVICE STATE: Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 59.51 ms
+[1710212400] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.03 ms
+[1710212400] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.07 ms
+[1710212400] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.59 ms
+[1710212400] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 39.83 ms
+[1710212400] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.76 ms
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 9.12KB (0.01%), Average OUT: 6.02KB (0.00%)Total RX: 4.05GBytes, Total TX: 6.15GBytes
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 669.73B (0.00%), Average OUT: 1.08KB (0.00%)Total RX: 55.06GBytes, Total TX: 101.53GBytes
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 45.10B (0.00%), Average OUT: 22.65B (0.00%)Total RX: 731.15GBytes, Total TX: 784.44GBytes
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1710212400] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (31612549) 3 days, 15:48:45.49
+[1710212400] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.34 ms
+[1710212400] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 8.79 ms
+[1710212400] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.94 ms
+[1710212400] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1710212400] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.63 ms
+[1710212400] CURRENT SERVICE STATE: Gore Los Lagos;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1710212400] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.00 ms
+[1710212400] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 21.75 ms
+[1710212400] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.90 ms
+[1710212400] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:38TB - Free:12TB - Used Space: 75%
+[1710212400] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1710212400] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:934MB - Free:2896MB = 25%
+[1710212400] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1710212400] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=39C
+[1710212400] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (436799874) 50 days, 13:19:58.74
+[1710212400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1710212400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 98.32 Gb (82%) - free 21.08 Gb (18%)
+[1710212400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 226.63 Gb (22%) - free 797.35 Gb (78%)
+[1710212400] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1710212400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 11430.77 MB (49%) - free: 12120.45 MB (51%)
+[1710212400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 23.84 ms
+[1710212400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 15 hour(s) 54 minute(s)
+[1710212400] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 22.58 ms
+[1710212400] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78571 MiB (85.72% inode=-):
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.00
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 2466 MB - 32% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 314 processes
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 3 day(s) 8 hour(s) 20 minute(s)
+[1710212400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1710212400] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.64 ms
+[1710212400] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1710212400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1710212400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 161.18 Gb (54%) - free 138.47 Gb (46%)
+[1710212400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1710212400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:16319.56 MB - used: 6947.92 MB (43%) - free: 9371.64 MB (57%)
+[1710212400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 23.15 ms
+[1710212400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 15 hour(s) 8 minute(s)
+[1710212400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1710212400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 47.67 Gb (16%) - free 251.66 Gb (84%)
+[1710212400] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1710212400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:12991.12 MB - used: 3238.62 MB (25%) - free: 9752.50 MB (75%)
+[1710212400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.04 ms
+[1710212400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 15 hour(s) 16 minute(s)
+[1710212400] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.57 ms
+[1710212400] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1710212400] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2391169 MB (71% inode=-):
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.13, 0.09, 0.09
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1395 MB - 35% [SWAP] Total: 2047 MB - Used: 27 MB - 1%
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 313 processes
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 22.25 ms
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 3 day(s) 15 hour(s) 23 minute(s)
+[1710212400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1710212400] CURRENT SERVICE STATE: SRV_GLPI;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1710212400] CURRENT SERVICE STATE: SRV_GLPI;CPU;OK;HARD;1;OK: Percent was 0.00 %
+[1710212400] CURRENT SERVICE STATE: SRV_GLPI;Http;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 364 bytes in 0.001 second response time
+[1710212400] CURRENT SERVICE STATE: SRV_GLPI;Memoria;OK;HARD;1;OK: Memory usage was 13.10 % (Available: 14.58 GB, Total: 16.78 GB, Free: 8.67 GB, Used: 1.78 GB)
+[1710212400] CURRENT SERVICE STATE: SRV_GLPI;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1710212400] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118348 MiB (91.08% inode=-):
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.02, 0.01
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 776 MB - 9% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 22.21 ms
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 311 processes
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 3 day(s) 15 hour(s) 33 minute(s)
+[1710212400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1710212400] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1710212400] CURRENT SERVICE STATE: SRV_Soporte;Actualizacion;CRITICAL;HARD;3;Hay 5 actualizaciones pendientes.
+[1710212400] CURRENT SERVICE STATE: SRV_Soporte;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1710212400] CURRENT SERVICE STATE: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 4.67 %
+[1710212400] CURRENT SERVICE STATE: SRV_Soporte;Memoria;OK;HARD;1;OK: Memory usage was 33.50 % (Available: 11.42 GB, Total: 17.18 GB, Free: 11.42 GB, Used: 5.76 GB)
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 934206 MiB (89.39% inode=-):
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.05, 0.08, 0.07
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3288 MB - 41% [SWAP] Total: 2048 MB - Used: 181 MB - 8%
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 22.10 ms
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 275 processes
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1710212400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 459233 MiB (90.62% inode=-):
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1787898 MiB (91.30% inode=99%):
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 474392 MiB (99.40% inode=100%):
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.01, 0.01
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.191 sec. response time
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2196 MB - 18% [SWAP] Total: 2048 MB - Used: 0 MB - 0%
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 299 processes
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 3 day(s) 15 hour(s) 37 minute(s)
+[1710212400] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1710212400] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1710212400] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.03, 0.05, 0.09
+[1710212400] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 464 MB - 5% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1710212400] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1710212400] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 66 processes with STATE = RSZDT
+[1710212400] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1710212400] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.03 ms
+[1710212400] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 21.80 ms
+[1710212400] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.15%) too high
+[1710212400] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1710212400] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1710212400] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1710212400] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (31623367) 3 days, 15:50:33.67
+[1710212400] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 100%, approximately 0 minutes runtime remaining.
+[1710212400] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1710212400] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1710212400] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 27 degrees C (80.6 degrees F).
+[1710212400] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (29448823) 3 days, 9:48:08.23
+[1710212400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1710212400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 86.51 Gb (87%) - free 12.82 Gb (13%)
+[1710212400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 40% (5 min average)
+[1710212400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 17388.75 MB (62%) - free: 10770.50 MB (38%)
+[1710212400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1710212400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 13 hour(s) 38 minute(s)
+[1710212400] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 297 days on 2025-01-03 20:59 -0300/-03.
+[1710212400] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1069 bytes in 0.315 second response time
+[1710212487] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.14%) too high
+[1710212547] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.60%) too high
+[1710212667] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.23%) too high
+[1710212788] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.10%) too high
+[1710212848] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.25%) too high
+[1710212969] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.99%) too high
+[1710213088] Auto-save of retention data completed successfully.
+[1710213089] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.55%) too high
+[1710213150] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.97%) too high
+[1710213210] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.59%) too high
+[1710213331] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.92%) too high
+[1710213391] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.53%) too high
+[1710213451] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.60%) too high
+[1710213571] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.15%) too high
+[1710213692] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.95%) too high
+[1710213752] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.59%) too high
+[1710213873] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.96%) too high
+[1710213993] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.53%) too high
+[1710214054] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.93%) too high
+[1710214114] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1710214235] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.95%) too high
+[1710214295] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.49%) too high
+[1710214355] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.54%) too high
+[1710214475] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.28%) too high
+[1710214596] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.90%) too high
+[1710214656] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.59%) too high
+[1710214777] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (98.00%) too high
+[1710214897] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.58%) too high
+[1710214958] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.96%) too high
+[1710215018] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1710215139] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.96%) too high
+[1710215199] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.59%) too high
+[1710215259] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.60%) too high
+[1710215379] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.19%) too high
+[1710215500] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.97%) too high
+[1710215560] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.54%) too high
+[1710215681] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.95%) too high
+[1710215801] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.59%) too high
+[1710215862] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.97%) too high
+[1710215922] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.57%) too high
+[1710215983] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.96%) too high
+[1710216043] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1710216164] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.03%) too high
+[1710216224] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.59%) too high
+[1710216345] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.98%) too high
+[1710216405] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.47%) too high
+[1710216526] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.88%) too high
+[1710216586] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1710216688] Auto-save of retention data completed successfully.
+[1710216707] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.92%) too high
+[1710216767] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1710216888] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.70%) too high
+[1710216948] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1710217069] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.95%) too high
+[1710217129] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.55%) too high
+[1710217309] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.14%) too high
+[1710217369] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.56%) too high
+[1710217430] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.97%) too high
+[1710217490] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.43%) too high
+[1710217611] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.94%) too high
+[1710217671] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.54%) too high
+[1710217792] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.60%) too high
+[1710217852] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.55%) too high
+[1710218032] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.56%) too high
+[1710218092] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.48%) too high
+[1710218153] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.81%) too high
+[1710218213] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.50%) too high
+[1710218334] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.85%) too high
+[1710218394] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.49%) too high
+[1710218515] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.87%) too high
+[1710218575] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.48%) too high
+[1710218635] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.08%) too high
+[1710218755] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.17%) too high
+[1710218816] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.76%) too high
+[1710218876] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.53%) too high
+[1710218936] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.48%) too high
+[1710219056] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.24%) too high
+[1710219177] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.87%) too high
+[1710219237] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.51%) too high
+[1710219358] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.87%) too high
+[1710219478] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.51%) too high
+[1710219539] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.87%) too high
+[1710219599] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.47%) too high
+[1710219720] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.85%) too high
+[1710219780] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.97%) too high
+[1710219840] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.02%) too high
+[1710219960] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.57%) too high
+[1710220081] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.30%) too high
+[1710220141] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.95%) too high
+[1710220262] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.92%) too high
+[1710220288] Auto-save of retention data completed successfully.
+[1710220322] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.79%) too high
+[1710220443] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.33%) too high
+[1710220503] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.96%) too high
+[1710220684] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.29%) too high
+[1710220802] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710220864] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.64%) too high
+[1710220922] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: / 2391959 MB (71% inode=-):
+[1710220985] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.32%) too high
+[1710221045] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.73%) too high
+[1710221166] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.92%) too high
+[1710221226] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.92%) too high
+[1710221347] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.13%) too high
+[1710221402] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1710221407] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.80%) too high
+[1710221522] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: / 2391959 MB (71% inode=-):
+[1710221528] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.17%) too high
+[1710221588] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.82%) too high
+[1710221648] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.97%) too high
+[1710221768] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.56%) too high
+[1710221889] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.29%) too high
+[1710221949] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.88%) too high
+[1710222002] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1710222002] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710222070] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.06%) too high
+[1710222122] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1710222122] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: / 2391958 MB (71% inode=-):
+[1710222130] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.76%) too high
+[1710222251] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.11%) too high
+[1710222311] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.96%) too high
+[1710222432] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.30%) too high
+[1710222492] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.92%) too high
+[1710222552] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.92%) too high
+[1710222672] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.50%) too high
+[1710222793] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.10%) too high
+[1710222853] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.83%) too high
+[1710222974] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.90%) too high
+[1710223034] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.76%) too high
+[1710223155] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.04%) too high
+[1710223215] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.77%) too high
+[1710223336] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.29%) too high
+[1710223396] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.94%) too high
+[1710223456] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.92%) too high
+[1710223576] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.58%) too high
+[1710223697] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.32%) too high
+[1710223757] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.96%) too high
+[1710223878] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.02%) too high
+[1710223888] Auto-save of retention data completed successfully.
+[1710223938] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.97%) too high
+[1710224059] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.17%) too high
+[1710224119] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.91%) too high
+[1710224240] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.22%) too high
+[1710224360] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.75%) too high
+[1710224421] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.32%) too high
+[1710224481] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.88%) too high
+[1710224602] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.31%) too high
+[1710224662] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.88%) too high
+[1710224783] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.29%) too high
+[1710224843] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.93%) too high
+[1710224964] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.34%) too high
+[1710225084] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.95%) too high
+[1710225145] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.28%) too high
+[1710225205] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.93%) too high
+[1710225326] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.27%) too high
+[1710225386] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.95%) too high
+[1710225446] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.99%) too high
+[1710225566] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.50%) too high
+[1710225687] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.29%) too high
+[1710225747] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.83%) too high
+[1710225868] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.24%) too high
+[1710225988] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.85%) too high
+[1710226049] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.21%) too high
+[1710226109] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.90%) too high
+[1710226230] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.32%) too high
+[1710226290] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.93%) too high
+[1710226350] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.94%) too high
+[1710226470] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.59%) too high
+[1710226591] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.34%) too high
+[1710226651] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.85%) too high
+[1710226772] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.05%) too high
+[1710226802] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710226832] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.73%) too high
+[1710226922] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: / 2391713 MB (71% inode=-):
+[1710226953] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.25%) too high
+[1710227013] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.95%) too high
+[1710227134] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.26%) too high
+[1710227254] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.96%) too high
+[1710227315] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.17%) too high
+[1710227375] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.93%) too high
+[1710227402] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.20. Check system logs on 10.0.0.20
+[1710227488] Auto-save of retention data completed successfully.
+[1710227496] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.22%) too high
+[1710227522] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: / 2391713 MB (71% inode=-):
+[1710227556] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.97%) too high
+[1710227677] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.27%) too high
+[1710227737] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.80%) too high
+[1710227858] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.26%) too high
+[1710227978] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.94%) too high
+[1710228002] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1710228039] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.27%) too high
+[1710228099] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.94%) too high
+[1710228122] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: / 2391712 MB (71% inode=-):
+[1710228220] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.34%) too high
+[1710228280] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.92%) too high
+[1710228340] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.98%) too high
+[1710228460] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.58%) too high
+[1710228581] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.34%) too high
+[1710228641] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.87%) too high
+[1710228702] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.37%) too high
+[1710228762] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.96%) too high
+[1710228822] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.61%) too high
+[1710228942] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.56%) too high
+[1710229062] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.72%) too high
+[1710229182] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.34%) too high
+[1710229303] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.21%) too high
+[1710229363] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.84%) too high
+[1710229424] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.19%) too high
+[1710229544] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.92%) too high
+[1710229605] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.16%) too high
+[1710229665] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.85%) too high
+[1710229786] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.15%) too high
+[1710229846] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.79%) too high
+[1710229907] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.37%) too high
+[1710229967] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.75%) too high
+[1710230027] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.92%) too high
+[1710230147] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.55%) too high
+[1710230328] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.30%) too high
+[1710230388] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.92%) too high
+[1710230448] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.56%) too high
+[1710230568] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.54%) too high
+[1710230629] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.34%) too high
+[1710230749] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.91%) too high
+[1710230810] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.28%) too high
+[1710230870] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.92%) too high
+[1710230991] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.29%) too high
+[1710231051] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.84%) too high
+[1710231088] Auto-save of retention data completed successfully.
+[1710231172] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.18%) too high
+[1710231232] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.87%) too high
+[1710231353] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.09%) too high
+[1710231413] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.86%) too high
+[1710231534] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.20%) too high
+[1710231594] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.90%) too high
+[1710231715] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.29%) too high
+[1710231775] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.78%) too high
+[1710231835] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.82%) too high
+[1710231955] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.15%) too high
+[1710232076] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.17%) too high
+[1710232136] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.59%) too high
+[1710232257] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.96%) too high
+[1710232377] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.64%) too high
+[1710232438] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.75%) too high
+[1710232498] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.22%) too high
+[1710232619] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.10%) too high
+[1710232679] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.67%) too high
+[1710232739] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.74%) too high
+[1710232859] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.56%) too high
+[1710232980] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.41%) too high
+[1710233040] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.70%) too high
+[1710233161] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.12%) too high
+[1710233341] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.51%) too high
+[1710233462] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (88.72%) too high
+[1710233565] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710233704] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710233882] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 1.28MB (1.02%), Average OUT: 99.99MB (79.99%)Total RX: 749.10GBytes, Total TX: 20841.67GBytes
+[1710233942] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.24%) too high
+[1710233974] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710234063] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (89.99%) too high
+[1710234123] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710234183] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.48%) too high
+[1710234333] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710234479] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710234543] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 464.00KB (0.37%), Average OUT: 105.84MB (84.67%)Total RX: 749.43GBytes, Total TX: 20916.33GBytes
+[1710234602] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1710234603] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.87%) too high
+[1710234604] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1710234607] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710234688] Auto-save of retention data completed successfully.
+[1710234722] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 459505 MiB (90.67% inode=-):
+[1710234724] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (85.39%) too high
+[1710234724] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;OK;SOFT;2;DISK OK - free space: /mail 1787899 MiB (91.30% inode=99%):
+[1710234757] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710234844] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.01%) too high
+[1710234899] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710235049] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710235194] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710235344] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710235494] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710235637] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710235924] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.80%) too high
+[1710235984] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (86.43%) too high
+[1710236087] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710236104] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.00%) too high
+[1710236164] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.86%) too high
+[1710236173] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 38.62 %
+[1710236224] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710236294] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.00 %
+[1710236344] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.27%) too high
+[1710236401] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710236404] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.62%) too high
+[1710236521] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710236584] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.82%) too high
+[1710236645] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.21%) too high
+[1710236705] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.79%) too high
+[1710236734] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710236826] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.32%) too high
+[1710236876] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710237001] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710237066] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.11%) too high
+[1710237144] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710237187] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.87%) too high
+[1710237247] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.36%) too high
+[1710237368] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.60%) too high
+[1710237428] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.42%) too high
+[1710237475] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710237549] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.76%) too high
+[1710237602] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710237609] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.40%) too high
+[1710237670] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.86%) too high
+[1710237730] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.36%) too high
+[1710237751] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710237850] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.54%) too high
+[1710237961] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710237970] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.12%) too high
+[1710238091] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.83%) too high
+[1710238111] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710238151] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710238258] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710238272] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.55%) too high
+[1710238288] Auto-save of retention data completed successfully.
+[1710238332] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.45%) too high
+[1710238453] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.83%) too high
+[1710238513] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.47%) too high
+[1710238634] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.76%) too high
+[1710238648] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710238694] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.49%) too high
+[1710238755] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.98%) too high
+[1710238798] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710238815] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.45%) too high
+[1710238936] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.88%) too high
+[1710238940] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710238996] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.48%) too high
+[1710239117] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.65%) too high
+[1710239177] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.35%) too high
+[1710239270] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710239298] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.73%) too high
+[1710239358] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.47%) too high
+[1710239401] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710239418] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.20%) too high
+[1710239538] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.15%) too high
+[1710239551] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710239659] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.95%) too high
+[1710239719] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710239821] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710239840] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.81%) too high
+[1710239881] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710239900] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710240002] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710240021] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.82%) too high
+[1710240081] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.52%) too high
+[1710240145] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710240202] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.90%) too high
+[1710240262] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710240323] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.87%) too high
+[1710240329] SERVICE ALERT: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 73%, RTA = 6.49 ms
+[1710240443] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.45%) too high
+[1710240564] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.88%) too high
+[1710240601] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.20: Connection reset by peer
+[1710240624] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.52%) too high
+[1710240715] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710240721] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710240745] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.82%) too high
+[1710240778] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710240865] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.40%) too high
+[1710240866] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710240926] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.80%) too high
+[1710240928] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710240986] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.44%) too high
+[1710241010] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710241047] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.82%) too high
+[1710241078] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710241107] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.39%) too high
+[1710241160] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710241201] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710241202] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1710241203] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710241204] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710241228] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.71%) too high
+[1710241288] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.49%) too high
+[1710241322] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 459765 MiB (90.73% inode=-):
+[1710241334] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710241347] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710241351] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710241409] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.79%) too high
+[1710241501] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710241529] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.49%) too high
+[1710241590] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.83%) too high
+[1710241646] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710241650] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.44%) too high
+[1710241737] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710241771] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.85%) too high
+[1710241796] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710241831] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.34%) too high
+[1710241887] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710241888] Auto-save of retention data completed successfully.
+[1710241891] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.57%) too high
+[1710241946] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710242011] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.09%) too high
+[1710242096] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710242132] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.80%) too high
+[1710242171] SERVICE FLAPPING ALERT: SRV_email.cass.cl;Actualizacion;STARTED; Service appears to have started flapping (20.7% change >= 20.0% threshold)
+[1710242171] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710242192] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710242246] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710242277] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710242313] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.80%) too high
+[1710242373] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.36%) too high
+[1710242396] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710242402] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710242433] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.91%) too high
+[1710242546] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710242551] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710242553] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.90%) too high
+[1710242613] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.40%) too high
+[1710242696] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710242733] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.04%) too high
+[1710242841] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710242854] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.87%) too high
+[1710242914] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.38%) too high
+[1710242941] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710242991] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710243001] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.20: Connection reset by peer
+[1710243035] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.84%) too high
+[1710243063] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710243074] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710243121] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710243128] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710243155] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.42%) too high
+[1710243183] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710243216] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.91%) too high
+[1710243276] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.47%) too high
+[1710243397] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.79%) too high
+[1710243457] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.33%) too high
+[1710243464] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710243578] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.87%) too high
+[1710243601] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710243601] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.20. Check system logs on 10.0.0.20
+[1710243638] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710243721] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710243742] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710243759] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.74%) too high
+[1710243819] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.38%) too high
+[1710243878] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710243880] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.79%) too high
+[1710243940] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.38%) too high
+[1710243952] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710244026] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710244061] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.78%) too high
+[1710244102] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710244121] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.39%) too high
+[1710244176] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710244201] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1710244241] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710244242] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.51%) too high
+[1710244302] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.36%) too high
+[1710244316] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710244321] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710244423] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.40%) too high
+[1710244483] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.33%) too high
+[1710244586] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710244604] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.79%) too high
+[1710244724] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710244733] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710244751] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710244785] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.56%) too high
+[1710244845] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.35%) too high
+[1710244874] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.82 %
+[1710244883] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710244895] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710244966] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.17%) too high
+[1710244995] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 14.07 %
+[1710245026] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.37%) too high
+[1710245033] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710245147] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.63%) too high
+[1710245168] SERVICE FLAPPING ALERT: SRV_email.cass.cl;Actualizacion;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1710245168] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710245207] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.26%) too high
+[1710245267] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (98.00%) too high
+[1710245285] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710245318] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710245435] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710245466] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710245468] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710245488] Auto-save of retention data completed successfully.
+[1710245568] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710245589] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1710245602] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710245627] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.33%) too high
+[1710245688] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.54%) too high
+[1710245748] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.42%) too high
+[1710245867] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710245869] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.74%) too high
+[1710245929] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.26%) too high
+[1710245932] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710245988] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1710246004] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710246050] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.56%) too high
+[1710246074] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710246110] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.29%) too high
+[1710246136] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 26.23 %
+[1710246153] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710246224] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710246231] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.80%) too high
+[1710246256] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 16.93 %
+[1710246291] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.45%) too high
+[1710246374] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710246412] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.80%) too high
+[1710246423] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710246521] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1710246532] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.38%) too high
+[1710246564] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710246593] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.63%) too high
+[1710246635] SERVICE ALERT: SRV_nagios;Actualizacion;CRITICAL;SOFT;1;YUM CRITICAL: Yum nagios plugin has self terminated after exceeding the timeout (30 seconds)
+[1710246653] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.44%) too high
+[1710246671] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710246677] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 23.93 %
+[1710246703] SERVICE ALERT: SRV_nagios;Actualizacion;OK;SOFT;2;YUM OK: 0 Updates Available
+[1710246774] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.77%) too high
+[1710246798] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 4.93 %
+[1710246821] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710246834] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.48%) too high
+[1710246836] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710246954] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710246955] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.67%) too high
+[1710246956] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 5.80MB (4.64%), Average OUT: 2.84MB (2.28%)Total RX: 905.42GBytes, Total TX: 942.57GBytes
+[1710246971] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710247015] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.30%) too high
+[1710247044] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1710247086] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710247136] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.18%) too high
+[1710247256] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.15%) too high
+[1710247317] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.82%) too high
+[1710247335] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710247377] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.42%) too high
+[1710247471] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710247498] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.84%) too high
+[1710247558] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.43%) too high
+[1710247578] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.90 %
+[1710247618] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.41%) too high
+[1710247699] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 1.98 %
+[1710247738] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.00%) too high
+[1710247801] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1710247807] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710247859] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.81%) too high
+[1710247919] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.34%) too high
+[1710247921] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710247927] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 9.83MB (7.87%), Average OUT: 2.08MB (1.66%)Total RX: 913.59GBytes, Total TX: 944.57GBytes
+[1710247980] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.82%) too high
+[1710248040] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.41%) too high
+[1710248100] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.07%) too high
+[1710248220] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.33%) too high
+[1710248341] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.90%) too high
+[1710248401] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.15%) too high
+[1710248401] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.20. Check system logs on 10.0.0.20
+[1710248461] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.87%) too high
+[1710248521] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710248539] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.62 %
+[1710248581] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.99%) too high
+[1710248660] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 1.00 %
+[1710248702] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.73%) too high
+[1710248762] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.37%) too high
+[1710248822] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.94%) too high
+[1710248901] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 23.33 %
+[1710248942] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.99%) too high
+[1710249002] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.54%) too high
+[1710249021] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 12.12 %
+[1710249088] Auto-save of retention data completed successfully.
+[1710249122] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.13%) too high
+[1710249193] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710249243] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.83%) too high
+[1710249303] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.51%) too high
+[1710249313] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710249424] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.80%) too high
+[1710249502] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 20.45 %
+[1710249544] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.46%) too high
+[1710249605] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.90%) too high
+[1710249623] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 10.40 %
+[1710249665] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.45%) too high
+[1710249786] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.62%) too high
+[1710249846] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.26%) too high
+[1710249906] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.54%) too high
+[1710250026] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.17%) too high
+[1710250043] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 23.12 %
+[1710250147] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.68%) too high
+[1710250164] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 22.05 %
+[1710250207] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.24%) too high
+[1710250285] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 19.00 %
+[1710250328] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.32%) too high
+[1710250451] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710250571] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710250628] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 27.21MB (21.77%), Average OUT: 106.07MB (84.86%)Total RX: 769.76GBytes, Total TX: 22862.66GBytes
+[1710250689] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.13%) too high
+[1710250809] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (89.42%) too high
+[1710250929] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (88.36%) too high
+[1710250937] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710251063] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 11.01MB (8.80%), Average OUT: 178.45KB (0.14%)Total RX: 942.44GBytes, Total TX: 947.75GBytes
+[1710251109] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.06%) too high
+[1710251170] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.32%) too high
+[1710251241] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710251243] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710251321] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710251363] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710251366] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710251374] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1710251410] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.63%) too high
+[1710251441] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 90.26KB (0.07%), Average OUT: 558.02KB (0.45%)Total RX: 63.49GBytes, Total TX: 106.93GBytes
+[1710251470] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.95%) too high
+[1710251499] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 17.50KB (0.01%), Average OUT: 11.99KB (0.01%)Total RX: 4.62GBytes, Total TX: 6.56GBytes
+[1710251689] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710251725] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.20 %
+[1710251770] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1710251809] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 11.30KB (0.01%), Average OUT: 11.42KB (0.01%)Total RX: 4.62GBytes, Total TX: 6.56GBytes
+[1710251830] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.98%) too high
+[1710251846] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 18.12 %
+[1710251950] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.68%) too high
+[1710252010] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (98.00%) too high
+[1710252026] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.93 %
+[1710252147] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710252388] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 23.17 %
+[1710252471] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710252479] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710252490] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.51%) too high
+[1710252508] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 5.55 %
+[1710252550] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.93%) too high
+[1710252601] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 178.88KB (0.14%), Average OUT: 551.23KB (0.44%)Total RX: 63.64GBytes, Total TX: 107.49GBytes
+[1710252604] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 11.20KB (0.01%), Average OUT: 9.61KB (0.01%)Total RX: 4.64GBytes, Total TX: 6.57GBytes
+[1710252629] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 26.07 %
+[1710252688] Auto-save of retention data completed successfully.
+[1710252750] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 2.45 %
+[1710253030] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.42%) too high
+[1710253090] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.91%) too high
+[1710253210] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.59%) too high
+[1710253230] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.73 %
+[1710253270] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.95%) too high
+[1710253351] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710253570] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.69%) too high
+[1710253630] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.53%) too high
+[1710253651] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 25.17 %
+[1710253750] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.64%) too high
+[1710253772] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 18.50 %
+[1710253802] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1710253810] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.10%) too high
+[1710253922] SERVICE ALERT: SRV_Cfiler.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: / 2391389 MB (71% inode=-):
+[1710253930] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.65%) too high
+[1710253952] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.62 %
+[1710253990] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.92%) too high
+[1710254073] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 20.55 %
+[1710254193] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 18.50 %
+[1710254350] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.03%) too high
+[1710254411] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.37%) too high
+[1710254471] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.06%) too high
+[1710254494] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.00 %
+[1710254592] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.04%) too high
+[1710254615] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 22.05 %
+[1710254735] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 4.03 %
+[1710254774] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1710254892] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.01%) too high
+[1710254894] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 68.64KB (0.05%), Average OUT: 84.81KB (0.07%)Total RX: 4.69GBytes, Total TX: 6.61GBytes
+[1710254953] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.29%) too high
+[1710255013] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.01%) too high
+[1710255134] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.35%) too high
+[1710255374] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.63%) too high
+[1710255396] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 28.98 %
+[1710255434] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (98.00%) too high
+[1710255516] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 20.88 %
+[1710255602] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).
+[1710255637] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 9.78 %
+[1710255722] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 459247 MiB (90.62% inode=-):
+[1710255817] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.80 %
+[1710255854] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.54%) too high
+[1710255938] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 17.00 %
+[1710255975] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.34%) too high
+[1710256095] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 879.04KB (0.70%), Average OUT: 88.48MB (70.78%)Total RX: 782.53GBytes, Total TX: 23518.81GBytes
+[1710256288] Auto-save of retention data completed successfully.
+[1710256511] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710256631] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 224.44KB (0.18%), Average OUT: 703.55KB (0.56%)Total RX: 64.39GBytes, Total TX: 110.65GBytes
+[1710256773] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710256773] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710256778] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710256893] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710256903] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710256908] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710256941] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710257004] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710257024] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710257076] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710257093] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710257139] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1710257144] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710257175] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1710257218] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710257223] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710257258] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.88 %
+[1710257338] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 260.99B (0.00%), Average OUT: 90.37B (0.00%)Total RX: 943.52GBytes, Total TX: 947.75GBytes
+[1710257343] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;3;OK: Interface eth1 (index 3) is up.
+[1710257379] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 23.85 %
+[1710257500] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 26.10 %
+[1710257500] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 26.10 %
+[1710257500] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;WARNING;notify-service-by-telegram;WARNING: Percent was 26.10 %
+[1710257500] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 26.10 %
+[1710257500] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;WARNING;notify-service-by-telegram;WARNING: Percent was 26.10 %
+[1710257500] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 26.10 %
+[1710257500] SERVICE ALERT: SRV_GLPI;CPU;WARNING;HARD;3;WARNING: Percent was 26.10 %
+[1710257560] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 19.82 %
+[1710257560] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 19.82 %
+[1710257560] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;OK;notify-service-by-telegram;OK: Percent was 19.82 %
+[1710257560] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 19.82 %
+[1710257560] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;OK;notify-service-by-telegram;OK: Percent was 19.82 %
+[1710257560] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 19.82 %
+[1710257560] SERVICE ALERT: SRV_GLPI;CPU;OK;HARD;1;OK: Percent was 19.82 %
+[1710257648] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710257769] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 252.93B (0.00%), Average OUT: 84.16B (0.00%)Total RX: 943.52GBytes, Total TX: 947.75GBytes
+[1710257861] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.15 %
+[1710257981] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 8.45 %
+[1710258222] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 24.73 %
+[1710258343] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 21.05 %
+[1710258463] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 15.07 %
+[1710258534] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710258559] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (210819921521.28%) too high
+[1710258586] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710258654] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710258680] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;CRITICAL - IN bandwidth (6218.83%) too high
+[1710258716] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710258733] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710258756] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710258769] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710258815] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;(No output on stdout) stderr:
+[1710258851] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;(No output on stdout) stderr:
+[1710258854] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710258876] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710258889] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 12.58KB (0.01%), Average OUT: 10.46KB (0.01%)Total RX: 4.80GBytes, Total TX: 6.68GBytes
+[1710259424] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 20.70 %
+[1710259545] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 8.03 %
+[1710259802] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1710259888] Auto-save of retention data completed successfully.
+[1710259906] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710259922] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 459244 MiB (90.62% inode=-):
+[1710260026] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710260524] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710260541] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710260639] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710260644] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710260661] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 69.84KB (0.06%), Average OUT: 458.17KB (0.37%)Total RX: 64.72GBytes, Total TX: 112.52GBytes
+[1710260760] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.77KB (0.01%), Average OUT: 10.09KB (0.01%)Total RX: 4.84GBytes, Total TX: 6.70GBytes
+[1710260844] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710260851] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710260866] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.70 %
+[1710260969] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710260971] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 76.41KB (0.06%), Average OUT: 401.83KB (0.32%)Total RX: 64.75GBytes, Total TX: 112.66GBytes
+[1710260987] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 23.88 %
+[1710261107] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 1.00 %
+[1710261467] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.95 %
+[1710261588] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 18.30 %
+[1710261889] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 20.93 %
+[1710262009] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 21.65 %
+[1710262130] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 15.85 %
+[1710262371] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 26.85 %
+[1710262491] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 15.90 %
+[1710262801] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710262851] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 24.05 %
+[1710262921] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1710262972] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710263152] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.93 %
+[1710263273] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710263393] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 20.55 %
+[1710263488] Auto-save of retention data completed successfully.
+[1710263514] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 1.00 %
+[1710263530] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710263625] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710263666] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1710263694] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 20.75 %
+[1710263760] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710263801] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710263815] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710263916] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710263936] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.77 %
+[1710263936] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710264051] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1710264056] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 22.10 %
+[1710264071] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710264177] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 21.33 %
+[1710264177] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 21.33 %
+[1710264177] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;WARNING;notify-service-by-telegram;WARNING: Percent was 21.33 %
+[1710264177] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 21.33 %
+[1710264177] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;WARNING;notify-service-by-telegram;WARNING: Percent was 21.33 %
+[1710264177] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 21.33 %
+[1710264177] SERVICE ALERT: SRV_GLPI;CPU;WARNING;HARD;3;WARNING: Percent was 21.33 %
+[1710264194] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710264206] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710264238] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710264238] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710264238] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;OK;notify-service-by-telegram;OK: Percent was 0.50 %
+[1710264238] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710264238] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;OK;notify-service-by-telegram;OK: Percent was 0.50 %
+[1710264238] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710264238] SERVICE ALERT: SRV_GLPI;CPU;OK;HARD;1;OK: Percent was 0.50 %
+[1710264297] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 23.80 %
+[1710264314] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710264356] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710264418] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 2.50 %
+[1710264456] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710264487] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710264546] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710264591] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710264607] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;3;OK: Interface eth0 (index 2) is up.
+[1710264666] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 89.92KB (0.07%), Average OUT: 1.85MB (1.48%)Total RX: 126.77GBytes, Total TX: 118.16GBytes
+[1710264841] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710264864] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710264901] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710264976] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1710264984] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710265036] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710265059] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710265078] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 25.12 %
+[1710265097] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710265166] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710265174] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710265179] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710265199] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 19.45 %
+[1710265218] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710265294] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710265301] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710265309] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710265396] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710265434] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710265499] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 20.45 %
+[1710265517] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 99.92KB (0.08%), Average OUT: 2.57MB (2.05%)Total RX: 126.86GBytes, Total TX: 120.33GBytes
+[1710265620] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 15.20 %
+[1710265741] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.48 %
+[1710265861] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 22.45 %
+[1710265864] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710265911] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710265982] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 0.00 %
+[1710265984] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710266006] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710266032] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 208.21B (0.00%), Average OUT: 71.15B (0.00%)Total RX: 946.09GBytes, Total TX: 951.29GBytes
+[1710266067] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710266069] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1710266136] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710266137] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1710266144] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710266189] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (36995687) 4 days, 6:45:56.87
+[1710266197] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;2;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1710266222] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710266234] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710266265] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710266266] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1710266269] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710266332] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;(No output on stdout) stderr:
+[1710266342] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;(No output on stdout) stderr:
+[1710266355] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710266357] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710266515] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710266523] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.73 %
+[1710266547] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710266635] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710266644] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.00 %
+[1710266677] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710266728] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710266762] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710266798] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;OK - Average IN: 311.98B (0.00%), Average OUT: 97.40B (0.00%)Total RX: 946.09GBytes, Total TX: 951.29GBytes
+[1710266848] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710266882] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 81.93KB (0.07%), Average OUT: 1.45MB (1.16%)Total RX: 126.99GBytes, Total TX: 123.07GBytes
+[1710267005] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 25.40 %
+[1710267088] Auto-save of retention data completed successfully.
+[1710267125] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 2.98 %
+[1710267228] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710267265] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710267356] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710267359] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 350.96B (0.00%), Average OUT: 124.73B (0.00%)Total RX: 946.09GBytes, Total TX: 951.29GBytes
+[1710267365] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 25.73 %
+[1710267390] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710267486] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 12.95 %
+[1710267486] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 118.40KB (0.09%), Average OUT: 25.21KB (0.02%)Total RX: 5.00GBytes, Total TX: 6.78GBytes
+[1710267520] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710267552] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710267601] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710267641] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710267677] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710267687] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710267733] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1710267807] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 40.39KB (0.03%), Average OUT: 10.27KB (0.01%)Total RX: 5.02GBytes, Total TX: 6.78GBytes
+[1710267878] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710267907] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 26.85 %
+[1710267909] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710267937] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710267998] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710268027] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 27.65 %
+[1710268029] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 349.31B (0.00%), Average OUT: 113.91B (0.00%)Total RX: 946.09GBytes, Total TX: 951.29GBytes
+[1710268067] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710268148] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 20.32 %
+[1710268148] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 20.32 %
+[1710268148] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;WARNING;notify-service-by-telegram;WARNING: Percent was 20.32 %
+[1710268148] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 20.32 %
+[1710268148] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;WARNING;notify-service-by-telegram;WARNING: Percent was 20.32 %
+[1710268148] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;WARNING;notify-service-by-email;WARNING: Percent was 20.32 %
+[1710268148] SERVICE ALERT: SRV_GLPI;CPU;WARNING;HARD;3;WARNING: Percent was 20.32 %
+[1710268197] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;OK - Average IN: 21.00KB (0.02%), Average OUT: 13.20KB (0.01%)Total RX: 5.02GBytes, Total TX: 6.79GBytes
+[1710268209] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710268209] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710268209] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;OK;notify-service-by-telegram;OK: Percent was 0.50 %
+[1710268209] SERVICE NOTIFICATION: soporteti;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710268209] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;OK;notify-service-by-telegram;OK: Percent was 0.50 %
+[1710268209] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;CPU;OK;notify-service-by-email;OK: Percent was 0.50 %
+[1710268209] SERVICE ALERT: SRV_GLPI;CPU;OK;HARD;1;OK: Percent was 0.50 %
+[1710268297] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710268388] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710268417] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 82.12KB (0.07%), Average OUT: 1.10MB (0.88%)Total RX: 127.15GBytes, Total TX: 124.16GBytes
+[1710268448] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.80 %
+[1710268513] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 12.70KB (0.01%), Average OUT: 8.89KB (0.01%)Total RX: 5.03GBytes, Total TX: 6.79GBytes
+[1710268569] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710268750] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 27.62 %
+[1710268759] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710268871] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 1.50 %
+[1710268879] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 323.85B (0.00%), Average OUT: 106.62B (0.00%)Total RX: 946.09GBytes, Total TX: 951.29GBytes
+[1710269052] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 25.38 %
+[1710269172] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;2;WARNING: Percent was 22.75 %
+[1710269269] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710269293] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;3;OK: Percent was 13.93 %
+[1710269331] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710269345] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710269369] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710269389] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710269461] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710269465] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710269499] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710269581] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;3;OK: Interface eth1 (index 3) is up.
+[1710269619] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;OK - Average IN: 308.62B (0.00%), Average OUT: 104.43B (0.00%)Total RX: 946.09GBytes, Total TX: 951.29GBytes
+[1710269810] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710269867] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710269940] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710269963] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710269997] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710270070] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1710270071] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710270098] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1710270127] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1710270191] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710270262] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;(No output on stdout) stderr:
+[1710270265] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;(No output on stdout) stderr:
+[1710270349] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (207850637401.86%) too high
+[1710270374] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 22.95 %
+[1710270469] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 35.83MB (28.67%), Average OUT: 10.06KB (0.01%)Total RX: 5.07GBytes, Total TX: 6.82GBytes
+[1710270494] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710270495] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710270557] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710270560] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710270615] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710270675] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.35 %
+[1710270677] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 70.29KB (0.06%), Average OUT: 627.65KB (0.50%)Total RX: 127.34GBytes, Total TX: 125.65GBytes
+[1710270680] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 323.48B (0.00%), Average OUT: 103.29B (0.00%)Total RX: 946.09GBytes, Total TX: 951.29GBytes
+[1710270688] Auto-save of retention data completed successfully.
+[1710270741] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710270779] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1710270795] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 18.10 %
+[1710270861] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710270899] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 39.30KB (0.03%), Average OUT: 9.44KB (0.01%)Total RX: 5.09GBytes, Total TX: 6.83GBytes
+[1710271155] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 21.52 %
+[1710271276] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 15.72 %
+[1710271397] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 23.40 %
+[1710271517] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1710271810] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710271818] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 28.35 %
+[1710271879] Caught SIGTERM, shutting down...
+[1710271879] Caught SIGTERM, shutting down...
+[1710271880] Successfully shutdown... (PID=1147)
+[1710271880] Nagios 4.4.11 starting... (PID=27606)
+[1710271880] Local time is Tue Mar 12 16:31:20 -03 2024
+[1710271880] LOG VERSION: 2.0
+[1710271880] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1710271880] qh: core query handler registered
+[1710271880] qh: echo service query handler registered
+[1710271880] qh: help for the query handler registered
+[1710271880] wproc: Successfully registered manager as @wproc with query handler
+[1710271880] wproc: Registry request: name=Core Worker 27607;pid=27607
+[1710271880] wproc: Registry request: name=Core Worker 27608;pid=27608
+[1710271880] wproc: Registry request: name=Core Worker 27610;pid=27610
+[1710271880] wproc: Registry request: name=Core Worker 27609;pid=27609
+[1710271880] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1710271880] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1710271880] Successfully launched command file worker with pid 27611
+[1710271930] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 24.84KB (0.02%), Average OUT: 33.47KB (0.03%)Total RX: 5.14GBytes, Total TX: 6.90GBytes
+[1710271938] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 25.88 %
+[1710272060] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1710272185] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 22.61KB (0.02%), Average OUT: 51.68KB (0.04%)Total RX: 5.15GBytes, Total TX: 6.92GBytes
+[1710272896] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710273021] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 98.95KB (0.08%), Average OUT: 1.42MB (1.14%)Total RX: 127.52GBytes, Total TX: 127.73GBytes
+[1710273265] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710273271] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710273359] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710273390] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710273395] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710273401] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1710273484] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710273515] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 255.69B (0.00%), Average OUT: 80.84B (0.00%)Total RX: 946.57GBytes, Total TX: 964.18GBytes
+[1710273515] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;3;OK: Interface eth2 (index 4) is up.
+[1710273521] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;OK - Average IN: 67.50KB (0.05%), Average OUT: 719.52KB (0.58%)Total RX: 127.55GBytes, Total TX: 128.03GBytes
+[1710273832] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710273952] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 180.86KB (0.14%), Average OUT: 1.14MB (0.91%)Total RX: 127.69GBytes, Total TX: 128.42GBytes
+[1710274154] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710274175] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710274262] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710274274] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710274310] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1710274383] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 199.15KB (0.16%), Average OUT: 1.15MB (0.92%)Total RX: 127.78GBytes, Total TX: 128.91GBytes
+[1710274591] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710274600] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Plugin timed out while executing system call
+[1710274665] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710274665] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710274680] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710274711] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710274720] SERVICE ALERT: FW Cass Telsur;Tiempo Activo;OK;SOFT;2;SNMP OK - Timeticks: (37848789) 4 days, 9:08:07.89
+[1710274785] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1710274791] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 352.46B (0.00%), Average OUT: 124.02B (0.00%)Total RX: 946.57GBytes, Total TX: 964.18GBytes
+[1710274800] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 16.13KB (0.01%), Average OUT: 17.45KB (0.01%)Total RX: 5.26GBytes, Total TX: 6.98GBytes
+[1710275480] Auto-save of retention data completed successfully.
+[1710275821] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710275956] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1710276310] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710276313] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710276430] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 12.31KB (0.01%), Average OUT: 16.45KB (0.01%)Total RX: 5.32GBytes, Total TX: 7.04GBytes
+[1710276438] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 82.95KB (0.07%), Average OUT: 493.46KB (0.39%)Total RX: 128.04GBytes, Total TX: 130.55GBytes
+[1710276806] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1710276926] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 246.91B (0.00%), Average OUT: 89.71B (0.00%)Total RX: 946.57GBytes, Total TX: 964.18GBytes
+[1710277481] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710277601] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1710278184] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1710278304] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1710279080] Auto-save of retention data completed successfully.
+[1710279602] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1710279722] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1710282002] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1710282122] SERVICE ALERT: SRV_chat.cass.cl;Servicio Nginx;OK;SOFT;2;OK: Service nginx is running!
+[1710282680] Auto-save of retention data completed successfully.
+[1710286280] Auto-save of retention data completed successfully.
+[1710289880] Auto-save of retention data completed successfully.
+[1710291855] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.59%) too high
+[1710291975] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 31.90MB (25.52%), Average OUT: 86.59MB (69.27%)Total RX: 934.81GBytes, Total TX: 23740.70GBytes
+[1710292215] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (89.72%) too high
+[1710292336] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (87.68%) too high
+[1710292456] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 12.92MB (10.34%), Average OUT: 70.58MB (56.46%)Total RX: 947.34GBytes, Total TX: 23785.07GBytes
+[1710293480] Auto-save of retention data completed successfully.
+[1710297080] Auto-save of retention data completed successfully.
+[1710297302] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.35 %
+[1710297423] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 4.53 %
+[1710298225] HOST ALERT: SRVWEB_cass.cl;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.2.14)
+[1710298229] SERVICE ALERT: SRVWEB_cass.cl;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.14)
+[1710298288] HOST ALERT: SRVWEB_cass.cl;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.2.14)
+[1710298349] HOST ALERT: SRVWEB_cass.cl;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.2.14)
+[1710298410] SERVICE ALERT: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.92 ms
+[1710298413] HOST ALERT: SRVWEB_cass.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.15 ms

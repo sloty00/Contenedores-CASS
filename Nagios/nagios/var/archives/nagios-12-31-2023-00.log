@@ -1,0 +1,674 @@
+[1703905200] LOG ROTATION: DAILY
+[1703905200] LOG VERSION: 2.0
+[1703905200] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.06 ms
+[1703905200] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 7.47 ms
+[1703905200] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1703905200] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.35 ms
+[1703905200] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.55 ms
+[1703905200] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.42 ms
+[1703905200] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 44.37 ms
+[1703905200] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.80 ms
+[1703905200] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1703905200] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1703905200] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.85 ms
+[1703905200] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.23 ms
+[1703905200] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 7.89 ms
+[1703905200] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.45 ms
+[1703905200] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1703905200] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.82 ms
+[1703905200] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.02 ms
+[1703905200] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 41.78 ms
+[1703905200] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.63 ms
+[1703905200] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 4.72 ms
+[1703905200] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.48 ms
+[1703905200] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.72 ms
+[1703905200] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1703905200] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1703905200] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1703905200] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 23.44 ms
+[1703905200] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.50 ms
+[1703905200] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1703905200] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.46 ms
+[1703905200] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1703905200] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1703905200] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.92 ms
+[1703905200] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.08 ms
+[1703905200] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.19 ms
+[1703905200] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1703905200] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.93 ms
+[1703905200] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.09 ms
+[1703905200] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.61 ms
+[1703905200] CURRENT HOST STATE: SRVDNS;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.30)
+[1703905200] CURRENT HOST STATE: SRVMFSD;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.12)
+[1703905200] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1703905200] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1703905200] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1703905200] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1703905200] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1703905200] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1703905200] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1703905200] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.36 ms
+[1703905200] CURRENT HOST STATE: SRV_Soporte2;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.97)
+[1703905200] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1703905200] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1703905200] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1703905200] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1703905200] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1703905200] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 9.64 ms
+[1703905200] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.79 ms
+[1703905200] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.99 ms
+[1703905200] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1703905200] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 40.10 ms
+[1703905200] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 7.12 ms
+[1703905200] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.18 ms
+[1703905200] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1703905200] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.24 ms
+[1703905200] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.39 ms
+[1703905200] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.22 ms
+[1703905200] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.33 ms
+[1703905200] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.56 ms
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 7.98KB (0.01%), Average OUT: 4.99KB (0.00%)Total RX: 94.11GBytes, Total TX: 28.28GBytes
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 731.92B (0.00%), Average OUT: 1.19KB (0.00%)Total RX: 1032.45GBytes, Total TX: 2871.66GBytes
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 12.02MB (9.62%), Average OUT: 1.09MB (0.87%)Total RX: 8865.91GBytes, Total TX: 5616.36GBytes
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.000 second response time on 201.220.96.34 port 4444
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1703905200] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (12898600) 1 day, 11:49:46.00
+[1703905200] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.01 ms
+[1703905200] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 42.06 ms
+[1703905200] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.94 ms
+[1703905200] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.52 ms
+[1703905200] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.35 ms
+[1703905200] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.51 ms
+[1703905200] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1703905200] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1703905200] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.01 ms
+[1703905200] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:34TB - Free:15TB - Used Space: 69%
+[1703905200] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1703905200] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1198MB - Free:2632MB = 32%
+[1703905200] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1703905200] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=39C
+[1703905200] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (221593910) 25 days, 15:32:19.10
+[1703905200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1703905200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 97.47 Gb (82%) - free 21.93 Gb (18%)
+[1703905200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 237.36 Gb (23%) - free 786.62 Gb (77%)
+[1703905200] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1703905200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:24821.05 MB - used: 12021.74 MB (48%) - free: 12799.30 MB (52%)
+[1703905200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.38 ms
+[1703905200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 12 day(s) 1 hour(s) 1 minute(s)
+[1703905200] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.99 ms
+[1703905200] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78603 MiB (85.76% inode=-):
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.00, 0.00, 0.00
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 3171 MB - 41% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 308 processes
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on 10.0.2.13 port 80
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 25 day(s) 15 hour(s) 35 minute(s)
+[1703905200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1703905200] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.82 ms
+[1703905200] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.40 ms
+[1703905200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1703905200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 162.84 Gb (54%) - free 136.82 Gb (46%)
+[1703905200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1703905200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 8036.85 MB (53%) - free: 7254.70 MB (47%)
+[1703905200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1703905200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 12 day(s) 2 hour(s) 0 minute(s)
+[1703905200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1703905200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 43.83 Gb (15%) - free 255.50 Gb (85%)
+[1703905200] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 3% (5 min average)
+[1703905200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 2714.57 MB (19%) - free: 11428.57 MB (81%)
+[1703905200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.15 ms
+[1703905200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 12 day(s) 1 hour(s) 1 minute(s)
+[1703905200] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.98 ms
+[1703905200] CURRENT SERVICE STATE: SRVDNS;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.30)
+[1703905200] CURRENT SERVICE STATE: SRVMFSD;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.12)
+[1703905200] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.80 ms
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2407267 MB (71% inode=-):
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.25, 0.16, 0.10
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1289 MB - 33% [SWAP] Total: 2047 MB - Used: 189 MB - 9%
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 322 processes
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 27 day(s) 19 hour(s) 34 minute(s)
+[1703905200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1703905200] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.85 ms
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118362 MiB (91.09% inode=-):
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.02, 0.01
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1024 MB - 12% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 313 processes
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 27 day(s) 19 hour(s) 31 minute(s)
+[1703905200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1703905200] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 950292 MiB (90.93% inode=-):
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.04, 0.06, 0.06
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3280 MB - 41% [SWAP] Total: 2048 MB - Used: 515 MB - 25%
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.18 ms
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 281 processes
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.001 second response time on port 8000
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1703905200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 462131 MiB (91.22% inode=-):
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1789923 MiB (91.40% inode=99%):
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 475780 MiB (99.69% inode=100%):
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.271 sec. response time
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 3128 MB - 26% [SWAP] Total: 2048 MB - Used: 26 MB - 1%
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.71 ms
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 307 processes
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 27 day(s) 19 hour(s) 30 minute(s)
+[1703905200] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1703905200] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 29 Updates Available
+[1703905200] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.01, 0.04, 0.05
+[1703905200] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 495 MB - 6% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1703905200] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1703905200] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 57 processes with STATE = RSZDT
+[1703905200] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1703905200] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1703905200] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1703905200] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 7.27KB (0.01%), Average OUT: 6.75KB (0.01%)Total RX: 5199.06GBytes, Total TX: 23835.85GBytes
+[1703905200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1703905200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1703905200] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1703905200] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (240356124) 27 days, 19:39:21.24
+[1703905200] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 98%, approximately 0 minutes runtime remaining.
+[1703905200] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1703905200] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1703905200] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 28 degrees C (82.4 degrees F).
+[1703905200] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (240362132) 27 days, 19:40:21.32
+[1703905200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1703905200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 85.22 Gb (86%) - free 14.10 Gb (14%)
+[1703905200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 43% (5 min average)
+[1703905200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 15517.50 MB (55%) - free: 12641.75 MB (45%)
+[1703905200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.06 ms
+[1703905200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 9 day(s) 23 hour(s) 2 minute(s)
+[1703905200] CURRENT SERVICE STATE: web_cass_cl;Certificado;CRITICAL;HARD;3;SSL CRITICAL - Certificate '*.cass.cl' expired on 2023-12-26 20:59 -0300/-03.
+[1703905200] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1073 bytes in 0.166 second response time
+[1703906316] Auto-save of retention data completed successfully.
+[1703909916] Auto-save of retention data completed successfully.
+[1703909921] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1703913516] Auto-save of retention data completed successfully.
+[1703916606] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1703916606] SERVICE ALERT: SRV_email.cass.cl;Memoria;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1703916726] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 462148 MiB (91.22% inode=-):
+[1703916726] SERVICE ALERT: SRV_email.cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 11939 MB - Used: 3125 MB - 26% [SWAP] Total: 2048 MB - Used: 39 MB - 1%
+[1703917116] Auto-save of retention data completed successfully.
+[1703920716] Auto-save of retention data completed successfully.
+[1703923297] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703923300] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703923303] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703923305] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703923430] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703923432] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703923436] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703923437] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703923801] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703923801] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703923801] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703923801] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703923934] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703923934] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703923935] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703923938] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703924316] Auto-save of retention data completed successfully.
+[1703927916] Auto-save of retention data completed successfully.
+[1703931516] Auto-save of retention data completed successfully.
+[1703931524] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703931524] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703931525] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703931528] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703931651] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703931656] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703931657] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703931661] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703932201] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703932202] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703932203] SERVICE ALERT: SRV_email.cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1703932203] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703932323] SERVICE ALERT: SRV_email.cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 1 users currently logged in
+[1703932333] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703932334] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703932334] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703932801] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703932934] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703934482] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.82%) too high
+[1703934602] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 17.29MB (13.83%), Average OUT: 92.18MB (73.74%)Total RX: 5216.64GBytes, Total TX: 23876.46GBytes
+[1703935082] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.04%) too high
+[1703935116] Auto-save of retention data completed successfully.
+[1703935203] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 20.16MB (16.13%), Average OUT: 89.00MB (71.20%)Total RX: 5228.33GBytes, Total TX: 23933.94GBytes
+[1703935783] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703935784] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703935784] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703935914] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703935915] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703935916] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703935983] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.72%) too high
+[1703936103] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 12.94MB (10.35%), Average OUT: 95.46MB (76.37%)Total RX: 5242.28GBytes, Total TX: 24016.94GBytes
+[1703936401] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703936401] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703936401] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703936533] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703936534] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703936535] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703937183] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (91.41%) too high
+[1703937304] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 12.22MB (9.77%), Average OUT: 95.81MB (76.65%)Total RX: 5257.14GBytes, Total TX: 24128.89GBytes
+[1703938264] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.18%) too high
+[1703938384] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (90.73%) too high
+[1703938483] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703938484] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703938486] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703938504] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (89.60%) too high
+[1703938565] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 20.18MB (16.14%), Average OUT: 106.18MB (84.94%)Total RX: 5277.46GBytes, Total TX: 24253.32GBytes
+[1703938615] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703938616] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703938619] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703938624] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (92.40%) too high
+[1703938716] Auto-save of retention data completed successfully.
+[1703938744] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 21.72MB (17.37%), Average OUT: 106.13MB (84.91%)Total RX: 5281.12GBytes, Total TX: 24272.87GBytes
+[1703938801] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703938801] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703938802] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703938924] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.82%) too high
+[1703938927] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703938933] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703938935] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703939044] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (85.08%) too high
+[1703939165] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 17.21MB (13.77%), Average OUT: 99.65MB (79.72%)Total RX: 5291.27GBytes, Total TX: 24316.25GBytes
+[1703939345] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.46%) too high
+[1703939466] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 15.20MB (12.16%), Average OUT: 105.02MB (84.01%)Total RX: 5295.73GBytes, Total TX: 24347.85GBytes
+[1703939586] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (95.59%) too high
+[1703939706] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (95.74%) too high
+[1703939827] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.97%) too high
+[1703940008] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STARTED; Service appears to have started flapping (22.1% change >= 20.0% threshold)
+[1703940008] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 25.80MB (20.64%), Average OUT: 103.33MB (82.66%)Total RX: 5304.06GBytes, Total TX: 24410.18GBytes
+[1703940427] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.69%) too high
+[1703940547] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 6.32MB (5.06%), Average OUT: 103.15MB (82.52%)Total RX: 5312.67GBytes, Total TX: 24464.98GBytes
+[1703940787] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (91.11%) too high
+[1703940908] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 6.32MB (5.06%), Average OUT: 98.77MB (79.01%)Total RX: 5315.93GBytes, Total TX: 24501.95GBytes
+[1703941088] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (96.94%) too high
+[1703941209] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (88.37%) too high
+[1703941329] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 5.66MB (4.53%), Average OUT: 100.85MB (80.68%)Total RX: 5318.90GBytes, Total TX: 24547.26GBytes
+[1703941357] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703941363] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703941365] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703941365] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703941491] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703941495] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703941497] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703941498] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703941510] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.52%) too high
+[1703941630] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (90.79%) too high
+[1703941750] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.89%) too high
+[1703941801] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703941801] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703941802] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703941802] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703941870] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.80%) too high
+[1703941930] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (88.88%) too high
+[1703941934] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703941934] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703941934] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703941935] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703942050] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.55%) too high
+[1703942110] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.35%) too high
+[1703942290] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.94%) too high
+[1703942316] Auto-save of retention data completed successfully.
+[1703942351] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.37%) too high
+[1703942504] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703942504] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703942504] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703942636] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703942637] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703942637] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703942651] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.89%) too high
+[1703942656] SERVICE ALERT: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703942711] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.88%) too high
+[1703942777] SERVICE ALERT: SRVADMIN.cass.pmc;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1703942831] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 8.39MB (6.72%), Average OUT: 103.04MB (82.43%)Total RX: 5336.69GBytes, Total TX: 24719.88GBytes
+[1703942891] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (89.65%) too high
+[1703943001] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703943002] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703943002] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703943012] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (86.84%) too high
+[1703943132] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.10%) too high
+[1703943134] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703943134] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703943134] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703943373] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 4.38MB (3.51%), Average OUT: 102.82MB (82.26%)Total RX: 5339.25GBytes, Total TX: 24780.57GBytes
+[1703943432] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (92.84%) too high
+[1703943552] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 4.23MB (3.38%), Average OUT: 97.91MB (78.33%)Total RX: 5340.09GBytes, Total TX: 24799.16GBytes
+[1703943732] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (89.48%) too high
+[1703943852] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 3.62MB (2.90%), Average OUT: 93.85MB (75.08%)Total RX: 5341.16GBytes, Total TX: 24829.71GBytes
+[1703943973] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.21%) too high
+[1703944093] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (89.27%) too high
+[1703944213] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (88.12%) too high
+[1703944274] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 15.42MB (12.33%), Average OUT: 91.29MB (73.03%)Total RX: 5344.12GBytes, Total TX: 24874.92GBytes
+[1703944333] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.83%) too high
+[1703944453] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (85.62%) too high
+[1703944574] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 19.36MB (15.49%), Average OUT: 104.65MB (83.72%)Total RX: 5349.32GBytes, Total TX: 24906.76GBytes
+[1703944754] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.05%) too high
+[1703944875] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 5.87MB (4.70%), Average OUT: 106.11MB (84.89%)Total RX: 5351.68GBytes, Total TX: 24938.72GBytes
+[1703944995] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (96.76%) too high
+[1703945115] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (93.65%) too high
+[1703945236] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;3;OK - Average IN: 2.40MB (1.92%), Average OUT: 91.70MB (73.36%)Total RX: 5352.97GBytes, Total TX: 24978.38GBytes
+[1703945356] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.64%) too high
+[1703945476] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (95.04%) too high
+[1703945597] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.13%) too high
+[1703945916] Auto-save of retention data completed successfully.
+[1703946017] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.51%) too high
+[1703946078] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (90.24%) too high
+[1703946138] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.42%) too high
+[1703946259] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (90.51%) too high
+[1703946499] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.42%) too high
+[1703946559] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (89.19%) too high
+[1703946679] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 6.54MB (5.23%), Average OUT: 100.62MB (80.50%)Total RX: 5360.62GBytes, Total TX: 25146.03GBytes
+[1703946739] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (96.53%) too high
+[1703946860] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (95.52%) too high
+[1703946980] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.73%) too high
+[1703947220] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.63%) too high
+[1703947281] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.43%) too high
+[1703947341] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.79%) too high
+[1703947462] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.50%) too high
+[1703947522] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.52%) too high
+[1703947583] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.59%) too high
+[1703947643] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.36%) too high
+[1703947763] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.37%) too high
+[1703947883] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.84%) too high
+[1703948003] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.37%) too high
+[1703948183] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.46%) too high
+[1703948243] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.34%) too high
+[1703948363] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.89%) too high
+[1703948484] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (91.00%) too high
+[1703948544] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.49%) too high
+[1703948665] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.37%) too high
+[1703948725] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.30%) too high
+[1703948846] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.66%) too high
+[1703948906] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.37%) too high
+[1703949027] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.90%) too high
+[1703949087] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.41%) too high
+[1703949147] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.51%) too high
+[1703949267] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.63%) too high
+[1703949388] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.93%) too high
+[1703949448] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.45%) too high
+[1703949516] Auto-save of retention data completed successfully.
+[1703949569] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.65%) too high
+[1703949689] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.55%) too high
+[1703949750] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.61%) too high
+[1703949810] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.33%) too high
+[1703949870] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.84%) too high
+[1703950050] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.58%) too high
+[1703950111] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.42%) too high
+[1703950651] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.10%) too high
+[1703950711] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (89.40%) too high
+[1703950891] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.00%) too high
+[1703950952] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.44%) too high
+[1703951072] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.86%) too high
+[1703951193] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.36%) too high
+[1703951253] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.71%) too high
+[1703951314] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (87.22%) too high
+[1703951374] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.09%) too high
+[1703951495] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.82%) too high
+[1703951555] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.22%) too high
+[1703951676] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.93%) too high
+[1703951736] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.46%) too high
+[1703951857] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.87%) too high
+[1703951917] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.23%) too high
+[1703952038] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.34%) too high
+[1703952098] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.48%) too high
+[1703952159] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.72%) too high
+[1703952219] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.38%) too high
+[1703952340] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.60%) too high
+[1703952460] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.14%) too high
+[1703952521] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.95%) too high
+[1703952581] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.56%) too high
+[1703952702] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.45%) too high
+[1703952762] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.48%) too high
+[1703952822] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.24%) too high
+[1703952942] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.04%) too high
+[1703953063] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.62%) too high
+[1703953116] Auto-save of retention data completed successfully.
+[1703953123] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.54%) too high
+[1703953195] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;SOFT;1;Updates: 1 critical, 0 optional
+[1703953244] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.77%) too high
+[1703953316] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;SOFT;2;Updates: 1 critical, 0 optional
+[1703953364] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.44%) too high
+[1703953425] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.75%) too high
+[1703953438] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1703953485] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.26%) too high
+[1703953606] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.52%) too high
+[1703953666] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.08%) too high
+[1703953726] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.24%) too high
+[1703953846] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.17%) too high
+[1703953967] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.82%) too high
+[1703954087] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.41%) too high
+[1703954148] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.79%) too high
+[1703954268] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.24%) too high
+[1703954329] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.83%) too high
+[1703954389] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.37%) too high
+[1703954510] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.64%) too high
+[1703954570] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.46%) too high
+[1703954691] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.87%) too high
+[1703954751] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.47%) too high
+[1703954872] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.82%) too high
+[1703954992] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.06%) too high
+[1703955053] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.76%) too high
+[1703955113] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.30%) too high
+[1703955174] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.55%) too high
+[1703955234] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.05%) too high
+[1703955355] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.18%) too high
+[1703955415] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.49%) too high
+[1703955536] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.94%) too high
+[1703955596] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1703955717] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.89%) too high
+[1703955777] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.39%) too high
+[1703955837] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.33%) too high
+[1703955898] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.01%) too high
+[1703956079] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.72%) too high
+[1703956139] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.47%) too high
+[1703956260] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.84%) too high
+[1703956320] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.16%) too high
+[1703956441] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.53%) too high
+[1703956501] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.47%) too high
+[1703956561] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.08%) too high
+[1703956681] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.19%) too high
+[1703956716] Auto-save of retention data completed successfully.
+[1703956741] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.36%) too high
+[1703956861] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.38%) too high
+[1703956982] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.75%) too high
+[1703957042] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.53%) too high
+[1703957163] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.92%) too high
+[1703957283] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.31%) too high
+[1703957344] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.84%) too high
+[1703957404] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.52%) too high
+[1703957525] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.80%) too high
+[1703957585] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.42%) too high
+[1703957645] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.39%) too high
+[1703957765] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.56%) too high
+[1703957886] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.62%) too high
+[1703957946] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.49%) too high
+[1703958067] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.10%) too high
+[1703958127] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.27%) too high
+[1703958248] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.38%) too high
+[1703958308] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.23%) too high
+[1703958429] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.75%) too high
+[1703958489] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.45%) too high
+[1703958549] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.30%) too high
+[1703958669] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.57%) too high
+[1703958790] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.84%) too high
+[1703958850] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.82%) too high
+[1703958971] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.33%) too high
+[1703959031] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.41%) too high
+[1703959152] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.50%) too high
+[1703959212] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.98%) too high
+[1703959333] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.94%) too high
+[1703959393] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.37%) too high
+[1703959453] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.35%) too high
+[1703959573] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (101.06%) too high
+[1703959634] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.73%) too high
+[1703959694] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.41%) too high
+[1703959815] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.68%) too high
+[1703959875] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.35%) too high
+[1703959935] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.89%) too high
+[1703960055] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.87%) too high
+[1703960115] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.52%) too high
+[1703960175] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.30%) too high
+[1703960236] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.55%) too high
+[1703960296] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.27%) too high
+[1703960316] Auto-save of retention data completed successfully.
+[1703960417] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.96%) too high
+[1703960837] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.29%) too high
+[1703960958] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.87%) too high
+[1703961018] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.36%) too high
+[1703961139] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.73%) too high
+[1703961199] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.56%) too high
+[1703961260] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.89%) too high
+[1703961320] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.13%) too high
+[1703961441] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.35%) too high
+[1703961501] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.28%) too high
+[1703961682] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.03%) too high
+[1703961742] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.76%) too high
+[1703961803] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.73%) too high
+[1703961863] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.69%) too high
+[1703961923] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.60%) too high
+[1703962103] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.48%) too high
+[1703962164] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.72%) too high
+[1703962224] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.33%) too high
+[1703962345] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.40%) too high
+[1703962465] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.99%) too high
+[1703962526] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.80%) too high
+[1703962586] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.60%) too high
+[1703962707] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (95.14%) too high
+[1703962767] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.05%) too high
+[1703962827] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.89%) too high
+[1703962947] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.63%) too high
+[1703963007] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.82%) too high
+[1703963367] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.03%) too high
+[1703963428] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.65%) too high
+[1703963488] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.35%) too high
+[1703963609] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.57%) too high
+[1703963669] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.45%) too high
+[1703963790] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.41%) too high
+[1703963850] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.17%) too high
+[1703963916] Auto-save of retention data completed successfully.
+[1703963971] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.25%) too high
+[1703964031] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.10%) too high
+[1703964152] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.35%) too high
+[1703964212] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.99%) too high
+[1703964333] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.60%) too high
+[1703964393] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.08%) too high
+[1703964453] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (94.46%) too high
+[1703964573] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (100.84%) too high
+[1703964634] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.83%) too high
+[1703964694] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.38%) too high
+[1703964815] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.36%) too high
+[1703964935] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.20%) too high
+[1703964996] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.77%) too high
+[1703965056] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.42%) too high
+[1703965177] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.69%) too high
+[1703965237] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.79%) too high
+[1703965358] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.95%) too high
+[1703965418] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.38%) too high
+[1703965539] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.61%) too high
+[1703965599] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.24%) too high
+[1703965720] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.65%) too high
+[1703965780] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.31%) too high
+[1703965840] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (97.01%) too high
+[1703966680] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (98.20%) too high
+[1703966741] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.25%) too high
+[1703967341] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;CRITICAL;HARD;3;CRITICAL - OUT bandwidth (99.08%) too high
+[1703967401] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (96.65%) too high
+[1703967516] Auto-save of retention data completed successfully.
+[1703967822] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 11.26MB (9.01%), Average OUT: 92.06MB (73.64%)Total RX: 5405.19GBytes, Total TX: 27722.72GBytes
+[1703968117] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;1;CPU Load 95% (5 min average)
+[1703968237] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;2;CPU Load 99% (5 min average)
+[1703968357] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968357] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968357] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1703968357] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968357] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1703968357] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968357] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1703968477] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703968477] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703968477] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-telegram;CPU Load 100% (5 min average)
+[1703968477] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703968477] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-telegram;CPU Load 100% (5 min average)
+[1703968477] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703968477] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1703968601] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.36%) too high
+[1703968717] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968717] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968717] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1703968717] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968717] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1703968717] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1703968717] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1703968722] SERVICE FLAPPING ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;STOPPED; Service appears to have stopped flapping (4.5% change < 5.0% threshold)
+[1703968722] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 128.85KB (0.10%), Average OUT: 101.60MB (81.28%)Total RX: 5426.64GBytes, Total TX: 27802.81GBytes
+[1703969317] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703969317] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703969317] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-telegram;CPU Load 100% (5 min average)
+[1703969317] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703969317] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-telegram;CPU Load 100% (5 min average)
+[1703969317] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1703969317] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1703969437] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;CPU;STARTED; Service appears to have started flapping (24.9% change >= 20.0% threshold)
+[1703969437] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1703970037] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1703970222] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.66%) too high
+[1703970342] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 8.85MB (7.08%), Average OUT: 100.59MB (80.47%)Total RX: 5440.61GBytes, Total TX: 27960.48GBytes
+[1703970517] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1703970577] SERVICE ALERT: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 92% (5 min average)
+[1703971116] Auto-save of retention data completed successfully.
+[1703971717] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;CPU;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1703974062] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.67%) too high
+[1703974183] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 27.00MB (21.60%), Average OUT: 85.52MB (68.42%)Total RX: 5530.98GBytes, Total TX: 28341.02GBytes
+[1703974716] Auto-save of retention data completed successfully.
+[1703977303] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.04%) too high
+[1703977423] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 7.36MB (5.89%), Average OUT: 106.08MB (84.86%)Total RX: 5542.98GBytes, Total TX: 28610.66GBytes
+[1703977544] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (90.87%) too high
+[1703977664] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (92.68%) too high
+[1703977784] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (92.00%) too high
+[1703978316] Auto-save of retention data completed successfully.
+[1703980844] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 191.07KB (0.15%), Average OUT: 105.73MB (84.58%)Total RX: 5543.64GBytes, Total TX: 29000.21GBytes
+[1703981916] Auto-save of retention data completed successfully.
+[1703982224] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (91.90%) too high
+[1703982344] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (90.77%) too high
+[1703982465] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (90.39%) too high
+[1703984445] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 166.91KB (0.13%), Average OUT: 87.49MB (69.99%)Total RX: 5572.79GBytes, Total TX: 29376.81GBytes
+[1703984866] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (85.49%) too high
+[1703984986] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 28.98MB (23.18%), Average OUT: 106.05MB (84.84%)Total RX: 5586.74GBytes, Total TX: 29429.17GBytes
+[1703985226] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (86.01%) too high
+[1703985346] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;2;WARNING - OUT bandwidth (87.88%) too high
+[1703985467] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;HARD;3;WARNING - OUT bandwidth (93.22%) too high
+[1703985516] Auto-save of retention data completed successfully.
+[1703985648] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 181.63KB (0.15%), Average OUT: 106.07MB (84.86%)Total RX: 5595.62GBytes, Total TX: 29502.00GBytes
+[1703987646] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703987768] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1703989116] Auto-save of retention data completed successfully.

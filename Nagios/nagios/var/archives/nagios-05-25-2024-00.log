@@ -1,0 +1,871 @@
+[1716523200] LOG ROTATION: DAILY
+[1716523200] LOG VERSION: 2.0
+[1716523200] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.85 ms
+[1716523200] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.52 ms
+[1716523200] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1716523200] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1716523200] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.04 ms
+[1716523200] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1716523200] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.05 ms
+[1716523200] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.81 ms
+[1716523200] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.29 ms
+[1716523200] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1716523200] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.53 ms
+[1716523200] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.78 ms
+[1716523200] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.52 ms
+[1716523200] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.83 ms
+[1716523200] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1716523200] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.06 ms
+[1716523200] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.57 ms
+[1716523200] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.35 ms
+[1716523200] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.60 ms
+[1716523200] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1716523200] CURRENT HOST STATE: FW OyC;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 45.09 ms
+[1716523200] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.40 ms
+[1716523200] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.40 ms
+[1716523200] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1716523200] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1716523200] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.89 ms
+[1716523200] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 21.46 ms
+[1716523200] CURRENT HOST STATE: OyC Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 45.92 ms
+[1716523200] CURRENT HOST STATE: OyC Teledata;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 53.73 ms
+[1716523200] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1716523200] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1716523200] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.52 ms
+[1716523200] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1716523200] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.51 ms
+[1716523200] CURRENT HOST STATE: SRV05AD2_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.86 ms
+[1716523200] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1716523200] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.02 ms
+[1716523200] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1716523200] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.56 ms
+[1716523200] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.21 ms
+[1716523200] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1716523200] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.62 ms
+[1716523200] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.34 ms
+[1716523200] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1716523200] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1716523200] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.80 ms
+[1716523200] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.07 ms
+[1716523200] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.72 ms
+[1716523200] CURRENT HOST STATE: SRV_Prometheus;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1716523200] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1716523200] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1716523200] CURRENT HOST STATE: SRV_Sharepoint;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.89)
+[1716523200] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.70 ms
+[1716523200] CURRENT HOST STATE: SRV_VeeamOne;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.101)
+[1716523200] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.95 ms
+[1716523200] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1716523200] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1716523200] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.69 ms
+[1716523200] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.78 ms
+[1716523200] CURRENT HOST STATE: Servidores CASS;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.17)
+[1716523200] CURRENT HOST STATE: Ups Principal;UNREACHABLE;HARD;10;CRITICAL - Host Unreachable (192.168.10.19)
+[1716523200] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.27 ms
+[1716523200] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.85 ms
+[1716523200] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.89 ms
+[1716523200] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.62 ms
+[1716523200] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.08 ms
+[1716523200] CURRENT SERVICE STATE: Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 59.51 ms
+[1716523200] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.73 ms
+[1716523200] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1716523200] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.99 ms
+[1716523200] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.60 ms
+[1716523200] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.82 ms
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 7.36KB (0.01%), Average OUT: 4.69KB (0.00%)Total RX: 4.03GBytes, Total TX: 7.19GBytes
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 622.30B (0.00%), Average OUT: 894.75B (0.00%)Total RX: 69.67GBytes, Total TX: 99.42GBytes
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 647.90B (0.00%), Average OUT: 137.73B (0.00%)Total RX: 403.27GBytes, Total TX: 706.01GBytes
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1716523200] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (27817318) 3 days, 5:16:13.18
+[1716523200] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.18 ms
+[1716523200] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 39.21 ms
+[1716523200] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.51 ms
+[1716523200] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1716523200] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1716523200] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1716523200] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1716523200] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1716523200] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1716523200] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:36TB - Free:14TB - Used Space: 71%
+[1716523200] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1716523200] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1293MB - Free:2537MB = 34%
+[1716523200] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 2
+[1716523200] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=35C
+[1716523200] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (48138598) 5 days, 13:43:05.98
+[1716523200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 1 optional
+[1716523200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 102.88 Gb (86%) - free 16.52 Gb (14%)
+[1716523200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 228.01 Gb (22%) - free 795.97 Gb (78%)
+[1716523200] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1716523200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 11704.98 MB (50%) - free: 11846.24 MB (50%)
+[1716523200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.48 ms
+[1716523200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 4 day(s) 15 hour(s) 47 minute(s)
+[1716523200] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1716523200] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.06 ms
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78572 MiB (85.72% inode=-):
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.00, 0.01, 0.00
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 2140 MB - 27% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 262 processes
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 5 day(s) 14 hour(s) 23 minute(s)
+[1716523200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1716523200] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.90 ms
+[1716523200] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.08 ms
+[1716523200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1716523200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 162.65 Gb (54%) - free 137.00 Gb (46%)
+[1716523200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1716523200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:16511.56 MB - used: 7031.10 MB (43%) - free: 9480.47 MB (57%)
+[1716523200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.80 ms
+[1716523200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 5 day(s) 13 hour(s) 25 minute(s)
+[1716523200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1716523200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 58.80 Gb (20%) - free 240.53 Gb (80%)
+[1716523200] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 5% (5 min average)
+[1716523200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:15411.32 MB - used: 3512.39 MB (23%) - free: 11898.94 MB (77%)
+[1716523200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.41 ms
+[1716523200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 5 day(s) 14 hour(s) 7 minute(s)
+[1716523200] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1716523200] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.07 ms
+[1716523200] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.41 ms
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;CRITICAL;HARD;3;DISK CRITICAL - free space: / 0 MB (0% inode=-)]:
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.17, 0.14, 0.10
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.001 second response time on port 443
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1727 MB - 44% [SWAP] Total: 2047 MB - Used: 36 MB - 1%
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 333 processes
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 12 processes with args 'apache2'
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 5 day(s) 13 hour(s) 15 minute(s)
+[1716523200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1716523200] CURRENT SERVICE STATE: SRV_GLPI;Agentes;UNKNOWN;HARD;3;UNKNOWN: An error occured connecting to API. (Connection error: '[Errno 111] Connection refused')
+[1716523200] CURRENT SERVICE STATE: SRV_GLPI;CPU;UNKNOWN;HARD;3;UNKNOWN: An error occured connecting to API. (Connection error: '[Errno 111] Connection refused')
+[1716523200] CURRENT SERVICE STATE: SRV_GLPI;Http;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 364 bytes in 0.002 second response time
+[1716523200] CURRENT SERVICE STATE: SRV_GLPI;Memoria;UNKNOWN;HARD;3;UNKNOWN: An error occured connecting to API. (Connection error: '[Errno 111] Connection refused')
+[1716523200] CURRENT SERVICE STATE: SRV_GLPI;Usuarios Login;CRITICAL;HARD;3;(No output on stdout) stderr: connect to address 10.0.0.106 port 5666: Connection refused
+[1716523200] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118322 MiB (91.06% inode=-):
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.02, 0.01
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1006 MB - 12% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 306 processes
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 5 day(s) 14 hour(s) 5 minute(s)
+[1716523200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1716523200] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.92 ms
+[1716523200] CURRENT SERVICE STATE: SRV_Soporte;Actualizacion;UNKNOWN;HARD;3;UNKNOWN: An error occured connecting to API. (Connection error: '[Errno 111] Connection refused')
+[1716523200] CURRENT SERVICE STATE: SRV_Soporte;Agentes;UNKNOWN;HARD;3;UNKNOWN: An error occured connecting to API. (Connection error: '[Errno 111] Connection refused')
+[1716523200] CURRENT SERVICE STATE: SRV_Soporte;CPU;UNKNOWN;HARD;3;UNKNOWN: An error occured connecting to API. (Connection error: '[Errno 111] Connection refused')
+[1716523200] CURRENT SERVICE STATE: SRV_Soporte;Memoria;UNKNOWN;HARD;3;UNKNOWN: An error occured connecting to API. (Connection error: '[Errno 111] Connection refused')
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 927799 MiB (88.70% inode=-):
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.15, 0.14, 0.10
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 4127 MB - 52% [SWAP] Total: 2048 MB - Used: 231 MB - 11%
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 321 processes
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.001 second response time on port 8000
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.001 second response time on port 9443
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1716523200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 459421 MiB (90.66% inode=-):
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1777593 MiB (90.77% inode=99%):
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 473933 MiB (99.30% inode=100%):
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.004 sec. response time
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2245 MB - 18% [SWAP] Total: 2048 MB - Used: 3 MB - 0%
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.42 ms
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 302 processes
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 5 day(s) 14 hour(s) 15 minute(s)
+[1716523200] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1716523200] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 3 Updates Available
+[1716523200] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.18, 0.12, 0.09
+[1716523200] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 401 MB - 5% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1716523200] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1716523200] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 82 processes with STATE = RSZDT
+[1716523200] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1716523200] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1716523200] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1716523200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;WARNING;HARD;1;WARNING: SNMP error: No response from remote host "10.0.0.17"
+[1716523200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;CRITICAL;HARD;1;connect to address 10.0.0.17 and port 80: No route to host
+[1716523200] CURRENT SERVICE STATE: Servidores CASS;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.0.17)
+[1716523200] CURRENT SERVICE STATE: Servidores CASS;Uptime;CRITICAL;HARD;1;CRITICAL - Plugin timed out while executing system call
+[1716523200] CURRENT SERVICE STATE: Ups Principal;Carga;UNKNOWN;HARD;3;Plugin check_ups_snmp failure - snmpget command error.
+[1716523200] CURRENT SERVICE STATE: Ups Principal;Estado;UNKNOWN;HARD;3;Plugin check_ups_snmp failure - snmpget command error.
+[1716523200] CURRENT SERVICE STATE: Ups Principal;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.10.19)
+[1716523200] CURRENT SERVICE STATE: Ups Principal;Temperatura;UNKNOWN;HARD;3;Plugin check_ups_snmp failure - snmpget command error.
+[1716523200] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;CRITICAL;HARD;3;CRITICAL - Plugin timed out while executing system call
+[1716523200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 1 optional
+[1716523200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 68.04 Gb (68%) - free 31.29 Gb (32%)
+[1716523200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 8% (5 min average)
+[1716523200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 17213.51 MB (61%) - free: 10945.74 MB (39%)
+[1716523200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.80 ms
+[1716523200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 5 day(s) 13 hour(s) 59 minute(s)
+[1716523200] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 224 days on 2025-01-03 20:59 -0300/-03.
+[1716523200] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1077 bytes in 0.222 second response time
+[1716523202] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1716523322] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1716524263] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716524263] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716524265] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716524398] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716524399] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716524400] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716525001] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716525001] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716525002] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716525133] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716525133] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716525134] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716526187] Auto-save of retention data completed successfully.
+[1716526802] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716526922] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1716529787] Auto-save of retention data completed successfully.
+[1716532723] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716532724] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716532854] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716532856] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716533387] Auto-save of retention data completed successfully.
+[1716533401] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716533401] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716533546] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716533547] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716534881] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716534883] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716534896] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716534897] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716535013] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716535014] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716535027] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716535030] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716535201] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716535201] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716535332] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716535333] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1716536987] Auto-save of retention data completed successfully.
+[1716540587] Auto-save of retention data completed successfully.
+[1716544187] Auto-save of retention data completed successfully.
+[1716547787] Auto-save of retention data completed successfully.
+[1716550305] HOST ALERT: SRV_GXConsultores;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.115)
+[1716550369] HOST ALERT: SRV_GXConsultores;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1716551387] Auto-save of retention data completed successfully.
+[1716554987] Auto-save of retention data completed successfully.
+[1716558587] Auto-save of retention data completed successfully.
+[1716558647] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (210819932221.89%) too high
+[1716558767] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 54.95KB (0.04%), Average OUT: 35.81MB (28.65%)Total RX: 4.51GBytes, Total TX: 7.81GBytes
+[1716559035] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1716559156] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1716559857] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716559992] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1716560005] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716560126] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 1.87MB (1.49%), Average OUT: 1.86MB (1.49%)Total RX: 546.07GBytes, Total TX: 878.62GBytes
+[1716560732] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1716560852] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1716562187] Auto-save of retention data completed successfully.
+[1716562199] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716562262] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 1 optional
+[1716565787] Auto-save of retention data completed successfully.
+[1716569012] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716569074] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 1 optional
+[1716569387] Auto-save of retention data completed successfully.
+[1716572987] Auto-save of retention data completed successfully.
+[1716575797] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716575823] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716575917] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 354.83B (0.00%), Average OUT: 112.51B (0.00%)Total RX: 559.70GBytes, Total TX: 947.50GBytes
+[1716575943] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 55.66KB (0.04%), Average OUT: 882.90KB (0.71%)Total RX: 97.43GBytes, Total TX: 115.31GBytes
+[1716576202] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716576323] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.22KB (0.01%), Average OUT: 7.89KB (0.01%)Total RX: 4.93GBytes, Total TX: 9.71GBytes
+[1716576587] Auto-save of retention data completed successfully.
+[1716578107] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1716578110] SERVICE ALERT: Veeam2023.cass.pmc;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 90%, RTA = 2.74 ms
+[1716578111] SERVICE ALERT: Veeam2023.cass.pmc;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1716578117] HOST ALERT: Veeam2023.cass.pmc;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.83)
+[1716578135] SERVICE ALERT: Veeam2023.cass.pmc;Memoria;CRITICAL;HARD;1;connect to address 10.0.0.83 and port 12489: No route to host
+[1716578142] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;1;connect to address 10.0.0.83 and port 12489: No route to host
+[1716578174] HOST ALERT: Veeam2023.cass.pmc;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.0.83)
+[1716578227] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;OK;SOFT;2;c:\ - total: 99.33 Gb - used: 67.74 Gb (68%) - free 31.59 Gb (32%)
+[1716578231] HOST ALERT: Veeam2023.cass.pmc;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 2.79 ms
+[1716578231] SERVICE ALERT: Veeam2023.cass.pmc;Tiempo Activo;OK;SOFT;2;System Uptime - 0 day(s) 0 hour(s) 0 minute(s)
+[1716578234] SERVICE ALERT: Veeam2023.cass.pmc;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 2.47 ms
+[1716578252] SERVICE ALERT: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 2821.97 MB (10%) - free: 25337.28 MB (90%)
+[1716578259] SERVICE ALERT: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1716578314] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716578434] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1716578434] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.55KB (0.01%), Average OUT: 8.06KB (0.01%)Total RX: 4.96GBytes, Total TX: 9.73GBytes
+[1716579193] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (210819930945.89%) too high
+[1716579313] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;CRITICAL - OUT bandwidth (773.38%) too high
+[1716579434] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;OK - Average IN: 53.83KB (0.04%), Average OUT: 1.86MB (1.49%)Total RX: 97.61GBytes, Total TX: 117.32GBytes
+[1716580187] Auto-save of retention data completed successfully.
+[1716580244] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1716580365] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 27.18KB (0.02%), Average OUT: 25.55KB (0.02%)Total RX: 4.99GBytes, Total TX: 9.92GBytes
+[1716583787] Auto-save of retention data completed successfully.
+[1716584387] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716584512] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 191.51KB (0.15%), Average OUT: 10.94MB (8.75%)Total RX: 560.83GBytes, Total TX: 969.47GBytes
+[1716587202] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1716587323] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1716587387] Auto-save of retention data completed successfully.
+[1716587395] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1716587515] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 11.58KB (0.01%), Average OUT: 46.14KB (0.04%)Total RX: 5.14GBytes, Total TX: 12.36GBytes
+[1716590987] Auto-save of retention data completed successfully.
+[1716594587] Auto-save of retention data completed successfully.
+[1716598187] Auto-save of retention data completed successfully.
+[1716601787] Auto-save of retention data completed successfully.
+[1716605387] Auto-save of retention data completed successfully.
+[1716606997] wproc: Core Worker 21858: job 104766 (pid=15782) timed out. Killing it
+[1716606997] wproc: CHECK job 104766 from worker Core Worker 21858 timed out after 30.01s
+[1716606997] wproc:   host=FW OyC; service=(null);
+[1716606997] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716606997] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716606997] HOST ALERT: FW OyC;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1716606997] wproc: Core Worker 21858: job 104766 (pid=15782): Dormant child reaped
+[1716607061] HOST ALERT: FW OyC;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 48.66 ms
+[1716607687] HOST ALERT: FW OyC;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1716607691] wproc: Core Worker 21856: job 105393 (pid=21563) timed out. Killing it
+[1716607691] wproc: CHECK job 105393 from worker Core Worker 21856 timed out after 30.01s
+[1716607691] wproc:   host=OyC Teledata; service=(null);
+[1716607691] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607691] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716607691] HOST ALERT: OyC Teledata;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1716607691] wproc: Core Worker 21856: job 105393 (pid=21563): Dormant child reaped
+[1716607721] wproc: Core Worker 21855: job 105416 (pid=21752) timed out. Killing it
+[1716607721] wproc: CHECK job 105416 from worker Core Worker 21855 timed out after 30.01s
+[1716607721] wproc:   host=FW OyC; service=(null);
+[1716607721] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607721] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716607721] HOST FLAPPING ALERT: FW OyC;STARTED; Host appears to have started flapping (21.8% change > 20.0% threshold)
+[1716607721] HOST ALERT: FW OyC;UNREACHABLE;SOFT;2;(Host check timed out after 30.01 seconds)
+[1716607721] wproc: Core Worker 21855: job 105416 (pid=21752): Dormant child reaped
+[1716607725] wproc: Core Worker 21858: job 105421 (pid=21805) timed out. Killing it
+[1716607725] wproc: CHECK job 105421 from worker Core Worker 21858 timed out after 30.01s
+[1716607725] wproc:   host=OyC Entel; service=(null);
+[1716607725] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607725] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716607725] HOST ALERT: OyC Entel;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1716607725] wproc: Core Worker 21858: job 105421 (pid=21805): Dormant child reaped
+[1716607781] wproc: Core Worker 21857: job 105469 (pid=22241) timed out. Killing it
+[1716607781] wproc: CHECK job 105469 from worker Core Worker 21857 timed out after 30.01s
+[1716607781] wproc:   host=OyC Teledata; service=(null);
+[1716607781] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607781] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716607781] HOST ALERT: OyC Teledata;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1716607781] wproc: Core Worker 21857: job 105469 (pid=22241): Dormant child reaped
+[1716607811] wproc: Core Worker 21856: job 105499 (pid=22534) timed out. Killing it
+[1716607811] wproc: CHECK job 105499 from worker Core Worker 21856 timed out after 30.01s
+[1716607811] wproc:   host=FW OyC; service=(null);
+[1716607811] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607811] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716607811] HOST ALERT: FW OyC;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1716607811] wproc: Core Worker 21856: job 105499 (pid=22534): Dormant child reaped
+[1716607815] wproc: Core Worker 21858: job 105503 (pid=22562) timed out. Killing it
+[1716607815] wproc: CHECK job 105503 from worker Core Worker 21858 timed out after 30.01s
+[1716607815] wproc:   host=OyC Entel; service=(null);
+[1716607815] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607815] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716607815] HOST ALERT: OyC Entel;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1716607815] wproc: Core Worker 21858: job 105503 (pid=22562): Dormant child reaped
+[1716607871] wproc: Core Worker 21858: job 105552 (pid=23048) timed out. Killing it
+[1716607871] wproc: CHECK job 105552 from worker Core Worker 21858 timed out after 30.01s
+[1716607871] wproc:   host=OyC Teledata; service=(null);
+[1716607871] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607871] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716607871] HOST ALERT: OyC Teledata;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1716607871] wproc: Core Worker 21858: job 105552 (pid=23048): Dormant child reaped
+[1716607901] wproc: Core Worker 21855: job 105577 (pid=23258) timed out. Killing it
+[1716607901] wproc: CHECK job 105577 from worker Core Worker 21855 timed out after 30.01s
+[1716607901] wproc:   host=FW OyC; service=(null);
+[1716607901] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607901] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716607901] HOST ALERT: FW OyC;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1716607901] wproc: Core Worker 21855: job 105577 (pid=23258): Dormant child reaped
+[1716607905] wproc: Core Worker 21856: job 105583 (pid=23313) timed out. Killing it
+[1716607905] wproc: CHECK job 105583 from worker Core Worker 21856 timed out after 30.01s
+[1716607905] wproc:   host=OyC Entel; service=(null);
+[1716607905] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607905] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716607905] HOST ALERT: OyC Entel;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1716607905] wproc: Core Worker 21856: job 105583 (pid=23313): Dormant child reaped
+[1716607961] wproc: Core Worker 21856: job 105631 (pid=23745) timed out. Killing it
+[1716607961] wproc: CHECK job 105631 from worker Core Worker 21856 timed out after 30.01s
+[1716607961] wproc:   host=OyC Teledata; service=(null);
+[1716607961] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607961] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716607961] HOST ALERT: OyC Teledata;DOWN;SOFT;4;(Host check timed out after 30.01 seconds)
+[1716607961] wproc: Core Worker 21856: job 105631 (pid=23745): Dormant child reaped
+[1716607991] wproc: Core Worker 21858: job 105660 (pid=24039) timed out. Killing it
+[1716607991] wproc: CHECK job 105660 from worker Core Worker 21858 timed out after 30.01s
+[1716607991] wproc:   host=FW OyC; service=(null);
+[1716607991] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607991] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716607991] HOST ALERT: FW OyC;UNREACHABLE;SOFT;5;(Host check timed out after 30.01 seconds)
+[1716607991] wproc: Core Worker 21858: job 105660 (pid=24039): Dormant child reaped
+[1716607995] wproc: Core Worker 21856: job 105665 (pid=24065) timed out. Killing it
+[1716607995] wproc: CHECK job 105665 from worker Core Worker 21856 timed out after 30.01s
+[1716607995] wproc:   host=OyC Entel; service=(null);
+[1716607995] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716607995] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716607995] HOST ALERT: OyC Entel;DOWN;SOFT;4;(Host check timed out after 30.01 seconds)
+[1716607995] wproc: Core Worker 21856: job 105665 (pid=24065): Dormant child reaped
+[1716608051] wproc: Core Worker 21858: job 105713 (pid=24522) timed out. Killing it
+[1716608051] wproc: CHECK job 105713 from worker Core Worker 21858 timed out after 30.01s
+[1716608051] wproc:   host=OyC Teledata; service=(null);
+[1716608051] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608051] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608051] HOST ALERT: OyC Teledata;DOWN;SOFT;5;(Host check timed out after 30.01 seconds)
+[1716608051] wproc: Core Worker 21858: job 105713 (pid=24522): Dormant child reaped
+[1716608081] wproc: Core Worker 21856: job 105738 (pid=24715) timed out. Killing it
+[1716608081] wproc: CHECK job 105738 from worker Core Worker 21856 timed out after 30.01s
+[1716608081] wproc:   host=FW OyC; service=(null);
+[1716608081] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608081] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608081] HOST ALERT: FW OyC;UNREACHABLE;SOFT;6;(Host check timed out after 30.01 seconds)
+[1716608081] wproc: Core Worker 21856: job 105738 (pid=24715): Dormant child reaped
+[1716608085] wproc: Core Worker 21858: job 105742 (pid=24763) timed out. Killing it
+[1716608085] wproc: CHECK job 105742 from worker Core Worker 21858 timed out after 30.01s
+[1716608085] wproc:   host=OyC Entel; service=(null);
+[1716608085] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608085] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608085] HOST ALERT: OyC Entel;DOWN;SOFT;5;(Host check timed out after 30.01 seconds)
+[1716608085] wproc: Core Worker 21858: job 105742 (pid=24763): Dormant child reaped
+[1716608141] wproc: Core Worker 21855: job 105791 (pid=25198) timed out. Killing it
+[1716608141] wproc: CHECK job 105791 from worker Core Worker 21855 timed out after 30.01s
+[1716608141] wproc:   host=OyC Teledata; service=(null);
+[1716608141] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608141] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608141] HOST ALERT: OyC Teledata;DOWN;SOFT;6;(Host check timed out after 30.01 seconds)
+[1716608141] wproc: Core Worker 21855: job 105791 (pid=25198): Dormant child reaped
+[1716608171] wproc: Core Worker 21858: job 105820 (pid=25499) timed out. Killing it
+[1716608171] wproc: CHECK job 105820 from worker Core Worker 21858 timed out after 30.01s
+[1716608171] wproc:   host=FW OyC; service=(null);
+[1716608171] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608171] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608171] HOST ALERT: FW OyC;UNREACHABLE;SOFT;7;(Host check timed out after 30.01 seconds)
+[1716608171] wproc: Core Worker 21858: job 105820 (pid=25499): Dormant child reaped
+[1716608175] wproc: Core Worker 21855: job 105825 (pid=25527) timed out. Killing it
+[1716608175] wproc: CHECK job 105825 from worker Core Worker 21855 timed out after 30.01s
+[1716608175] wproc:   host=OyC Entel; service=(null);
+[1716608175] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608175] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608175] HOST ALERT: OyC Entel;DOWN;SOFT;6;(Host check timed out after 30.01 seconds)
+[1716608175] wproc: Core Worker 21855: job 105825 (pid=25527): Dormant child reaped
+[1716608231] wproc: Core Worker 21855: job 105875 (pid=26006) timed out. Killing it
+[1716608231] wproc: CHECK job 105875 from worker Core Worker 21855 timed out after 30.01s
+[1716608231] wproc:   host=OyC Teledata; service=(null);
+[1716608231] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608231] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608231] HOST ALERT: OyC Teledata;DOWN;SOFT;7;(Host check timed out after 30.01 seconds)
+[1716608231] wproc: Core Worker 21855: job 105875 (pid=26006): Dormant child reaped
+[1716608261] wproc: Core Worker 21857: job 105899 (pid=26199) timed out. Killing it
+[1716608261] wproc: CHECK job 105899 from worker Core Worker 21857 timed out after 30.01s
+[1716608261] wproc:   host=FW OyC; service=(null);
+[1716608261] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608261] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608261] HOST ALERT: FW OyC;UNREACHABLE;SOFT;8;(Host check timed out after 30.01 seconds)
+[1716608261] wproc: Core Worker 21857: job 105899 (pid=26199): Dormant child reaped
+[1716608265] wproc: Core Worker 21855: job 105904 (pid=26243) timed out. Killing it
+[1716608265] wproc: CHECK job 105904 from worker Core Worker 21855 timed out after 30.01s
+[1716608265] wproc:   host=OyC Entel; service=(null);
+[1716608265] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608265] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608265] HOST ALERT: OyC Entel;DOWN;SOFT;7;(Host check timed out after 30.01 seconds)
+[1716608265] wproc: Core Worker 21855: job 105904 (pid=26243): Dormant child reaped
+[1716608321] wproc: Core Worker 21858: job 105952 (pid=26682) timed out. Killing it
+[1716608321] wproc: CHECK job 105952 from worker Core Worker 21858 timed out after 30.01s
+[1716608321] wproc:   host=OyC Teledata; service=(null);
+[1716608321] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608321] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608321] HOST ALERT: OyC Teledata;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1716608321] wproc: Core Worker 21858: job 105952 (pid=26682): Dormant child reaped
+[1716608351] wproc: Core Worker 21858: job 105981 (pid=26973) timed out. Killing it
+[1716608351] wproc: CHECK job 105981 from worker Core Worker 21858 timed out after 30.01s
+[1716608351] wproc:   host=FW OyC; service=(null);
+[1716608351] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608351] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608351] HOST ALERT: FW OyC;UNREACHABLE;SOFT;9;(Host check timed out after 30.01 seconds)
+[1716608351] wproc: Core Worker 21858: job 105981 (pid=26973): Dormant child reaped
+[1716608355] wproc: Core Worker 21855: job 105986 (pid=26996) timed out. Killing it
+[1716608355] wproc: CHECK job 105986 from worker Core Worker 21855 timed out after 30.01s
+[1716608355] wproc:   host=OyC Entel; service=(null);
+[1716608355] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608355] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608355] HOST ALERT: OyC Entel;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1716608355] wproc: Core Worker 21855: job 105986 (pid=26996): Dormant child reaped
+[1716608411] wproc: Core Worker 21856: job 106035 (pid=27456) timed out. Killing it
+[1716608411] wproc: CHECK job 106035 from worker Core Worker 21856 timed out after 30.00s
+[1716608411] wproc:   host=OyC Teledata; service=(null);
+[1716608411] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608411] Warning: Check of host 'OyC Teledata' timed out after 30.00 seconds
+[1716608411] HOST ALERT: OyC Teledata;DOWN;SOFT;9;(Host check timed out after 30.00 seconds)
+[1716608411] wproc: Core Worker 21856: job 106035 (pid=27456): Dormant child reaped
+[1716608441] wproc: Core Worker 21855: job 106059 (pid=27669) timed out. Killing it
+[1716608441] wproc: CHECK job 106059 from worker Core Worker 21855 timed out after 30.01s
+[1716608441] wproc:   host=FW OyC; service=(null);
+[1716608441] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608441] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608441] HOST ALERT: FW OyC;UNREACHABLE;HARD;10;(Host check timed out after 30.01 seconds)
+[1716608441] wproc: Core Worker 21855: job 106059 (pid=27669): Dormant child reaped
+[1716608445] wproc: Core Worker 21856: job 106064 (pid=27713) timed out. Killing it
+[1716608445] wproc: CHECK job 106064 from worker Core Worker 21856 timed out after 30.01s
+[1716608445] wproc:   host=OyC Entel; service=(null);
+[1716608445] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608445] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608445] HOST ALERT: OyC Entel;DOWN;SOFT;9;(Host check timed out after 30.01 seconds)
+[1716608445] wproc: Core Worker 21856: job 106064 (pid=27713): Dormant child reaped
+[1716608501] wproc: Core Worker 21858: job 106113 (pid=28187) timed out. Killing it
+[1716608501] wproc: CHECK job 106113 from worker Core Worker 21858 timed out after 30.01s
+[1716608501] wproc:   host=OyC Teledata; service=(null);
+[1716608501] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608501] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608501] HOST ALERT: OyC Teledata;DOWN;HARD;10;(Host check timed out after 30.01 seconds)
+[1716608501] wproc: Core Worker 21858: job 106113 (pid=28187): Dormant child reaped
+[1716608531] wproc: Core Worker 21855: job 106143 (pid=28481) timed out. Killing it
+[1716608531] wproc: CHECK job 106143 from worker Core Worker 21855 timed out after 30.01s
+[1716608531] wproc:   host=FW OyC; service=(null);
+[1716608531] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608531] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608531] wproc: Core Worker 21855: job 106143 (pid=28481): Dormant child reaped
+[1716608535] wproc: Core Worker 21857: job 106147 (pid=28503) timed out. Killing it
+[1716608535] wproc: CHECK job 106147 from worker Core Worker 21857 timed out after 30.01s
+[1716608535] wproc:   host=OyC Entel; service=(null);
+[1716608535] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608535] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608535] HOST NOTIFICATION: nagiosadmin;OyC Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1716608535] HOST NOTIFICATION: andresnavarro;OyC Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1716608535] HOST NOTIFICATION: soporteti;OyC Entel;DOWN;notify-host-by-telegram;(Host check timed out after 30.01 seconds)
+[1716608535] HOST NOTIFICATION: soporteti;OyC Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1716608535] HOST NOTIFICATION: carlosstange;OyC Entel;DOWN;notify-host-by-telegram;(Host check timed out after 30.01 seconds)
+[1716608535] HOST NOTIFICATION: carlosstange;OyC Entel;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1716608535] HOST ALERT: OyC Entel;DOWN;HARD;10;(Host check timed out after 30.01 seconds)
+[1716608535] wproc: Core Worker 21857: job 106147 (pid=28503): Dormant child reaped
+[1716608591] wproc: Core Worker 21856: job 106198 (pid=28993) timed out. Killing it
+[1716608591] wproc: CHECK job 106198 from worker Core Worker 21856 timed out after 30.01s
+[1716608591] wproc:   host=FW OyC; service=(null);
+[1716608591] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608591] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608591] wproc: Core Worker 21855: job 106198 (pid=28995) timed out. Killing it
+[1716608591] wproc: CHECK job 106198 from worker Core Worker 21855 timed out after 30.00s
+[1716608591] wproc:   host=OyC Teledata; service=(null);
+[1716608591] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608591] Warning: Check of host 'OyC Teledata' timed out after 30.00 seconds
+[1716608591] wproc: Core Worker 21856: job 106198 (pid=28993): Dormant child reaped
+[1716608591] wproc: Core Worker 21855: job 106198 (pid=28995): Dormant child reaped
+[1716608625] wproc: Core Worker 21856: job 106227 (pid=29230) timed out. Killing it
+[1716608625] wproc: CHECK job 106227 from worker Core Worker 21856 timed out after 30.01s
+[1716608625] wproc:   host=OyC Entel; service=(null);
+[1716608625] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608625] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608625] wproc: Core Worker 21856: job 106227 (pid=29230): Dormant child reaped
+[1716608651] wproc: Core Worker 21857: job 106251 (pid=29478) timed out. Killing it
+[1716608651] wproc: CHECK job 106251 from worker Core Worker 21857 timed out after 30.01s
+[1716608651] wproc:   host=FW OyC; service=(null);
+[1716608651] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608651] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608651] wproc: Core Worker 21858: job 106251 (pid=29480) timed out. Killing it
+[1716608651] wproc: CHECK job 106251 from worker Core Worker 21858 timed out after 30.00s
+[1716608651] wproc:   host=OyC Teledata; service=(null);
+[1716608651] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608651] Warning: Check of host 'OyC Teledata' timed out after 30.00 seconds
+[1716608651] wproc: Core Worker 21857: job 106251 (pid=29478): Dormant child reaped
+[1716608651] wproc: Core Worker 21858: job 106251 (pid=29480): Dormant child reaped
+[1716608685] wproc: Core Worker 21857: job 106280 (pid=29715) timed out. Killing it
+[1716608685] wproc: CHECK job 106280 from worker Core Worker 21857 timed out after 30.00s
+[1716608685] wproc:   host=OyC Entel; service=(null);
+[1716608685] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608685] Warning: Check of host 'OyC Entel' timed out after 30.00 seconds
+[1716608685] wproc: Core Worker 21857: job 106280 (pid=29715): Dormant child reaped
+[1716608711] wproc: Core Worker 21856: job 106305 (pid=29963) timed out. Killing it
+[1716608711] wproc: CHECK job 106305 from worker Core Worker 21856 timed out after 30.01s
+[1716608711] wproc:   host=FW OyC; service=(null);
+[1716608711] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608711] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608711] wproc: Core Worker 21855: job 106305 (pid=29965) timed out. Killing it
+[1716608711] wproc: CHECK job 106305 from worker Core Worker 21855 timed out after 30.01s
+[1716608711] wproc:   host=OyC Teledata; service=(null);
+[1716608711] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608711] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608711] wproc: Core Worker 21856: job 106305 (pid=29963): Dormant child reaped
+[1716608711] wproc: Core Worker 21855: job 106305 (pid=29965): Dormant child reaped
+[1716608745] wproc: Core Worker 21856: job 106334 (pid=30200) timed out. Killing it
+[1716608745] wproc: CHECK job 106334 from worker Core Worker 21856 timed out after 30.01s
+[1716608745] wproc:   host=OyC Entel; service=(null);
+[1716608745] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608745] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608745] wproc: Core Worker 21856: job 106334 (pid=30200): Dormant child reaped
+[1716608771] wproc: Core Worker 21855: job 106359 (pid=30462) timed out. Killing it
+[1716608771] wproc: CHECK job 106359 from worker Core Worker 21855 timed out after 30.01s
+[1716608771] wproc:   host=FW OyC; service=(null);
+[1716608771] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608771] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608771] wproc: Core Worker 21857: job 106359 (pid=30464) timed out. Killing it
+[1716608771] wproc: CHECK job 106359 from worker Core Worker 21857 timed out after 30.00s
+[1716608771] wproc:   host=OyC Teledata; service=(null);
+[1716608771] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608771] Warning: Check of host 'OyC Teledata' timed out after 30.00 seconds
+[1716608771] wproc: Core Worker 21855: job 106359 (pid=30462): Dormant child reaped
+[1716608771] wproc: Core Worker 21857: job 106359 (pid=30464): Dormant child reaped
+[1716608805] wproc: Core Worker 21856: job 106389 (pid=30720) timed out. Killing it
+[1716608805] wproc: CHECK job 106389 from worker Core Worker 21856 timed out after 30.01s
+[1716608805] wproc:   host=OyC Entel; service=(null);
+[1716608805] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608805] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608805] wproc: Core Worker 21856: job 106389 (pid=30720): Dormant child reaped
+[1716608831] wproc: Core Worker 21856: job 106414 (pid=30971) timed out. Killing it
+[1716608831] wproc: CHECK job 106414 from worker Core Worker 21856 timed out after 30.01s
+[1716608831] wproc:   host=FW OyC; service=(null);
+[1716608831] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608831] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608831] wproc: Core Worker 21855: job 106414 (pid=30973) timed out. Killing it
+[1716608831] wproc: CHECK job 106414 from worker Core Worker 21855 timed out after 30.01s
+[1716608831] wproc:   host=OyC Teledata; service=(null);
+[1716608831] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608831] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608831] wproc: Core Worker 21856: job 106414 (pid=30971): Dormant child reaped
+[1716608831] wproc: Core Worker 21855: job 106414 (pid=30973): Dormant child reaped
+[1716608865] wproc: Core Worker 21858: job 106442 (pid=31207) timed out. Killing it
+[1716608865] wproc: CHECK job 106442 from worker Core Worker 21858 timed out after 30.01s
+[1716608865] wproc:   host=OyC Entel; service=(null);
+[1716608865] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608865] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608865] wproc: Core Worker 21858: job 106442 (pid=31207): Dormant child reaped
+[1716608891] wproc: Core Worker 21857: job 106467 (pid=31457) timed out. Killing it
+[1716608891] wproc: CHECK job 106467 from worker Core Worker 21857 timed out after 30.01s
+[1716608891] wproc:   host=FW OyC; service=(null);
+[1716608891] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608891] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608891] wproc: Core Worker 21858: job 106467 (pid=31459) timed out. Killing it
+[1716608891] wproc: CHECK job 106467 from worker Core Worker 21858 timed out after 30.01s
+[1716608891] wproc:   host=OyC Teledata; service=(null);
+[1716608891] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608891] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608891] wproc: Core Worker 21857: job 106467 (pid=31457): Dormant child reaped
+[1716608891] wproc: Core Worker 21858: job 106467 (pid=31459): Dormant child reaped
+[1716608925] wproc: Core Worker 21855: job 106496 (pid=31693) timed out. Killing it
+[1716608925] wproc: CHECK job 106496 from worker Core Worker 21855 timed out after 30.01s
+[1716608925] wproc:   host=OyC Entel; service=(null);
+[1716608925] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608925] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608925] wproc: Core Worker 21855: job 106496 (pid=31693): Dormant child reaped
+[1716608951] wproc: Core Worker 21858: job 106520 (pid=31941) timed out. Killing it
+[1716608951] wproc: CHECK job 106520 from worker Core Worker 21858 timed out after 30.01s
+[1716608951] wproc:   host=FW OyC; service=(null);
+[1716608951] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608951] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716608951] wproc: Core Worker 21856: job 106521 (pid=31943) timed out. Killing it
+[1716608951] wproc: CHECK job 106521 from worker Core Worker 21856 timed out after 30.01s
+[1716608951] wproc:   host=OyC Teledata; service=(null);
+[1716608951] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608951] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716608951] wproc: Core Worker 21858: job 106520 (pid=31941): Dormant child reaped
+[1716608951] wproc: Core Worker 21856: job 106521 (pid=31943): Dormant child reaped
+[1716608954] SERVICE ALERT: Veeam2023.cass.pmc;Tiempo Activo;CRITICAL;SOFT;1;connect to address 10.0.0.83 and port 12489: Connection refused
+[1716608954] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;SOFT;1;connect to address 10.0.0.83 and port 12489: Connection refused
+[1716608985] wproc: Core Worker 21856: job 106550 (pid=32181) timed out. Killing it
+[1716608985] wproc: CHECK job 106550 from worker Core Worker 21856 timed out after 30.01s
+[1716608985] wproc:   host=OyC Entel; service=(null);
+[1716608985] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716608985] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716608985] wproc: Core Worker 21856: job 106550 (pid=32181): Dormant child reaped
+[1716608987] Auto-save of retention data completed successfully.
+[1716609003] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1716609011] wproc: Core Worker 21855: job 106574 (pid=32427) timed out. Killing it
+[1716609011] wproc: CHECK job 106574 from worker Core Worker 21855 timed out after 30.01s
+[1716609011] wproc:   host=FW OyC; service=(null);
+[1716609011] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609011] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609011] wproc: Core Worker 21857: job 106574 (pid=32429) timed out. Killing it
+[1716609011] wproc: CHECK job 106574 from worker Core Worker 21857 timed out after 30.01s
+[1716609011] wproc:   host=OyC Teledata; service=(null);
+[1716609011] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609011] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609011] wproc: Core Worker 21855: job 106574 (pid=32427): Dormant child reaped
+[1716609011] wproc: Core Worker 21857: job 106574 (pid=32429): Dormant child reaped
+[1716609045] wproc: Core Worker 21856: job 106603 (pid=32685) timed out. Killing it
+[1716609045] wproc: CHECK job 106603 from worker Core Worker 21856 timed out after 30.01s
+[1716609045] wproc:   host=OyC Entel; service=(null);
+[1716609045] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609045] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609045] wproc: Core Worker 21856: job 106603 (pid=32685): Dormant child reaped
+[1716609067] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 0 optional
+[1716609071] wproc: Core Worker 21857: job 106627 (pid=497) timed out. Killing it
+[1716609071] wproc: CHECK job 106627 from worker Core Worker 21857 timed out after 30.01s
+[1716609071] wproc:   host=FW OyC; service=(null);
+[1716609071] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609071] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609071] wproc: Core Worker 21858: job 106627 (pid=499) timed out. Killing it
+[1716609071] wproc: CHECK job 106627 from worker Core Worker 21858 timed out after 30.01s
+[1716609071] wproc:   host=OyC Teledata; service=(null);
+[1716609071] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609071] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609071] wproc: Core Worker 21857: job 106627 (pid=497): Dormant child reaped
+[1716609071] wproc: Core Worker 21858: job 106627 (pid=499): Dormant child reaped
+[1716609074] SERVICE ALERT: Veeam2023.cass.pmc;Tiempo Activo;OK;SOFT;2;System Uptime - 0 day(s) 0 hour(s) 2 minute(s)
+[1716609074] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;OK;SOFT;2;c:\ - total: 99.33 Gb - used: 67.61 Gb (68%) - free 31.72 Gb (32%)
+[1716609105] wproc: Core Worker 21856: job 106658 (pid=800) timed out. Killing it
+[1716609105] wproc: CHECK job 106658 from worker Core Worker 21856 timed out after 30.01s
+[1716609105] wproc:   host=OyC Entel; service=(null);
+[1716609105] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609105] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609105] wproc: Core Worker 21856: job 106658 (pid=800): Dormant child reaped
+[1716609131] wproc: Core Worker 21855: job 106682 (pid=1048) timed out. Killing it
+[1716609131] wproc: CHECK job 106682 from worker Core Worker 21855 timed out after 30.01s
+[1716609131] wproc:   host=FW OyC; service=(null);
+[1716609131] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609131] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609131] HOST FLAPPING ALERT: FW OyC;STOPPED; Host appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1716609131] wproc: Core Worker 21857: job 106682 (pid=1050) timed out. Killing it
+[1716609131] wproc: CHECK job 106682 from worker Core Worker 21857 timed out after 30.01s
+[1716609131] wproc:   host=OyC Teledata; service=(null);
+[1716609131] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609131] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609131] wproc: Core Worker 21855: job 106682 (pid=1048): Dormant child reaped
+[1716609131] wproc: Core Worker 21857: job 106682 (pid=1050): Dormant child reaped
+[1716609165] wproc: Core Worker 21855: job 106711 (pid=1323) timed out. Killing it
+[1716609165] wproc: CHECK job 106711 from worker Core Worker 21855 timed out after 30.01s
+[1716609165] wproc:   host=OyC Entel; service=(null);
+[1716609165] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609165] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609165] wproc: Core Worker 21855: job 106711 (pid=1323): Dormant child reaped
+[1716609191] wproc: Core Worker 21855: job 106735 (pid=1616) timed out. Killing it
+[1716609191] wproc: CHECK job 106735 from worker Core Worker 21855 timed out after 30.01s
+[1716609191] wproc:   host=FW OyC; service=(null);
+[1716609191] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609191] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609191] wproc: Core Worker 21857: job 106735 (pid=1618) timed out. Killing it
+[1716609191] wproc: CHECK job 106735 from worker Core Worker 21857 timed out after 30.01s
+[1716609191] wproc:   host=OyC Teledata; service=(null);
+[1716609191] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609191] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609191] wproc: Core Worker 21855: job 106735 (pid=1616): Dormant child reaped
+[1716609191] wproc: Core Worker 21857: job 106735 (pid=1618): Dormant child reaped
+[1716609225] wproc: Core Worker 21858: job 106764 (pid=1882) timed out. Killing it
+[1716609225] wproc: CHECK job 106764 from worker Core Worker 21858 timed out after 30.01s
+[1716609225] wproc:   host=OyC Entel; service=(null);
+[1716609225] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609225] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609225] wproc: Core Worker 21858: job 106764 (pid=1882): Dormant child reaped
+[1716609251] wproc: Core Worker 21858: job 106788 (pid=2128) timed out. Killing it
+[1716609251] wproc: CHECK job 106788 from worker Core Worker 21858 timed out after 30.01s
+[1716609251] wproc:   host=FW OyC; service=(null);
+[1716609251] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609251] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609251] wproc: Core Worker 21856: job 106789 (pid=2130) timed out. Killing it
+[1716609251] wproc: CHECK job 106789 from worker Core Worker 21856 timed out after 30.01s
+[1716609251] wproc:   host=OyC Teledata; service=(null);
+[1716609251] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609251] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609251] wproc: Core Worker 21858: job 106788 (pid=2128): Dormant child reaped
+[1716609251] wproc: Core Worker 21856: job 106789 (pid=2130): Dormant child reaped
+[1716609285] wproc: Core Worker 21855: job 106818 (pid=2368) timed out. Killing it
+[1716609285] wproc: CHECK job 106818 from worker Core Worker 21855 timed out after 30.01s
+[1716609285] wproc:   host=OyC Entel; service=(null);
+[1716609285] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609285] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609285] wproc: Core Worker 21855: job 106818 (pid=2368): Dormant child reaped
+[1716609311] wproc: Core Worker 21855: job 106842 (pid=2614) timed out. Killing it
+[1716609311] wproc: CHECK job 106842 from worker Core Worker 21855 timed out after 30.01s
+[1716609311] wproc:   host=FW OyC; service=(null);
+[1716609311] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609311] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609311] wproc: Core Worker 21857: job 106842 (pid=2616) timed out. Killing it
+[1716609311] wproc: CHECK job 106842 from worker Core Worker 21857 timed out after 30.01s
+[1716609311] wproc:   host=OyC Teledata; service=(null);
+[1716609311] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609311] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609311] wproc: Core Worker 21855: job 106842 (pid=2614): Dormant child reaped
+[1716609311] wproc: Core Worker 21857: job 106842 (pid=2616): Dormant child reaped
+[1716609345] wproc: Core Worker 21858: job 106871 (pid=2854) timed out. Killing it
+[1716609345] wproc: CHECK job 106871 from worker Core Worker 21858 timed out after 30.01s
+[1716609345] wproc:   host=OyC Entel; service=(null);
+[1716609345] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609345] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609345] wproc: Core Worker 21858: job 106871 (pid=2854): Dormant child reaped
+[1716609371] wproc: Core Worker 21855: job 106896 (pid=3110) timed out. Killing it
+[1716609371] wproc: CHECK job 106896 from worker Core Worker 21855 timed out after 30.01s
+[1716609371] wproc:   host=FW OyC; service=(null);
+[1716609371] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609371] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609371] wproc: Core Worker 21857: job 106896 (pid=3112) timed out. Killing it
+[1716609371] wproc: CHECK job 106896 from worker Core Worker 21857 timed out after 30.01s
+[1716609371] wproc:   host=OyC Teledata; service=(null);
+[1716609371] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609371] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609371] wproc: Core Worker 21855: job 106896 (pid=3110): Dormant child reaped
+[1716609371] wproc: Core Worker 21857: job 106896 (pid=3112): Dormant child reaped
+[1716609405] wproc: Core Worker 21858: job 106926 (pid=3373) timed out. Killing it
+[1716609405] wproc: CHECK job 106926 from worker Core Worker 21858 timed out after 30.01s
+[1716609405] wproc:   host=OyC Entel; service=(null);
+[1716609405] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609405] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609405] wproc: Core Worker 21858: job 106926 (pid=3373): Dormant child reaped
+[1716609431] wproc: Core Worker 21856: job 106951 (pid=3620) timed out. Killing it
+[1716609431] wproc: CHECK job 106951 from worker Core Worker 21856 timed out after 30.01s
+[1716609431] wproc:   host=FW OyC; service=(null);
+[1716609431] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609431] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609431] wproc: Core Worker 21855: job 106951 (pid=3622) timed out. Killing it
+[1716609431] wproc: CHECK job 106951 from worker Core Worker 21855 timed out after 30.01s
+[1716609431] wproc:   host=OyC Teledata; service=(null);
+[1716609431] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609431] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609431] wproc: Core Worker 21856: job 106951 (pid=3620): Dormant child reaped
+[1716609431] wproc: Core Worker 21855: job 106951 (pid=3622): Dormant child reaped
+[1716609465] wproc: Core Worker 21857: job 106980 (pid=3860) timed out. Killing it
+[1716609465] wproc: CHECK job 106980 from worker Core Worker 21857 timed out after 30.01s
+[1716609465] wproc:   host=OyC Entel; service=(null);
+[1716609465] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609465] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609465] wproc: Core Worker 21857: job 106980 (pid=3860): Dormant child reaped
+[1716609491] wproc: Core Worker 21857: job 107004 (pid=4105) timed out. Killing it
+[1716609491] wproc: CHECK job 107004 from worker Core Worker 21857 timed out after 30.01s
+[1716609491] wproc:   host=FW OyC; service=(null);
+[1716609491] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609491] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609491] wproc: Core Worker 21858: job 107004 (pid=4107) timed out. Killing it
+[1716609491] wproc: CHECK job 107004 from worker Core Worker 21858 timed out after 30.01s
+[1716609491] wproc:   host=OyC Teledata; service=(null);
+[1716609491] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609491] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609491] wproc: Core Worker 21857: job 107004 (pid=4105): Dormant child reaped
+[1716609491] wproc: Core Worker 21858: job 107004 (pid=4107): Dormant child reaped
+[1716609525] wproc: Core Worker 21856: job 107034 (pid=4345) timed out. Killing it
+[1716609525] wproc: CHECK job 107034 from worker Core Worker 21856 timed out after 30.01s
+[1716609525] wproc:   host=OyC Entel; service=(null);
+[1716609525] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609525] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609525] wproc: Core Worker 21856: job 107034 (pid=4345): Dormant child reaped
+[1716609551] wproc: Core Worker 21855: job 107058 (pid=4591) timed out. Killing it
+[1716609551] wproc: CHECK job 107058 from worker Core Worker 21855 timed out after 30.01s
+[1716609551] wproc:   host=FW OyC; service=(null);
+[1716609551] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609551] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1716609551] wproc: Core Worker 21857: job 107058 (pid=4593) timed out. Killing it
+[1716609551] wproc: CHECK job 107058 from worker Core Worker 21857 timed out after 30.01s
+[1716609551] wproc:   host=OyC Teledata; service=(null);
+[1716609551] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609551] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1716609551] wproc: Core Worker 21855: job 107058 (pid=4591): Dormant child reaped
+[1716609551] wproc: Core Worker 21857: job 107058 (pid=4593): Dormant child reaped
+[1716609585] wproc: Core Worker 21857: job 107087 (pid=4830) timed out. Killing it
+[1716609585] wproc: CHECK job 107087 from worker Core Worker 21857 timed out after 30.01s
+[1716609585] wproc:   host=OyC Entel; service=(null);
+[1716609585] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1716609585] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1716609585] wproc: Core Worker 21857: job 107087 (pid=4830): Dormant child reaped

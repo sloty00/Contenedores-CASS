@@ -1,0 +1,1044 @@
+#!/bin/bash
+#########################################################
+#							#
+#		SNMP UPS Check				#
+#							#
+# check_ups_snmp					#
+# 	Version 1.5 (June 6th, 2016)			#
+#							#
+# Modified by Jason Leonard				#
+# 	E-mail: jason_leonard@yahoo.com			#
+#							#
+#							#
+# Overview						#
+# ----------------------------------------------------	#
+# This plugin is a rewrite of the SNMP UPS check prov-	#
+# ided by Daniel Dueñas.				#
+#							#
+# This program is free software; you can redistribute	#
+# it and/or modify it under the terms of the GNU 	#
+# General Public License as published by the Free 	#
+# Software Foundation; either version 2 of the License,	#
+# or (at your option) any later	version.		#
+#							#
+# This program is distributed in the hope that it will	#
+# be useful, but WITHOUT ANY WARRANTY; without even the	#
+# implied warranty of MERCHANTABILITY or FITNESS FOR A	#
+# PARTICULAR PURPOSE.					#
+#							#
+# See the GNU General Public License for more details.	#
+#							#
+# You should have received a copy of the GNU General	#
+# Public License along with this program; if not,	#
+# write to:						#
+#	Free Software Foundation, Inc.			#
+#	51 Franklin St, Fifth Floor			#
+#	Boston, MA  02110-1301  USA			#
+#							#
+#########################################################
+
+#########################################################
+#		   CHANGE LOG				#
+#########################################################
+#							#
+# V1.5:	Modified code to my preferences for syntax,	#
+#	variable names, function names, etc.		#
+#	Made countless corrections to logic for	error	#
+# 	handling and configured to handle SNMP v3	#
+#	checking.					#
+#							#
+# V1.0:	Include new parameter to select SNMP version	#
+#	(1 or 2c)					#
+#							#
+# V0.2:	Fix UNKNOWN state when warning value was the	#
+#	same as current temperature on UPS.  		#
+#	Thanks	to puckel for the help!			#
+#							#
+#########################################################
+
+#########################################################
+#		GLOBAL VARIABLES			#
+#########################################################
+APPNAME=`basename $0`
+VERSION="Version 1.5"
+AUTHOR="Jason Leonard (jason_leonard@yahoo.com)"
+
+# Default settings for connection
+COMMUNITY='public'
+HOST_NAME='localhost'
+SNMPVERSION='2c'
+MIBS_PATH="./mibs"
+
+# State Variables
+STATE_OK=0
+STATE_WARN=1
+STATE_CRIT=2
+STATE_UNK=3
+
+# Default Outputs
+STATE=$STATE_OK
+STATE_STRING=""
+OUTPUT=""
+PERFDATA=""
+
+# Change this to modify the script's handling of how it separates
+# each consumable/tray when multiple checks are output.
+# SEPARATOR="\n"
+SEPARATOR=","
+
+#########################################################
+#			print_version			#
+#########################################################
+print_version() {
+
+    echo "$APPNAME $VERSION"
+	echo "$AUTHOR"
+	echo ''
+	
+}
+
+#########################################################
+#			print_usage			#
+#########################################################
+print_usage(){
+
+	echo ''
+	echo 'Usage for SNMP v1/2c:'
+	echo "	$APPNAME -H <host/IP> -t <type of check> [-C <SNMP community>] [-S <character>] [-w <warning value>] [-c <critical value>]"
+	echo ''
+	echo 'Usage for SNMP v3:'
+	echo "	$APPNAME -H <host/IP> -t <type of check> -u <user> -x <protocol> -X <password> -a <protocol> -A <password> -l <security mode> [-S <character>] [-w <warning value>] [-c <critical value>]"
+	echo ''
+	
+}
+
+#########################################################
+#			print_help			#
+#########################################################
+print_help(){
+
+	print_version
+	echo 'Description:'
+	echo "$APPNAME is a Nagios plugin to check SAI or UPS status with CS121 and other SNMP card adapters."
+	echo 'This plugin is not developped by the Nagios Plugin group.'
+	echo 'Please do not e-mail them for support on this plugin.'
+	echo ''
+	echo 'For contact info, please read the plugin script file.'
+	echo ''
+	print_usage
+	echo '---------------------------------------------------------------------'
+	echo ''
+	echo 'OPTIONS:'
+	echo '	-H|--host'
+	echo '		Host name or IP address to check. Default is: localhost.'
+	echo '	-v|--snmpversion {1 | 2c | 3 }'
+	echo "		Specifies the SNMP version to use. Default is '2c'."
+	echo '	-C|--community'
+	echo "		SNMP v2 community string with Read access. Default is 'public'"
+	echo '	-u|--user'
+	echo '		SNMP v3 username'
+	echo '	-l|--privlevel { noAuthNoPriv | authNoPriv | authPriv }'
+	echo '		SNMP v3 privilege level'
+	echo '	-x|--privprotocol { DES | AES }'
+	echo '		SNMP v3 privacy protocol'
+	echo '	-X|--privpassword'
+	echo '		SNMP v3 privacy password'
+	echo '	-a|--authprotocol { MD5 | SHA }'	
+	echo '		SNMP v3 authentication protocol'
+	echo '	-A|--authpassword'
+	echo '		SNMP v3 authentication password'
+	echo '	-d|--dir'
+	echo "		MIBs files directory ('./mibs' by default)"
+	echo '	-t|--type { alarm | asset | charge | input_lines | output_lines | load | selftest | status | temp | voltage }'
+	echo '		The check you want to perform for the UPS'
+	echo '		REQUIRED OPTION'  
+	echo '	-w|--warning'
+	echo '		Assign warning value for relevant check(s)'
+	echo '	-c|--critical'
+	echo '		Assign critical value for relevant check(s)'
+	echo '	-S|--separator <text string>'
+	echo '		Assign a particular string as the separator for consumables.'
+	echo '		Default is , to conform to Nagios plugin development guidelines'
+	echo '	-h|--help'
+	echo '		Show help'
+	echo '	-V|--version'
+	echo '		Show version'
+	echo ''
+	echo 'CHECK TYPES:'
+	echo '	alarm:'
+	echo '		The number of active alarm conditions. If zero, status is OK, otherwise'
+	echo '		status is CRITICAL. When an alarm is present, the plugin will show'
+	echo '		the time and description for the alarm, but only if the UPS MIB files'
+	echo '		are available. You can specify the path to the MIBs with the -d option'
+	echo '		(by default, ./mibs is checked).'
+	echo ''
+	echo '	asset:'
+	echo '		Returns the make, model, firmware and serial # of the unit'
+	echo '		No perfdata is included in this check.'
+	echo ''
+	echo '	charge:'
+	echo '		Estimated battery charge remaining, expressed as a % of full charge and time, in minutes.'
+	echo '		WARNING and CRITICAL values are required! These values should be provided as % charge.'
+	echo ''
+	echo '	input_lines:'
+	echo '		The number of input lines utilized in this device.'
+	echo ''
+	echo '	load:'
+	echo '		The percentage of the UPS capacity being used on the output line,'
+	echo ' 		i.e., the greater of the % capacity load and the % VA load.'
+	echo '		WARNING and CRITICAL values required! These values should be provided as % load.'
+	echo ''
+	echo '	output_lines:'
+	echo '		The number of output lines utilized in this device.'
+	echo ''
+	echo '	selftest:'
+	echo '		The results of the most recent UPS self-test. Returns CRITICAL if the test failed.'
+	echo ''
+	echo '	status:'
+	echo "		The indication of the capacity remaining in the UPS system's batteries."
+	echo '		Normal indicates the remaining run-time is > upsConfigLowBattTime.'
+	echo '		batteryLow indicates the remaining run-time is <= upsConfigLowBattTime.'
+	echo '		batteryDepleted indicates the UPS will be unable to sustain the present load if utility power is lost or absent.'
+	echo '		No perfdata is included in this check.'
+	echo ''
+	echo '	atemp|ambient:'
+	echo '		The ambient temperature at the temperature probe, if installed.'
+	echo '		WARNING and CRITICAL values are required! These values should be provided as degrees C.'
+	echo ''
+	echo '	btemp|temp:'
+	echo '		The ambient temperature at or near the UPS Battery casing.'
+	echo '		WARNING and CRITICAL values are required! These values should be provided as degrees C.'
+	echo ''
+	echo '	voltage:'
+	echo '		The magnitude of the present input voltage in the input lines.'
+	echo '		WARNING interval and CRITICAL values are required!'
+	echo '		These values should be provided using an interval, marked by a :'
+	echo ''
+	echo '		Example: If the normal value is 400 V, a reasonable WARNING might be 395-405 V'
+	echo '		(a change of 5 V) and a good CRITICAL would be 390-410 V (a change of 10 V)/'
+	echo '		Example: ./$APPNAME -H 10.40.80.1 -p voltage -w 395:405 -c 390:410'
+	echo ''
+	
+    exit $STATE_UNK
+	
+}
+
+#########################################################
+#		Universal SNMP OIDS for UPS		#
+#########################################################
+#Add check for Battery (Model / Needs Replaced?)
+#---> integrate this with "Status"
+
+# Transfer Low = 1.3.6.1.4.1.318.1.1.1.5.2.3.0		106
+# Tranfer High = 1.3.6.1.4.1.318.1.1.1.5.2.2.0		127
+# Transfer Reason = 1.3.6.1.4.1.318.1.1.1.3.2.5.0	1
+#{ 1, "noTransfer" }
+#{ 2, "highLineVoltage" }
+#{ 3, "brownout" }
+#{ 4, "blackout" }
+#{ 5, "smallMomentarySag" }
+#{ 6, "deepMomentarySag" }
+#{ 7, "smallMomentarySpike" }
+#{ 8, "largeMomentarySpike" }
+#{ 9, "selfTest" }
+#{ 10, "rateOfVoltageChange" }
+  
+# -------------------------
+# Asset Info.
+# -------------------------
+# UPS Manufacturer
+OID_upsIdentManufacturer='1.3.6.1.2.1.33.1.1.1.0'
+
+# UPS Model Description
+# -------------------------
+OID_upsIdentModel='1.3.6.1.2.1.33.1.1.2.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.1.1.1.0'
+
+# UPS Firmware
+# -------------------------
+OID_upsIdentUPSSoftwareVersion='1.3.6.1.2.1.33.1.1.3.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.1.2.1.0'
+
+# Identifying Name
+# -------------------------
+OID_upsIdentName='1.3.6.1.2.1.33.1.1.5.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.1.1.2.0'
+
+# Serial # (APC-specific)
+# -------------------------
+OID_upsAdvIdentSerialNumber='1.3.6.1.4.1.318.1.1.1.1.2.3.0'
+
+# Part # (APC-specific)
+# -------------------------
+OID_upsBasicIdentModel='1.3.6.1.4.1.318.1.1.1.1.2.5.0'
+
+
+# -------------------------
+# Battery Use Info.
+# -------------------------
+
+# Replacement Battery Model
+# APC = '1.3.6.1.4.1.318.1.1.1.2.2.19.0'
+
+# Battery Needs Replaced?
+# INTEGER = 1
+# 1 = No, 2 = Yes
+OID_upsAdvBatteryReplaceIndicator='1.3.6.1.4.1.318.1.1.1.2.2.4.0'
+
+# Battery Status
+OID_upsBatteryStatus='1.3.6.1.2.1.33.1.2.1.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.2.1.1.0'
+
+# Battery Time Used
+# OID_upsSecondsOnBattery='1.3.6.1.2.1.33.1.2.2.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.2.1.2.0'
+
+# Battery Time Left
+OID_upsEstimatedMinutesRemaining='1.3.6.1.2.1.33.1.2.3.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.2.2.3.0'
+
+# Battery Charge Left
+OID_upsEstimatedChargeRemaining='1.3.6.1.2.1.33.1.2.4.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.2.2.1.0'
+
+# -------------------------
+# Battery Load Info.
+# -------------------------
+
+# Battery Voltage 
+# OID_upsBatteryVoltage='1.3.6.1.2.1.33.1.2.5.0'
+
+# Battery Current
+# OID_upsBatteryCurrent='1.3.6.1.2.1.33.1.2.6.0'
+
+# Battery Temperature
+OID_upsBatteryTemperature='1.3.6.1.2.1.33.1.2.7.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.2.2.2.0'
+
+# Input Lines
+OID_upsInputNumLines='1.3.6.1.2.1.33.1.3.2.0'
+
+# Input Frequency
+# OID_upsInputFrequency='1.3.6.1.2.1.33.1.3.3.1.2'
+# APC = '1.3.6.1.4.1.318.1.1.1.3.2.4.0'
+
+# Input Voltage
+OID_upsInputVoltage='1.3.6.1.2.1.33.1.3.3.1.3'
+# APC = '1.3.6.1.4.1.318.1.1.1.3.2.1.0'
+
+# Input Current
+# OID_upsInputCurrent='1.3.6.1.2.1.33.1.3.3.1.4'
+
+# Input Power
+# OID_upsInputTruePower='1.3.6.1.2.1.33.1.3.3.1.5'
+
+# Output Frequency
+# OID_upsOutputFrequency='1.3.6.1.2.1.33.1.4.2.0'
+# APC = '1.3.6.1.4.1.318.1.1.1.4.2.2.0'
+
+# Output Lines
+OID_upsOutputNumLines='1.3.6.1.2.1.33.1.4.3.0'
+
+# Output Voltage
+# OID_upsOutputVoltage='1.3.6.1.2.1.33.1.4.4.1.2'
+# APC = '1.3.6.1.4.1.318.1.1.1.4.2.1.0'
+
+# Output Current
+# OID_upsOutputCurrent='1.3.6.1.2.1.33.1.4.4.1.3'
+# APC = '1.3.6.1.4.1.318.1.1.1.4.2.4.0'
+
+# Output Power
+# OID_upsOutputPower='1.3.6.1.2.1.33.1.4.4.1.4'
+
+# Output Load
+OID_upsOutputPercentLoad='1.3.6.1.2.1.33.1.4.4.1.5'
+# APC = '1.3.6.1.4.1.318.1.1.1.4.2.3.0'
+
+# Output Status
+# APC = '1.3.6.1.4.1.318.1.1.1.4.1.1.0'
+
+# -------------------------
+# Battery Alarms
+# -------------------------
+OID_upsAlarmsPresent='1.3.6.1.2.1.33.1.6.1.0'
+OID_upsAlarmDescr='1.3.6.1.2.1.33.1.6.2.1.2'
+OID_upsAlarmTime='1.3.6.1.2.1.33.1.6.2.1.3'
+
+# -------------------------
+# Battery Self Test
+# -------------------------
+OID_upsTestResult='1.3.6.1.4.1.318.1.1.1.7.2.3.0'
+OID_upsTestDate='1.3.6.1.4.1.318.1.1.1.7.2.4.0'
+
+# -------------------------
+# Temp & Humidity Sensor
+# -------------------------
+OID_iemStatusProbeName='1.3.6.1.4.1.318.1.1.10.2.3.2.1.2.1'
+OID_iemStatusProbeCurrentTemp='1.3.6.1.4.1.318.1.1.10.2.3.2.1.4.1'
+OID_iemStatusProbeCurrentHumid='1.3.6.1.4.1.318.1.1.10.2.3.2.1.6.1'
+
+
+#########################################################
+#		Subroutine: CheckAssetInfo		#
+#########################################################
+CheckAssetInfo(){
+
+	MAKE=`get_snmp $OID_upsIdentManufacturer`
+	check_snmp_error "$?" "$MAKE"
+	
+	MODEL=`get_snmp $OID_upsIdentModel`
+	check_snmp_error "$?" "$MODEL"
+
+	FIRMWARE=`get_snmp $OID_upsIdentUPSSoftwareVersion`
+	check_snmp_error "$?" "$FIRMWARE"
+	
+	SERIAL_NUM=`get_snmp $OID_upsAdvIdentSerialNumber`
+	check_snmp_error "$?" "$SERIAL_NUM"
+	
+	PRODUCT=`get_snmp $OID_upsBasicIdentModel`
+	check_snmp_error "$?" "$PRODUCT"
+	
+	#!!! How to get firmware to handle the spaces / special characters???
+	OUTPUT="$MAKE $MODEL ($PRODUCT), Serial # $SERIAL_NUM"
+	
+}
+
+#########################################################
+#			Function: CheckSelfTest		#
+#########################################################
+function CheckSelfTest(){
+	TEST_STATE=$STATE_OK
+
+	TEST_STATUS=`get_snmp $OID_upsTestResult`
+	check_snmp_error "$?" "$TEST_STATUS"
+	
+	case $TEST_STATUS in
+		1) TEST_RESULT="passed!";;
+		2) TEST_RESULT="failed!"
+			TEST_STATE=$STATE_CRIT
+			;;
+		3) TEST_RESULT="invalid!"
+			TEST_STATE=$STATE_UNK
+			;;
+		4) TEST_RESULT="in progress!"
+			TEST_STATE=$STATE_UNK
+			;;	
+	esac
+	
+	TEST_DATE=`get_snmp $OID_upsTestDate`
+	check_snmp_error "$?" "$TEST_DATE"
+	
+	OUTPUT="Self-test on $TEST_DATE $TEST_RESULT"
+	PERFDATA="'test_result'=$TEST_STATUS"
+	
+	return $TEST_STATE
+	
+}
+
+#########################################################
+#		Subroutine: CheckInputLines		#
+#########################################################
+CheckInputLines(){
+
+	NUMBER_LINES=`get_snmp $OID_upsInputNumLines`
+	check_snmp_error "$?" "$NUMBER_LINES"
+	
+	OUTPUT="Number of input lines = $NUMBER_LINES"
+	PERFDATA="'lines'=$NUMBER_LINES"
+	
+}
+
+#########################################################
+#		Subroutine: CheckOutputLines		#
+#########################################################
+CheckOutputLines(){
+
+	NUMBER_LINES=`get_snmp $OID_upsOutputNumLines`
+	check_snmp_error "$?" "$NUMBER_LINES"
+	
+	OUTPUT="Number of output lines = $NUMBER_LINES"
+	PERFDATA="'lines'=$NUMBER_LINES"
+	
+}
+
+#########################################################
+#		Function: ups_alarm			#
+#########################################################
+function CheckUPSAlarm(){
+
+	ALARM_STATE=$STATE_OK
+	ALARM_TEXT=""
+	ALARM_DESC=""
+	
+	NUMBER_ALARMS=`get_snmp $OID_upsAlarmsPresent`
+	check_snmp_error "$?" "$NUMBER_ALARMS"
+
+	if [[ $NUMBER_ALARMS -eq 0 ]]; then
+		OUTPUT="No alarms present."
+	elif [[ $NUMBER_ALARMS -gt 0 ]]
+		COUNTER=1
+		then ALARM_STATE=$STATE_CRIT
+
+		while [ $COUNTER -le $NUMBER_ALARMS ]
+		do
+			OID_ALARM_DESC=`get_snmp $OID_upsAlarmDescr.$COUNTER`
+			check_snmp_error "$?" "$OID_ALARM_DESC"
+			
+			ALARM_DESC=`snmptranslate -M $MIBS_PATH -m ALL $OID_ALARM_DESC | awk -F:: '{print $2}'`
+			if [ "$ALARM_DESC" = "" ];then
+				ALARM_DESC=$OID_ALARM_DESC
+			fi
+
+			ALARM_TIME=`get_snmp $OID_upsAlarmTime.$COUNTER`
+			check_snmp_error "$?" "$ALARM_TIME"
+			
+			# work on checking return codes and use if/then so output fits what's available
+			
+			ALARM_TEXT="$ALARM_TEXT Alarm $COUNT: $ALARM_DESC $ALARM_TIME"
+			COUNTER=`expr $COUNTER + 1`
+      done
+
+	else
+		ALARM_STATE=$STATE_UNK
+	fi
+
+	OUTPUT="$NUMBER_ALARMS alarms present.$ALARM_TEXT"
+	PERFDATA="'alarms'=$NUMBER_ALARMS"
+	
+	return $ALARM_STATE
+	
+}
+
+#########################################################
+#	  Function: CheckAmbientTemp			#
+#########################################################
+function CheckAmbientTemp(){
+
+	TEMP_STATE=$STATE_OK
+
+	if [[ $WARNING -eq 0 ]] | [[ $CRITICAL -eq 0 ]]; then
+		echo "No WARNING or CRITICAL value specified!"
+		exit $STATE_UNK
+	fi
+
+	PROBE_NAME=`get_snmp $OID_iemStatusProbeName`
+	check_snmp_error "$?" "$PROBE_NAME"
+	
+	AMBIENT_TEMP=`get_snmp $OID_iemStatusProbeCurrentTemp`
+	check_snmp_error "$?" "$AMBIENT_TEMP"
+	#TEMP_FAHRENHEIT=`expr 9 '*' $AMBIENT_TEMP / 5 + 32`
+	TEMP_FAHRENHEIT=$(echo "scale=1;9*$AMBIENT_TEMP/5+32" | bc -l)
+
+	HUMIDITY_VALUE=`get_snmp $OID_iemStatusProbeCurrentHumid`
+	check_snmp_error "$?" "$HUMIDITY_VALUE"
+
+	OUTPUT="$PROBE_NAME: $AMBIENT_TEMP degrees C ($TEMP_FAHRENHEIT degrees F), $HUMIDITY_VALUE % humidity."
+	PERFDATA="'temperature'=$AMBIENT_TEMP;$WARNING;$CRITICAL"
+
+	if [[ $AMBIENT_TEMP -gt $CRITICAL ]]
+		then TEMP_STATE=$STATE_CRIT
+	elif [[ $AMBIENT_TEMP -ge $WARNING ]]
+		then TEMP_STATE=$STATE_WARN
+	elif [[ $AMBIENT_TEMP -lt $WARNING ]]
+		then TEMP_STATE=$STATE_OK
+	else
+		TEMP_STATE=$STATE_UNK
+	fi
+	
+	return $TEMP_STATE
+	
+}
+
+#########################################################
+#	  Function: CheckBatteryTemp			#
+#########################################################
+function CheckBatteryTemp(){
+
+	BATTERY_STATE=$STATE_OK
+
+	if [[ $WARNING -eq 0 ]] | [[ $CRITICAL -eq 0 ]]; then
+		echo "No WARNING or CRITICAL value specified!"
+		exit $STATE_UNK
+	fi
+
+	BATTERY_TEMP=`get_snmp $OID_upsBatteryTemperature`
+	check_snmp_error "$?" "$BATTERY_TEMP"
+#	TEMP_FAHRENHEIT=`expr 9 '*' $BATTERY_TEMP / 5 + 32`
+	TEMP_FAHRENHEIT=$(echo "scale=1;9*$BATTERY_TEMP/5+32" | bc -l)
+
+	OUTPUT="Battery Temperature is $BATTERY_TEMP degrees C ($TEMP_FAHRENHEIT degrees F)."
+	PERFDATA="'temperature'=$BATTERY_TEMP;$WARNING;$CRITICAL"
+
+	if [[ $BATTERY_TEMP -gt $CRITICAL ]]
+		then BATTERY_STATE=$STATE_CRIT
+	elif [[ $BATTERY_TEMP -ge $WARNING ]]
+		then BATTERY_STATE=$STATE_WARN
+	elif [[ $BATTERY_TEMP -lt $WARNING ]]
+		then BATTERY_STATE=$STATE_OK
+	else
+		BATTERY_STATE=$STATE_UNK
+	fi
+	
+	return $BATTERY_STATE
+	
+}
+
+#########################################################
+#		Function: CheckOutputLoad			#
+#########################################################
+function CheckOutputLoad(){
+
+	LOAD_STATE=$STATE_OK
+	
+	if [[ $WARNING -eq 0 ]] | [[ $CRITICAL -eq 0 ]]; then
+		echo "No WARNING or CRITICAL value specified!"
+		print_usage
+		exit $STATE_UNK
+	fi
+	
+	NUMBER_LINES=`get_snmp $OID_upsOutputNumLines`
+	check_snmp_error "$?" "$NUMBER_LINES"
+
+	if [[ $NUMBER_LINES -le 0 ]]; then
+		print "Error! Number of lines=$NUMBER_LINES"
+		exit $STATE_UNK
+	fi
+
+	COUNTER=1
+
+	while [[ $COUNTER -le $NUMBER_LINES ]]
+	do
+		PERCENT_LOAD[$COUNTER]=`get_snmp $OID_upsOutputPercentLoad.$COUNTER`
+		check_snmp_error "$?" "$PERCENT_LOAD"
+		
+		COUNTER=`expr $COUNTER + 1`
+	done
+
+	OUTPUT="Load % on $NUMBER_LINES lines:"
+	COUNTER=1
+	FLAG=0
+
+	for valor in ${PERCENT_LOAD[*]}
+	do
+
+		if [[ ${PERCENT_LOAD[$COUNTER]} -gt $CRITICAL ]]; then
+			LOAD_STATE=$STATE_CRIT
+			FLAG=3
+		elif [[ ${PERCENT_LOAD[$COUNTER]} -gt $WARNING ]]; then
+			if test $FLAG -le 2
+				then LOAD_STATE=$STATE_WARN
+				FLAG=2
+			fi
+		elif [[ ${PERCENT_LOAD[$COUNTER]} -le $WARNING ]]; then
+			if test $FLAG -le 0
+				then LOAD_STATE=$STATE_OK
+			fi
+		else
+			if [[ $FLAG -le 1 ]]; then
+				LOAD_STATE=$STATE_UNK
+				FLAG=1
+			fi
+		fi
+
+		OUTPUT=$OUTPUT" L$COUNTER=${PERCENT_LOAD[$COUNTER]}%"
+		PERFDATA=$PERFDATA"'L$COUNTER'=${PERCENT_LOAD[$COUNTER]}%;$WARNING;$CRITICAL;0;100 "
+		COUNTER=`expr $COUNTER + 1`
+
+	done
+	
+	return $LOAD_STATE
+	
+}
+
+#########################################################
+#		Function: CheckInputVoltage		#
+#########################################################
+function CheckInputVoltage(){
+
+	VOLTAGE_STATE=$STATE_OK
+
+	if [[ $WARNING -eq 0 ]] | [[ $CRITICAL -eq 0 ]]; then
+		echo "No WARNING or CRITICAL value specified!"
+		print_usage
+		exit $STATE_UNK
+	fi
+
+	NUMBER_LINES=`get_snmp $OID_upsInputNumLines`
+	check_snmp_error "$?" "$NUMBER_LINES"
+
+	if [[ $NUMBER_LINES -le 0 ]]; then
+		echo "Error! Number of lines=$NUMBER_LINES"
+		exit $STATE_UNK
+	fi
+
+	COUNTER=1
+
+	while [[ $COUNTER -le $NUMBER_LINES ]]
+	do
+		VOLTAGE[$COUNTER]=`get_snmp $OID_upsInputVoltage.$COUNTER`
+		check_snmp_error "$?" "$VOLTAGE"
+		
+		COUNTER=`expr $COUNTER + 1`
+	done
+
+	OUTPUT="Voltage on $NUMBER_LINES input lines:"
+	COUNTER=1
+	FLAG=0
+	WARNING_UP=`echo $WARNING | awk -F: '{print $2}'`
+	WARNING_DOWN=`echo $WARNING | awk -F: '{print $1}'`
+	CRITICAL_UP=`echo $CRITICAL | awk -F: '{print $2}'`
+	CRITICAL_DOWN=`echo $CRITICAL | awk -F: '{print $1}'`
+
+	for valor in ${VOLTAGE[*]}
+	do
+		if [[ ${VOLTAGE[$COUNTER]} -gt $CRITICAL_UP ]]; then
+			VOLTAGE_STATE=$STATE_CRIT
+			FLAG=3
+		elif [[ ${VOLTAGE[$COUNTER]} -lt $CRITICAL_DOWN ]]; then
+			VOLTAGE_STATE=$STATE_CRIT
+			FLAG=3
+		elif [[ ${VOLTAGE[$COUNTER]} -gt $WARNING_UP ]]; then
+			if [ $FLAG -le 2
+			then
+				VOLTAGE_STATE=$STATE_WARN
+				FLAG=2
+			fi
+		elif [[ ${VOLTAGE[$COUNTER]} -lt $WARNING_DOWN ]]; then
+			if [ $FLAG -le 2
+			then
+				VOLTAGE_STATE=$STATE_WARN
+				FLAG=2
+			fi
+		elif [[ ${VOLTAGE[$COUNTER]} -le $WARNING_UP ]]; then
+			if [ $FLAG -le 0 ]; then
+				VOLTAGE_STATE=$STATE_OK
+			fi
+		else
+			if [[ $FLAG -le 1 ]]; then
+				VOLTAGE_STATE=$STATE_UNK
+				FLAG=1
+			fi
+		fi
+
+		OUTPUT=$OUTPUT" L$COUNTER=${VOLTAGE[$COUNTER]}V"
+		PERFDATA=$PERFDATA"'L$COUNTER'=${VOLTAGE[$COUNTER]};$WARNING;$CRITICAL;; "
+		COUNTER=`expr $COUNTER + 1`
+
+	done
+	
+	return $VOLTAGE_STATE
+	
+}
+
+#########################################################
+#		Function: CheckBatteryStatus		#
+#########################################################
+function CheckBatteryStatus(){
+
+	BATTERY_STATE=$STATE_OK
+	BATTERY_STATUS=`get_snmp $OID_upsBatteryStatus $OID_upsAdvBatteryReplaceIndicator`
+	check_snmp_error "$?" "$BATTERY_STATUS"
+
+	case $BATTERY_STATUS in
+		1)	BATTERY_STATUS_TEXT="Unknown"
+			BATTERY_STATE=$STATE_UNK
+			;;
+		2)	BATTERY_STATUS_TEXT="Normal"
+			BATTERY_STATE=$STATE_OK
+			;;
+		3) 	BATTERY_STATUS_TEXT="Low"
+			BATTERY_STATE=$STATE_WARN
+			;;
+		 4) BATTERY_STATUS_TEXT="Depleted"
+			BATTERY_STATE=$STATE_CRIT
+			;;
+	esac
+
+	OUTPUT="Battery Status $BATTERY_STATUS_TEXT."
+	
+	return $BATTERY_STATE
+
+}
+
+#########################################################
+#	Function: CheckBatteryCharge			#
+#########################################################
+function CheckBatteryCharge(){
+
+	BATTERY_STATE=$STATE_OK
+
+	if [[ $WARNING -eq 0 ]] | [[ $CRITICAL -eq 0 ]]; then
+		echo "No WARNING or CRITICAL value specified!"
+		print_usage
+		exit $STATE_UNK
+	fi
+
+	PERCENT_CHARGE=`get_snmp $OID_upsEstimatedChargeRemaining`
+	check_snmp_error "$?" "$PERCENT_CHARGE"
+
+	BATTERY_CHARGE=`get_snmp $OID_upsEstimatedMinutesRemaining`
+	check_snmp_error "$?" "$BATTERY_CHARGE"
+
+	VALUE_SECS=`expr $BATTERY_CHARGE \* 60`
+
+	OUTPUT="Estimated battery charge $PERCENT_CHARGE%, approximately $BATTERY_CHARGE minutes runtime remaining."
+	PERFDATA="'charge'="$PERCENT_CHARGE"%;$WARNING;$CRITICAL;; 'time_to_depleted'="$VALUE_SECS"s;;;0;"
+
+	if [[ $PERCENT_CHARGE -le $CRITICAL ]]
+		then BATTERY_STATE=$STATE_CRIT
+	elif [[ $PERCENT_CHARGE -le $WARNING ]]
+		then BATTERY_STATE=$STATE_WARN
+	elif [[ $PERCENT_CHARGE -gt $WARNING ]]
+		then BATTERY_STATE=$STATE_OK
+	else
+		BATTERY_STATE=$STATE_UNK
+	fi
+	
+	return $BATTERY_STATE
+
+}
+
+#########################################################
+#		Subroutine: walk_snmp			#
+#########################################################
+walk_snmp(){
+
+	if [ $2 = true ]; then
+		OUTPUT_OPTIONS="-Oavq"
+	else
+		OUTPUT_OPTIONS="-Oa"		 
+	fi
+		
+	if [[ $SNMPVERSION = 3 ]]; then
+		RESULT_TEXT=`snmpwalk -v $SNMPVERSION $OUTPUT_OPTIONS -u $SNMPUSER -l $PRIVILEGELEVEL -x $PRIVACYPROTOCOL -X $PRIVACYPASSWORD -a $AUTHPROTOCOL -A $AUTHPASSWORD $HOST_NAME $1`
+		RESULT_CODE=$?
+	else
+		# Check if community was also set
+		RESULT_TEXT=`snmpwalk -v $SNMPVERSION $OUTPUT_OPTIONS -c $COMMUNITY $HOST_NAME $1`
+		RESULT_CODE=$?
+	fi
+
+	if [[ $RESULT_CODE -ne 0 ]]; then
+		echo "Plugin $APPNAME failure - snmpwalk command error."
+		echo "$RESULT_TEXT"
+		exit $STATE_UNK
+	fi
+
+	if [ $2 = true ]; then
+		echo "$RESULT_TEXT" | sed -e 's/^[[:space:]]*//' | tr -d "\""
+	else
+		echo "$RESULT_TEXT" 
+	fi
+	
+}
+
+#########################################################
+#		Subroutine: get_snmp			#
+#########################################################
+get_snmp(){
+
+	if [[ $SNMPVERSION = 3 ]]; then
+		RESULT_TEXT=`snmpget -v $SNMPVERSION -Oavq -u $SNMPUSER -l $PRIVILEGELEVEL -x $PRIVACYPROTOCOL -X $PRIVACYPASSWORD -a $AUTHPROTOCOL -A $AUTHPASSWORD $HOST_NAME $1`
+		RESULT_CODE=$?
+	else
+		# Check if community was also set
+		RESULT_TEXT=`snmpget -v $SNMPVERSION -Oavq -c $COMMUNITY $HOST_NAME $1`
+		RESULT_CODE=$?
+	fi
+
+	RESULT_TEXT=$(echo "$RESULT_TEXT" | tr -d "\"")
+	if [[ $RESULT_CODE -ne 0 ]]; then
+		echo "Plugin $APPNAME failure - snmpget command error. $RESULT_TEXT"
+		exit $STATE_UNK
+	fi
+
+	echo "$RESULT_TEXT"
+	
+}
+
+#########################################################
+#		Subroutine: check_snmp_error			#
+#########################################################
+# Tests errors returned by function operations		#
+#########################################################
+check_snmp_error(){
+
+	 if [[ $1 -ne 0 ]]; then
+		echo $2
+		exit $STATE_UNK
+	fi
+	
+}
+
+#########################################################
+#		MAIN PROGRAM CODE			#
+#########################################################
+
+# Check that all required binaries for the script are available
+# 	EXIT with an UNKNOWN status if not
+binaries="snmpwalk snmpget snmptranslate tr awk expr"
+
+for required_binary in $binaries; do
+	which $required_binary > /dev/null
+	if [ "$?" != '0' ];then
+		echo "UNKNOWN: $APPNAME: No usable '$required_binary' binary in '$PATH'"
+		exit $STATE_UNK
+	fi
+done
+
+
+# Check to see if any parameters were passed
+if [[ $# -eq 0 ]]; then
+	print_usage
+	exit $STATE_UNK
+fi
+
+# Parse parameters and assign values to variable as needed
+while test -n "$1"; do
+
+	case "$1" in
+		--host|-H)
+			HOST_NAME=$2
+			shift
+			;;
+		--community|-C)
+			COMMUNITY=$2
+			shift
+			;;
+		--snmpversion|-v)
+			SNMPVERSION=$2
+			shift
+			;;
+		--user|-u)
+			SNMPUSER=$2
+			shift
+			;;			
+		--privelegelevel|-l)
+			PRIVILEGELEVEL=$2
+			shift
+			;;			
+		--authprotocol|-a)
+			AUTHPROTOCOL=$2
+			shift
+			;;			
+		--authpassword|-A)
+			AUTHPASSWORD=$2
+			shift
+			;;			
+		--privacyprotocol|-x)
+			PRIVACYPROTOCOL=$2
+			shift
+			;;			
+		--privacypassword|-X)
+			PRIVACYPASSWORD=$2
+			shift
+			;;			
+		--dir|-d)
+			MIBS_PATH=$2
+			shift
+			;;
+		--type|-t)
+			CHECK_TYPE=$2
+			shift
+			;;
+		--separator|-S) # Assign separator
+			SEPARATOR="$2"
+			shift
+			;;
+		--warning|-w)
+			WARNING=$2
+			shift
+			;;
+		--critical|-c)
+			CRITICAL=$2
+			shift
+			;;
+		--help|-h)
+			print_help
+			;;
+		--version|-V)
+			print_version
+			exit $STATE
+			;;			
+		  *)
+			echo "Unknown argument: $1"
+			print_usage
+			exit $STATE_UNK
+			;;
+	 esac
+
+	shift
+
+done
+
+if [ ! -z $CHECK_TYPE ]; then
+	# Determine the check to perform
+	case "$CHECK_TYPE" in
+		alarm)
+			CheckUPSAlarm
+			STATE=$?
+			;;
+		asset)
+			CheckAssetInfo
+			;;
+		atemp|ambient)
+			CheckAmbientTemp
+			STATE=$?
+			;;
+		btemp|temp)
+			CheckBatteryTemp
+			STATE=$?
+			;;
+		load)
+			CheckOutputLoad
+			STATE=$?
+			;;
+		voltage)
+			CheckInputVoltage
+			STATE=$?
+			;;
+		input_lines)
+			CheckInputLines
+			;;
+		output_lines)
+			CheckOutputLines
+			;;
+		selftest)
+			CheckSelfTest
+			STATE=$?
+			;;
+		status)
+			CheckBatteryStatus
+			STATE=$?
+			;;
+		charge)
+			CheckBatteryCharge
+			STATE=$?
+			;;
+		*) # If no check was passed, or something is wrong, let's scram!
+			echo "Unknown parameter: $CHECK_TYPE"
+			print_usage
+			exit $STATE_UNK
+			;;
+	esac
+
+	# Build output string to be returned to Nagios
+	case $STATE in
+		$STATE_OK) STATE_STRING="OK";;
+		$STATE_WARN) STATE_STRING="WARNING";;
+		$STATE_CRIT) STATE_STRING="CRITICAL";;
+		$STATE_UNK) STATE_STRING="UNKNOWN";;
+	esac
+
+	if [ "$PERFDATA" == '' ]; then
+		echo "$STATE_STRING: $OUTPUT"
+	else
+		echo "$STATE_STRING: $OUTPUT|$PERFDATA"
+	fi
+
+else
+	echo "Command incomplete!"
+	STATE=$STATE_UNK
+fi
+
+exit $STATE

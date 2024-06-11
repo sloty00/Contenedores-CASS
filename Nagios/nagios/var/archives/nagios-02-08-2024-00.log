@@ -1,0 +1,572 @@
+[1707274800] LOG ROTATION: DAILY
+[1707274800] LOG VERSION: 2.0
+[1707274800] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 37%, RTA = 50.79 ms
+[1707274800] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 44%, RTA = 16.73 ms
+[1707274800] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.40 ms
+[1707274800] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.00 ms
+[1707274800] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 41.29 ms
+[1707274800] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 7.92 ms
+[1707274800] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 58.43 ms
+[1707274800] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 28%, RTA = 42.05 ms
+[1707274800] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.77 ms
+[1707274800] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1707274800] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.47 ms
+[1707274800] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 49.42 ms
+[1707274800] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 18.87 ms
+[1707274800] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 52.11 ms
+[1707274800] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1707274800] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 49.82 ms
+[1707274800] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 12.74 ms
+[1707274800] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 50.69 ms
+[1707274800] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 46.04 ms
+[1707274800] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.89 ms
+[1707274800] CURRENT HOST STATE: FW OyC;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 59.18 ms
+[1707274800] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 7.57 ms
+[1707274800] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 11.10 ms
+[1707274800] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1707274800] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1707274800] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1707274800] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 28%, RTA = 26.57 ms
+[1707274800] CURRENT HOST STATE: OyC Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 75.75 ms
+[1707274800] CURRENT HOST STATE: OyC Teledata;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 56.19 ms
+[1707274800] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.39 ms
+[1707274800] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1707274800] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.29 ms
+[1707274800] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1707274800] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.65 ms
+[1707274800] CURRENT HOST STATE: SRV05AD2_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.88 ms
+[1707274800] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.09 ms
+[1707274800] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.68 ms
+[1707274800] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1707274800] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1707274800] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.71 ms
+[1707274800] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1707274800] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.86 ms
+[1707274800] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.79 ms
+[1707274800] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.99 ms
+[1707274800] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1707274800] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.71 ms
+[1707274800] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1707274800] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.26 ms
+[1707274800] CURRENT HOST STATE: SRV_Prometheus;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1707274800] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1707274800] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1707274800] CURRENT HOST STATE: SRV_Sharepoint;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1707274800] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.73 ms
+[1707274800] CURRENT HOST STATE: SRV_VeeamOne;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.41 ms
+[1707274800] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1707274800] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1707274800] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1707274800] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1707274800] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1707274800] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.18 ms
+[1707274800] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.94 ms
+[1707274800] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.20 ms
+[1707274800] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1707274800] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 44.07 ms
+[1707274800] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 13.48 ms
+[1707274800] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.03 ms
+[1707274800] CURRENT SERVICE STATE: Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 59.51 ms
+[1707274800] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 42.51 ms
+[1707274800] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.96 ms
+[1707274800] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 52.10 ms
+[1707274800] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 10.20 ms
+[1707274800] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 48.91 ms
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 10.42KB (0.01%), Average OUT: 5.75KB (0.00%)Total RX: 154.77GBytes, Total TX: 71.29GBytes
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 712.82B (0.00%), Average OUT: 1.15KB (0.00%)Total RX: 2623.73GBytes, Total TX: 5509.34GBytes
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 6.94MB (5.56%), Average OUT: 6.95MB (5.56%)Total RX: 20477.47GBytes, Total TX: 15035.78GBytes
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.000 second response time on 201.220.96.34 port 4444
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1707274800] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (253534118) 29 days, 8:15:41.18
+[1707274800] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 16%, RTA = 45.54 ms
+[1707274800] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 55.01 ms
+[1707274800] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 46.27 ms
+[1707274800] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 12.48 ms
+[1707274800] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.33 ms
+[1707274800] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 8.89 ms
+[1707274800] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1707274800] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1707274800] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 14.31 ms
+[1707274800] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:35TB - Free:14TB - Used Space: 71%
+[1707274800] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1707274800] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1363MB - Free:2467MB = 36%
+[1707274800] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1707274800] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=0C
+[1707274800] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (143034618) 16 days, 13:19:06.18
+[1707274800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 0 optional
+[1707274800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 98.30 Gb (82%) - free 21.10 Gb (18%)
+[1707274800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 248.34 Gb (24%) - free 775.64 Gb (76%)
+[1707274800] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1707274800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 2482.72 MB (11%) - free: 21068.49 MB (89%)
+[1707274800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.46 ms
+[1707274800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 4 hour(s) 51 minute(s)
+[1707274800] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.56 ms
+[1707274800] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.62 ms
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78598 MiB (85.76% inode=-):
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.00, 0.01, 0.00
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 2049 MB - 26% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.96 ms
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 266 processes
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on 10.0.2.13 port 80
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 1 day(s) 14 hour(s) 51 minute(s)
+[1707274800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1707274800] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.91 ms
+[1707274800] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1707274800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1707274800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 161.96 Gb (54%) - free 137.70 Gb (46%)
+[1707274800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1707274800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 9882.19 MB (65%) - free: 5409.37 MB (35%)
+[1707274800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.57 ms
+[1707274800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 28 day(s) 15 hour(s) 30 minute(s)
+[1707274800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1707274800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 47.17 Gb (16%) - free 252.16 Gb (84%)
+[1707274800] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 4% (5 min average)
+[1707274800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 4286.79 MB (30%) - free: 9856.34 MB (70%)
+[1707274800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.61 ms
+[1707274800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 51 day(s) 1 hour(s) 0 minute(s)
+[1707274800] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1707274800] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.80 ms
+[1707274800] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2400227 MB (71% inode=-):
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.12, 0.12, 0.12
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1270 MB - 32% [SWAP] Total: 2047 MB - Used: 293 MB - 14%
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 314 processes
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 66 day(s) 19 hour(s) 34 minute(s)
+[1707274800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1707274800] CURRENT SERVICE STATE: SRV_GLPI;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1707274800] CURRENT SERVICE STATE: SRV_GLPI;CPU;OK;HARD;1;OK: Percent was 0.00 %
+[1707274800] CURRENT SERVICE STATE: SRV_GLPI;Http;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 364 bytes in 0.002 second response time
+[1707274800] CURRENT SERVICE STATE: SRV_GLPI;Memoria;OK;HARD;1;OK: Memory usage was 16.00 % (Available: 14.09 GB, Total: 16.78 GB, Free: 0.43 GB, Used: 2.19 GB)
+[1707274800] CURRENT SERVICE STATE: SRV_GLPI;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1707274800] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.79 ms
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118350 MiB (91.08% inode=-):
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1438 MB - 18% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 307 processes
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 66 day(s) 19 hour(s) 32 minute(s)
+[1707274800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1707274800] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1707274800] CURRENT SERVICE STATE: SRV_Soporte;Actualizacion;CRITICAL;HARD;3;Hay 6 actualizaciones pendientes.
+[1707274800] CURRENT SERVICE STATE: SRV_Soporte;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1707274800] CURRENT SERVICE STATE: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 50.75 %
+[1707274800] CURRENT SERVICE STATE: SRV_Soporte;Memoria;OK;HARD;1;OK: Memory usage was 48.90 % (Available: 8.78 GB, Total: 17.18 GB, Free: 8.78 GB, Used: 8.40 GB)
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 944391 MiB (90.29% inode=-):
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.04, 0.10, 0.09
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3618 MB - 45% [SWAP] Total: 2048 MB - Used: 430 MB - 21%
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 362 processes
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 1 process with STATE = Z
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1707274800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 462365 MiB (91.26% inode=-):
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1788119 MiB (91.31% inode=99%):
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 475060 MiB (99.54% inode=100%):
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.03, 0.03
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.033 sec. response time
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 3423 MB - 28% [SWAP] Total: 2048 MB - Used: 34 MB - 1%
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 316 processes
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 66 day(s) 19 hour(s) 31 minute(s)
+[1707274800] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1707274800] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1707274800] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.10, 0.07, 0.05
+[1707274800] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 715 MB - 9% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1707274800] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1707274800] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 85 processes with STATE = RSZDT
+[1707274800] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1707274800] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.98 ms
+[1707274800] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1707274800] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 15.10KB (0.01%), Average OUT: 21.80KB (0.02%)Total RX: 20103.12GBytes, Total TX: 74242.13GBytes
+[1707274800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1707274800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1707274800] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1707274800] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (577314572) 66 days, 19:39:05.72
+[1707274800] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 98%, approximately 0 minutes runtime remaining.
+[1707274800] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1707274800] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1707274800] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 31 degrees C (87.8 degrees F).
+[1707274800] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (217029593) 25 days, 2:51:35.93
+[1707274800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1707274800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 84.72 Gb (85%) - free 14.61 Gb (15%)
+[1707274800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 6% (5 min average)
+[1707274800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 11767.20 MB (42%) - free: 16392.05 MB (58%)
+[1707274800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.23 ms
+[1707274800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 5 hour(s) 10 minute(s)
+[1707274800] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 331 days on 2025-01-03 20:59 -0300/-03.
+[1707274800] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1075 bytes in 0.212 second response time
+[1707274840] SERVICE ALERT: SRVCONT.cass.cl;Memoria;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1707274842] SERVICE ALERT: SRVCONT.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;connect to address 10.0.0.95 and port 12489: No route to host
+[1707274842] HOST ALERT: SRVCONT.cass.cl;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.95)
+[1707274842] SERVICE ALERT: SRVCONT.cass.cl;CPU;CRITICAL;HARD;1;connect to address 10.0.0.95 and port 12489: No route to host
+[1707274842] SERVICE ALERT: SRVCONT.cass.cl;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.0.95)
+[1707274847] HOST ALERT: SRVCONT.cass.cl;UP;SOFT;1;PING OK - Packet loss = 16%, RTA = 20.68 ms
+[1707274857] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1707274865] SERVICE ALERT: SRVCONT.cass.cl;Almacenamiento;CRITICAL;SOFT;1;connect to address 10.0.0.95 and port 12489: Connection refused
+[1707274897] SERVICE ALERT: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1707274898] SERVICE ALERT: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.09 ms
+[1707274898] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.95 %
+[1707274913] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.100)
+[1707274960] SERVICE ALERT: SRVCONT.cass.cl;Memoria;OK;SOFT;2;Memory usage: total:14143.13 MB - used: 1911.61 MB (14%) - free: 12231.53 MB (86%)
+[1707274962] SERVICE ALERT: SRVCONT.cass.cl;Tiempo Activo;OK;SOFT;2;System Uptime - 0 day(s) 0 hour(s) 2 minute(s)
+[1707274985] SERVICE ALERT: SRVCONT.cass.cl;Almacenamiento;OK;SOFT;2;c:\ - total: 299.33 Gb - used: 46.26 Gb (15%) - free 253.07 Gb (85%)
+[1707275003] wproc: Core Worker 6228: job 1036423 (pid=30442) timed out. Killing it
+[1707275003] wproc: CHECK job 1036423 from worker Core Worker 6228 timed out after 30.01s
+[1707275003] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1707275003] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707275003] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1707275003] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1707275004] wproc: Core Worker 6228: job 1036423 (pid=30442): Dormant child reaped
+[1707275019] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 44.70 %
+[1707275039] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1707275067] HOST ALERT: Exper03.exxperience.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.80 ms
+[1707275800] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.90 %
+[1707275920] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 28.77 %
+[1707276512] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 31.05 %
+[1707276580] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 81.85 %
+[1707276633] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.00 %
+[1707276701] Auto-save of retention data completed successfully.
+[1707276701] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;2;CRITICAL: Percent was 73.28 %
+[1707276822] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;HARD;3;CRITICAL: Percent was 81.20 %
+[1707276943] SERVICE ALERT: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 53.80 %
+[1707277003] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 84.83 %
+[1707277123] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 43.92 %
+[1707277467] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707277587] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;OK;SOFT;2;OK: Service vibe is running!
+[1707278323] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 96.97 %
+[1707278444] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.90 %
+[1707280301] Auto-save of retention data completed successfully.
+[1707281985] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 67.42 %
+[1707282105] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 32.55 %
+[1707282602] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707282722] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1707283245] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.88 %
+[1707283366] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 27.27 %
+[1707283901] Auto-save of retention data completed successfully.
+[1707286006] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 86.40 %
+[1707286127] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 32.58 %
+[1707286848] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 100.00 %
+[1707286969] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 42.42 %
+[1707287501] Auto-save of retention data completed successfully.
+[1707288267] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707288387] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 0 users currently logged in
+[1707290270] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 82.58 %
+[1707290391] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.35 %
+[1707291101] Auto-save of retention data completed successfully.
+[1707292071] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.87 %
+[1707292192] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.65 %
+[1707292467] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707292587] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;OK;SOFT;2;OK: Service vibe is running!
+[1707293213] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.00 %
+[1707293334] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 50.75 %
+[1707294701] Auto-save of retention data completed successfully.
+[1707295254] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.12 %
+[1707295375] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 53.78 %
+[1707295856] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.35 %
+[1707295977] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 31.07 %
+[1707298301] Auto-save of retention data completed successfully.
+[1707298414] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 28.35 %
+[1707298535] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1707298737] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.38 %
+[1707298858] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 49.25 %
+[1707299458] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 69.70 %
+[1707299579] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 40.92 %
+[1707300601] SERVICE ALERT: SRV_chat.cass.cl;Servicio Docker;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1707300721] SERVICE ALERT: SRV_chat.cass.cl;Servicio Docker;OK;SOFT;2;OK: Service docker is running!
+[1707301901] Auto-save of retention data completed successfully.
+[1707302160] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 72.75 %
+[1707302281] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 32.55 %
+[1707302401] SERVICE ALERT: SRV_chat.cass.cl;Servicio Docker;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1707302521] SERVICE ALERT: SRV_chat.cass.cl;Servicio Docker;OK;SOFT;2;OK: Service docker is running!
+[1707303662] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.38 %
+[1707303782] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 56.05 %
+[1707303963] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 66.65 %
+[1707304084] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 29.52 %
+[1707304201] SERVICE ALERT: SRV_chat.cass.cl;Servicio Docker;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707304322] SERVICE ALERT: SRV_chat.cass.cl;Servicio Docker;OK;SOFT;2;OK: Service docker is running!
+[1707305492] wproc: Core Worker 6230: job 1063897 (pid=27900) timed out. Killing it
+[1707305492] wproc: CHECK job 1063897 from worker Core Worker 6230 timed out after 30.01s
+[1707305492] wproc:   host=OyC Teledata; service=(null);
+[1707305492] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707305492] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1707305492] HOST ALERT: OyC Teledata;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1707305493] wproc: Core Worker 6230: job 1063897 (pid=27900): Dormant child reaped
+[1707305501] Auto-save of retention data completed successfully.
+[1707305501] wproc: Core Worker 6230: job 1063906 (pid=28000) timed out. Killing it
+[1707305501] wproc: CHECK job 1063906 from worker Core Worker 6230 timed out after 30.01s
+[1707305501] wproc:   host=OyC Entel; service=(null);
+[1707305501] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707305501] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1707305501] HOST ALERT: OyC Entel;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1707305502] wproc: Core Worker 6230: job 1063906 (pid=28000): Dormant child reaped
+[1707305557] HOST ALERT: OyC Teledata;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 68.09 ms
+[1707305565] HOST ALERT: OyC Entel;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 50.54 ms
+[1707305642] wproc: Core Worker 6230: job 1064031 (pid=29134) timed out. Killing it
+[1707305642] wproc: CHECK job 1064031 from worker Core Worker 6230 timed out after 30.01s
+[1707305642] wproc:   host=OyC Teledata; service=(null);
+[1707305642] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707305642] Warning: Check of host 'OyC Teledata' timed out after 30.01 seconds
+[1707305642] HOST ALERT: OyC Teledata;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1707305642] wproc: Core Worker 6230: job 1064031 (pid=29134): Dormant child reaped
+[1707305703] wproc: Core Worker 6229: job 1064086 (pid=29635) timed out. Killing it
+[1707305703] wproc: CHECK job 1064086 from worker Core Worker 6229 timed out after 30.01s
+[1707305703] wproc:   host=FW OyC; service=(null);
+[1707305703] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707305703] Warning: Check of host 'FW OyC' timed out after 30.01 seconds
+[1707305703] HOST ALERT: FW OyC;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1707305703] wproc: Core Worker 6229: job 1064086 (pid=29635): Dormant child reaped
+[1707305711] wproc: Core Worker 6228: job 1064100 (pid=29796) timed out. Killing it
+[1707305711] wproc: CHECK job 1064100 from worker Core Worker 6228 timed out after 30.01s
+[1707305711] wproc:   host=OyC Entel; service=(null);
+[1707305711] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707305711] Warning: Check of host 'OyC Entel' timed out after 30.01 seconds
+[1707305711] HOST ALERT: OyC Entel;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1707305712] wproc: Core Worker 6228: job 1064100 (pid=29796): Dormant child reaped
+[1707305712] HOST FLAPPING ALERT: OyC Teledata;STARTED; Host appears to have started flapping (24.2% change > 20.0% threshold)
+[1707305712] HOST ALERT: OyC Teledata;UP;SOFT;1;PING OK - Packet loss = 54%, RTA = 198.88 ms
+[1707305717] HOST ALERT: FW OyC;UP;SOFT;1;PING OK - Packet loss = 16%, RTA = 253.47 ms
+[1707305776] HOST FLAPPING ALERT: OyC Entel;STARTED; Host appears to have started flapping (23.9% change > 20.0% threshold)
+[1707305776] HOST ALERT: OyC Entel;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 58.56 ms
+[1707305956] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707306002] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.20: Connection reset by peer
+[1707306076] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1707306122] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1707306801] HOST FLAPPING ALERT: OyC Teledata;STOPPED; Host appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1707306915] HOST FLAPPING ALERT: OyC Entel;STOPPED; Host appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1707307025] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 70.45 %
+[1707307145] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 5.30 %
+[1707307805] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 69.25 %
+[1707307926] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.10 %
+[1707308647] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 71.20 %
+[1707308768] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 44.73 %
+[1707309101] Auto-save of retention data completed successfully.
+[1707309576] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 27.77 %
+[1707309696] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1707310209] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.15 %
+[1707310330] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 25.78 %
+[1707310467] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.2.13: Connection reset by peer
+[1707310587] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;OK;SOFT;2;OK: Service vibe is running!
+[1707310802] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707310922] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1707311067] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707311187] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 266 processes
+[1707311256] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 26.08 %
+[1707311315] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1707311325] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1707311377] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 1.48 %
+[1707311449] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1707311458] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1707312001] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707312001] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707312127] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1707312134] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1707312701] Auto-save of retention data completed successfully.
+[1707314050] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 67.42 %
+[1707314067] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707314067] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707314171] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.88 %
+[1707314187] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;OK;SOFT;2;OK: Service vibe is running!
+[1707314187] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 268 processes
+[1707315192] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.38 %
+[1707315313] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 46.23 %
+[1707315928] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707316064] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1707316208] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707316273] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 66.67 %
+[1707316301] Auto-save of retention data completed successfully.
+[1707316329] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1707316394] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 32.55 %
+[1707318075] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.30 %
+[1707318195] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 43.17 %
+[1707318972] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707319087] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707319092] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1707319106] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707319201] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707319222] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1707319226] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1707319298] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 26.35 %
+[1707319321] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 18.94KB (0.02%), Average OUT: 13.67KB (0.01%)Total RX: 155.36GBytes, Total TX: 71.83GBytes
+[1707319418] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.50 %
+[1707319455] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 71.20 %
+[1707319576] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 45.45 %
+[1707319901] Auto-save of retention data completed successfully.
+[1707320214] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707320334] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 301.04KB (0.24%), Average OUT: 32.74MB (26.19%)Total RX: 2628.19GBytes, Total TX: 5913.58GBytes
+[1707320416] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.65 %
+[1707320538] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 56.83 %
+[1707320613] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707320644] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707320718] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.65 %
+[1707320733] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 860.14B (0.00%), Average OUT: 331.55B (0.00%)Total RX: 20582.62GBytes, Total TX: 15207.11GBytes
+[1707320774] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1707320839] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 43.92 %
+[1707320894] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;OK - Average IN: 391.98KB (0.31%), Average OUT: 31.71MB (25.37%)Total RX: 2628.39GBytes, Total TX: 5931.47GBytes
+[1707321380] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 93.25 %
+[1707321500] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;2;CRITICAL: Percent was 96.97 %
+[1707321621] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;3;OK: Percent was 28.05 %
+[1707321971] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707322091] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 21.75KB (0.02%), Average OUT: 16.55KB (0.01%)Total RX: 155.42GBytes, Total TX: 71.90GBytes
+[1707323002] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.62 %
+[1707323122] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 29.40 %
+[1707323501] Auto-save of retention data completed successfully.
+[1707324267] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707324388] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 266 processes
+[1707327101] Auto-save of retention data completed successfully.
+[1707327322] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.78 %
+[1707327443] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 46.23 %
+[1707327924] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.88 %
+[1707328045] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 35.60 %
+[1707328586] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.88 %
+[1707328707] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 40.15 %
+[1707329395] wproc: Core Worker 6231: job 1085426 (pid=2303) timed out. Killing it
+[1707329395] wproc: CHECK job 1085426 from worker Core Worker 6231 timed out after 30.01s
+[1707329395] wproc:   host=FW Clinica PV Telsur; service=(null);
+[1707329395] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707329395] Warning: Check of host 'FW Clinica PV Telsur' timed out after 30.01 seconds
+[1707329395] HOST ALERT: FW Clinica PV Telsur;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1707329396] wproc: Core Worker 6231: job 1085426 (pid=2303): Dormant child reaped
+[1707329441] SERVICE ALERT: FW Clinica PV Movistar;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1707329449] wproc: Core Worker 6231: job 1085476 (pid=2790) timed out. Killing it
+[1707329449] wproc: CHECK job 1085476 from worker Core Worker 6231 timed out after 30.01s
+[1707329449] wproc:   host=FW Clinica PV Movistar; service=(null);
+[1707329449] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707329449] Warning: Check of host 'FW Clinica PV Movistar' timed out after 30.01 seconds
+[1707329449] HOST ALERT: FW Clinica PV Movistar;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1707329449] wproc: Core Worker 6231: job 1085476 (pid=2790): Dormant child reaped
+[1707329485] wproc: Core Worker 6231: job 1085509 (pid=3081) timed out. Killing it
+[1707329485] wproc: CHECK job 1085509 from worker Core Worker 6231 timed out after 30.01s
+[1707329485] wproc:   host=FW Clinica PV Telsur; service=(null);
+[1707329485] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1707329485] Warning: Check of host 'FW Clinica PV Telsur' timed out after 30.01 seconds
+[1707329485] HOST ALERT: FW Clinica PV Telsur;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1707329486] wproc: Core Worker 6231: job 1085509 (pid=3081): Dormant child reaped
+[1707329505] HOST ALERT: FW Clinica PV Movistar;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 34.35 ms
+[1707329550] HOST ALERT: FW Clinica PV Telsur;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.44 ms
+[1707329565] SERVICE ALERT: FW Clinica PV Movistar;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 39.70 ms
+[1707330148] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 74.25 %
+[1707330269] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 43.17 %
+[1707330643] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707330701] Auto-save of retention data completed successfully.
+[1707330750] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 77.28 %
+[1707330763] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 317.36B (0.00%), Average OUT: 108.23B (0.00%)Total RX: 20584.81GBytes, Total TX: 15211.12GBytes
+[1707330870] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 25.77 %
+[1707333096] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707333216] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1707333621] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707333622] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707333624] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1707333742] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1707333752] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1707333759] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1707333872] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;OK - Average IN: 14.86KB (0.01%), Average OUT: 12.77KB (0.01%)Total RX: 155.63GBytes, Total TX: 72.07GBytes
+[1707334301] Auto-save of retention data completed successfully.
+[1707334657] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1707334791] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1707335068] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707335083] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707335188] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 266 processes
+[1707335203] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 95.92KB (0.08%), Average OUT: 16.31KB (0.01%)Total RX: 155.71GBytes, Total TX: 72.09GBytes
+[1707335266] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707335386] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1707335402] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1707335534] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1707336390] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.15 %
+[1707336511] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 46.95 %
+[1707336709] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707336829] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 309.78KB (0.25%), Average OUT: 32.72MB (26.18%)Total RX: 2648.95GBytes, Total TX: 6428.72GBytes
+[1707337411] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.10 %
+[1707337532] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 33.35 %
+[1707337901] Auto-save of retention data completed successfully.
+[1707338492] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.40 %
+[1707338613] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 43.95 %
+[1707339053] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707339059] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1707339139] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1707339174] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 309.75B (0.00%), Average OUT: 99.39B (0.00%)Total RX: 20584.81GBytes, Total TX: 15211.12GBytes
+[1707339180] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 220.69KB (0.18%), Average OUT: 21.72MB (17.37%)Total RX: 2649.48GBytes, Total TX: 6483.82GBytes
+[1707339213] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.20 %
+[1707339259] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1707339334] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.88 %
+[1707339694] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.88 %
+[1707339815] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;2;WARNING: Percent was 61.35 %
+[1707339936] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;3;OK: Percent was 28.02 %
+[1707341501] Auto-save of retention data completed successfully.
+[1707342396] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 66.65 %
+[1707342517] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 25.77 %
+[1707344067] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707344187] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;OK;SOFT;2;OK: Service vibe is running!
+[1707345098] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 77.28 %
+[1707345101] Auto-save of retention data completed successfully.
+[1707345218] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 47.72 %
+[1707345339] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.33 %
+[1707345460] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 34.08 %
+[1707346001] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 72.75 %
+[1707346122] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;2;WARNING: Percent was 63.97 %
+[1707346243] SERVICE ALERT: SRV_Soporte;CPU;WARNING;HARD;3;WARNING: Percent was 63.65 %
+[1707346304] SERVICE ALERT: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 3.02 %
+[1707346903] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.90 %
+[1707347024] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 45.48 %
+[1707348701] Auto-save of retention data completed successfully.
+[1707349485] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.92 %
+[1707349605] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 6.82 %
+[1707350086] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 81.25 %
+[1707350207] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 29.50 %
+[1707350448] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 70.12 %
+[1707350569] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 30.30 %
+[1707350690] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.40 %
+[1707350810] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;2;CRITICAL: Percent was 75.80 %
+[1707350931] SERVICE ALERT: SRV_Soporte;CPU;WARNING;HARD;3;WARNING: Percent was 63.62 %
+[1707350992] SERVICE ALERT: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 56.70 %
+[1707352012] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.05 %
+[1707352133] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.15 %
+[1707352301] Auto-save of retention data completed successfully.
+[1707352314] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 70.75 %
+[1707352435] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 58.77 %
+[1707352675] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.80 %
+[1707352796] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 42.42 %
+[1707353457] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.38 %
+[1707353578] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 48.45 %
+[1707354058] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.05 %
+[1707354179] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 41.68 %
+[1707354300] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 74.75 %
+[1707354421] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.62 %
+[1707354782] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.40 %
+[1707354903] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 48.47 %
+[1707355263] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 66.90 %
+[1707355384] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 33.62 %
+[1707355901] Auto-save of retention data completed successfully.
+[1707357267] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707357267] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1707357387] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 0 users currently logged in
+[1707357387] SERVICE ALERT: SRV11VIBE_cass.cl;Servicio Vibe;OK;SOFT;2;OK: Service vibe is running!
+[1707359501] Auto-save of retention data completed successfully.
+[1707361145] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.35 %

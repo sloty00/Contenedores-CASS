@@ -1,0 +1,789 @@
+[1689652800] LOG ROTATION: DAILY
+[1689652800] LOG VERSION: 2.0
+[1689652800] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 35.44 ms
+[1689652800] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 44%, RTA = 3.08 ms
+[1689652800] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1689652800] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1689652800] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 31.24 ms
+[1689652800] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1689652800] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 49.06 ms
+[1689652800] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.76 ms
+[1689652800] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1689652800] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1689652800] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 37.19 ms
+[1689652800] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.01 ms
+[1689652800] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.93 ms
+[1689652800] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1689652800] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.58 ms
+[1689652800] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1689652800] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.33 ms
+[1689652800] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 34.03 ms
+[1689652800] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.47 ms
+[1689652800] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1689652800] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1689652800] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1689652800] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1689652800] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 23.10 ms
+[1689652800] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1689652800] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1689652800] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.54 ms
+[1689652800] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.69 ms
+[1689652800] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1689652800] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 37%, RTA = 0.97 ms
+[1689652800] CURRENT HOST STATE: SRV12WEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.97 ms
+[1689652800] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1689652800] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1689652800] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1689652800] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.33 ms
+[1689652800] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1689652800] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1689652800] CURRENT HOST STATE: SRVMFSD;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.77 ms
+[1689652800] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1689652800] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1689652800] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1689652800] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1689652800] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1689652800] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.49 ms
+[1689652800] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1689652800] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.80 ms
+[1689652800] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1689652800] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1689652800] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1689652800] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.58 ms
+[1689652800] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1689652800] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.49 ms
+[1689652800] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.90 ms
+[1689652800] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.19 ms
+[1689652800] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1689652800] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 39.94 ms
+[1689652800] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1689652800] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.39 ms
+[1689652800] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.95 ms
+[1689652800] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.29 ms
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 3.80KB (0.00%), Average OUT: 5.59KB (0.00%)Total RX: 17.71GBytes, Total TX: 51.19GBytes
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 891.05B (0.00%), Average OUT: 994.48B (0.00%)Total RX: 273.95GBytes, Total TX: 208.53GBytes
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 435.63B (0.00%), Average OUT: 160.67B (0.00%)Total RX: 1309.73GBytes, Total TX: 2431.53GBytes
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1689652800] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (112056478) 12 days, 23:16:04.78
+[1689652800] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.69 ms
+[1689652800] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.65 ms
+[1689652800] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.26 ms
+[1689652800] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1689652800] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1689652800] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.96 ms
+[1689652800] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1689652800] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1689652800] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1689652800] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:29TB - Free:20TB - Used Space: 58%
+[1689652800] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1689652800] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1241MB - Free:2589MB = 33%
+[1689652800] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1689652800] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=34C
+[1689652800] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (167967842) 19 days, 10:34:38.42
+[1689652800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1689652800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 96.16 Gb (81%) - free 23.24 Gb (19%)
+[1689652800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 180.52 Gb (18%) - free 843.46 Gb (82%)
+[1689652800] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1689652800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:25851.69 MB - used: 16380.47 MB (63%) - free: 9471.21 MB (37%)
+[1689652800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1689652800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 22 day(s) 15 hour(s) 57 minute(s)
+[1689652800] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1689652800] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  1 security update(s): 1 recommended update(s):  1 package update(s):
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78656 MiB (85.84% inode=-):
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.00, 0.00, 0.00
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 4317 MB - 56% [SWAP] Total: 7944 MB - Used: 11 MB - 0%
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 312 processes
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on 10.0.2.13 port 443
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 87 day(s) 14 hour(s) 15 minute(s)
+[1689652800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1689652800] CURRENT SERVICE STATE: SRV12WEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1689652800] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1689652800] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1689652800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1689652800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 155.73 Gb (52%) - free 143.92 Gb (48%)
+[1689652800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1689652800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 12723.73 MB (83%) - free: 2567.83 MB (17%)
+[1689652800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1689652800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 10 day(s) 21 hour(s) 54 minute(s)
+[1689652800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1689652800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 43.79 Gb (15%) - free 255.54 Gb (85%)
+[1689652800] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 3% (5 min average)
+[1689652800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 5714.69 MB (40%) - free: 8428.45 MB (60%)
+[1689652800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.30 ms
+[1689652800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 32 day(s) 2 hour(s) 8 minute(s)
+[1689652800] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1689652800] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.01 ms
+[1689652800] CURRENT SERVICE STATE: SRVMFSD;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2478293 MB (73% inode=-):
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.11, 0.11, 0.09
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1013 MB - 26% [SWAP] Total: 2047 MB - Used: 333 MB - 16%
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 303 processes
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 90 day(s) 2 hour(s) 3 minute(s)
+[1689652800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1689652800] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118380 MiB (91.18% inode=-):
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.02, 0.01
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1806 MB - 22% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 314 processes
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 117 day(s) 11 hour(s) 37 minute(s)
+[1689652800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1689652800] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.78 ms
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 972441 MiB (93.04% inode=-):
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.07, 0.07, 0.06
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 2854 MB - 36% [SWAP] Total: 2048 MB - Used: 363 MB - 17%
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 271 processes
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1689652800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 476363 MiB (94.03% inode=-):
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1811634 MiB (92.51% inode=99%):
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 476540 MiB (99.85% inode=100%):
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.050 sec. response time
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2604 MB - 21% [SWAP] Total: 2048 MB - Used: 337 MB - 16%
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.87 ms
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 309 processes
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 102 day(s) 10 hour(s) 46 minute(s)
+[1689652800] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1689652800] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1689652800] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.09, 0.15, 0.14
+[1689652800] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 733 MB - 9% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1689652800] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1689652800] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 57 processes with STATE = RSZDT
+[1689652800] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1689652800] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.04 ms
+[1689652800] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1689652800] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 8.49KB (0.01%), Average OUT: 10.44KB (0.01%)Total RX: 30774.22GBytes, Total TX: 71012.84GBytes
+[1689652800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1689652800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.003 second response time on 10.0.0.17 port 80
+[1689652800] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1689652800] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (1015158588) 117 days, 11:53:05.88
+[1689652800] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 98%, approximately 0 minutes runtime remaining.
+[1689652800] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1689652800] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1689652800] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 20 degrees C (68.0 degrees F).
+[1689652800] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (203465395) 23 days, 13:10:53.95
+[1689652800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1689652800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 87.26 Gb (88%) - free 12.07 Gb (12%)
+[1689652800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 10% (5 min average)
+[1689652800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:18943.17 MB - used: 9791.57 MB (52%) - free: 9151.61 MB (48%)
+[1689652800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1689652800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 3 day(s) 7 hour(s) 5 minute(s)
+[1689652800] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 161 days on 2023-12-26 20:59 -0300/-03.
+[1689652800] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.180 second response time
+[1689654001] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689654121] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 118436 MiB (91.22% inode=-):
+[1689654602] SERVICE ALERT: SRV_chat.cass.cl;Procesos;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.92. Check system logs on 10.0.0.92
+[1689654722] SERVICE ALERT: SRV_chat.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 272 processes
+[1689655831] Auto-save of retention data completed successfully.
+[1689659431] Auto-save of retention data completed successfully.
+[1689660025] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1689660145] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 311 processes
+[1689661202] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689661322] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1689663025] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1689663031] Auto-save of retention data completed successfully.
+[1689663145] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 311 processes
+[1689663602] SERVICE ALERT: SRV_chat.cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689663722] SERVICE ALERT: SRV_chat.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 273 processes
+[1689663891] wproc: Core Worker 11598: job 3868330 (pid=30685) timed out. Killing it
+[1689663891] wproc: CHECK job 3868330 from worker Core Worker 11598 timed out after 30.01s
+[1689663891] wproc:   host=FW Electric Works; service=(null);
+[1689663891] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689663891] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689663891] HOST ALERT: FW Electric Works;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689663891] wproc: Core Worker 11598: job 3868330 (pid=30685): Dormant child reaped
+[1689663901] SERVICE ALERT: FW Electric Works;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1689663901] wproc: Core Worker 11599: job 3868340 (pid=30771) timed out. Killing it
+[1689663901] wproc: CHECK job 3868340 from worker Core Worker 11599 timed out after 30.01s
+[1689663901] wproc:   host=Electric Works; service=(null);
+[1689663901] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689663901] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689663901] HOST ALERT: Electric Works;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689663901] wproc: Core Worker 11599: job 3868340 (pid=30771): Dormant child reaped
+[1689663901] SERVICE ALERT: Electric Works;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1689663931] wproc: Core Worker 11599: job 3868357 (pid=30942) timed out. Killing it
+[1689663931] wproc: CHECK job 3868357 from worker Core Worker 11599 timed out after 30.01s
+[1689663931] wproc:   host=FW Electric Works; service=(null);
+[1689663931] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689663931] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1689663931] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689663931] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;2;(Host check timed out after 30.01 seconds)
+[1689663931] wproc: Core Worker 11599: job 3868357 (pid=30942): Dormant child reaped
+[1689663991] wproc: Core Worker 11600: job 3868406 (pid=31460) timed out. Killing it
+[1689663991] wproc: CHECK job 3868406 from worker Core Worker 11600 timed out after 30.01s
+[1689663991] wproc:   host=Electric Works; service=(null);
+[1689663991] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689663991] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689663991] HOST ALERT: Electric Works;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1689663991] wproc: Core Worker 11600: job 3868406 (pid=31460): Dormant child reaped
+[1689664021] wproc: Core Worker 11599: job 3868439 (pid=31816) timed out. Killing it
+[1689664021] wproc: CHECK job 3868439 from worker Core Worker 11599 timed out after 30.01s
+[1689664021] wproc:   host=FW Electric Works; service=(null);
+[1689664021] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664021] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1689664021] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664021] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1689664021] wproc: Core Worker 11599: job 3868439 (pid=31816): Dormant child reaped
+[1689664081] wproc: Core Worker 11600: job 3868489 (pid=32345) timed out. Killing it
+[1689664081] wproc: CHECK job 3868489 from worker Core Worker 11600 timed out after 30.01s
+[1689664081] wproc:   host=Electric Works; service=(null);
+[1689664081] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664081] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689664081] HOST ALERT: Electric Works;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1689664081] wproc: Core Worker 11600: job 3868489 (pid=32345): Dormant child reaped
+[1689664111] wproc: Core Worker 11600: job 3868506 (pid=32531) timed out. Killing it
+[1689664111] wproc: CHECK job 3868506 from worker Core Worker 11600 timed out after 30.01s
+[1689664111] wproc:   host=FW Electric Works; service=(null);
+[1689664111] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664111] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664111] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1689664111] wproc: Core Worker 11600: job 3868506 (pid=32531): Dormant child reaped
+[1689664146] HOST ALERT: Electric Works;DOWN;SOFT;4;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664201] wproc: Core Worker 11600: job 3868587 (pid=970) timed out. Killing it
+[1689664201] wproc: CHECK job 3868587 from worker Core Worker 11600 timed out after 30.01s
+[1689664201] wproc:   host=FW Electric Works; service=(null);
+[1689664201] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664201] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664201] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;5;(Host check timed out after 30.01 seconds)
+[1689664201] wproc: Core Worker 11600: job 3868587 (pid=970): Dormant child reaped
+[1689664236] wproc: Core Worker 11599: job 3868613 (pid=1368) timed out. Killing it
+[1689664237] wproc: CHECK job 3868613 from worker Core Worker 11599 timed out after 31.01s
+[1689664237] wproc:   host=Electric Works; service=(null);
+[1689664237] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664237] Warning: Check of host 'Electric Works' timed out after 31.01 seconds
+[1689664237] HOST ALERT: Electric Works;DOWN;SOFT;5;(Host check timed out after 31.01 seconds)
+[1689664237] wproc: Core Worker 11599: job 3868613 (pid=1368): Dormant child reaped
+[1689664291] wproc: Core Worker 11601: job 3868651 (pid=1743) timed out. Killing it
+[1689664291] wproc: CHECK job 3868651 from worker Core Worker 11601 timed out after 30.00s
+[1689664291] wproc:   host=FW Electric Works; service=(null);
+[1689664291] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664291] Warning: Check of host 'FW Electric Works' timed out after 30.00 seconds
+[1689664291] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;6;(Host check timed out after 30.00 seconds)
+[1689664291] wproc: Core Worker 11601: job 3868651 (pid=1743): Dormant child reaped
+[1689664306] HOST ALERT: Electric Works;DOWN;SOFT;6;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664381] wproc: Core Worker 11598: job 3868734 (pid=2649) timed out. Killing it
+[1689664381] wproc: CHECK job 3868734 from worker Core Worker 11598 timed out after 30.01s
+[1689664381] wproc:   host=FW Electric Works; service=(null);
+[1689664381] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664381] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664381] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;7;(Host check timed out after 30.01 seconds)
+[1689664381] wproc: Core Worker 11598: job 3868734 (pid=2649): Dormant child reaped
+[1689664386] HOST ALERT: Electric Works;DOWN;SOFT;7;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664471] wproc: Core Worker 11600: job 3868799 (pid=3324) timed out. Killing it
+[1689664471] wproc: CHECK job 3868799 from worker Core Worker 11600 timed out after 30.01s
+[1689664471] wproc:   host=FW Electric Works; service=(null);
+[1689664471] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664471] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664471] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;8;(Host check timed out after 30.01 seconds)
+[1689664471] wproc: Core Worker 11600: job 3868799 (pid=3324): Dormant child reaped
+[1689664476] wproc: Core Worker 11599: job 3868809 (pid=3466) timed out. Killing it
+[1689664476] wproc: CHECK job 3868809 from worker Core Worker 11599 timed out after 30.01s
+[1689664476] wproc:   host=Electric Works; service=(null);
+[1689664476] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664476] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689664476] HOST ALERT: Electric Works;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1689664476] wproc: Core Worker 11599: job 3868809 (pid=3466): Dormant child reaped
+[1689664536] HOST ALERT: Electric Works;DOWN;SOFT;9;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664561] wproc: Core Worker 11600: job 3868881 (pid=4202) timed out. Killing it
+[1689664561] wproc: CHECK job 3868881 from worker Core Worker 11600 timed out after 30.00s
+[1689664561] wproc:   host=FW Electric Works; service=(null);
+[1689664561] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664561] Warning: Check of host 'FW Electric Works' timed out after 30.00 seconds
+[1689664561] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;9;(Host check timed out after 30.00 seconds)
+[1689664561] wproc: Core Worker 11600: job 3868881 (pid=4202): Dormant child reaped
+[1689664616] HOST NOTIFICATION: nagiosadmin;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664616] HOST NOTIFICATION: andresnavarro;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664616] HOST NOTIFICATION: soporteti;Electric Works;DOWN;notify-host-by-telegram;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664616] HOST NOTIFICATION: soporteti;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664616] HOST NOTIFICATION: carlosstange;Electric Works;DOWN;notify-host-by-telegram;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664616] HOST NOTIFICATION: carlosstange;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664616] HOST ALERT: Electric Works;DOWN;HARD;10;CRITICAL - Network Unreachable (190.171.184.81)
+[1689664651] wproc: Core Worker 11599: job 3868947 (pid=4898) timed out. Killing it
+[1689664651] wproc: CHECK job 3868947 from worker Core Worker 11599 timed out after 30.01s
+[1689664651] wproc:   host=FW Electric Works; service=(null);
+[1689664651] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664651] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664651] HOST ALERT: FW Electric Works;UNREACHABLE;HARD;10;(Host check timed out after 30.01 seconds)
+[1689664651] wproc: Core Worker 11599: job 3868947 (pid=4898): Dormant child reaped
+[1689664706] wproc: Core Worker 11600: job 3868994 (pid=5385) timed out. Killing it
+[1689664706] wproc: CHECK job 3868994 from worker Core Worker 11600 timed out after 30.01s
+[1689664706] wproc:   host=Electric Works; service=(null);
+[1689664706] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664706] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689664706] wproc: Core Worker 11600: job 3868994 (pid=5385): Dormant child reaped
+[1689664741] wproc: Core Worker 11599: job 3869030 (pid=5790) timed out. Killing it
+[1689664741] wproc: CHECK job 3869030 from worker Core Worker 11599 timed out after 30.01s
+[1689664741] wproc:   host=FW Electric Works; service=(null);
+[1689664741] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664741] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1689664741] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664741] wproc: Core Worker 11599: job 3869030 (pid=5790): Dormant child reaped
+[1689664826] wproc: Core Worker 11601: job 3869091 (pid=6413) timed out. Killing it
+[1689664826] wproc: CHECK job 3869091 from worker Core Worker 11601 timed out after 30.01s
+[1689664826] wproc:   host=Electric Works; service=(null);
+[1689664826] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664826] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689664826] wproc: Core Worker 11601: job 3869091 (pid=6413): Dormant child reaped
+[1689664861] wproc: Core Worker 11598: job 3869127 (pid=6869) timed out. Killing it
+[1689664861] wproc: CHECK job 3869127 from worker Core Worker 11598 timed out after 30.01s
+[1689664861] wproc:   host=FW Electric Works; service=(null);
+[1689664861] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664861] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1689664861] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664861] wproc: Core Worker 11598: job 3869127 (pid=6869): Dormant child reaped
+[1689664886] wproc: Core Worker 11601: job 3869140 (pid=6981) timed out. Killing it
+[1689664886] wproc: CHECK job 3869140 from worker Core Worker 11601 timed out after 30.01s
+[1689664886] wproc:   host=Electric Works; service=(null);
+[1689664886] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664886] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689664886] wproc: Core Worker 11601: job 3869140 (pid=6981): Dormant child reaped
+[1689664921] wproc: Core Worker 11600: job 3869176 (pid=7371) timed out. Killing it
+[1689664921] wproc: CHECK job 3869176 from worker Core Worker 11600 timed out after 30.01s
+[1689664921] wproc:   host=FW Electric Works; service=(null);
+[1689664921] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664921] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1689664921] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664921] wproc: Core Worker 11600: job 3869176 (pid=7371): Dormant child reaped
+[1689664946] wproc: Core Worker 11600: job 3869190 (pid=7498) timed out. Killing it
+[1689664946] wproc: CHECK job 3869190 from worker Core Worker 11600 timed out after 30.01s
+[1689664946] wproc:   host=Electric Works; service=(null);
+[1689664946] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664946] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689664946] wproc: Core Worker 11600: job 3869190 (pid=7498): Dormant child reaped
+[1689664981] wproc: Core Worker 11600: job 3869226 (pid=7890) timed out. Killing it
+[1689664981] wproc: CHECK job 3869226 from worker Core Worker 11600 timed out after 30.01s
+[1689664981] wproc:   host=FW Electric Works; service=(null);
+[1689664981] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689664981] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689664981] wproc: Core Worker 11600: job 3869226 (pid=7890): Dormant child reaped
+[1689665006] wproc: Core Worker 11598: job 3869239 (pid=8025) timed out. Killing it
+[1689665006] wproc: CHECK job 3869239 from worker Core Worker 11598 timed out after 30.01s
+[1689665006] wproc:   host=Electric Works; service=(null);
+[1689665006] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689665006] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689665006] wproc: Core Worker 11598: job 3869239 (pid=8025): Dormant child reaped
+[1689665041] wproc: Core Worker 11599: job 3869275 (pid=8406) timed out. Killing it
+[1689665041] wproc: CHECK job 3869275 from worker Core Worker 11599 timed out after 30.01s
+[1689665041] wproc:   host=FW Electric Works; service=(null);
+[1689665041] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689665041] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689665041] wproc: Core Worker 11599: job 3869275 (pid=8406): Dormant child reaped
+[1689665066] wproc: Core Worker 11598: job 3869288 (pid=8540) timed out. Killing it
+[1689665066] wproc: CHECK job 3869288 from worker Core Worker 11598 timed out after 30.01s
+[1689665066] wproc:   host=Electric Works; service=(null);
+[1689665066] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689665066] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689665066] wproc: Core Worker 11598: job 3869288 (pid=8540): Dormant child reaped
+[1689665101] wproc: Core Worker 11601: job 3869323 (pid=8917) timed out. Killing it
+[1689665101] wproc: CHECK job 3869323 from worker Core Worker 11601 timed out after 30.01s
+[1689665101] wproc:   host=FW Electric Works; service=(null);
+[1689665101] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689665101] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689665101] wproc: Core Worker 11601: job 3869323 (pid=8917): Dormant child reaped
+[1689665126] wproc: Core Worker 11599: job 3869337 (pid=9053) timed out. Killing it
+[1689665126] wproc: CHECK job 3869337 from worker Core Worker 11599 timed out after 30.01s
+[1689665126] wproc:   host=Electric Works; service=(null);
+[1689665126] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689665126] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689665126] wproc: Core Worker 11599: job 3869337 (pid=9053): Dormant child reaped
+[1689665161] wproc: Core Worker 11601: job 3869372 (pid=9444) timed out. Killing it
+[1689665161] wproc: CHECK job 3869372 from worker Core Worker 11601 timed out after 30.01s
+[1689665161] wproc:   host=FW Electric Works; service=(null);
+[1689665161] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689665161] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689665161] wproc: Core Worker 11601: job 3869372 (pid=9444): Dormant child reaped
+[1689665186] wproc: Core Worker 11599: job 3869386 (pid=9580) timed out. Killing it
+[1689665186] wproc: CHECK job 3869386 from worker Core Worker 11599 timed out after 30.01s
+[1689665186] wproc:   host=Electric Works; service=(null);
+[1689665186] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689665186] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689665186] wproc: Core Worker 11599: job 3869386 (pid=9580): Dormant child reaped
+[1689665211] SERVICE ALERT: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 76%, RTA = 33.14 ms
+[1689665211] HOST ALERT: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 76%, RTA = 33.35 ms
+[1689665212] SERVICE ALERT: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 77%, RTA = 36.79 ms
+[1689665216] HOST NOTIFICATION: nagiosadmin;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.92 ms
+[1689665216] HOST NOTIFICATION: andresnavarro;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.92 ms
+[1689665216] HOST NOTIFICATION: soporteti;Electric Works;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 36.92 ms
+[1689665216] HOST NOTIFICATION: soporteti;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.92 ms
+[1689665216] HOST NOTIFICATION: carlosstange;Electric Works;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 36.92 ms
+[1689665216] HOST NOTIFICATION: carlosstange;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 36.92 ms
+[1689665216] HOST ALERT: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.92 ms
+[1689666631] Auto-save of retention data completed successfully.
+[1689670231] Auto-save of retention data completed successfully.
+[1689672001] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.16. Check system logs on 10.0.0.16
+[1689672121] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 118429 MiB (91.22% inode=-):
+[1689672602] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689672722] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1689673831] Auto-save of retention data completed successfully.
+[1689674443] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689674445] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689674446] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689674455] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689674575] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689674577] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689674579] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689674588] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689675001] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689675001] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689675002] SERVICE ALERT: SRV_chat.cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689675002] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689675002] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689675122] SERVICE ALERT: SRV_chat.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 272 processes
+[1689675122] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1689675133] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689675134] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689675136] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689676825] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1689676945] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 311 processes
+[1689677431] Auto-save of retention data completed successfully.
+[1689678043] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689678044] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689678046] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689678175] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689678177] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689678179] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689678601] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689678601] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689678602] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689678625] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689678734] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689678734] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689678735] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689678745] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 311 processes
+[1689680402] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689680522] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1689681031] Auto-save of retention data completed successfully.
+[1689684631] Auto-save of retention data completed successfully.
+[1689684890] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1689685010] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1689685202] SERVICE ALERT: SRV_chat.cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689685202] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689685322] SERVICE ALERT: SRV_chat.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 272 processes
+[1689685322] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1689686401] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689686521] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 118426 MiB (91.22% inode=-):
+[1689687562] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1689687682] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 45.36KB (0.04%), Average OUT: 634.93KB (0.51%)Total RX: 288.61GBytes, Total TX: 211.59GBytes
+[1689688231] Auto-save of retention data completed successfully.
+[1689689732] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1689689852] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 46.94KB (0.04%), Average OUT: 600.56KB (0.48%)Total RX: 288.69GBytes, Total TX: 212.47GBytes
+[1689689906] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1689690013] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1689690036] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 57.45KB (0.05%), Average OUT: 12.57KB (0.01%)Total RX: 18.14GBytes, Total TX: 52.12GBytes
+[1689690133] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1689690625] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1689690745] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 312 processes
+[1689690802] wproc: Core Worker 11601: job 3890337 (pid=6254) timed out. Killing it
+[1689690802] wproc: CHECK job 3890337 from worker Core Worker 11601 timed out after 30.01s
+[1689690802] wproc:   host=Electric Works; service=(null);
+[1689690802] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689690802] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1689690802] HOST ALERT: Electric Works;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689690802] wproc: Core Worker 11601: job 3890337 (pid=6254): Dormant child reaped
+[1689690811] SERVICE ALERT: Clinica PV Movistar;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1689690812] wproc: Core Worker 11598: job 3890347 (pid=6360) timed out. Killing it
+[1689690812] wproc: CHECK job 3890347 from worker Core Worker 11598 timed out after 30.01s
+[1689690812] wproc:   host=Clinica PV Movistar; service=(null);
+[1689690812] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689690812] Warning: Check of host 'Clinica PV Movistar' timed out after 30.01 seconds
+[1689690812] HOST ALERT: Clinica PV Movistar;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689690813] wproc: Core Worker 11598: job 3890347 (pid=6360): Dormant child reaped
+[1689690819] wproc: Core Worker 11599: job 3890353 (pid=6468) timed out. Killing it
+[1689690819] wproc: CHECK job 3890353 from worker Core Worker 11599 timed out after 30.01s
+[1689690819] wproc:   host=FW Clinica PV Movistar; service=(null);
+[1689690819] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689690819] Warning: Check of host 'FW Clinica PV Movistar' timed out after 30.01 seconds
+[1689690819] HOST ALERT: FW Clinica PV Movistar;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689690820] wproc: Core Worker 11599: job 3890353 (pid=6468): Dormant child reaped
+[1689690822] SERVICE ALERT: FW Clinica PV Movistar;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1689690832] wproc: Core Worker 11600: job 3890367 (pid=6588) timed out. Killing it
+[1689690832] wproc: CHECK job 3890367 from worker Core Worker 11600 timed out after 30.01s
+[1689690832] wproc:   host=FW Electric Works; service=(null);
+[1689690832] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689690832] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1689690832] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689690832] wproc: Core Worker 11600: job 3890367 (pid=6588): Dormant child reaped
+[1689690841] SERVICE ALERT: FW Electric Works;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1689690841] SERVICE ALERT: Electric Works;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1689690847] HOST ALERT: Clinica PV Movistar;UP;SOFT;1;PING WARNING - Packet loss = 82%, RTA = 37.33 ms
+[1689690847] HOST ALERT: Electric Works;UP;SOFT;1;PING OK - Packet loss = 68%, RTA = 36.45 ms
+[1689690851] HOST ALERT: FW Clinica PV Movistar;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 34.99 ms
+[1689690851] HOST ALERT: FW Electric Works;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 33.11 ms
+[1689690857] SERVICE ALERT: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.84 ms
+[1689690875] SERVICE ALERT: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.93 ms
+[1689690875] SERVICE ALERT: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.46 ms
+[1689690935] SERVICE ALERT: Clinica PV Movistar;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 36.06 ms
+[1689691426] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1689691546] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 16.90KB (0.01%), Average OUT: 19.12KB (0.02%)Total RX: 18.17GBytes, Total TX: 52.15GBytes
+[1689691831] Auto-save of retention data completed successfully.
+[1689695431] Auto-save of retention data completed successfully.
+[1689696001] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689696121] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 118418 MiB (91.21% inode=-):
+[1689696625] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1689696746] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 312 processes
+[1689697201] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.16. Check system logs on 10.0.0.16
+[1689697321] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 118418 MiB (91.21% inode=-):
+[1689699031] Auto-save of retention data completed successfully.
+[1689700801] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689700802] SERVICE ALERT: SRV_chat.cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689700802] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689700922] SERVICE ALERT: SRV_SOS2021.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 118423 MiB (91.21% inode=-):
+[1689700922] SERVICE ALERT: SRV_chat.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 275 processes
+[1689700922] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1689702441] SERVICE ALERT: Gore Los Lagos;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 86%, RTA = 2.89 ms
+[1689702447] SERVICE ALERT: FW Gore Los Lagos;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 83%, RTA = 4.33 ms
+[1689702566] SERVICE ALERT: Gore Los Lagos;Ping;OK;SOFT;2;PING OK - Packet loss = 16%, RTA = 1.08 ms
+[1689702571] SERVICE ALERT: FW Gore Los Lagos;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1689702631] Auto-save of retention data completed successfully.
+[1689706231] Auto-save of retention data completed successfully.
+[1689707040] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.44 Gb (80%) - free 23.96 Gb (20%)
+[1689707040] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.44 Gb (80%) - free 23.96 Gb (20%)
+[1689707040] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.44 Gb (80%) - free 23.96 Gb (20%)
+[1689707040] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.44 Gb (80%) - free 23.96 Gb (20%)
+[1689707040] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.44 Gb (80%) - free 23.96 Gb (20%)
+[1689707040] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.44 Gb (80%) - free 23.96 Gb (20%)
+[1689707040] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;OK;HARD;1;c:\ - total: 119.40 Gb - used: 95.44 Gb (80%) - free 23.96 Gb (20%)
+[1689707961] EXTERNAL COMMAND: DISABLE_HOST_SVC_NOTIFICATIONS;SRVADMIN.cass.pmc
+[1689707994] EXTERNAL COMMAND: DISABLE_SVC_NOTIFICATIONS;SRV01USER_cass.cl;Actualizacion
+[1689708540] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;1;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689708660] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;2;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.87 Gb (20%)
+[1689708780] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.57 Gb (80%) - free 23.83 Gb (20%)
+[1689708780] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.57 Gb (80%) - free 23.83 Gb (20%)
+[1689708780] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.57 Gb (80%) - free 23.83 Gb (20%)
+[1689708780] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.57 Gb (80%) - free 23.83 Gb (20%)
+[1689708780] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.57 Gb (80%) - free 23.83 Gb (20%)
+[1689708780] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.57 Gb (80%) - free 23.83 Gb (20%)
+[1689708780] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 95.57 Gb (80%) - free 23.83 Gb (20%)
+[1689709001] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1689709121] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 93.99KB (0.08%), Average OUT: 4.48MB (3.58%)Total RX: 289.58GBytes, Total TX: 220.12GBytes
+[1689709831] Auto-save of retention data completed successfully.
+[1689710040] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.40 Gb (80%) - free 24.00 Gb (20%)
+[1689710040] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.40 Gb (80%) - free 24.00 Gb (20%)
+[1689710040] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.40 Gb (80%) - free 24.00 Gb (20%)
+[1689710040] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.40 Gb (80%) - free 24.00 Gb (20%)
+[1689710040] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.40 Gb (80%) - free 24.00 Gb (20%)
+[1689710040] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.40 Gb (80%) - free 24.00 Gb (20%)
+[1689710040] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;OK;HARD;1;c:\ - total: 119.40 Gb - used: 95.40 Gb (80%) - free 24.00 Gb (20%)
+[1689711117] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1689711237] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 54.49KB (0.04%), Average OUT: 16.62KB (0.01%)Total RX: 18.54GBytes, Total TX: 52.40GBytes
+[1689713037] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1689713157] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 442.36B (0.00%), Average OUT: 134.31B (0.00%)Total RX: 1403.19GBytes, Total TX: 2603.51GBytes
+[1689713431] Auto-save of retention data completed successfully.
+[1689714038] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689714048] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689714048] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689714049] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689714170] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714181] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714181] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714181] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714540] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;1;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.87 Gb (20%)
+[1689714601] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689714601] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689714602] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689714602] SERVICE ALERT: SRV_chat.cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689714602] SERVICE ALERT: SRV_chat.cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689714602] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689714604] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689714660] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;OK;SOFT;2;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689714722] SERVICE ALERT: SRV_chat.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 275 processes
+[1689714722] SERVICE ALERT: SRV_chat.cass.cl;Proceso Nginx;OK;SOFT;2;PROCS OK: 3 processes with command name 'nginx'
+[1689714722] SERVICE ALERT: SRV_chat.cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 0 users currently logged in
+[1689714734] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714734] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714735] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714737] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1689714780] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;1;c:\ - total: 119.40 Gb - used: 95.54 Gb (80%) - free 23.86 Gb (20%)
+[1689714900] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;2;c:\ - total: 119.40 Gb - used: 95.56 Gb (80%) - free 23.83 Gb (20%)
+[1689715020] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.55 Gb (80%) - free 23.84 Gb (20%)
+[1689715020] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.55 Gb (80%) - free 23.84 Gb (20%)
+[1689715020] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.55 Gb (80%) - free 23.84 Gb (20%)
+[1689715020] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.55 Gb (80%) - free 23.84 Gb (20%)
+[1689715020] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.55 Gb (80%) - free 23.84 Gb (20%)
+[1689715020] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.55 Gb (80%) - free 23.84 Gb (20%)
+[1689715020] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 95.55 Gb (80%) - free 23.84 Gb (20%)
+[1689716402] SERVICE ALERT: SRV_chat.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.92 port 5666: Connection refused
+[1689716522] SERVICE ALERT: SRV_chat.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1689717031] Auto-save of retention data completed successfully.
+[1689720631] Auto-save of retention data completed successfully.
+[1689721650] wproc: Core Worker 11599: job 3915570 (pid=16193) timed out. Killing it
+[1689721650] wproc: CHECK job 3915570 from worker Core Worker 11599 timed out after 30.01s
+[1689721650] wproc:   host=Confe; service=(null);
+[1689721650] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689721650] Warning: Check of host 'Confe' timed out after 30.01 seconds
+[1689721650] HOST ALERT: Confe;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689721651] wproc: Core Worker 11599: job 3915570 (pid=16193): Dormant child reaped
+[1689721671] wproc: Core Worker 11601: job 3915591 (pid=16470) timed out. Killing it
+[1689721671] wproc: CHECK job 3915591 from worker Core Worker 11601 timed out after 30.01s
+[1689721671] wproc:   host=FW Confe; service=(null);
+[1689721671] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689721671] Warning: Check of host 'FW Confe' timed out after 30.01 seconds
+[1689721671] HOST ALERT: FW Confe;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1689721671] wproc: Core Worker 11601: job 3915591 (pid=16470): Dormant child reaped
+[1689721675] SERVICE ALERT: FW Confe;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1689721701] wproc: Core Worker 11600: job 3915616 (pid=16690) timed out. Killing it
+[1689721701] wproc: CHECK job 3915616 from worker Core Worker 11600 timed out after 30.01s
+[1689721701] wproc:   host=Confe; service=(null);
+[1689721701] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689721701] Warning: Check of host 'Confe' timed out after 30.01 seconds
+[1689721701] HOST ALERT: Confe;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1689721701] wproc: Core Worker 11600: job 3915616 (pid=16690): Dormant child reaped
+[1689721740] wproc: Core Worker 11599: job 3915650 (pid=17065) timed out. Killing it
+[1689721740] wproc: CHECK job 3915650 from worker Core Worker 11599 timed out after 30.01s
+[1689721740] wproc:   host=FW Confe; service=(null);
+[1689721740] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689721740] Warning: Check of host 'FW Confe' timed out after 30.01 seconds
+[1689721740] HOST ALERT: FW Confe;UNREACHABLE;SOFT;2;(Host check timed out after 30.01 seconds)
+[1689721741] wproc: Core Worker 11599: job 3915650 (pid=17065): Dormant child reaped
+[1689721791] wproc: Core Worker 11601: job 3915690 (pid=17504) timed out. Killing it
+[1689721791] wproc: CHECK job 3915690 from worker Core Worker 11601 timed out after 30.01s
+[1689721791] wproc:   host=Confe; service=(null);
+[1689721791] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689721791] Warning: Check of host 'Confe' timed out after 30.01 seconds
+[1689721791] HOST ALERT: Confe;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1689721791] wproc: Core Worker 11601: job 3915690 (pid=17504): Dormant child reaped
+[1689721830] wproc: Core Worker 11599: job 3915717 (pid=17745) timed out. Killing it
+[1689721830] wproc: CHECK job 3915717 from worker Core Worker 11599 timed out after 30.01s
+[1689721830] wproc:   host=FW Confe; service=(null);
+[1689721830] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689721830] Warning: Check of host 'FW Confe' timed out after 30.01 seconds
+[1689721830] HOST ALERT: FW Confe;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1689721831] wproc: Core Worker 11599: job 3915717 (pid=17745): Dormant child reaped
+[1689721881] wproc: Core Worker 11599: job 3915762 (pid=18260) timed out. Killing it
+[1689721881] wproc: CHECK job 3915762 from worker Core Worker 11599 timed out after 30.00s
+[1689721881] wproc:   host=Confe; service=(null);
+[1689721881] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1689721881] Warning: Check of host 'Confe' timed out after 30.00 seconds
+[1689721881] HOST ALERT: Confe;DOWN;SOFT;4;(Host check timed out after 30.00 seconds)
+[1689721881] wproc: Core Worker 11599: job 3915762 (pid=18260): Dormant child reaped
+[1689721899] HOST ALERT: FW Confe;UP;SOFT;1;PING OK - Packet loss = 50%, RTA = 2359.58 ms
+[1689721949] SERVICE ALERT: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 59.00 ms
+[1689721950] HOST ALERT: Confe;UP;SOFT;1;PING OK - Packet loss = 50%, RTA = 40.51 ms
+[1689721980] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689721980] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689721980] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689721980] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689721980] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689721980] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689721980] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;OK;HARD;1;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722040] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;1;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722160] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;2;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722280] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722280] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722280] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722280] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722280] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722280] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689722280] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723360] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723360] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723360] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723360] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723360] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723360] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723360] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;OK;HARD;1;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723480] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;1;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723600] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;SOFT;2;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723720] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723720] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723720] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723720] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723720] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723720] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;WARNING;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689723720] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 95.52 Gb (80%) - free 23.88 Gb (20%)
+[1689724020] SERVICE NOTIFICATION: nagiosadmin;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.36 Gb (80%) - free 24.04 Gb (20%)
+[1689724020] SERVICE NOTIFICATION: andresnavarro;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.36 Gb (80%) - free 24.04 Gb (20%)
+[1689724020] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.36 Gb (80%) - free 24.04 Gb (20%)
+[1689724020] SERVICE NOTIFICATION: soporteti;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.36 Gb (80%) - free 24.04 Gb (20%)
+[1689724020] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-telegram;c:\ - total: 119.40 Gb - used: 95.36 Gb (80%) - free 24.04 Gb (20%)
+[1689724020] SERVICE NOTIFICATION: carlosstange;SRV01USER_cass.cl;Almacenamiento C;OK;notify-service-by-email;c:\ - total: 119.40 Gb - used: 95.36 Gb (80%) - free 24.04 Gb (20%)
+[1689724020] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;OK;HARD;1;c:\ - total: 119.40 Gb - used: 95.36 Gb (80%) - free 24.04 Gb (20%)
+[1689724140] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;UNKNOWN;SOFT;1;NSClient - ERROR: No performance data from command: check_drivesize
+[1689724231] Auto-save of retention data completed successfully.
+[1689724270] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;CRITICAL;SOFT;2;CRITICAL - Socket timeout
+[1689724271] SERVICE ALERT: SRV01USER_cass.cl;Memoria;CRITICAL;SOFT;1;connect to address 10.0.0.12 and port 12489: No route to host
+[1689724271] HOST ALERT: SRV01USER_cass.cl;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.12)
+[1689724271] SERVICE ALERT: SRV01USER_cass.cl;Tiempo Activo;CRITICAL;HARD;1;connect to address 10.0.0.12 and port 12489: No route to host
+[1689724271] SERVICE ALERT: SRV01USER_cass.cl;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.0.12)
+[1689724274] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;(No output on stdout) stderr: connect to address 10.0.0.12 port 5666: No route to host
+[1689724278] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento U;CRITICAL;HARD;1;connect to address 10.0.0.12 and port 12489: Connection refused
+[1689724291] SERVICE ALERT: SRV01USER_cass.cl;CPU;CRITICAL;HARD;1;connect to address 10.0.0.12 and port 12489: Connection refused
+[1689724325] SERVICE ALERT: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.21 ms
+[1689724329] HOST ALERT: SRV01USER_cass.cl;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.96 ms
+[1689724340] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 180.55 Gb (18%) - free 843.44 Gb (82%)
+[1689724351] SERVICE ALERT: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1689724355] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689724382] SERVICE ALERT: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 0 hour(s) 2 minute(s)
+[1689724390] SERVICE ALERT: SRV01USER_cass.cl;Almacenamiento C;OK;SOFT;3;c:\ - total: 119.40 Gb - used: 92.18 Gb (77%) - free 27.22 Gb (23%)
+[1689724391] SERVICE ALERT: SRV01USER_cass.cl;Memoria;OK;SOFT;2;Memory usage: total:23551.21 MB - used: 1856.07 MB (8%) - free: 21695.14 MB (92%)
+[1689724445] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689724571] SERVICE FLAPPING ALERT: SRV01USER_cass.cl;Actualizacion;STARTED; Service appears to have started flapping (23.8% change >= 20.0% threshold)
+[1689724571] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1689725648] SERVICE FLAPPING ALERT: SRV01USER_cass.cl;Actualizacion;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1689727005] SERVICE ALERT: SRVADMIN.cass.pmc;Almacenamiento;UNKNOWN;SOFT;1;NSClient - ERROR: No performance data from command: check_drivesize
+[1689727125] SERVICE ALERT: SRVADMIN.cass.pmc;Almacenamiento;OK;SOFT;2;c:\ - total: 299.66 Gb - used: 155.99 Gb (52%) - free 143.67 Gb (48%)
+[1689727188] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;No output available from command (check_updates).
+[1689727211] SERVICE ALERT: SRVCONT.cass.cl;Memoria;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1689727213] SERVICE ALERT: SRVCONT.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1689727241] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.95 port 5666: Connection refused
+[1689727331] SERVICE ALERT: SRVCONT.cass.cl;Memoria;OK;SOFT;2;Memory usage: total:14143.13 MB - used: 1755.34 MB (12%) - free: 12387.79 MB (88%)
+[1689727333] SERVICE ALERT: SRVCONT.cass.cl;Tiempo Activo;OK;SOFT;2;System Uptime - 0 day(s) 0 hour(s) 2 minute(s)
+[1689727391] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1689727408] SERVICE ALERT: SRVADMIN.cass.pmc;Ping;CRITICAL;SOFT;1;CRITICAL - Host Unreachable (10.0.0.109)
+[1689727411] HOST ALERT: SRVADMIN.cass.pmc;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.109)
+[1689727418] SERVICE ALERT: SRVADMIN.cass.pmc;Tiempo Activo;CRITICAL;HARD;1;connect to address 10.0.0.109 and port 12489: No route to host
+[1689727421] SERVICE ALERT: SRVADMIN.cass.pmc;CPU;CRITICAL;HARD;1;connect to address 10.0.0.109 and port 12489: No route to host
+[1689727421] SERVICE ALERT: SRVADMIN.cass.pmc;Memoria;CRITICAL;HARD;1;connect to address 10.0.0.109 and port 12489: No route to host
+[1689727424] SERVICE ALERT: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;HARD;3;(No output on stdout) stderr: connect to address 10.0.0.109 port 5666: No route to host
+[1689727427] SERVICE ALERT: SRVADMIN.cass.pmc;Almacenamiento;CRITICAL;HARD;1;connect to address 10.0.0.109 and port 12489: No route to host
+[1689727474] HOST ALERT: SRVADMIN.cass.pmc;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.0.109)
+[1689727515] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1689727531] SERVICE ALERT: SRVADMIN.cass.pmc;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (10.0.0.109)
+[1689727537] HOST ALERT: SRVADMIN.cass.pmc;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.0.109)
+[1689727598] HOST ALERT: SRVADMIN.cass.pmc;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.0.109)
+[1689727658] HOST ALERT: SRVADMIN.cass.pmc;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.0.109)
+[1689727712] SERVICE ALERT: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.93 ms
+[1689727716] HOST ALERT: SRVADMIN.cass.pmc;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.09 ms
+[1689727776] SERVICE ALERT: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 0 hour(s) 6 minute(s)
+[1689727779] SERVICE ALERT: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1689727780] SERVICE ALERT: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 1913.73 MB (13%) - free: 13377.83 MB (87%)
+[1689727786] SERVICE ALERT: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 155.53 Gb (52%) - free 144.12 Gb (48%)
+[1689727831] Auto-save of retention data completed successfully.
+[1689727932] SERVICE ALERT: SRVADMIN.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1689728295] SERVICE ALERT: SRVADMIN.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1689731431] Auto-save of retention data completed successfully.
+[1689735031] Auto-save of retention data completed successfully.
+[1689738631] Auto-save of retention data completed successfully.

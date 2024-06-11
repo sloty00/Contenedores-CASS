@@ -1,0 +1,846 @@
+[1697338800] LOG ROTATION: DAILY
+[1697338800] LOG VERSION: 2.0
+[1697338800] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.65 ms
+[1697338800] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 3.25 ms
+[1697338800] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 37%, RTA = 0.61 ms
+[1697338800] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1697338800] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 31.64 ms
+[1697338800] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 1.41 ms
+[1697338800] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 37%, RTA = 40.86 ms
+[1697338800] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.90 ms
+[1697338800] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.53 ms
+[1697338800] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 0.63 ms
+[1697338800] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1697338800] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 35.42 ms
+[1697338800] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.16 ms
+[1697338800] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.42 ms
+[1697338800] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 0.49 ms
+[1697338800] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 34.80 ms
+[1697338800] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1697338800] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 50%, RTA = 40.79 ms
+[1697338800] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.14 ms
+[1697338800] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.11 ms
+[1697338800] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1697338800] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1697338800] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1697338800] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1697338800] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1697338800] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 19.30 ms
+[1697338800] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1697338800] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1697338800] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.59 ms
+[1697338800] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.84 ms
+[1697338800] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.63 ms
+[1697338800] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 44%, RTA = 1.68 ms
+[1697338800] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 1.79 ms
+[1697338800] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1697338800] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.89 ms
+[1697338800] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.25 ms
+[1697338800] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1697338800] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1697338800] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.98 ms
+[1697338800] CURRENT HOST STATE: SRVMFSD;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.09 ms
+[1697338800] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1697338800] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1697338800] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1697338800] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1697338800] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1697338800] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1697338800] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1697338800] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.97 ms
+[1697338800] CURRENT HOST STATE: SRV_Soporte2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.97 ms
+[1697338800] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1697338800] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.96 ms
+[1697338800] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1697338800] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1697338800] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1697338800] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1697338800] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.89 ms
+[1697338800] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.88 ms
+[1697338800] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1697338800] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 50%, RTA = 36.71 ms
+[1697338800] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 68%, RTA = 3.03 ms
+[1697338800] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 44%, RTA = 31.53 ms
+[1697338800] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1697338800] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 28%, RTA = 33.94 ms
+[1697338800] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 61%, RTA = 1.24 ms
+[1697338800] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 44%, RTA = 35.96 ms
+[1697338800] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.02 ms
+[1697338800] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.33 ms
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 3.26KB (0.00%), Average OUT: 4.78KB (0.00%)Total RX: 109.16GBytes, Total TX: 27.23GBytes
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 893.67B (0.00%), Average OUT: 1.28KB (0.00%)Total RX: 2012.22GBytes, Total TX: 554.12GBytes
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 409.68B (0.00%), Average OUT: 162.67B (0.00%)Total RX: 2179.12GBytes, Total TX: 3816.49GBytes
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.000 second response time on 201.220.96.34 port 4444
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1697338800] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (155487639) 17 days, 23:54:36.39
+[1697338800] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 64%, RTA = 34.70 ms
+[1697338800] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 42.69 ms
+[1697338800] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 66%, RTA = 34.05 ms
+[1697338800] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1697338800] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 61%, RTA = 1.34 ms
+[1697338800] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 44%, RTA = 1.24 ms
+[1697338800] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.61 ms
+[1697338800] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1697338800] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 54%, RTA = 1.37 ms
+[1697338800] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:32TB - Free:17TB - Used Space: 64%
+[1697338800] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1697338800] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1257MB - Free:2573MB = 33%
+[1697338800] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1697338800] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=39C
+[1697338800] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (704857646) 81 days, 13:56:16.46
+[1697338800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 1 optional
+[1697338800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 97.09 Gb (81%) - free 22.31 Gb (19%)
+[1697338800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 198.65 Gb (19%) - free 825.33 Gb (81%)
+[1697338800] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 3% (5 min average)
+[1697338800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:28102.37 MB - used: 18153.53 MB (65%) - free: 9948.83 MB (35%)
+[1697338800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.17 ms
+[1697338800] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 18 day(s) 23 hour(s) 44 minute(s)
+[1697338800] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1697338800] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.61 ms
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  2 security update(s): 1 recommended update(s):  2 package update(s):
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78617 MiB (85.79% inode=-):
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.02, 0.01
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5364 MB - 69% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 330 processes
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on 10.0.2.13 port 80
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 176 day(s) 13 hour(s) 14 minute(s)
+[1697338800] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1697338800] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.58 ms
+[1697338800] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.29 ms
+[1697338800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1697338800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 168.00 Gb (56%) - free 131.66 Gb (44%)
+[1697338800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1697338800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:19177.62 MB - used: 15999.68 MB (83%) - free: 3177.93 MB (17%)
+[1697338800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1697338800] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 88 day(s) 2 hour(s) 13 minute(s)
+[1697338800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1697338800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 44.42 Gb (15%) - free 254.91 Gb (85%)
+[1697338800] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 4% (5 min average)
+[1697338800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 2802.82 MB (20%) - free: 11340.31 MB (80%)
+[1697338800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.85 ms
+[1697338800] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 4 day(s) 0 hour(s) 24 minute(s)
+[1697338800] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.98 ms
+[1697338800] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.36 ms
+[1697338800] CURRENT SERVICE STATE: SRVMFSD;Ping;OK;HARD;1;PING OK - Packet loss = 28%, RTA = 1.24 ms
+[1697338800] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 61%, RTA = 1.09 ms
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2459105 MB (73% inode=-):
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.19, 0.12, 0.10
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1092 MB - 28% [SWAP] Total: 2047 MB - Used: 472 MB - 23%
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 304 processes
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;WARNING;HARD;3;Uptime WARNING: 179 day(s) 1 hour(s) 3 minute(s)
+[1697338800] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1697338800] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.61 ms
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118407 MiB (91.13% inode=-):
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1578 MB - 19% [SWAP] Total: 10239 MB - Used: 1 MB - 0%
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 308 processes
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 206 day(s) 10 hour(s) 36 minute(s)
+[1697338800] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1697338800] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.77 ms
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 968327 MiB (92.63% inode=-):
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.04, 0.04
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3314 MB - 41% [SWAP] Total: 2048 MB - Used: 878 MB - 42%
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 304 processes
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 1 process with STATE = Z
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on port 443
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1697338800] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 476334 MiB (94.02% inode=-):
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1800658 MiB (91.95% inode=99%):
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 476253 MiB (99.79% inode=100%):
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.000 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.004 sec. response time
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2395 MB - 20% [SWAP] Total: 2048 MB - Used: 139 MB - 6%
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 305 processes
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 33 day(s) 10 hour(s) 46 minute(s)
+[1697338800] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1697338800] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1697338800] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.04, 0.04, 0.05
+[1697338800] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 603 MB - 7% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1697338800] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1697338800] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 99 processes with STATE = RSZDT
+[1697338800] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1697338800] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 44%, RTA = 1.04 ms
+[1697338800] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1697338800] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 22.34MB (17.87%), Average OUT: 19.66MB (15.73%)Total RX: 48719.03GBytes, Total TX: 110959.76GBytes
+[1697338800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1697338800] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1697338800] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1697338800] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (1783753846) 206 days, 10:52:18.46
+[1697338800] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 98%, approximately 0 minutes runtime remaining.
+[1697338800] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1697338800] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 28%, RTA = 1.15 ms
+[1697338800] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 25 degrees C (77.0 degrees F).
+[1697338800] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (198162533) 22 days, 22:27:05.33
+[1697338800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 1 optional
+[1697338800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 67.93 Gb (68%) - free 31.40 Gb (32%)
+[1697338800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 45% (5 min average)
+[1697338800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:30720.06 MB - used: 25869.88 MB (84%) - free: 4850.18 MB (16%)
+[1697338800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.03 ms
+[1697338800] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 22 day(s) 23 hour(s) 29 minute(s)
+[1697338800] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 72 days on 2023-12-26 20:59 -0300/-03.
+[1697338800] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1073 bytes in 0.199 second response time
+[1697340202] Auto-save of retention data completed successfully.
+[1697341464] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5390 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341584] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341704] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341704] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341704] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341704] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341704] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341704] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697341704] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;HARD;3;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697343802] Auto-save of retention data completed successfully.
+[1697345304] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5395 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697345304] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5395 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697345304] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5395 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697345304] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5395 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697345304] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5395 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697345304] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5395 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697347402] Auto-save of retention data completed successfully.
+[1697348443] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697348459] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697348575] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697348591] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697348904] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5400 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697348904] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5400 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697348904] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5400 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697348904] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5400 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697348904] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5400 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697348904] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5400 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697349001] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697349101] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697349134] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697349233] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697349502] SERVICE ALERT: Qnap NAS;Almacenamiento;CRITICAL;SOFT;1;CRITICAL: Total:50TB - Used:50TB - Free:17 - Used Space: 99%
+[1697349601] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697349629] SERVICE ALERT: Qnap NAS;Almacenamiento;OK;SOFT;2;OK: Total:TB - Used:-17TB - Free:17TB - Used Space: %
+[1697349672] wproc: Core Worker 25163: job 1790859 (pid=23464) timed out. Killing it
+[1697349672] wproc: CHECK job 1790859 from worker Core Worker 25163 timed out after 30.01s
+[1697349672] wproc:   host=Gore Los Lagos; service=(null);
+[1697349672] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1697349672] Warning: Check of host 'Gore Los Lagos' timed out after 30.01 seconds
+[1697349672] HOST ALERT: Gore Los Lagos;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1697349673] wproc: Core Worker 25163: job 1790859 (pid=23464): Dormant child reaped
+[1697349674] wproc: Core Worker 25162: job 1790861 (pid=23478) timed out. Killing it
+[1697349674] wproc: CHECK job 1790861 from worker Core Worker 25162 timed out after 30.01s
+[1697349674] wproc:   host=FW Gore Los Lagos; service=(null);
+[1697349674] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1697349674] Warning: Check of host 'FW Gore Los Lagos' timed out after 30.01 seconds
+[1697349674] HOST ALERT: FW Gore Los Lagos;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1697349674] wproc: Core Worker 25162: job 1790861 (pid=23478): Dormant child reaped
+[1697349697] HOST ALERT: Gore Los Lagos;UP;SOFT;1;PING OK - Packet loss = 79%, RTA = 1.37 ms
+[1697349701] HOST ALERT: FW Gore Los Lagos;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 1.08 ms
+[1697349734] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697351002] Auto-save of retention data completed successfully.
+[1697351186] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.100)
+[1697351274] HOST ALERT: Exper03.exxperience.cl;UP;SOFT;1;PING WARNING - Packet loss = 82%, RTA = 1.28 ms
+[1697351504] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697351636] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697352002] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697352135] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697352504] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5406 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697352504] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5406 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697352504] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5406 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697352504] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5406 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697352504] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5406 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697352504] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5406 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697353304] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697353305] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697353435] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697353437] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697353801] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697353802] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697353938] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697353941] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697354602] Auto-save of retention data completed successfully.
+[1697355108] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697355111] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697355111] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697355239] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697355243] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697355243] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697355602] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697355693] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697355740] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697355825] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697356104] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697356104] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697356104] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697356104] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697356104] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697356104] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697356275] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697356407] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697356893] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697356910] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697356917] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697356920] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697357025] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697357042] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697357050] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697357053] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697357492] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697357500] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697357503] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697357623] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697357632] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697357635] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697358001] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697358002] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697358135] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697358135] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697358202] Auto-save of retention data completed successfully.
+[1697358705] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697358838] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697359202] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697359336] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697359704] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697359704] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697359704] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697359704] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697359704] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697359704] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1034 MB - 13%
+[1697359906] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697360039] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697360401] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697360475] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697360547] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697360608] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697361105] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697361117] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697361239] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697361250] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697361601] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697361700] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697361742] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697361802] Auto-save of retention data completed successfully.
+[1697361832] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697362201] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697362343] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697363304] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5412 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697363304] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5412 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697363304] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5412 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697363304] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5412 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697363304] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5412 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697363304] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5412 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697363513] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697363645] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364096] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364112] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364118] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364133] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364227] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364243] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364250] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364264] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364677] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364693] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364700] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364714] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697364809] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364825] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364832] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697364845] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697365202] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697365337] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697365402] Auto-save of retention data completed successfully.
+[1697365919] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697366051] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697366501] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697366633] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697366904] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5421 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697366904] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5421 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697366904] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5421 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697366904] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5421 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697366904] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5421 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697366904] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5421 MB - 70% [SWAP] Total: 7944 MB - Used: 1039 MB - 13%
+[1697367001] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697367146] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697367695] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697367707] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697367716] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697367735] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697367827] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697367839] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697367848] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697367867] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697368201] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697368298] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697368344] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697368430] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697368801] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697368939] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697369002] Auto-save of retention data completed successfully.
+[1697369509] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697369641] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697369784] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5342 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697369784] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5342 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697369784] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5342 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697369784] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5342 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697369784] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5342 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697369784] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5342 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697369784] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5342 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697369904] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5422 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697370024] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697370091] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697370223] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697370504] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5410 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697370624] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5343 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697370673] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697370805] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697371284] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5408 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697371314] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697371315] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697371317] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697371337] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697371404] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5345 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697371446] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697371447] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697371449] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697371469] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697371584] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5403 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697371704] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5346 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697371897] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697372029] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697372244] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5416 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697372364] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5416 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697372401] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697372484] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;3;[MEMORY] Total: 7693 MB - Used: 5350 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697372535] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697372602] Auto-save of retention data completed successfully.
+[1697373024] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5400 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697373096] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697373105] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697373144] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5353 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697373228] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697373238] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697373602] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697373678] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697373737] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697373809] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697374307] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697374440] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697374802] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697374899] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697374919] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697374919] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697374949] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697375031] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697375051] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697375051] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697375064] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5426 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697375185] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5359 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697375401] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697375425] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5429 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697375501] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697375501] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697375519] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697375545] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5360 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697375546] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697375633] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697375634] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697375651] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697376001] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697376001] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697376085] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5443 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697376101] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697376116] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697376143] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697376143] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697376202] Auto-save of retention data completed successfully.
+[1697376205] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5358 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697376233] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697376248] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697376602] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697376742] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697377898] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697377912] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697377913] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697377913] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697378030] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378044] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378044] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378045] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378401] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697378494] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697378494] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697378495] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697378547] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378625] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378626] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378627] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697378785] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5438 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697378905] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5370 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697379076] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697379209] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697379299] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697379374] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 3 critical, 1 optional
+[1697379802] Auto-save of retention data completed successfully.
+[1697380319] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697380345] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5436 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697380451] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697380465] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5369 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697380825] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5441 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697380901] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697380945] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5377 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697381033] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697381401] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697381535] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382075] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697382077] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697382105] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697382117] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697382145] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5390 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382206] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382209] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382237] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382249] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382266] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5390 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382386] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382386] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382386] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382386] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382386] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382386] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382386] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;HARD;3;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382566] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382566] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382566] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382566] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382566] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382566] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382566] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382602] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697382686] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382699] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697382716] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697382719] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697382744] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382806] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382831] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382848] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382850] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697382926] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382926] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382926] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382926] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382926] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382926] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697382926] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;HARD;3;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383167] SERVICE FLAPPING ALERT: SRV11VIBE_cass.cl;Memoria;STARTED; Service appears to have started flapping (22.5% change >= 20.0% threshold)
+[1697383167] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5383 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383201] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697383226] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383298] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697383300] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697383314] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697383340] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697383346] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5384 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383402] Auto-save of retention data completed successfully.
+[1697383429] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697383432] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697383446] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697383466] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5388 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383586] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383706] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;HARD;3;[MEMORY] Total: 7693 MB - Used: 5390 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383766] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5385 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383801] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697383886] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5390 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697383896] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697383939] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697384006] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5390 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697384028] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697384126] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;HARD;3;[MEMORY] Total: 7693 MB - Used: 5389 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697384478] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697384479] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697384510] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697384610] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697384611] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697384642] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385092] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385109] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385120] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385121] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385206] SERVICE FLAPPING ALERT: SRV11VIBE_cass.cl;Memoria;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1697385206] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5392 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697385206] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5392 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697385206] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5392 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697385206] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5392 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697385206] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5392 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697385206] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5392 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697385224] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385240] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385252] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385252] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385601] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697385702] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385702] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385734] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385751] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697385834] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385834] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385866] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697385883] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1697386201] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697386201] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697386274] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697386316] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697386340] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697386342] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697386405] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697386448] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697386912] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697387002] Auto-save of retention data completed successfully.
+[1697387043] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697387493] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697387625] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697388075] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697388146] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388146] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388146] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388146] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388146] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388146] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388146] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5386 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388206] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697388626] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388716] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697388746] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5392 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388848] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697388866] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388866] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388866] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388866] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388866] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388866] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697388866] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;HARD;3;[MEMORY] Total: 7693 MB - Used: 5391 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697389298] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697389430] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697389801] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697389945] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697390415] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;WARNING;SOFT;1;PROCS WARNING: 10 processes with STATE = Z
+[1697390535] SERVICE ALERT: SRV_Cfiler.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1697390602] Auto-save of retention data completed successfully.
+[1697391715] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697391847] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697392297] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697392429] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697392466] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5394 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697392466] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5394 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697392466] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5394 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697392466] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5394 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697392466] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5394 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697392466] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5394 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697393479] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697393611] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697394202] Auto-save of retention data completed successfully.
+[1697395898] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697396030] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697396066] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697396066] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697396066] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697396066] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697396066] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697396066] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5404 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697396401] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697396510] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697396521] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697396544] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697396642] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697396653] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697397092] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697397104] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697397224] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697397235] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697397602] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697397734] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697397802] Auto-save of retention data completed successfully.
+[1697398304] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697398436] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697398802] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697398934] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697399504] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697399638] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697399666] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697399666] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697399666] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697399666] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697399666] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697399666] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5414 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697400001] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697400142] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697401402] Auto-save of retention data completed successfully.
+[1697401946] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697401946] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697401946] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697401946] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697401946] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697401946] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697401946] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5341 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697405002] Auto-save of retention data completed successfully.
+[1697408602] Auto-save of retention data completed successfully.
+[1697412202] Auto-save of retention data completed successfully.
+[1697414546] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5390 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697414666] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5385 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697414846] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;1;[MEMORY] Total: 7693 MB - Used: 5393 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697414967] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;SOFT;2;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Memoria;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;CPU;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail2;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415014] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415015] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415015] SERVICE ALERT: SRV_email.cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415016] SERVICE ALERT: SRV_email.cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1697415052] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415054] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415056] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415087] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415087] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415087] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415087] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415087] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415087] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415087] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;WARNING;HARD;3;[MEMORY] Total: 7693 MB - Used: 5387 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 11939 MB - Used: 2353 MB - 19% [SWAP] Total: 2048 MB - Used: 137 MB - 6%
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 34 day(s) 7 hour(s) 59 minute(s)
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;Correo Pop;OK;SOFT;2;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento /;OK;SOFT;2;DISK OK - free space: /var/tmp 476333 MiB (94.02% inode=-):
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;CPU;OK;SOFT;2;OK - load average per CPU: 0.01, 0.01, 0.01
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail2;OK;SOFT;2;DISK OK - free space: /mail2 476252 MiB (99.79% inode=100%):
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;OK;SOFT;2;SMTP OK - 0.004 sec. response time
+[1697415134] SERVICE ALERT: SRV_email.cass.cl;Procesos Zombies;OK;SOFT;2;PROCS OK: 0 processes with STATE = Z
+[1697415135] SERVICE ALERT: SRV_email.cass.cl;Almacenamiento Mail;OK;SOFT;2;DISK OK - free space: /mail 1800628 MiB (91.95% inode=99%):
+[1697415135] SERVICE ALERT: SRV_email.cass.cl;Procesos;OK;SOFT;2;PROCS OK: 308 processes
+[1697415136] SERVICE ALERT: SRV_email.cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 1 users currently logged in
+[1697415149] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697415190] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697415190] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697415194] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697415520] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415659] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415671] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;2;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415700] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415704] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697415802] Auto-save of retention data completed successfully.
+[1697415803] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697415812] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1697415839] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697415850] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697415953] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697416089] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697416202] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697416322] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697416340] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697416461] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697416659] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697416660] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697416672] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697416795] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697416796] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697416801] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;2;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697416941] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;3;Updates OK : no updates available
+[1697417402] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697417403] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697417540] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697417540] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418110] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418110] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418110] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418111] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418245] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418246] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418248] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418248] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418458] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418598] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418695] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418696] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418698] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697418746] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5408 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697418746] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5408 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697418746] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5408 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697418746] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5408 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697418746] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5408 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697418746] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5408 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697418834] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418834] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697418839] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697419202] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697419202] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697419202] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697419202] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697419339] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697419341] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697419343] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697419345] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697419402] Auto-save of retention data completed successfully.
+[1697419853] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697419909] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697419915] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697419990] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697420041] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697420053] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697420401] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697420527] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697421100] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697421103] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697421239] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697421241] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697421602] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697421602] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697421737] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697421741] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697422297] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1697422346] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5411 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697422346] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5411 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697422346] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5411 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697422346] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5411 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697422346] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5411 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697422346] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;WARNING;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5411 MB - 70% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697422431] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697422801] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1697422934] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1697423002] Auto-save of retention data completed successfully.
+[1697424506] SERVICE NOTIFICATION: nagiosadmin;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5349 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697424506] SERVICE NOTIFICATION: andresnavarro;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5349 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697424506] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5349 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697424506] SERVICE NOTIFICATION: soporteti;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5349 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697424506] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-telegram;[MEMORY] Total: 7693 MB - Used: 5349 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697424506] SERVICE NOTIFICATION: carlosstange;SRV11VIBE_cass.cl;Memoria;OK;notify-service-by-email;[MEMORY] Total: 7693 MB - Used: 5349 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%
+[1697424506] SERVICE ALERT: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 5349 MB - 69% [SWAP] Total: 7944 MB - Used: 1048 MB - 13%

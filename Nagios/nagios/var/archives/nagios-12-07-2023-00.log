@@ -1,0 +1,488 @@
+[1701831600] LOG ROTATION: DAILY
+[1701831600] LOG VERSION: 2.0
+[1701831600] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.83 ms
+[1701831600] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.23 ms
+[1701831600] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1701831600] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1701831600] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 31.64 ms
+[1701831600] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.44 ms
+[1701831600] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 39.20 ms
+[1701831600] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 31.67 ms
+[1701831600] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.86 ms
+[1701831600] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1701831600] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1701831600] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.48 ms
+[1701831600] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.30 ms
+[1701831600] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.65 ms
+[1701831600] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1701831600] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.72 ms
+[1701831600] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.42 ms
+[1701831600] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.11 ms
+[1701831600] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 31.05 ms
+[1701831600] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1701831600] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1701831600] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1701831600] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1701831600] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1701831600] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1701831600] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 18.13 ms
+[1701831600] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1701831600] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1701831600] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.82 ms
+[1701831600] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.04 ms
+[1701831600] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.02 ms
+[1701831600] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.34 ms
+[1701831600] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.72 ms
+[1701831600] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.44 ms
+[1701831600] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1701831600] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.28 ms
+[1701831600] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1701831600] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.57 ms
+[1701831600] CURRENT HOST STATE: SRVDNS;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.30)
+[1701831600] CURRENT HOST STATE: SRVMFSD;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.12)
+[1701831600] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1701831600] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.91 ms
+[1701831600] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1701831600] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1701831600] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1701831600] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1701831600] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1701831600] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.20 ms
+[1701831600] CURRENT HOST STATE: SRV_Soporte2;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.97)
+[1701831600] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1701831600] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1701831600] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1701831600] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1701831600] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1701831600] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1701831600] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1701831600] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.72 ms
+[1701831600] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1701831600] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.69 ms
+[1701831600] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.24 ms
+[1701831600] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.78 ms
+[1701831600] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1701831600] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.76 ms
+[1701831600] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1701831600] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.86 ms
+[1701831600] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.19 ms
+[1701831600] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.65 ms
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 8.32KB (0.01%), Average OUT: 5.29KB (0.00%)Total RX: 4.42GBytes, Total TX: 6.17GBytes
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 593.30B (0.00%), Average OUT: 959.84B (0.00%)Total RX: 41.14GBytes, Total TX: 116.80GBytes
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 278.77B (0.00%), Average OUT: 93.68B (0.00%)Total RX: 378.45GBytes, Total TX: 654.69GBytes
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.000 second response time on 201.220.96.34 port 4444
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1701831600] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (32989942) 3 days, 19:38:19.42
+[1701831600] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.19 ms
+[1701831600] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.09 ms
+[1701831600] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.09 ms
+[1701831600] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1701831600] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.42 ms
+[1701831600] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1701831600] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1701831600] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1701831600] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1701831600] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:33TB - Free:16TB - Used Space: 67%
+[1701831600] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1701831600] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1144MB - Free:2686MB = 30%
+[1701831600] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1701831600] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=43C
+[1701831600] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (14234576) 1 day, 15:32:25.76
+[1701831600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1701831600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 95.80 Gb (80%) - free 23.59 Gb (20%)
+[1701831600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 249.02 Gb (24%) - free 774.96 Gb (76%)
+[1701831600] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1701831600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 9550.63 MB (41%) - free: 14000.58 MB (59%)
+[1701831600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.80 ms
+[1701831600] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 3 day(s) 19 hour(s) 34 minute(s)
+[1701831600] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.48 ms
+[1701831600] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.19 ms
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  2 security update(s): 1 recommended update(s):  2 package update(s):
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78616 MiB (85.78% inode=-):
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.02, 0.01
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 2181 MB - 28% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 314 processes
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 1 day(s) 15 hour(s) 36 minute(s)
+[1701831600] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1701831600] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.80 ms
+[1701831600] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.20 ms
+[1701831600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1701831600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 163.50 Gb (55%) - free 136.15 Gb (45%)
+[1701831600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1701831600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 6388.29 MB (42%) - free: 8903.26 MB (58%)
+[1701831600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1701831600] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 3 day(s) 19 hour(s) 33 minute(s)
+[1701831600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1701831600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 41.75 Gb (14%) - free 257.58 Gb (86%)
+[1701831600] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 4% (5 min average)
+[1701831600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 2832.51 MB (20%) - free: 11310.62 MB (80%)
+[1701831600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.67 ms
+[1701831600] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 3 day(s) 19 hour(s) 36 minute(s)
+[1701831600] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1701831600] CURRENT SERVICE STATE: SRVDNS;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.30)
+[1701831600] CURRENT SERVICE STATE: SRVMFSD;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.12)
+[1701831600] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.19 ms
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2439040 MB (72% inode=-):
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.16, 0.14, 0.14
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1426 MB - 36% [SWAP] Total: 2047 MB - Used: 6 MB - 0%
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 321 processes
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 3 day(s) 19 hour(s) 34 minute(s)
+[1701831600] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1701831600] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.73 ms
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118373 MiB (91.10% inode=-):
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 767 MB - 9% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 317 processes
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 3 day(s) 19 hour(s) 31 minute(s)
+[1701831600] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1701831600] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 950446 MiB (90.95% inode=-):
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.07, 0.07
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3341 MB - 42% [SWAP] Total: 2048 MB - Used: 47 MB - 2%
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 281 processes
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1701831600] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 466070 MiB (92.00% inode=-):
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1792383 MiB (91.52% inode=99%):
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 475917 MiB (99.72% inode=100%):
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.030 sec. response time
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 2023 MB - 16% [SWAP] Total: 2048 MB - Used: 4 MB - 0%
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 305 processes
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 3 day(s) 19 hour(s) 30 minute(s)
+[1701831600] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1701831600] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 2 Updates Available
+[1701831600] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.04, 0.05, 0.05
+[1701831600] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 430 MB - 5% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1701831600] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1701831600] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 69 processes with STATE = RSZDT
+[1701831600] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1701831600] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1701831600] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.04 ms
+[1701831600] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 22.44MB (17.95%), Average OUT: 18.87MB (15.10%)Total RX: 364.43GBytes, Total TX: 11648.38GBytes
+[1701831600] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1701831600] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1701831600] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1701831600] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (32997256) 3 days, 19:39:32.56
+[1701831600] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 98%, approximately 0 minutes runtime remaining.
+[1701831600] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1701831600] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1701831600] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 30 degrees C (86.0 degrees F).
+[1701831600] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (33005156) 3 days, 19:40:51.56
+[1701831600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1701831600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 95.35 Gb (96%) - free 3.98 Gb (4%)
+[1701831600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1701831600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 18577.06 MB (66%) - free: 9582.20 MB (34%)
+[1701831600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.07 ms
+[1701831600] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 3 day(s) 19 hour(s) 32 minute(s)
+[1701831600] CURRENT SERVICE STATE: web_cass_cl;Certificado;CRITICAL;HARD;3;SSL CRITICAL - Certificate '*.cass.cl' expires in 20 day(s) (2023-12-26 20:59 -0300/-03).
+[1701831600] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1077 bytes in 0.170 second response time
+[1701831746] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;CPU;STARTED; Service appears to have started flapping (20.7% change >= 20.0% threshold)
+[1701831746] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1701832046] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1701832586] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1701832716] Auto-save of retention data completed successfully.
+[1701832826] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1701833223] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701833292] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1701833546] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1701833602] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701833602] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701833602] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701833602] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701833602] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701833602] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701833602] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701833666] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1701833742] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701833821] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;Actualizacion;STARTED; Service appears to have started flapping (22.6% change >= 20.0% threshold)
+[1701833821] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1701834181] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701834312] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701834326] SERVICE ALERT: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 90% (5 min average)
+[1701834703] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701834703] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701834703] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701834704] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701834832] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701834834] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701834835] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701834836] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701834926] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;CPU;STOPPED; Service appears to have stopped flapping (4.9% change < 5.0% threshold)
+[1701834969] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;Actualizacion;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1701835201] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701835201] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701835202] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701835333] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701835333] SERVICE ALERT: SRV_SOS2021.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701835335] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701835802] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701835934] SERVICE ALERT: SRV_Cfiler.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1701836316] Auto-save of retention data completed successfully.
+[1701838996] SERVICE ALERT: SRV11VIBE_cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701839078] SERVICE ALERT: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  2 security update(s): 1 recommended update(s):  2 package update(s):
+[1701839542] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701839542] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701839542] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701839542] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701839542] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701839542] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701839542] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701839916] Auto-save of retention data completed successfully.
+[1701840322] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840322] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840322] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840322] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840322] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840322] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840322] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840442] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840442] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840442] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840442] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840442] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840442] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840442] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701840562] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;Almacenamiento;STARTED; Service appears to have started flapping (22.0% change >= 20.0% threshold)
+[1701840562] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.35 Gb (95%) - free 4.98 Gb (5%)
+[1701841642] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;Almacenamiento;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1701841642] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701841642] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701841642] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701841642] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701841642] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701841642] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701842422] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701842422] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701842422] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701842422] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701842422] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701842422] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701842422] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701843516] Auto-save of retention data completed successfully.
+[1701845242] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701845242] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701845242] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701845242] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701845242] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701845242] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701845242] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701847116] Auto-save of retention data completed successfully.
+[1701848242] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.45 Gb (95%) - free 4.88 Gb (5%)
+[1701848242] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.45 Gb (95%) - free 4.88 Gb (5%)
+[1701848242] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.45 Gb (95%) - free 4.88 Gb (5%)
+[1701848242] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.45 Gb (95%) - free 4.88 Gb (5%)
+[1701848242] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.45 Gb (95%) - free 4.88 Gb (5%)
+[1701848242] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.45 Gb (95%) - free 4.88 Gb (5%)
+[1701848242] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.45 Gb (95%) - free 4.88 Gb (5%)
+[1701848302] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701848302] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701848302] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701848302] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701848302] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701848302] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701848302] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701850716] Auto-save of retention data completed successfully.
+[1701854316] Auto-save of retention data completed successfully.
+[1701856882] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.94 Gb (96%) - free 4.39 Gb (4%)
+[1701856882] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.94 Gb (96%) - free 4.39 Gb (4%)
+[1701856882] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.94 Gb (96%) - free 4.39 Gb (4%)
+[1701856882] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.94 Gb (96%) - free 4.39 Gb (4%)
+[1701856882] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.94 Gb (96%) - free 4.39 Gb (4%)
+[1701856882] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.94 Gb (96%) - free 4.39 Gb (4%)
+[1701856882] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.94 Gb (96%) - free 4.39 Gb (4%)
+[1701857002] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701857002] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701857002] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701857002] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701857002] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701857002] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701857002] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701857916] Auto-save of retention data completed successfully.
+[1701861516] Auto-save of retention data completed successfully.
+[1701863788] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1701863826] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701863908] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 11.62MB (9.29%), Average OUT: 3.77MB (3.02%)Total RX: 526.96GBytes, Total TX: 801.31GBytes
+[1701863946] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701864496] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;WARNING;SOFT;1;WARNING - IN bandwidth (86.53%) too high
+[1701864521] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - IN bandwidth (86.43%) too high
+[1701864617] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 100.82MB (80.65%), Average OUT: 680.72KB (0.54%)Total RX: 86.99GBytes, Total TX: 118.74GBytes
+[1701864642] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 99.62MB (79.69%), Average OUT: 98.79MB (79.03%)Total RX: 543.99GBytes, Total TX: 12371.02GBytes
+[1701865116] Auto-save of retention data completed successfully.
+[1701865336] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701865347] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701865456] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701865467] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 64.76KB (0.05%), Average OUT: 436.51KB (0.35%)Total RX: 103.62GBytes, Total TX: 119.11GBytes
+[1701866006] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701866126] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701868716] Auto-save of retention data completed successfully.
+[1701868817] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701868937] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 2.40MB (1.92%), Average OUT: 58.57KB (0.05%)Total RX: 7.97GBytes, Total TX: 6.60GBytes
+[1701869787] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701869907] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 1.55MB (1.24%), Average OUT: 39.85KB (0.03%)Total RX: 9.82GBytes, Total TX: 6.64GBytes
+[1701870000] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1701870123] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1701872122] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701872122] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701872122] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701872122] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701872122] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701872122] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701872122] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.37 Gb (95%) - free 4.96 Gb (5%)
+[1701872316] Auto-save of retention data completed successfully.
+[1701872482] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701872482] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701872482] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701872482] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701872482] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701872482] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701872482] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701872796] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701872916] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701872918] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701872918] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701873038] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.98KB (0.01%), Average OUT: 7.13KB (0.01%)Total RX: 14.02GBytes, Total TX: 6.77GBytes
+[1701873038] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 37.55KB (0.03%), Average OUT: 350.71KB (0.28%)Total RX: 104.34GBytes, Total TX: 131.61GBytes
+[1701873429] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701873459] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;CRITICAL - OUT bandwidth (207850628256.00%) too high
+[1701873549] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1701873579] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;CRITICAL - OUT bandwidth (5440.99%) too high
+[1701873699] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;OK - Average IN: 4.00MB (3.20%), Average OUT: 791.66KB (0.63%)Total RX: 614.77GBytes, Total TX: 819.07GBytes
+[1701874522] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701874522] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701874522] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701874522] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701874522] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701874522] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701874522] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701875330] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1701875447] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701875448] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701875465] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1701875567] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701875569] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 14.89KB (0.01%), Average OUT: 10.28KB (0.01%)Total RX: 14.08GBytes, Total TX: 6.79GBytes
+[1701875916] Auto-save of retention data completed successfully.
+[1701877259] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701877379] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 14.56KB (0.01%), Average OUT: 8.93KB (0.01%)Total RX: 14.11GBytes, Total TX: 6.81GBytes
+[1701877929] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701877935] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701877969] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701878059] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1701878065] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 1.37MB (1.10%), Average OUT: 532.20KB (0.43%)Total RX: 105.38GBytes, Total TX: 134.68GBytes
+[1701878095] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 1.61MB (1.28%), Average OUT: 4.19MB (3.35%)Total RX: 624.94GBytes, Total TX: 827.75GBytes
+[1701878185] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;OK - Average IN: 27.73KB (0.02%), Average OUT: 8.42KB (0.01%)Total RX: 14.13GBytes, Total TX: 6.82GBytes
+[1701878315] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701878435] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 14.15KB (0.01%), Average OUT: 8.10KB (0.01%)Total RX: 14.13GBytes, Total TX: 6.82GBytes
+[1701878526] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701878651] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 1.77MB (1.42%), Average OUT: 4.31MB (3.45%)Total RX: 626.00GBytes, Total TX: 830.22GBytes
+[1701878901] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701878902] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701878902] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701878902] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701878902] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701878902] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701878902] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701878902] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879021] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 2.11MB (1.69%), Average OUT: 4.65MB (3.72%)Total RX: 626.66GBytes, Total TX: 831.82GBytes
+[1701879262] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879262] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879262] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879262] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879262] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879262] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879262] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.36 Gb (95%) - free 4.97 Gb (5%)
+[1701879516] Auto-save of retention data completed successfully.
+[1701879742] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701879742] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701879742] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701879742] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701879742] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701879742] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;WARNING;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701879742] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;WARNING;HARD;3;c:\ - total: 99.33 Gb - used: 94.32 Gb (95%) - free 5.01 Gb (5%)
+[1701880077] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701880197] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701883116] Auto-save of retention data completed successfully.
+[1701885225] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701885345] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 8.30MB (6.64%), Average OUT: 172.46KB (0.14%)Total RX: 39.08GBytes, Total TX: 7.38GBytes
+[1701886716] Auto-save of retention data completed successfully.
+[1701889891] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701890011] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 213.04KB (0.17%), Average OUT: 11.02MB (8.82%)Total RX: 659.59GBytes, Total TX: 957.67GBytes
+[1701890316] Auto-save of retention data completed successfully.
+[1701890696] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701890816] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 11.86KB (0.01%), Average OUT: 9.51KB (0.01%)Total RX: 58.34GBytes, Total TX: 7.83GBytes
+[1701890981] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701891101] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 204.19KB (0.16%), Average OUT: 10.91MB (8.73%)Total RX: 659.99GBytes, Total TX: 967.35GBytes
+[1701892686] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701892687] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701892806] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 20.47KB (0.02%), Average OUT: 9.15KB (0.01%)Total RX: 58.38GBytes, Total TX: 7.85GBytes
+[1701892807] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1701893416] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701893539] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701893546] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1701893631] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701893659] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1701893666] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;OK - Average IN: 20.33KB (0.02%), Average OUT: 7.89KB (0.01%)Total RX: 58.40GBytes, Total TX: 7.86GBytes
+[1701893756] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 11.46MB (9.16%), Average OUT: 247.30KB (0.20%)Total RX: 671.58GBytes, Total TX: 984.46GBytes
+[1701893915] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701893916] Auto-save of retention data completed successfully.
+[1701894035] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 53.50KB (0.04%), Average OUT: 607.83KB (0.49%)Total RX: 108.57GBytes, Total TX: 193.89GBytes
+[1701894876] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701894996] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 35.15KB (0.03%), Average OUT: 35.91KB (0.03%)Total RX: 58.44GBytes, Total TX: 7.88GBytes
+[1701897406] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701897516] Auto-save of retention data completed successfully.
+[1701897541] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1701897553] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1701897673] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1701897966] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1701898086] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 5.31MB (4.25%), Average OUT: 5.30MB (4.24%)Total RX: 699.34GBytes, Total TX: 1002.17GBytes
+[1701901116] Auto-save of retention data completed successfully.
+[1701903922] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.39 Gb (95%) - free 4.93 Gb (5%)
+[1701903922] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.39 Gb (95%) - free 4.93 Gb (5%)
+[1701903922] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.39 Gb (95%) - free 4.93 Gb (5%)
+[1701903922] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.39 Gb (95%) - free 4.93 Gb (5%)
+[1701903922] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-telegram;c:\ - total: 99.33 Gb - used: 94.39 Gb (95%) - free 4.93 Gb (5%)
+[1701903922] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;Almacenamiento;CRITICAL;notify-service-by-email;c:\ - total: 99.33 Gb - used: 94.39 Gb (95%) - free 4.93 Gb (5%)
+[1701903922] SERVICE ALERT: Veeam2023.cass.pmc;Almacenamiento;CRITICAL;HARD;3;c:\ - total: 99.33 Gb - used: 94.39 Gb (95%) - free 4.93 Gb (5%)
+[1701904716] Auto-save of retention data completed successfully.
+[1701908316] Auto-save of retention data completed successfully.
+[1701911916] Auto-save of retention data completed successfully.
+[1701914923] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (87.70%) too high
+[1701915043] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 29.89MB (23.91%), Average OUT: 103.33MB (82.66%)Total RX: 673.64GBytes, Total TX: 12568.10GBytes
+[1701915164] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;WARNING;SOFT;1;WARNING - OUT bandwidth (92.19%) too high
+[1701915272] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1701915284] SERVICE ALERT: Servidores CASS;Ancho de Banda GE/1/0/3;OK;SOFT;2;OK - Average IN: 17.12MB (13.70%), Average OUT: 90.06MB (72.05%)Total RX: 675.73GBytes, Total TX: 12592.85GBytes
+[1701915351] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1701915516] Auto-save of retention data completed successfully.

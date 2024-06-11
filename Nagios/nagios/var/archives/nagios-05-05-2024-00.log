@@ -1,0 +1,788 @@
+[1714795200] LOG ROTATION: DAILY
+[1714795200] LOG VERSION: 2.0
+[1714795200] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.34 ms
+[1714795200] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.27 ms
+[1714795200] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1714795200] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1714795200] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 31.60 ms
+[1714795200] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1714795200] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.26 ms
+[1714795200] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.05 ms
+[1714795200] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.16 ms
+[1714795200] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1714795200] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.35 ms
+[1714795200] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.33 ms
+[1714795200] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.25 ms
+[1714795200] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 34.28 ms
+[1714795200] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.66 ms
+[1714795200] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.35 ms
+[1714795200] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 37%, RTA = 1.51 ms
+[1714795200] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 41.02 ms
+[1714795200] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 36.32 ms
+[1714795200] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1714795200] CURRENT HOST STATE: FW OyC;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 45.60 ms
+[1714795200] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1714795200] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1714795200] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1714795200] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1714795200] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1714795200] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 17.92 ms
+[1714795200] CURRENT HOST STATE: OyC Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.04 ms
+[1714795200] CURRENT HOST STATE: OyC Teledata;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 46.40 ms
+[1714795200] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.14 ms
+[1714795200] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1714795200] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.26 ms
+[1714795200] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1714795200] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.08 ms
+[1714795200] CURRENT HOST STATE: SRV05AD2_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.60 ms
+[1714795200] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.72 ms
+[1714795200] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.80 ms
+[1714795200] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1714795200] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.60 ms
+[1714795200] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.09 ms
+[1714795200] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1714795200] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1714795200] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.51 ms
+[1714795200] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1714795200] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.66 ms
+[1714795200] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1714795200] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1714795200] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.18 ms
+[1714795200] CURRENT HOST STATE: SRV_Prometheus;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1714795200] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1714795200] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1714795200] CURRENT HOST STATE: SRV_Sharepoint;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.62 ms
+[1714795200] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.45 ms
+[1714795200] CURRENT HOST STATE: SRV_VeeamOne;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.101)
+[1714795200] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1714795200] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1714795200] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1714795200] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1714795200] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1714795200] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.00 ms
+[1714795200] CURRENT HOST STATE: Ups Principal;DOWN;HARD;10;CRITICAL - Host Unreachable (192.168.10.19)
+[1714795200] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.25 ms
+[1714795200] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1714795200] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.37 ms
+[1714795200] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.54 ms
+[1714795200] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.42 ms
+[1714795200] CURRENT SERVICE STATE: Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 59.51 ms
+[1714795200] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.00 ms
+[1714795200] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1714795200] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.37 ms
+[1714795200] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.15 ms
+[1714795200] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 28%, RTA = 34.46 ms
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 7.62KB (0.01%), Average OUT: 5.20KB (0.00%)Total RX: 25.31GBytes, Total TX: 15.98GBytes
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 643.07B (0.00%), Average OUT: 1.47KB (0.00%)Total RX: 359.70GBytes, Total TX: 534.32GBytes
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 608.15B (0.00%), Average OUT: 202.44B (0.00%)Total RX: 3514.32GBytes, Total TX: 4042.57GBytes
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1714795200] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (155846998) 18 days, 0:54:29.98
+[1714795200] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 37%, RTA = 38.66 ms
+[1714795200] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 40.60 ms
+[1714795200] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 36.31 ms
+[1714795200] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1714795200] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1714795200] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1714795200] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1714795200] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1714795200] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.01 ms
+[1714795200] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:36TB - Free:14TB - Used Space: 71%
+[1714795200] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1714795200] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1252MB - Free:2578MB = 33%
+[1714795200] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 2
+[1714795200] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=35C
+[1714795200] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (324599067) 37 days, 13:39:50.67
+[1714795200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1714795200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 102.06 Gb (85%) - free 17.34 Gb (15%)
+[1714795200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 227.60 Gb (22%) - free 796.38 Gb (78%)
+[1714795200] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1714795200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 12523.91 MB (53%) - free: 11027.31 MB (47%)
+[1714795200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.37 ms
+[1714795200] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 5 day(s) 15 hour(s) 48 minute(s)
+[1714795200] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1714795200] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.33 ms
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78577 MiB (85.73% inode=-):
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.00, 0.00, 0.00
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 4479 MB - 58% [SWAP] Total: 7944 MB - Used: 129 MB - 1%
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 310 processes
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 56 day(s) 9 hour(s) 19 minute(s)
+[1714795200] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1714795200] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.91 ms
+[1714795200] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.58 ms
+[1714795200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;WARNING;HARD;3;updates installed, reboot required
+[1714795200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 162.69 Gb (54%) - free 136.96 Gb (46%)
+[1714795200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1714795200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:16511.56 MB - used: 7122.00 MB (43%) - free: 9389.56 MB (57%)
+[1714795200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.78 ms
+[1714795200] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 4 day(s) 5 hour(s) 6 minute(s)
+[1714795200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1714795200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 55.56 Gb (19%) - free 243.77 Gb (81%)
+[1714795200] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 14% (5 min average)
+[1714795200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14644.82 MB - used: 3478.96 MB (24%) - free: 11165.86 MB (76%)
+[1714795200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.24 ms
+[1714795200] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 4 day(s) 5 hour(s) 2 minute(s)
+[1714795200] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1714795200] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.29 ms
+[1714795200] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;CRITICAL;HARD;3;DISK CRITICAL - free space: / 0 MB (0% inode=-)]:
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.09, 0.12, 0.12
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1260 MB - 32% [SWAP] Total: 2047 MB - Used: 204 MB - 9%
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 318 processes
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.94 ms
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 56 day(s) 16 hour(s) 24 minute(s)
+[1714795200] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1714795200] CURRENT SERVICE STATE: SRV_GLPI;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1714795200] CURRENT SERVICE STATE: SRV_GLPI;CPU;OK;HARD;1;OK: Percent was 0.00 %
+[1714795200] CURRENT SERVICE STATE: SRV_GLPI;Http;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 364 bytes in 0.001 second response time
+[1714795200] CURRENT SERVICE STATE: SRV_GLPI;Memoria;OK;HARD;1;OK: Memory usage was 14.60 % (Available: 14.33 GB, Total: 16.78 GB, Free: 1.14 GB, Used: 1.96 GB)
+[1714795200] CURRENT SERVICE STATE: SRV_GLPI;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1714795200] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118320 MiB (91.06% inode=-):
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1628 MB - 20% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 309 processes
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 56 day(s) 16 hour(s) 34 minute(s)
+[1714795200] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1714795200] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.85 ms
+[1714795200] CURRENT SERVICE STATE: SRV_Soporte;Actualizacion;CRITICAL;HARD;3;Hay 5 actualizaciones pendientes.
+[1714795200] CURRENT SERVICE STATE: SRV_Soporte;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1714795200] CURRENT SERVICE STATE: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 31.15 %
+[1714795200] CURRENT SERVICE STATE: SRV_Soporte;Memoria;OK;HARD;1;OK: Memory usage was 42.60 % (Available: 9.87 GB, Total: 17.18 GB, Free: 9.87 GB, Used: 7.31 GB)
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 927721 MiB (88.69% inode=-):
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.12, 0.10, 0.09
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3225 MB - 40% [SWAP] Total: 2048 MB - Used: 263 MB - 12%
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 278 processes
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1714795200] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 459204 MiB (90.61% inode=-):
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1780597 MiB (90.92% inode=99%):
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 474010 MiB (99.32% inode=100%):
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.02, 0.02, 0.02
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.022 sec. response time
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 3359 MB - 28% [SWAP] Total: 2048 MB - Used: 5 MB - 0%
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 301 processes
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 56 day(s) 16 hour(s) 37 minute(s)
+[1714795200] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1714795200] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1714795200] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.31, 0.19, 0.14
+[1714795200] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 570 MB - 7% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1714795200] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1714795200] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 64 processes with STATE = RSZDT
+[1714795200] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1714795200] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.14 ms
+[1714795200] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1714795200] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 9.25KB (0.01%), Average OUT: 5.20KB (0.00%)Total RX: 22044.33GBytes, Total TX: 55468.83GBytes
+[1714795200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1714795200] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1714795200] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.78 ms
+[1714795200] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (489902186) 56 days, 16:50:21.86
+[1714795200] CURRENT SERVICE STATE: Ups Principal;Carga;UNKNOWN;HARD;3;Plugin check_ups_snmp failure - snmpget command error.
+[1714795200] CURRENT SERVICE STATE: Ups Principal;Estado;UNKNOWN;HARD;3;Plugin check_ups_snmp failure - snmpget command error.
+[1714795200] CURRENT SERVICE STATE: Ups Principal;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.10.19)
+[1714795200] CURRENT SERVICE STATE: Ups Principal;Temperatura;UNKNOWN;HARD;3;Plugin check_ups_snmp failure - snmpget command error.
+[1714795200] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;CRITICAL;HARD;3;CRITICAL - Plugin timed out while executing system call
+[1714795200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1714795200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 64.72 Gb (65%) - free 34.60 Gb (35%)
+[1714795200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 10% (5 min average)
+[1714795200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 14603.08 MB (52%) - free: 13556.17 MB (48%)
+[1714795200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.26 ms
+[1714795200] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 0 hour(s) 29 minute(s)
+[1714795200] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 244 days on 2025-01-03 20:59 -0300/-03.
+[1714795200] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1075 bytes in 0.235 second response time
+[1714795295] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.60 %
+[1714795415] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 0.75 %
+[1714796196] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.60 %
+[1714796317] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.80 %
+[1714797048] Auto-save of retention data completed successfully.
+[1714797098] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.58 %
+[1714797218] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 43.38 %
+[1714798239] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.65 %
+[1714798360] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 34.17 %
+[1714798781] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.45 %
+[1714798901] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 30.22 %
+[1714800648] Auto-save of retention data completed successfully.
+[1714803003] SERVICE ALERT: SRV_email.cass.cl;Memoria;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1714803124] SERVICE ALERT: SRV_email.cass.cl;Memoria;OK;SOFT;2;[MEMORY] Total: 11939 MB - Used: 3328 MB - 27% [SWAP] Total: 2048 MB - Used: 5 MB - 0%
+[1714803604] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.25 port 5666: Connection refused
+[1714803724] SERVICE ALERT: SRV_email.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 56 day(s) 19 hour(s) 0 minute(s)
+[1714804248] Auto-save of retention data completed successfully.
+[1714805981] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 69.92 %
+[1714806102] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;2;CRITICAL: Percent was 74.23 %
+[1714806223] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;3;OK: Percent was 25.78 %
+[1714807848] Auto-save of retention data completed successfully.
+[1714808743] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.82 %
+[1714808864] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 39.05 %
+[1714809137] SERVICE ALERT: SRV_GLPI;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 99.00 %
+[1714809258] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 1.00 %
+[1714810245] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.62 %
+[1714810365] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 47.72 %
+[1714811085] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.25 %
+[1714811206] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 33.58 %
+[1714811448] Auto-save of retention data completed successfully.
+[1714811746] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.78 %
+[1714811867] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 39.40 %
+[1714813607] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.73 %
+[1714813728] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.73 %
+[1714815048] Auto-save of retention data completed successfully.
+[1714815229] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.92 %
+[1714815349] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 55.47 %
+[1714816009] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 72.00 %
+[1714816130] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 41.67 %
+[1714817571] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.83 %
+[1714817692] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 25.77 %
+[1714818648] Auto-save of retention data completed successfully.
+[1714820813] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.27 %
+[1714820934] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.48 %
+[1714821655] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.22 %
+[1714821776] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 32.55 %
+[1714822248] Auto-save of retention data completed successfully.
+[1714824048] SERVICE ALERT: Veeam2023.cass.pmc;Memoria;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1714824056] SERVICE ALERT: Veeam2023.cass.pmc;Tiempo Activo;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1714824057] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;SOFT;1;connect to address 10.0.0.83 and port 12489: No route to host
+[1714824057] HOST ALERT: Veeam2023.cass.pmc;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.83)
+[1714824082] HOST ALERT: Veeam2023.cass.pmc;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 2.20 ms
+[1714824168] SERVICE ALERT: Veeam2023.cass.pmc;Memoria;OK;SOFT;2;Memory usage: total:28159.25 MB - used: 15979.20 MB (57%) - free: 12180.05 MB (43%)
+[1714824176] SERVICE ALERT: Veeam2023.cass.pmc;Tiempo Activo;OK;SOFT;2;System Uptime - 1 day(s) 8 hour(s) 32 minute(s)
+[1714824177] SERVICE ALERT: Veeam2023.cass.pmc;CPU;OK;SOFT;2;CPU Load 26% (5 min average)
+[1714825163] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1714825226] SERVICE ALERT: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1714825848] Auto-save of retention data completed successfully.
+[1714825917] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.15 %
+[1714826038] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 35.60 %
+[1714827059] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 67.95 %
+[1714827180] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 44.92 %
+[1714829041] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.60 %
+[1714829161] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 31.05 %
+[1714829342] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.05 %
+[1714829448] Auto-save of retention data completed successfully.
+[1714829463] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 42.42 %
+[1714831737] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;1;CPU Load 99% (5 min average)
+[1714831857] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;2;CPU Load 99% (5 min average)
+[1714831977] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1714831977] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1714831977] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1714831977] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1714831977] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1714831977] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1714831977] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1714832157] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 81% (5 min average)
+[1714832157] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 81% (5 min average)
+[1714832157] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;OK;notify-service-by-telegram;CPU Load 81% (5 min average)
+[1714832157] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 81% (5 min average)
+[1714832157] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;OK;notify-service-by-telegram;CPU Load 81% (5 min average)
+[1714832157] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;OK;notify-service-by-email;CPU Load 81% (5 min average)
+[1714832157] SERVICE ALERT: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 81% (5 min average)
+[1714833048] Auto-save of retention data completed successfully.
+[1714833304] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.50 %
+[1714833424] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 40.93 %
+[1714835044] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.50 %
+[1714835165] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.80 %
+[1714835601] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1714835662] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1714836246] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.38 %
+[1714836258] SERVICE ALERT: SRV_GLPI;CPU;WARNING;SOFT;1;WARNING: Percent was 61.77 %
+[1714836366] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 31.07 %
+[1714836379] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 1.52 %
+[1714836648] Auto-save of retention data completed successfully.
+[1714836847] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.60 %
+[1714836968] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 6.80 %
+[1714839849] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 84.85 %
+[1714839969] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.98 %
+[1714840248] Auto-save of retention data completed successfully.
+[1714841109] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 83.33 %
+[1714841230] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 42.98 %
+[1714842130] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.15 %
+[1714842251] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 5.88 %
+[1714843848] Auto-save of retention data completed successfully.
+[1714844112] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.15 %
+[1714844233] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 29.25 %
+[1714844714] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.40 %
+[1714844835] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 28.02 %
+[1714847448] Auto-save of retention data completed successfully.
+[1714848736] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.60 %
+[1714848856] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.62 %
+[1714849516] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 70.45 %
+[1714849637] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.90 %
+[1714851048] Auto-save of retention data completed successfully.
+[1714851138] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.05 %
+[1714851258] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;2;WARNING: Percent was 69.55 %
+[1714851379] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;3;OK: Percent was 59.10 %
+[1714851679] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.43 %
+[1714851800] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 31.83 %
+[1714852881] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 71.35 %
+[1714853002] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 26.53 %
+[1714854648] Auto-save of retention data completed successfully.
+[1714857143] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 81.05 %
+[1714857263] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 28.02 %
+[1714858248] Auto-save of retention data completed successfully.
+[1714858824] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.83 %
+[1714858945] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 52.22 %
+[1714860686] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.15 %
+[1714860806] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.02 %
+[1714861706] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.35 %
+[1714861827] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 43.75 %
+[1714861848] Auto-save of retention data completed successfully.
+[1714862727] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.80 %
+[1714862848] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 28.80 %
+[1714864829] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.38 %
+[1714864950] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 35.62 %
+[1714865448] Auto-save of retention data completed successfully.
+[1714869048] Auto-save of retention data completed successfully.
+[1714872648] Auto-save of retention data completed successfully.
+[1714873206] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1714873327] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1714875139] SERVICE ALERT: SRV_GLPI;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 77.00 %
+[1714875260] SERVICE ALERT: SRV_GLPI;CPU;OK;SOFT;2;OK: Percent was 0.00 %
+[1714876248] Auto-save of retention data completed successfully.
+[1714878811] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.83 %
+[1714878892] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1714878931] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 45.33 %
+[1714878944] SERVICE ALERT: FW Electric Works;Ping;CRITICAL;SOFT;1;CRITICAL - Network Unreachable (190.171.184.82)
+[1714878953] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 2 critical, 0 optional
+[1714878958] SERVICE ALERT: Electric Works;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 96%, RTA = 31.82 ms
+[1714878958] wproc: Core Worker 1159: job 1757672 (pid=13316) timed out. Killing it
+[1714878958] wproc: CHECK job 1757672 from worker Core Worker 1159 timed out after 30.01s
+[1714878958] wproc:   host=Electric Works; service=(null);
+[1714878958] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714878958] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714878958] HOST ALERT: Electric Works;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1714878958] wproc: Core Worker 1159: job 1757672 (pid=13316): Dormant child reaped
+[1714878963] wproc: Core Worker 1158: job 1757675 (pid=13332) timed out. Killing it
+[1714878963] wproc: CHECK job 1757675 from worker Core Worker 1158 timed out after 30.01s
+[1714878963] wproc:   host=FW Electric Works; service=(null);
+[1714878963] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714878963] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714878963] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1714878963] wproc: Core Worker 1158: job 1757675 (pid=13332): Dormant child reaped
+[1714878993] wproc: Core Worker 1158: job 1757698 (pid=13540) timed out. Killing it
+[1714878993] wproc: CHECK job 1757698 from worker Core Worker 1158 timed out after 30.01s
+[1714878993] wproc:   host=Electric Works; service=(null);
+[1714878993] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714878993] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714878993] HOST ALERT: Electric Works;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1714878993] wproc: Core Worker 1158: job 1757698 (pid=13540): Dormant child reaped
+[1714879048] wproc: Core Worker 1158: job 1757749 (pid=14010) timed out. Killing it
+[1714879048] wproc: CHECK job 1757749 from worker Core Worker 1158 timed out after 30.01s
+[1714879048] wproc:   host=FW Electric Works; service=(null);
+[1714879048] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879048] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879048] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;2;(Host check timed out after 30.01 seconds)
+[1714879048] wproc: Core Worker 1158: job 1757749 (pid=14010): Dormant child reaped
+[1714879083] wproc: Core Worker 1158: job 1757783 (pid=14319) timed out. Killing it
+[1714879083] wproc: CHECK job 1757783 from worker Core Worker 1158 timed out after 30.01s
+[1714879083] wproc:   host=Electric Works; service=(null);
+[1714879083] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879083] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879083] HOST ALERT: Electric Works;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1714879083] wproc: Core Worker 1158: job 1757783 (pid=14319): Dormant child reaped
+[1714879094] SERVICE ALERT: FW Electric Works;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1714879108] SERVICE ALERT: Electric Works;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1714879114] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;3;CRITICAL - Network Unreachable (190.171.184.82)
+[1714879173] wproc: Core Worker 1156: job 1757859 (pid=15048) timed out. Killing it
+[1714879173] wproc: CHECK job 1757859 from worker Core Worker 1156 timed out after 30.01s
+[1714879173] wproc:   host=Electric Works; service=(null);
+[1714879173] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879173] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879173] HOST ALERT: Electric Works;DOWN;SOFT;4;(Host check timed out after 30.01 seconds)
+[1714879173] wproc: Core Worker 1156: job 1757859 (pid=15048): Dormant child reaped
+[1714879204] wproc: Core Worker 1159: job 1757892 (pid=15352) timed out. Killing it
+[1714879204] wproc: CHECK job 1757892 from worker Core Worker 1159 timed out after 30.01s
+[1714879204] wproc:   host=FW Electric Works; service=(null);
+[1714879204] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879204] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879204] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1714879205] wproc: Core Worker 1159: job 1757892 (pid=15352): Dormant child reaped
+[1714879263] wproc: Core Worker 1158: job 1757944 (pid=15834) timed out. Killing it
+[1714879263] wproc: CHECK job 1757944 from worker Core Worker 1158 timed out after 30.01s
+[1714879263] wproc:   host=Electric Works; service=(null);
+[1714879263] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879263] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879263] HOST ALERT: Electric Works;DOWN;SOFT;5;(Host check timed out after 30.01 seconds)
+[1714879263] wproc: Core Worker 1158: job 1757944 (pid=15834): Dormant child reaped
+[1714879264] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;5;CRITICAL - Network Unreachable (190.171.184.82)
+[1714879324] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;6;CRITICAL - Network Unreachable (190.171.184.82)
+[1714879353] wproc: Core Worker 1160: job 1758021 (pid=16537) timed out. Killing it
+[1714879353] wproc: CHECK job 1758021 from worker Core Worker 1160 timed out after 30.01s
+[1714879353] wproc:   host=Electric Works; service=(null);
+[1714879353] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879353] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879353] HOST ALERT: Electric Works;DOWN;SOFT;6;(Host check timed out after 30.01 seconds)
+[1714879353] wproc: Core Worker 1160: job 1758021 (pid=16537): Dormant child reaped
+[1714879414] wproc: Core Worker 1159: job 1758078 (pid=17043) timed out. Killing it
+[1714879414] wproc: CHECK job 1758078 from worker Core Worker 1159 timed out after 30.01s
+[1714879414] wproc:   host=FW Electric Works; service=(null);
+[1714879414] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879414] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879414] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;7;(Host check timed out after 30.01 seconds)
+[1714879415] wproc: Core Worker 1159: job 1758078 (pid=17043): Dormant child reaped
+[1714879443] wproc: Core Worker 1159: job 1758107 (pid=17364) timed out. Killing it
+[1714879443] wproc: CHECK job 1758107 from worker Core Worker 1159 timed out after 30.01s
+[1714879443] wproc:   host=Electric Works; service=(null);
+[1714879443] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879443] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879443] HOST ALERT: Electric Works;DOWN;SOFT;7;(Host check timed out after 30.01 seconds)
+[1714879443] wproc: Core Worker 1159: job 1758107 (pid=17364): Dormant child reaped
+[1714879504] wproc: Core Worker 1158: job 1758162 (pid=17856) timed out. Killing it
+[1714879504] wproc: CHECK job 1758162 from worker Core Worker 1158 timed out after 30.01s
+[1714879504] wproc:   host=FW Electric Works; service=(null);
+[1714879504] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879504] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879504] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;8;(Host check timed out after 30.01 seconds)
+[1714879505] wproc: Core Worker 1158: job 1758162 (pid=17856): Dormant child reaped
+[1714879533] wproc: Core Worker 1156: job 1758183 (pid=18040) timed out. Killing it
+[1714879533] wproc: CHECK job 1758183 from worker Core Worker 1156 timed out after 30.01s
+[1714879533] wproc:   host=Electric Works; service=(null);
+[1714879533] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879533] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879533] HOST ALERT: Electric Works;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1714879533] wproc: Core Worker 1156: job 1758183 (pid=18040): Dormant child reaped
+[1714879594] wproc: Core Worker 1159: job 1758239 (pid=18538) timed out. Killing it
+[1714879594] wproc: CHECK job 1758239 from worker Core Worker 1159 timed out after 30.01s
+[1714879594] wproc:   host=FW Electric Works; service=(null);
+[1714879594] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879594] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879594] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;9;(Host check timed out after 30.01 seconds)
+[1714879595] wproc: Core Worker 1159: job 1758239 (pid=18538): Dormant child reaped
+[1714879623] wproc: Core Worker 1159: job 1758268 (pid=18818) timed out. Killing it
+[1714879623] wproc: CHECK job 1758268 from worker Core Worker 1159 timed out after 30.01s
+[1714879623] wproc:   host=Electric Works; service=(null);
+[1714879623] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879623] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879623] HOST ALERT: Electric Works;DOWN;SOFT;9;(Host check timed out after 30.01 seconds)
+[1714879623] wproc: Core Worker 1159: job 1758268 (pid=18818): Dormant child reaped
+[1714879684] wproc: Core Worker 1159: job 1758324 (pid=19330) timed out. Killing it
+[1714879684] wproc: CHECK job 1758324 from worker Core Worker 1159 timed out after 30.01s
+[1714879684] wproc:   host=FW Electric Works; service=(null);
+[1714879684] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879684] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879684] HOST ALERT: FW Electric Works;UNREACHABLE;HARD;10;(Host check timed out after 30.01 seconds)
+[1714879685] wproc: Core Worker 1159: job 1758324 (pid=19330): Dormant child reaped
+[1714879713] wproc: Core Worker 1156: job 1758345 (pid=19514) timed out. Killing it
+[1714879713] wproc: CHECK job 1758345 from worker Core Worker 1156 timed out after 30.01s
+[1714879713] wproc:   host=Electric Works; service=(null);
+[1714879713] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879713] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879713] HOST ALERT: Electric Works;DOWN;HARD;10;(Host check timed out after 30.01 seconds)
+[1714879713] wproc: Core Worker 1156: job 1758345 (pid=19514): Dormant child reaped
+[1714879774] wproc: Core Worker 1160: job 1758401 (pid=20048) timed out. Killing it
+[1714879774] wproc: CHECK job 1758401 from worker Core Worker 1160 timed out after 30.01s
+[1714879774] wproc:   host=FW Electric Works; service=(null);
+[1714879774] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879774] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879775] wproc: Core Worker 1160: job 1758401 (pid=20048): Dormant child reaped
+[1714879803] wproc: Core Worker 1159: job 1758430 (pid=20320) timed out. Killing it
+[1714879803] wproc: CHECK job 1758430 from worker Core Worker 1159 timed out after 30.01s
+[1714879803] wproc:   host=Electric Works; service=(null);
+[1714879803] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879803] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714879803] wproc: Core Worker 1159: job 1758430 (pid=20320): Dormant child reaped
+[1714879834] wproc: Core Worker 1158: job 1758455 (pid=20554) timed out. Killing it
+[1714879834] wproc: CHECK job 1758455 from worker Core Worker 1158 timed out after 30.01s
+[1714879834] wproc:   host=FW Electric Works; service=(null);
+[1714879834] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879834] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879835] wproc: Core Worker 1158: job 1758455 (pid=20554): Dormant child reaped
+[1714879848] Auto-save of retention data completed successfully.
+[1714879894] wproc: Core Worker 1158: job 1758509 (pid=21046) timed out. Killing it
+[1714879894] wproc: CHECK job 1758509 from worker Core Worker 1158 timed out after 30.01s
+[1714879894] wproc:   host=FW Electric Works; service=(null);
+[1714879894] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879894] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879895] wproc: Core Worker 1158: job 1758509 (pid=21046): Dormant child reaped
+[1714879954] wproc: Core Worker 1160: job 1758563 (pid=21545) timed out. Killing it
+[1714879954] wproc: CHECK job 1758563 from worker Core Worker 1160 timed out after 30.01s
+[1714879954] wproc:   host=FW Electric Works; service=(null);
+[1714879954] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714879954] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714879955] wproc: Core Worker 1160: job 1758563 (pid=21545): Dormant child reaped
+[1714880014] wproc: Core Worker 1158: job 1758618 (pid=22037) timed out. Killing it
+[1714880014] wproc: CHECK job 1758618 from worker Core Worker 1158 timed out after 30.01s
+[1714880014] wproc:   host=FW Electric Works; service=(null);
+[1714880014] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880014] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880015] wproc: Core Worker 1158: job 1758618 (pid=22037): Dormant child reaped
+[1714880074] wproc: Core Worker 1158: job 1758672 (pid=22563) timed out. Killing it
+[1714880074] wproc: CHECK job 1758672 from worker Core Worker 1158 timed out after 30.01s
+[1714880074] wproc:   host=FW Electric Works; service=(null);
+[1714880074] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880074] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880075] wproc: Core Worker 1158: job 1758672 (pid=22563): Dormant child reaped
+[1714880131] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 73.50 %
+[1714880134] wproc: Core Worker 1156: job 1758725 (pid=23049) timed out. Killing it
+[1714880134] wproc: CHECK job 1758725 from worker Core Worker 1156 timed out after 30.01s
+[1714880134] wproc:   host=FW Electric Works; service=(null);
+[1714880134] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880134] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880135] wproc: Core Worker 1156: job 1758725 (pid=23049): Dormant child reaped
+[1714880163] wproc: Core Worker 1159: job 1758755 (pid=23331) timed out. Killing it
+[1714880163] wproc: CHECK job 1758755 from worker Core Worker 1159 timed out after 30.01s
+[1714880163] wproc:   host=Electric Works; service=(null);
+[1714880163] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880163] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1714880163] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880163] wproc: Core Worker 1159: job 1758755 (pid=23331): Dormant child reaped
+[1714880194] wproc: Core Worker 1156: job 1758779 (pid=23534) timed out. Killing it
+[1714880194] wproc: CHECK job 1758779 from worker Core Worker 1156 timed out after 30.01s
+[1714880194] wproc:   host=FW Electric Works; service=(null);
+[1714880194] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880194] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880195] wproc: Core Worker 1156: job 1758779 (pid=23534): Dormant child reaped
+[1714880223] wproc: Core Worker 1156: job 1758808 (pid=23826) timed out. Killing it
+[1714880223] wproc: CHECK job 1758808 from worker Core Worker 1156 timed out after 30.01s
+[1714880223] wproc:   host=Electric Works; service=(null);
+[1714880223] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880223] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880223] wproc: Core Worker 1156: job 1758808 (pid=23826): Dormant child reaped
+[1714880252] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 32.83 %
+[1714880254] wproc: Core Worker 1156: job 1758833 (pid=24031) timed out. Killing it
+[1714880254] wproc: CHECK job 1758833 from worker Core Worker 1156 timed out after 30.01s
+[1714880254] wproc:   host=FW Electric Works; service=(null);
+[1714880254] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880254] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880255] wproc: Core Worker 1156: job 1758833 (pid=24031): Dormant child reaped
+[1714880283] wproc: Core Worker 1160: job 1758863 (pid=24320) timed out. Killing it
+[1714880283] wproc: CHECK job 1758863 from worker Core Worker 1160 timed out after 30.01s
+[1714880283] wproc:   host=Electric Works; service=(null);
+[1714880283] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880283] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880283] wproc: Core Worker 1160: job 1758863 (pid=24320): Dormant child reaped
+[1714880343] wproc: Core Worker 1160: job 1758917 (pid=24846) timed out. Killing it
+[1714880343] wproc: CHECK job 1758917 from worker Core Worker 1160 timed out after 30.01s
+[1714880343] wproc:   host=Electric Works; service=(null);
+[1714880343] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880343] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1714880343] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880343] wproc: Core Worker 1160: job 1758917 (pid=24846): Dormant child reaped
+[1714880403] wproc: Core Worker 1158: job 1758971 (pid=25331) timed out. Killing it
+[1714880403] wproc: CHECK job 1758971 from worker Core Worker 1158 timed out after 30.01s
+[1714880403] wproc:   host=Electric Works; service=(null);
+[1714880403] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880403] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880403] wproc: Core Worker 1158: job 1758971 (pid=25331): Dormant child reaped
+[1714880463] wproc: Core Worker 1160: job 1759024 (pid=25837) timed out. Killing it
+[1714880463] wproc: CHECK job 1759024 from worker Core Worker 1160 timed out after 30.01s
+[1714880463] wproc:   host=Electric Works; service=(null);
+[1714880463] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880463] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880463] wproc: Core Worker 1160: job 1759024 (pid=25837): Dormant child reaped
+[1714880494] wproc: Core Worker 1156: job 1759048 (pid=26036) timed out. Killing it
+[1714880494] wproc: CHECK job 1759048 from worker Core Worker 1156 timed out after 30.01s
+[1714880494] wproc:   host=FW Electric Works; service=(null);
+[1714880494] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880494] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880494] wproc: Core Worker 1156: job 1759048 (pid=26036): Dormant child reaped
+[1714880523] wproc: Core Worker 1159: job 1759079 (pid=26336) timed out. Killing it
+[1714880523] wproc: CHECK job 1759079 from worker Core Worker 1159 timed out after 30.01s
+[1714880523] wproc:   host=Electric Works; service=(null);
+[1714880523] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880523] wproc:   stdout line 01: PING CRITICAL - Packet loss = 100%|rta=5000.000000ms;3000.000000;5000.000000;0.000000 pl=100%;80;100;0
+[1714880523] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880523] wproc: Core Worker 1159: job 1759079 (pid=26336): Dormant child reaped
+[1714880554] wproc: Core Worker 1159: job 1759103 (pid=26535) timed out. Killing it
+[1714880554] wproc: CHECK job 1759103 from worker Core Worker 1159 timed out after 30.01s
+[1714880554] wproc:   host=FW Electric Works; service=(null);
+[1714880554] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880554] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880554] wproc: Core Worker 1159: job 1759103 (pid=26535): Dormant child reaped
+[1714880583] wproc: Core Worker 1158: job 1759134 (pid=26830) timed out. Killing it
+[1714880583] wproc: CHECK job 1759134 from worker Core Worker 1158 timed out after 30.01s
+[1714880583] wproc:   host=Electric Works; service=(null);
+[1714880583] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880583] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880583] wproc: Core Worker 1158: job 1759134 (pid=26830): Dormant child reaped
+[1714880614] wproc: Core Worker 1156: job 1759157 (pid=27028) timed out. Killing it
+[1714880614] wproc: CHECK job 1759157 from worker Core Worker 1156 timed out after 30.01s
+[1714880614] wproc:   host=FW Electric Works; service=(null);
+[1714880614] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880614] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880614] wproc: Core Worker 1156: job 1759157 (pid=27028): Dormant child reaped
+[1714880643] wproc: Core Worker 1160: job 1759187 (pid=27343) timed out. Killing it
+[1714880643] wproc: CHECK job 1759187 from worker Core Worker 1160 timed out after 30.01s
+[1714880643] wproc:   host=Electric Works; service=(null);
+[1714880643] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880643] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880643] wproc: Core Worker 1160: job 1759187 (pid=27343): Dormant child reaped
+[1714880674] wproc: Core Worker 1156: job 1759211 (pid=27554) timed out. Killing it
+[1714880674] wproc: CHECK job 1759211 from worker Core Worker 1156 timed out after 30.01s
+[1714880674] wproc:   host=FW Electric Works; service=(null);
+[1714880674] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880674] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880674] wproc: Core Worker 1156: job 1759211 (pid=27554): Dormant child reaped
+[1714880703] wproc: Core Worker 1160: job 1759241 (pid=27830) timed out. Killing it
+[1714880703] wproc: CHECK job 1759241 from worker Core Worker 1160 timed out after 30.01s
+[1714880703] wproc:   host=Electric Works; service=(null);
+[1714880703] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880703] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880703] wproc: Core Worker 1160: job 1759241 (pid=27830): Dormant child reaped
+[1714880734] wproc: Core Worker 1160: job 1759265 (pid=28041) timed out. Killing it
+[1714880734] wproc: CHECK job 1759265 from worker Core Worker 1160 timed out after 30.01s
+[1714880734] wproc:   host=FW Electric Works; service=(null);
+[1714880734] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880734] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880734] wproc: Core Worker 1160: job 1759265 (pid=28041): Dormant child reaped
+[1714880763] wproc: Core Worker 1158: job 1759295 (pid=28317) timed out. Killing it
+[1714880763] wproc: CHECK job 1759295 from worker Core Worker 1158 timed out after 30.00s
+[1714880763] wproc:   host=Electric Works; service=(null);
+[1714880763] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880763] Warning: Check of host 'Electric Works' timed out after 30.00 seconds
+[1714880763] wproc: Core Worker 1158: job 1759295 (pid=28317): Dormant child reaped
+[1714880794] wproc: Core Worker 1159: job 1759319 (pid=28528) timed out. Killing it
+[1714880794] wproc: CHECK job 1759319 from worker Core Worker 1159 timed out after 30.01s
+[1714880794] wproc:   host=FW Electric Works; service=(null);
+[1714880794] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880794] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880794] wproc: Core Worker 1159: job 1759319 (pid=28528): Dormant child reaped
+[1714880823] wproc: Core Worker 1159: job 1759349 (pid=28814) timed out. Killing it
+[1714880823] wproc: CHECK job 1759349 from worker Core Worker 1159 timed out after 30.01s
+[1714880823] wproc:   host=Electric Works; service=(null);
+[1714880823] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880823] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880823] wproc: Core Worker 1159: job 1759349 (pid=28814): Dormant child reaped
+[1714880854] wproc: Core Worker 1156: job 1759373 (pid=29027) timed out. Killing it
+[1714880854] wproc: CHECK job 1759373 from worker Core Worker 1156 timed out after 30.01s
+[1714880854] wproc:   host=FW Electric Works; service=(null);
+[1714880854] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880854] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880854] wproc: Core Worker 1156: job 1759373 (pid=29027): Dormant child reaped
+[1714880883] wproc: Core Worker 1159: job 1759404 (pid=29309) timed out. Killing it
+[1714880883] wproc: CHECK job 1759404 from worker Core Worker 1159 timed out after 30.01s
+[1714880883] wproc:   host=Electric Works; service=(null);
+[1714880883] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880883] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880883] wproc: Core Worker 1159: job 1759404 (pid=29309): Dormant child reaped
+[1714880914] wproc: Core Worker 1159: job 1759428 (pid=29519) timed out. Killing it
+[1714880914] wproc: CHECK job 1759428 from worker Core Worker 1159 timed out after 30.01s
+[1714880914] wproc:   host=FW Electric Works; service=(null);
+[1714880914] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880914] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880914] wproc: Core Worker 1159: job 1759428 (pid=29519): Dormant child reaped
+[1714880943] wproc: Core Worker 1158: job 1759458 (pid=29837) timed out. Killing it
+[1714880943] wproc: CHECK job 1759458 from worker Core Worker 1158 timed out after 30.01s
+[1714880943] wproc:   host=Electric Works; service=(null);
+[1714880943] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880943] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714880943] wproc: Core Worker 1158: job 1759458 (pid=29837): Dormant child reaped
+[1714880974] wproc: Core Worker 1159: job 1759482 (pid=30048) timed out. Killing it
+[1714880974] wproc: CHECK job 1759482 from worker Core Worker 1159 timed out after 30.01s
+[1714880974] wproc:   host=FW Electric Works; service=(null);
+[1714880974] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714880974] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714880974] wproc: Core Worker 1159: job 1759482 (pid=30048): Dormant child reaped
+[1714881123] wproc: Core Worker 1160: job 1759620 (pid=31341) timed out. Killing it
+[1714881123] wproc: CHECK job 1759620 from worker Core Worker 1160 timed out after 30.01s
+[1714881123] wproc:   host=Electric Works; service=(null);
+[1714881123] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881123] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881123] wproc: Core Worker 1160: job 1759620 (pid=31341): Dormant child reaped
+[1714881183] wproc: Core Worker 1158: job 1759675 (pid=31840) timed out. Killing it
+[1714881183] wproc: CHECK job 1759675 from worker Core Worker 1158 timed out after 30.01s
+[1714881183] wproc:   host=Electric Works; service=(null);
+[1714881183] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881183] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881183] wproc: Core Worker 1158: job 1759675 (pid=31840): Dormant child reaped
+[1714881243] wproc: Core Worker 1159: job 1759729 (pid=32381) timed out. Killing it
+[1714881243] wproc: CHECK job 1759729 from worker Core Worker 1159 timed out after 30.01s
+[1714881243] wproc:   host=Electric Works; service=(null);
+[1714881243] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881243] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881243] wproc: Core Worker 1159: job 1759729 (pid=32381): Dormant child reaped
+[1714881274] wproc: Core Worker 1158: job 1759753 (pid=32578) timed out. Killing it
+[1714881274] wproc: CHECK job 1759753 from worker Core Worker 1158 timed out after 30.01s
+[1714881274] wproc:   host=FW Electric Works; service=(null);
+[1714881274] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881274] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714881274] wproc: Core Worker 1158: job 1759753 (pid=32578): Dormant child reaped
+[1714881303] wproc: Core Worker 1158: job 1759783 (pid=410) timed out. Killing it
+[1714881303] wproc: CHECK job 1759783 from worker Core Worker 1158 timed out after 30.01s
+[1714881303] wproc:   host=Electric Works; service=(null);
+[1714881303] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881303] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881303] wproc: Core Worker 1158: job 1759783 (pid=410): Dormant child reaped
+[1714881334] wproc: Core Worker 1160: job 1759806 (pid=628) timed out. Killing it
+[1714881334] wproc: CHECK job 1759806 from worker Core Worker 1160 timed out after 30.01s
+[1714881334] wproc:   host=FW Electric Works; service=(null);
+[1714881334] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881334] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714881334] wproc: Core Worker 1160: job 1759806 (pid=628): Dormant child reaped
+[1714881363] wproc: Core Worker 1156: job 1759836 (pid=951) timed out. Killing it
+[1714881363] wproc: CHECK job 1759836 from worker Core Worker 1156 timed out after 30.01s
+[1714881363] wproc:   host=Electric Works; service=(null);
+[1714881363] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881363] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881363] wproc: Core Worker 1156: job 1759836 (pid=951): Dormant child reaped
+[1714881394] wproc: Core Worker 1159: job 1759860 (pid=1174) timed out. Killing it
+[1714881394] wproc: CHECK job 1759860 from worker Core Worker 1159 timed out after 30.01s
+[1714881394] wproc:   host=FW Electric Works; service=(null);
+[1714881394] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881394] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714881394] wproc: Core Worker 1159: job 1759860 (pid=1174): Dormant child reaped
+[1714881423] wproc: Core Worker 1159: job 1759891 (pid=1529) timed out. Killing it
+[1714881423] wproc: CHECK job 1759891 from worker Core Worker 1159 timed out after 30.01s
+[1714881423] wproc:   host=Electric Works; service=(null);
+[1714881423] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881423] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881423] wproc: Core Worker 1159: job 1759891 (pid=1529): Dormant child reaped
+[1714881454] wproc: Core Worker 1156: job 1759914 (pid=1736) timed out. Killing it
+[1714881454] wproc: CHECK job 1759914 from worker Core Worker 1156 timed out after 30.01s
+[1714881454] wproc:   host=FW Electric Works; service=(null);
+[1714881454] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881454] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714881454] wproc: Core Worker 1156: job 1759914 (pid=1736): Dormant child reaped
+[1714881483] wproc: Core Worker 1156: job 1759945 (pid=2048) timed out. Killing it
+[1714881483] wproc: CHECK job 1759945 from worker Core Worker 1156 timed out after 30.01s
+[1714881483] wproc:   host=Electric Works; service=(null);
+[1714881483] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881483] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881483] wproc: Core Worker 1156: job 1759945 (pid=2048): Dormant child reaped
+[1714881514] wproc: Core Worker 1159: job 1759969 (pid=2243) timed out. Killing it
+[1714881514] wproc: CHECK job 1759969 from worker Core Worker 1159 timed out after 30.01s
+[1714881514] wproc:   host=FW Electric Works; service=(null);
+[1714881514] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881514] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714881514] wproc: Core Worker 1159: job 1759969 (pid=2243): Dormant child reaped
+[1714881543] wproc: Core Worker 1159: job 1759999 (pid=2572) timed out. Killing it
+[1714881543] wproc: CHECK job 1759999 from worker Core Worker 1159 timed out after 30.01s
+[1714881543] wproc:   host=Electric Works; service=(null);
+[1714881543] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881543] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1714881543] wproc: Core Worker 1159: job 1759999 (pid=2572): Dormant child reaped
+[1714881574] wproc: Core Worker 1159: job 1760023 (pid=2769) timed out. Killing it
+[1714881574] wproc: CHECK job 1760023 from worker Core Worker 1159 timed out after 30.01s
+[1714881574] wproc:   host=FW Electric Works; service=(null);
+[1714881574] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1714881574] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1714881574] wproc: Core Worker 1159: job 1760023 (pid=2769): Dormant child reaped

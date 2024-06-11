@@ -1,0 +1,1406 @@
+[1703214000] LOG ROTATION: DAILY
+[1703214000] LOG VERSION: 2.0
+[1703214000] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 37.58 ms
+[1703214000] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.20 ms
+[1703214000] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1703214000] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1703214000] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.96 ms
+[1703214000] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1703214000] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.26 ms
+[1703214000] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.13 ms
+[1703214000] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.82 ms
+[1703214000] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1703214000] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.03 ms
+[1703214000] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.12 ms
+[1703214000] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.32 ms
+[1703214000] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.17 ms
+[1703214000] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1703214000] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.84 ms
+[1703214000] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1703214000] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 40.26 ms
+[1703214000] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 32.52 ms
+[1703214000] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1703214000] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1703214000] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1703214000] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1703214000] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1703214000] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1703214000] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 19.89 ms
+[1703214000] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1703214000] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1703214000] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.40 ms
+[1703214000] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.28 ms
+[1703214000] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.09 ms
+[1703214000] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1703214000] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.99 ms
+[1703214000] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1703214000] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1703214000] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.91 ms
+[1703214000] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1703214000] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1703214000] CURRENT HOST STATE: SRVDNS;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.30)
+[1703214000] CURRENT HOST STATE: SRVMFSD;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.2.12)
+[1703214000] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.50 ms
+[1703214000] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1703214000] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1703214000] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1703214000] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1703214000] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1703214000] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.89 ms
+[1703214000] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.52 ms
+[1703214000] CURRENT HOST STATE: SRV_Soporte2;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.97)
+[1703214000] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.62 ms
+[1703214000] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.09 ms
+[1703214000] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1703214000] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.15 ms
+[1703214000] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1703214000] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.24 ms
+[1703214000] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1703214000] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.94 ms
+[1703214000] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1703214000] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.99 ms
+[1703214000] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.33 ms
+[1703214000] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.41 ms
+[1703214000] CURRENT SERVICE STATE: Confe;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1703214000] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.32 ms
+[1703214000] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.01 ms
+[1703214000] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.98 ms
+[1703214000] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.29 ms
+[1703214000] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 37.83 ms
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 12.66KB (0.01%), Average OUT: 7.20KB (0.01%)Total RX: 84.15GBytes, Total TX: 22.30GBytes
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 149.97B (0.00%), Average OUT: 121.70B (0.00%)Total RX: 551.58GBytes, Total TX: 2231.99GBytes
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 493.88B (0.00%), Average OUT: 162.73B (0.00%)Total RX: 4569.43GBytes, Total TX: 4082.33GBytes
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1703214000] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (171228942) 19 days, 19:38:09.42
+[1703214000] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.96 ms
+[1703214000] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 40.18 ms
+[1703214000] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 32.53 ms
+[1703214000] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.41 ms
+[1703214000] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1703214000] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1703214000] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1703214000] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1703214000] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1703214000] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:34TB - Free:16TB - Used Space: 68%
+[1703214000] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1703214000] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1178MB - Free:2652MB = 31%
+[1703214000] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1703214000] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=42C
+[1703214000] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (152474662) 17 days, 15:32:26.62
+[1703214000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1703214000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 98.39 Gb (82%) - free 21.01 Gb (18%)
+[1703214000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 233.57 Gb (23%) - free 790.41 Gb (77%)
+[1703214000] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 2% (5 min average)
+[1703214000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23935.22 MB - used: 13482.73 MB (56%) - free: 10452.49 MB (44%)
+[1703214000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.16 ms
+[1703214000] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 4 day(s) 1 hour(s) 1 minute(s)
+[1703214000] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.08 ms
+[1703214000] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.71 ms
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78612 MiB (85.77% inode=-):
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.00, 0.01, 0.00
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 2938 MB - 38% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 307 processes
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 17 day(s) 15 hour(s) 35 minute(s)
+[1703214000] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1703214000] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.84 ms
+[1703214000] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.58 ms
+[1703214000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1703214000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 162.85 Gb (54%) - free 136.81 Gb (46%)
+[1703214000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 0% (5 min average)
+[1703214000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 6536.83 MB (43%) - free: 8754.72 MB (57%)
+[1703214000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1703214000] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 4 day(s) 2 hour(s) 0 minute(s)
+[1703214000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1703214000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 43.58 Gb (15%) - free 255.75 Gb (85%)
+[1703214000] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 3% (5 min average)
+[1703214000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 2604.94 MB (18%) - free: 11538.19 MB (82%)
+[1703214000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.95 ms
+[1703214000] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 4 day(s) 1 hour(s) 1 minute(s)
+[1703214000] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1703214000] CURRENT SERVICE STATE: SRVDNS;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.30)
+[1703214000] CURRENT SERVICE STATE: SRVMFSD;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (10.0.2.12)
+[1703214000] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2432650 MB (72% inode=-):
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.14, 0.14, 0.10
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1321 MB - 33% [SWAP] Total: 2047 MB - Used: 147 MB - 7%
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 322 processes
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 19 day(s) 19 hour(s) 34 minute(s)
+[1703214000] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1703214000] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.79 ms
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118376 MiB (91.10% inode=-):
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 958 MB - 12% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 310 processes
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 1 process with STATE = Z
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 19 day(s) 19 hour(s) 31 minute(s)
+[1703214000] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1703214000] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.73 ms
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 950114 MiB (90.91% inode=-):
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.09, 0.07, 0.08
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3334 MB - 42% [SWAP] Total: 2048 MB - Used: 415 MB - 20%
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.64 ms
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 285 processes
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1703214000] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 461900 MiB (91.17% inode=-):
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1790568 MiB (91.43% inode=99%):
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 475782 MiB (99.69% inode=100%):
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.03, 0.02, 0.01
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.036 sec. response time
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 3033 MB - 25% [SWAP] Total: 2048 MB - Used: 28 MB - 1%
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.95 ms
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 308 processes
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 19 day(s) 19 hour(s) 30 minute(s)
+[1703214000] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1703214000] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;CRITICAL;HARD;4;YUM CRITICAL: 29 Updates Available
+[1703214000] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.54, 0.26, 0.17
+[1703214000] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 484 MB - 6% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1703214000] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1703214000] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 76 processes with STATE = RSZDT
+[1703214000] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1703214000] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.04 ms
+[1703214000] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1703214000] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 8.58KB (0.01%), Average OUT: 6.86KB (0.01%)Total RX: 3755.68GBytes, Total TX: 21777.11GBytes
+[1703214000] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1703214000] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1703214000] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1703214000] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (171236406) 19 days, 19:39:24.06
+[1703214000] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 63%, approximately 0 minutes runtime remaining.
+[1703214000] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1703214000] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.98 ms
+[1703214000] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 28 degrees C (82.4 degrees F).
+[1703214000] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (171243095) 19 days, 19:40:30.95
+[1703214000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1703214000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 85.19 Gb (86%) - free 14.14 Gb (14%)
+[1703214000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 11% (5 min average)
+[1703214000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 13421.04 MB (48%) - free: 14738.21 MB (52%)
+[1703214000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.19 ms
+[1703214000] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 1 day(s) 23 hour(s) 2 minute(s)
+[1703214000] CURRENT SERVICE STATE: web_cass_cl;Certificado;CRITICAL;HARD;3;SSL CRITICAL - Certificate '*.cass.cl' expires in 4 day(s) (2023-12-26 20:59 -0300/-03).
+[1703214000] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.174 second response time
+[1703214813] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703214933] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 309 processes
+[1703215116] Auto-save of retention data completed successfully.
+[1703217813] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703217933] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 310 processes
+[1703218716] Auto-save of retention data completed successfully.
+[1703219402] SERVICE ALERT: SRV_Cfiler.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1703219522] SERVICE ALERT: SRV_Cfiler.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 19 day(s) 21 hour(s) 7 minute(s)
+[1703222316] Auto-save of retention data completed successfully.
+[1703223288] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703223420] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703223602] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703223734] SERVICE ALERT: SRV_chat.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703225402] SERVICE ALERT: SRV_Cfiler.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.0.20 port 5666: Connection refused
+[1703225522] SERVICE ALERT: SRV_Cfiler.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 19 day(s) 22 hour(s) 47 minute(s)
+[1703225916] Auto-save of retention data completed successfully.
+[1703229516] Auto-save of retention data completed successfully.
+[1703230171] SERVICE ALERT: Electric Works;Ping;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1703230171] HOST ALERT: Electric Works;DOWN;SOFT;1;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230179] wproc: Core Worker 1193: job 1464122 (pid=24566) timed out. Killing it
+[1703230179] wproc: CHECK job 1464122 from worker Core Worker 1193 timed out after 30.01s
+[1703230179] wproc:   host=FW Electric Works; service=(null);
+[1703230179] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230179] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703230179] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;1;(Host check timed out after 30.01 seconds)
+[1703230180] wproc: Core Worker 1193: job 1464122 (pid=24566): Dormant child reaped
+[1703230191] SERVICE ALERT: FW Electric Works;Ping;CRITICAL;HARD;1;PING CRITICAL - Packet loss = 100%
+[1703230210] wproc: Core Worker 1193: job 1464148 (pid=24796) timed out. Killing it
+[1703230210] wproc: CHECK job 1464148 from worker Core Worker 1193 timed out after 30.01s
+[1703230210] wproc:   host=Electric Works; service=(null);
+[1703230210] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230210] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703230210] HOST ALERT: Electric Works;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1703230210] wproc: Core Worker 1193: job 1464148 (pid=24796): Dormant child reaped
+[1703230261] wproc: Core Worker 1193: job 1464194 (pid=25253) timed out. Killing it
+[1703230261] wproc: CHECK job 1464194 from worker Core Worker 1193 timed out after 30.01s
+[1703230261] wproc:   host=FW Electric Works; service=(null);
+[1703230261] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230261] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703230261] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;2;(Host check timed out after 30.01 seconds)
+[1703230262] wproc: Core Worker 1193: job 1464194 (pid=25253): Dormant child reaped
+[1703230300] wproc: Core Worker 1192: job 1464224 (pid=25559) timed out. Killing it
+[1703230300] wproc: CHECK job 1464224 from worker Core Worker 1192 timed out after 30.01s
+[1703230300] wproc:   host=Electric Works; service=(null);
+[1703230300] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230300] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703230300] HOST ALERT: Electric Works;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1703230300] wproc: Core Worker 1192: job 1464224 (pid=25559): Dormant child reaped
+[1703230321] SERVICE ALERT: Electric Works;Ping;CRITICAL;HARD;3;PING CRITICAL - Packet loss = 100%
+[1703230351] wproc: Core Worker 1193: job 1464263 (pid=25909) timed out. Killing it
+[1703230351] wproc: CHECK job 1464263 from worker Core Worker 1193 timed out after 30.01s
+[1703230351] wproc:   host=FW Electric Works; service=(null);
+[1703230351] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230351] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703230351] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;3;(Host check timed out after 30.01 seconds)
+[1703230352] wproc: Core Worker 1193: job 1464263 (pid=25909): Dormant child reaped
+[1703230390] wproc: Core Worker 1192: job 1464300 (pid=26262) timed out. Killing it
+[1703230390] wproc: CHECK job 1464300 from worker Core Worker 1192 timed out after 30.01s
+[1703230390] wproc:   host=Electric Works; service=(null);
+[1703230390] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230390] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703230390] HOST ALERT: Electric Works;DOWN;SOFT;4;(Host check timed out after 30.01 seconds)
+[1703230390] wproc: Core Worker 1192: job 1464300 (pid=26262): Dormant child reaped
+[1703230414] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703230414] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703230441] wproc: Core Worker 1192: job 1464345 (pid=26693) timed out. Killing it
+[1703230441] wproc: CHECK job 1464345 from worker Core Worker 1192 timed out after 30.01s
+[1703230441] wproc:   host=FW Electric Works; service=(null);
+[1703230441] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230441] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703230441] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;4;(Host check timed out after 30.01 seconds)
+[1703230442] wproc: Core Worker 1192: job 1464345 (pid=26693): Dormant child reaped
+[1703230480] wproc: Core Worker 1194: job 1464376 (pid=27012) timed out. Killing it
+[1703230480] wproc: CHECK job 1464376 from worker Core Worker 1194 timed out after 30.01s
+[1703230480] wproc:   host=Electric Works; service=(null);
+[1703230480] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230480] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703230480] HOST ALERT: Electric Works;DOWN;SOFT;5;(Host check timed out after 30.01 seconds)
+[1703230480] wproc: Core Worker 1194: job 1464376 (pid=27012): Dormant child reaped
+[1703230531] wproc: Core Worker 1195: job 1464415 (pid=27379) timed out. Killing it
+[1703230531] wproc: CHECK job 1464415 from worker Core Worker 1195 timed out after 30.01s
+[1703230531] wproc:   host=FW Electric Works; service=(null);
+[1703230531] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230531] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703230531] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;5;(Host check timed out after 30.01 seconds)
+[1703230532] wproc: Core Worker 1195: job 1464415 (pid=27379): Dormant child reaped
+[1703230534] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703230534] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 17 day(s) 20 hour(s) 11 minute(s)
+[1703230570] wproc: Core Worker 1192: job 1464452 (pid=27736) timed out. Killing it
+[1703230570] wproc: CHECK job 1464452 from worker Core Worker 1192 timed out after 30.01s
+[1703230570] wproc:   host=Electric Works; service=(null);
+[1703230570] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230570] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703230570] HOST ALERT: Electric Works;DOWN;SOFT;6;(Host check timed out after 30.01 seconds)
+[1703230570] wproc: Core Worker 1192: job 1464452 (pid=27736): Dormant child reaped
+[1703230598] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;6;CRITICAL - Network Unreachable (190.171.184.82)
+[1703230652] HOST ALERT: Electric Works;DOWN;SOFT;7;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230658] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;7;CRITICAL - Network Unreachable (190.171.184.82)
+[1703230712] HOST ALERT: Electric Works;DOWN;SOFT;8;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230728] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;8;CRITICAL - Network Unreachable (190.171.184.82)
+[1703230772] HOST ALERT: Electric Works;DOWN;SOFT;9;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230788] HOST ALERT: FW Electric Works;UNREACHABLE;SOFT;9;CRITICAL - Network Unreachable (190.171.184.82)
+[1703230832] HOST NOTIFICATION: nagiosadmin;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230832] HOST NOTIFICATION: andresnavarro;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230832] HOST NOTIFICATION: soporteti;Electric Works;DOWN;notify-host-by-telegram;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230832] HOST NOTIFICATION: soporteti;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230832] HOST NOTIFICATION: carlosstange;Electric Works;DOWN;notify-host-by-telegram;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230832] HOST NOTIFICATION: carlosstange;Electric Works;DOWN;notify-host-by-email;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230832] HOST ALERT: Electric Works;DOWN;HARD;10;CRITICAL - Network Unreachable (190.171.184.81)
+[1703230849] HOST ALERT: FW Electric Works;UNREACHABLE;HARD;10;CRITICAL - Network Unreachable (190.171.184.82)
+[1703230939] wproc: Core Worker 1195: job 1464763 (pid=30732) timed out. Killing it
+[1703230939] wproc: CHECK job 1464763 from worker Core Worker 1195 timed out after 30.01s
+[1703230939] wproc:   host=FW Electric Works; service=(null);
+[1703230939] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230939] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703230939] wproc: Core Worker 1195: job 1464763 (pid=30732): Dormant child reaped
+[1703230999] wproc: Core Worker 1192: job 1464813 (pid=31211) timed out. Killing it
+[1703230999] wproc: CHECK job 1464813 from worker Core Worker 1192 timed out after 30.01s
+[1703230999] wproc:   host=FW Electric Works; service=(null);
+[1703230999] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703230999] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703230999] wproc: Core Worker 1192: job 1464813 (pid=31211): Dormant child reaped
+[1703231059] wproc: Core Worker 1195: job 1464864 (pid=31690) timed out. Killing it
+[1703231059] wproc: CHECK job 1464864 from worker Core Worker 1195 timed out after 30.01s
+[1703231059] wproc:   host=FW Electric Works; service=(null);
+[1703231059] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231059] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231059] wproc: Core Worker 1195: job 1464864 (pid=31690): Dormant child reaped
+[1703231119] wproc: Core Worker 1194: job 1464916 (pid=32207) timed out. Killing it
+[1703231119] wproc: CHECK job 1464916 from worker Core Worker 1194 timed out after 30.01s
+[1703231119] wproc:   host=FW Electric Works; service=(null);
+[1703231119] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231119] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231119] wproc: Core Worker 1194: job 1464916 (pid=32207): Dormant child reaped
+[1703231179] wproc: Core Worker 1192: job 1464966 (pid=32688) timed out. Killing it
+[1703231179] wproc: CHECK job 1464966 from worker Core Worker 1192 timed out after 30.01s
+[1703231179] wproc:   host=FW Electric Works; service=(null);
+[1703231179] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231179] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231179] wproc: Core Worker 1192: job 1464966 (pid=32688): Dormant child reaped
+[1703231239] wproc: Core Worker 1193: job 1465017 (pid=765) timed out. Killing it
+[1703231239] wproc: CHECK job 1465017 from worker Core Worker 1193 timed out after 30.01s
+[1703231239] wproc:   host=FW Electric Works; service=(null);
+[1703231239] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231239] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231239] wproc: Core Worker 1193: job 1465017 (pid=765): Dormant child reaped
+[1703231299] wproc: Core Worker 1194: job 1465068 (pid=1274) timed out. Killing it
+[1703231299] wproc: CHECK job 1465068 from worker Core Worker 1194 timed out after 30.01s
+[1703231299] wproc:   host=FW Electric Works; service=(null);
+[1703231299] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231299] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231299] wproc: Core Worker 1194: job 1465068 (pid=1274): Dormant child reaped
+[1703231359] wproc: Core Worker 1193: job 1465118 (pid=1754) timed out. Killing it
+[1703231359] wproc: CHECK job 1465118 from worker Core Worker 1193 timed out after 30.01s
+[1703231359] wproc:   host=FW Electric Works; service=(null);
+[1703231359] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231359] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231359] wproc: Core Worker 1193: job 1465118 (pid=1754): Dormant child reaped
+[1703231419] wproc: Core Worker 1195: job 1465170 (pid=2278) timed out. Killing it
+[1703231419] wproc: CHECK job 1465170 from worker Core Worker 1195 timed out after 30.01s
+[1703231419] wproc:   host=FW Electric Works; service=(null);
+[1703231419] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231419] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231419] wproc: Core Worker 1195: job 1465170 (pid=2278): Dormant child reaped
+[1703231479] wproc: Core Worker 1193: job 1465221 (pid=2776) timed out. Killing it
+[1703231479] wproc: CHECK job 1465221 from worker Core Worker 1193 timed out after 30.01s
+[1703231479] wproc:   host=FW Electric Works; service=(null);
+[1703231479] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231479] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231479] wproc: Core Worker 1193: job 1465221 (pid=2776): Dormant child reaped
+[1703231539] wproc: Core Worker 1194: job 1465272 (pid=3256) timed out. Killing it
+[1703231539] wproc: CHECK job 1465272 from worker Core Worker 1194 timed out after 30.01s
+[1703231539] wproc:   host=FW Electric Works; service=(null);
+[1703231539] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231539] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231539] wproc: Core Worker 1194: job 1465272 (pid=3256): Dormant child reaped
+[1703231599] wproc: Core Worker 1193: job 1465322 (pid=3736) timed out. Killing it
+[1703231599] wproc: CHECK job 1465322 from worker Core Worker 1193 timed out after 30.01s
+[1703231599] wproc:   host=FW Electric Works; service=(null);
+[1703231599] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231599] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231599] wproc: Core Worker 1193: job 1465322 (pid=3736): Dormant child reaped
+[1703231659] wproc: Core Worker 1195: job 1465373 (pid=4229) timed out. Killing it
+[1703231659] wproc: CHECK job 1465373 from worker Core Worker 1195 timed out after 30.01s
+[1703231659] wproc:   host=FW Electric Works; service=(null);
+[1703231659] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231659] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231659] wproc: Core Worker 1195: job 1465373 (pid=4229): Dormant child reaped
+[1703231719] wproc: Core Worker 1194: job 1465425 (pid=4743) timed out. Killing it
+[1703231719] wproc: CHECK job 1465425 from worker Core Worker 1194 timed out after 30.01s
+[1703231719] wproc:   host=FW Electric Works; service=(null);
+[1703231719] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231719] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231719] wproc: Core Worker 1194: job 1465425 (pid=4743): Dormant child reaped
+[1703231779] wproc: Core Worker 1193: job 1465475 (pid=5213) timed out. Killing it
+[1703231779] wproc: CHECK job 1465475 from worker Core Worker 1193 timed out after 30.01s
+[1703231779] wproc:   host=FW Electric Works; service=(null);
+[1703231779] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231779] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231779] wproc: Core Worker 1193: job 1465475 (pid=5213): Dormant child reaped
+[1703231839] wproc: Core Worker 1195: job 1465526 (pid=5694) timed out. Killing it
+[1703231839] wproc: CHECK job 1465526 from worker Core Worker 1195 timed out after 30.01s
+[1703231839] wproc:   host=FW Electric Works; service=(null);
+[1703231839] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231839] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231839] wproc: Core Worker 1195: job 1465526 (pid=5694): Dormant child reaped
+[1703231899] wproc: Core Worker 1192: job 1465576 (pid=6173) timed out. Killing it
+[1703231899] wproc: CHECK job 1465576 from worker Core Worker 1192 timed out after 30.01s
+[1703231899] wproc:   host=FW Electric Works; service=(null);
+[1703231899] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231899] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231899] wproc: Core Worker 1192: job 1465576 (pid=6173): Dormant child reaped
+[1703231959] wproc: Core Worker 1195: job 1465627 (pid=6652) timed out. Killing it
+[1703231959] wproc: CHECK job 1465627 from worker Core Worker 1195 timed out after 30.01s
+[1703231959] wproc:   host=FW Electric Works; service=(null);
+[1703231959] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703231959] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703231959] wproc: Core Worker 1195: job 1465627 (pid=6652): Dormant child reaped
+[1703232019] wproc: Core Worker 1194: job 1465679 (pid=7169) timed out. Killing it
+[1703232019] wproc: CHECK job 1465679 from worker Core Worker 1194 timed out after 30.01s
+[1703232019] wproc:   host=FW Electric Works; service=(null);
+[1703232019] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232019] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232019] wproc: Core Worker 1194: job 1465679 (pid=7169): Dormant child reaped
+[1703232079] wproc: Core Worker 1192: job 1465729 (pid=7664) timed out. Killing it
+[1703232079] wproc: CHECK job 1465729 from worker Core Worker 1192 timed out after 30.01s
+[1703232079] wproc:   host=FW Electric Works; service=(null);
+[1703232079] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232079] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232079] wproc: Core Worker 1192: job 1465729 (pid=7664): Dormant child reaped
+[1703232139] wproc: Core Worker 1192: job 1465780 (pid=8162) timed out. Killing it
+[1703232139] wproc: CHECK job 1465780 from worker Core Worker 1192 timed out after 30.01s
+[1703232139] wproc:   host=FW Electric Works; service=(null);
+[1703232139] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232139] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232139] wproc: Core Worker 1192: job 1465780 (pid=8162): Dormant child reaped
+[1703232199] wproc: Core Worker 1195: job 1465831 (pid=8642) timed out. Killing it
+[1703232199] wproc: CHECK job 1465831 from worker Core Worker 1195 timed out after 30.01s
+[1703232199] wproc:   host=FW Electric Works; service=(null);
+[1703232199] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232199] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232199] wproc: Core Worker 1195: job 1465831 (pid=8642): Dormant child reaped
+[1703232259] wproc: Core Worker 1193: job 1465881 (pid=9120) timed out. Killing it
+[1703232259] wproc: CHECK job 1465881 from worker Core Worker 1193 timed out after 30.01s
+[1703232259] wproc:   host=FW Electric Works; service=(null);
+[1703232259] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232259] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232259] wproc: Core Worker 1193: job 1465881 (pid=9120): Dormant child reaped
+[1703232302] wproc: Core Worker 1195: job 1465922 (pid=9542) timed out. Killing it
+[1703232302] wproc: CHECK job 1465922 from worker Core Worker 1195 timed out after 30.01s
+[1703232302] wproc:   host=Electric Works; service=(null);
+[1703232302] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232302] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703232302] wproc: Core Worker 1195: job 1465922 (pid=9542): Dormant child reaped
+[1703232319] wproc: Core Worker 1195: job 1465933 (pid=9637) timed out. Killing it
+[1703232319] wproc: CHECK job 1465933 from worker Core Worker 1195 timed out after 30.01s
+[1703232319] wproc:   host=FW Electric Works; service=(null);
+[1703232319] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232319] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232319] wproc: Core Worker 1195: job 1465933 (pid=9637): Dormant child reaped
+[1703232379] wproc: Core Worker 1194: job 1465984 (pid=10119) timed out. Killing it
+[1703232379] wproc: CHECK job 1465984 from worker Core Worker 1194 timed out after 30.01s
+[1703232379] wproc:   host=FW Electric Works; service=(null);
+[1703232379] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232379] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232379] wproc: Core Worker 1194: job 1465984 (pid=10119): Dormant child reaped
+[1703232439] wproc: Core Worker 1192: job 1466034 (pid=10600) timed out. Killing it
+[1703232439] wproc: CHECK job 1466034 from worker Core Worker 1192 timed out after 30.01s
+[1703232439] wproc:   host=FW Electric Works; service=(null);
+[1703232439] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232439] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232439] wproc: Core Worker 1192: job 1466034 (pid=10600): Dormant child reaped
+[1703232482] wproc: Core Worker 1192: job 1466074 (pid=10999) timed out. Killing it
+[1703232482] wproc: CHECK job 1466074 from worker Core Worker 1192 timed out after 30.01s
+[1703232482] wproc:   host=Electric Works; service=(null);
+[1703232482] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232482] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703232482] wproc: Core Worker 1192: job 1466074 (pid=10999): Dormant child reaped
+[1703232602] wproc: Core Worker 1193: job 1466176 (pid=11986) timed out. Killing it
+[1703232602] wproc: CHECK job 1466176 from worker Core Worker 1193 timed out after 30.01s
+[1703232602] wproc:   host=Electric Works; service=(null);
+[1703232602] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232602] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703232602] wproc: Core Worker 1193: job 1466176 (pid=11986): Dormant child reaped
+[1703232619] wproc: Core Worker 1192: job 1466187 (pid=12095) timed out. Killing it
+[1703232619] wproc: CHECK job 1466187 from worker Core Worker 1192 timed out after 30.01s
+[1703232619] wproc:   host=FW Electric Works; service=(null);
+[1703232619] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232619] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232619] wproc: Core Worker 1192: job 1466187 (pid=12095): Dormant child reaped
+[1703232679] wproc: Core Worker 1193: job 1466238 (pid=12591) timed out. Killing it
+[1703232679] wproc: CHECK job 1466238 from worker Core Worker 1193 timed out after 30.01s
+[1703232679] wproc:   host=FW Electric Works; service=(null);
+[1703232679] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232679] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232679] wproc: Core Worker 1193: job 1466238 (pid=12591): Dormant child reaped
+[1703232979] wproc: Core Worker 1192: job 1466492 (pid=15016) timed out. Killing it
+[1703232979] wproc: CHECK job 1466492 from worker Core Worker 1192 timed out after 30.01s
+[1703232979] wproc:   host=FW Electric Works; service=(null);
+[1703232979] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703232979] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703232979] wproc: Core Worker 1192: job 1466492 (pid=15016): Dormant child reaped
+[1703233022] wproc: Core Worker 1192: job 1466532 (pid=15412) timed out. Killing it
+[1703233022] wproc: CHECK job 1466532 from worker Core Worker 1192 timed out after 30.01s
+[1703233022] wproc:   host=Electric Works; service=(null);
+[1703233022] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703233022] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703233023] wproc: Core Worker 1192: job 1466532 (pid=15412): Dormant child reaped
+[1703233116] Auto-save of retention data completed successfully.
+[1703233562] wproc: Core Worker 1193: job 1466990 (pid=19820) timed out. Killing it
+[1703233562] wproc: CHECK job 1466990 from worker Core Worker 1193 timed out after 30.01s
+[1703233562] wproc:   host=Electric Works; service=(null);
+[1703233562] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703233562] Warning: Check of host 'Electric Works' timed out after 30.01 seconds
+[1703233562] wproc: Core Worker 1193: job 1466990 (pid=19820): Dormant child reaped
+[1703233699] wproc: Core Worker 1194: job 1467102 (pid=20863) timed out. Killing it
+[1703233699] wproc: CHECK job 1467102 from worker Core Worker 1194 timed out after 30.01s
+[1703233699] wproc:   host=FW Electric Works; service=(null);
+[1703233699] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703233699] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703233699] wproc: Core Worker 1194: job 1467102 (pid=20863): Dormant child reaped
+[1703233759] wproc: Core Worker 1193: job 1467152 (pid=21342) timed out. Killing it
+[1703233759] wproc: CHECK job 1467152 from worker Core Worker 1193 timed out after 30.01s
+[1703233759] wproc:   host=FW Electric Works; service=(null);
+[1703233759] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703233759] Warning: Check of host 'FW Electric Works' timed out after 30.01 seconds
+[1703233759] wproc: Core Worker 1193: job 1467152 (pid=21342): Dormant child reaped
+[1703233775] SERVICE ALERT: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 49.41 ms
+[1703233776] HOST NOTIFICATION: nagiosadmin;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 53.83 ms
+[1703233776] HOST NOTIFICATION: andresnavarro;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 53.83 ms
+[1703233776] HOST NOTIFICATION: soporteti;Electric Works;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 53.83 ms
+[1703233776] HOST NOTIFICATION: soporteti;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 53.83 ms
+[1703233776] HOST NOTIFICATION: carlosstange;Electric Works;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 53.83 ms
+[1703233776] HOST NOTIFICATION: carlosstange;Electric Works;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 53.83 ms
+[1703233776] HOST ALERT: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 53.83 ms
+[1703233789] HOST ALERT: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 64%, RTA = 55.25 ms
+[1703233789] SERVICE ALERT: FW Electric Works;Ping;WARNING;SOFT;1;PING WARNING - Packet loss = 82%, RTA = 58.12 ms
+[1703233826] SERVICE ALERT: FW Electric Works;Ping;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 56.61 ms
+[1703236716] Auto-save of retention data completed successfully.
+[1703238814] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703238814] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703238934] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 17 day(s) 22 hour(s) 31 minute(s)
+[1703238934] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703239202] SERVICE ALERT: SRV_Cfiler.cass.cl;Tiempo Activo;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.20. Check system logs on 10.0.0.20
+[1703239322] SERVICE ALERT: SRV_Cfiler.cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 20 day(s) 2 hour(s) 37 minute(s)
+[1703240316] Auto-save of retention data completed successfully.
+[1703243916] Auto-save of retention data completed successfully.
+[1703246429] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703246549] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1703247516] Auto-save of retention data completed successfully.
+[1703248186] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703248306] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1703248926] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703249061] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1703249079] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703249178] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703249191] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703249199] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1703249298] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 40.98KB (0.03%), Average OUT: 9.28KB (0.01%)Total RX: 84.65GBytes, Total TX: 22.55GBytes
+[1703249312] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 62.47KB (0.05%), Average OUT: 548.70KB (0.44%)Total RX: 552.01GBytes, Total TX: 2234.61GBytes
+[1703249389] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703249509] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1703250214] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703250214] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703250334] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 1 hour(s) 41 minute(s)
+[1703250334] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703251116] Auto-save of retention data completed successfully.
+[1703251414] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703251414] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703251534] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703251534] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 2 hour(s) 1 minute(s)
+[1703251954] EXTERNAL COMMAND: DISABLE_HOST_SVC_CHECKS;SRVDNS
+[1703251963] EXTERNAL COMMAND: DISABLE_HOST_NOTIFICATIONS;SRVDNS
+[1703251971] EXTERNAL COMMAND: DISABLE_HOST_AND_CHILD_NOTIFICATIONS;SRVDNS
+[1703253679] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703253748] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (113518424566.82%) too high
+[1703253799] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 232.44B (0.00%), Average OUT: 66.30B (0.00%)Total RX: 4683.39GBytes, Total TX: 4235.42GBytes
+[1703253814] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703253846] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703253868] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;CRITICAL - IN bandwidth (544.04%) too high
+[1703253934] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 308 processes
+[1703253966] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1703253988] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;OK - Average IN: 14.30KB (0.01%), Average OUT: 12.14KB (0.01%)Total RX: 84.76GBytes, Total TX: 22.63GBytes
+[1703254716] Auto-save of retention data completed successfully.
+[1703256057] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703256149] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703256177] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1703256179] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703256222] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703256278] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703256279] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1703256300] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1703256342] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 54.89KB (0.04%), Average OUT: 493.78KB (0.40%)Total RX: 552.78GBytes, Total TX: 2237.73GBytes
+[1703256413] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1703256414] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;(No output on stdout) stderr:
+[1703257084] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703257204] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 185.61B (0.00%), Average OUT: 62.99B (0.00%)Total RX: 4683.39GBytes, Total TX: 4235.42GBytes
+[1703257874] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;CRITICAL - IN bandwidth (210819878767.95%) too high
+[1703257912] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703258000] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;CRITICAL - IN bandwidth (29723.90%) too high
+[1703258038] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 185.41KB (0.15%), Average OUT: 658.22KB (0.53%)Total RX: 552.97GBytes, Total TX: 2238.62GBytes
+[1703258120] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;3;OK - Average IN: 266.71B (0.00%), Average OUT: 93.81B (0.00%)Total RX: 4683.39GBytes, Total TX: 4235.42GBytes
+[1703258316] Auto-save of retention data completed successfully.
+[1703258587] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703258670] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703258707] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1703258805] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1703258837] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703258883] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1703258963] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1703259010] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703259018] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;(No output on stdout) stderr:
+[1703259130] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1703261900] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1703261916] Auto-save of retention data completed successfully.
+[1703262020] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1703262814] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703262814] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703262934] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703262934] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 5 hour(s) 11 minute(s)
+[1703264014] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703264014] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703264134] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703264134] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 5 hour(s) 31 minute(s)
+[1703265516] Auto-save of retention data completed successfully.
+[1703268214] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703268214] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703268334] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 6 hour(s) 41 minute(s)
+[1703268334] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703269116] Auto-save of retention data completed successfully.
+[1703272716] Auto-save of retention data completed successfully.
+[1703273614] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703273734] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 309 processes
+[1703276316] Auto-save of retention data completed successfully.
+[1703277214] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703277334] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 308 processes
+[1703279916] Auto-save of retention data completed successfully.
+[1703280214] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703280334] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 311 processes
+[1703283214] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.2.13: Connection reset by peer
+[1703283214] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.2.13: Connection reset by peer
+[1703283334] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 10 hour(s) 51 minute(s)
+[1703283334] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703283516] Auto-save of retention data completed successfully.
+[1703283814] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703283934] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 310 processes
+[1703284414] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703284414] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703284534] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703284534] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 11 hour(s) 11 minute(s)
+[1703287116] Auto-save of retention data completed successfully.
+[1703288614] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703288614] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703288734] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 12 hour(s) 21 minute(s)
+[1703288734] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703289814] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703289814] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;CRITICAL;SOFT;1;(No output on stdout) stderr: connect to address 10.0.2.13 port 5666: Connection refused
+[1703289934] SERVICE ALERT: SRV11VIBE_cass.cl;Tiempo Activo;OK;SOFT;2;Uptime OK: 18 day(s) 12 hour(s) 41 minute(s)
+[1703289934] SERVICE ALERT: SRV11VIBE_cass.cl;Usuarios Login;OK;SOFT;2;USERS OK - 2 users currently logged in
+[1703290716] Auto-save of retention data completed successfully.
+[1703292214] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703292334] SERVICE ALERT: SRV11VIBE_cass.cl;Procesos;OK;SOFT;2;PROCS OK: 309 processes
+[1703292945] wproc: Core Worker 1193: job 1517118 (pid=16695) timed out. Killing it
+[1703292945] wproc: CHECK job 1517118 from worker Core Worker 1193 timed out after 30.01s
+[1703292945] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703292945] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703292945] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703292945] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;1;(Host check timed out after 30.01 seconds)
+[1703292945] wproc: Core Worker 1193: job 1517118 (pid=16695): Dormant child reaped
+[1703293035] wproc: Core Worker 1192: job 1517195 (pid=17406) timed out. Killing it
+[1703293035] wproc: CHECK job 1517195 from worker Core Worker 1192 timed out after 30.01s
+[1703293035] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293035] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293035] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293035] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;2;(Host check timed out after 30.01 seconds)
+[1703293035] wproc: Core Worker 1192: job 1517195 (pid=17406): Dormant child reaped
+[1703293125] wproc: Core Worker 1195: job 1517269 (pid=18126) timed out. Killing it
+[1703293125] wproc: CHECK job 1517269 from worker Core Worker 1195 timed out after 30.01s
+[1703293125] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293125] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293125] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293125] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;3;(Host check timed out after 30.01 seconds)
+[1703293125] wproc: Core Worker 1195: job 1517269 (pid=18126): Dormant child reaped
+[1703293215] wproc: Core Worker 1193: job 1517347 (pid=18870) timed out. Killing it
+[1703293215] wproc: CHECK job 1517347 from worker Core Worker 1193 timed out after 30.01s
+[1703293215] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293215] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293215] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293215] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;4;(Host check timed out after 30.01 seconds)
+[1703293215] wproc: Core Worker 1193: job 1517347 (pid=18870): Dormant child reaped
+[1703293305] wproc: Core Worker 1194: job 1517422 (pid=19630) timed out. Killing it
+[1703293305] wproc: CHECK job 1517422 from worker Core Worker 1194 timed out after 30.01s
+[1703293305] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293305] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293305] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293305] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;5;(Host check timed out after 30.01 seconds)
+[1703293305] wproc: Core Worker 1194: job 1517422 (pid=19630): Dormant child reaped
+[1703293395] wproc: Core Worker 1193: job 1517498 (pid=20337) timed out. Killing it
+[1703293395] wproc: CHECK job 1517498 from worker Core Worker 1193 timed out after 30.01s
+[1703293395] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293395] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293395] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293395] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;6;(Host check timed out after 30.01 seconds)
+[1703293395] wproc: Core Worker 1193: job 1517498 (pid=20337): Dormant child reaped
+[1703293485] wproc: Core Worker 1195: job 1517572 (pid=21076) timed out. Killing it
+[1703293485] wproc: CHECK job 1517572 from worker Core Worker 1195 timed out after 30.01s
+[1703293485] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293485] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293485] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293485] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;7;(Host check timed out after 30.01 seconds)
+[1703293485] wproc: Core Worker 1195: job 1517572 (pid=21076): Dormant child reaped
+[1703293575] wproc: Core Worker 1192: job 1517650 (pid=21805) timed out. Killing it
+[1703293575] wproc: CHECK job 1517650 from worker Core Worker 1192 timed out after 30.01s
+[1703293575] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293575] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293575] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293575] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;8;(Host check timed out after 30.01 seconds)
+[1703293575] wproc: Core Worker 1192: job 1517650 (pid=21805): Dormant child reaped
+[1703293665] wproc: Core Worker 1194: job 1517724 (pid=22525) timed out. Killing it
+[1703293665] wproc: CHECK job 1517724 from worker Core Worker 1194 timed out after 30.01s
+[1703293665] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293665] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293665] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293665] HOST ALERT: Exper03.exxperience.cl;DOWN;SOFT;9;(Host check timed out after 30.01 seconds)
+[1703293665] wproc: Core Worker 1194: job 1517724 (pid=22525): Dormant child reaped
+[1703293737] HOST ALERT: Exper03.exxperience.cl;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.100)
+[1703293827] wproc: Core Worker 1194: job 1517859 (pid=23820) timed out. Killing it
+[1703293827] wproc: CHECK job 1517859 from worker Core Worker 1194 timed out after 30.01s
+[1703293827] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293827] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293827] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293827] wproc: Core Worker 1194: job 1517859 (pid=23820): Dormant child reaped
+[1703293887] wproc: Core Worker 1193: job 1517909 (pid=24370) timed out. Killing it
+[1703293887] wproc: CHECK job 1517909 from worker Core Worker 1193 timed out after 30.01s
+[1703293887] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293887] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293887] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293887] wproc: Core Worker 1193: job 1517909 (pid=24370): Dormant child reaped
+[1703293947] wproc: Core Worker 1194: job 1517960 (pid=24850) timed out. Killing it
+[1703293947] wproc: CHECK job 1517960 from worker Core Worker 1194 timed out after 30.01s
+[1703293947] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703293947] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703293947] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703293947] wproc: Core Worker 1194: job 1517960 (pid=24850): Dormant child reaped
+[1703294007] wproc: Core Worker 1195: job 1518010 (pid=25327) timed out. Killing it
+[1703294007] wproc: CHECK job 1518010 from worker Core Worker 1195 timed out after 30.01s
+[1703294007] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294007] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294007] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294007] wproc: Core Worker 1195: job 1518010 (pid=25327): Dormant child reaped
+[1703294067] wproc: Core Worker 1193: job 1518060 (pid=25804) timed out. Killing it
+[1703294067] wproc: CHECK job 1518060 from worker Core Worker 1193 timed out after 30.01s
+[1703294067] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294067] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294067] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294067] wproc: Core Worker 1193: job 1518060 (pid=25804): Dormant child reaped
+[1703294127] wproc: Core Worker 1194: job 1518112 (pid=26316) timed out. Killing it
+[1703294127] wproc: CHECK job 1518112 from worker Core Worker 1194 timed out after 30.01s
+[1703294127] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294127] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294127] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294127] wproc: Core Worker 1194: job 1518112 (pid=26316): Dormant child reaped
+[1703294187] wproc: Core Worker 1193: job 1518162 (pid=26795) timed out. Killing it
+[1703294187] wproc: CHECK job 1518162 from worker Core Worker 1193 timed out after 30.01s
+[1703294187] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294187] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294187] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294187] wproc: Core Worker 1193: job 1518162 (pid=26795): Dormant child reaped
+[1703294247] wproc: Core Worker 1194: job 1518213 (pid=27274) timed out. Killing it
+[1703294247] wproc: CHECK job 1518213 from worker Core Worker 1194 timed out after 30.01s
+[1703294247] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294247] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294247] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294247] wproc: Core Worker 1194: job 1518213 (pid=27274): Dormant child reaped
+[1703294307] wproc: Core Worker 1195: job 1518263 (pid=27747) timed out. Killing it
+[1703294307] wproc: CHECK job 1518263 from worker Core Worker 1195 timed out after 30.01s
+[1703294307] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294307] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294307] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294307] wproc: Core Worker 1195: job 1518263 (pid=27747): Dormant child reaped
+[1703294316] Auto-save of retention data completed successfully.
+[1703294367] wproc: Core Worker 1192: job 1518313 (pid=28225) timed out. Killing it
+[1703294367] wproc: CHECK job 1518313 from worker Core Worker 1192 timed out after 30.01s
+[1703294367] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294367] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294367] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294367] wproc: Core Worker 1192: job 1518313 (pid=28225): Dormant child reaped
+[1703294427] wproc: Core Worker 1195: job 1518365 (pid=28737) timed out. Killing it
+[1703294427] wproc: CHECK job 1518365 from worker Core Worker 1195 timed out after 30.01s
+[1703294427] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294427] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294427] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294427] wproc: Core Worker 1195: job 1518365 (pid=28737): Dormant child reaped
+[1703294487] wproc: Core Worker 1192: job 1518415 (pid=29232) timed out. Killing it
+[1703294487] wproc: CHECK job 1518415 from worker Core Worker 1192 timed out after 30.01s
+[1703294487] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294487] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294487] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294487] wproc: Core Worker 1192: job 1518415 (pid=29232): Dormant child reaped
+[1703294547] wproc: Core Worker 1195: job 1518466 (pid=29711) timed out. Killing it
+[1703294547] wproc: CHECK job 1518466 from worker Core Worker 1195 timed out after 30.01s
+[1703294547] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294547] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294547] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294547] wproc: Core Worker 1195: job 1518466 (pid=29711): Dormant child reaped
+[1703294607] wproc: Core Worker 1193: job 1518516 (pid=30188) timed out. Killing it
+[1703294607] wproc: CHECK job 1518516 from worker Core Worker 1193 timed out after 30.01s
+[1703294607] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294607] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294607] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294607] wproc: Core Worker 1193: job 1518516 (pid=30188): Dormant child reaped
+[1703294667] wproc: Core Worker 1192: job 1518566 (pid=30665) timed out. Killing it
+[1703294667] wproc: CHECK job 1518566 from worker Core Worker 1192 timed out after 30.01s
+[1703294667] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294667] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294667] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294667] wproc: Core Worker 1192: job 1518566 (pid=30665): Dormant child reaped
+[1703294727] wproc: Core Worker 1195: job 1518618 (pid=31177) timed out. Killing it
+[1703294727] wproc: CHECK job 1518618 from worker Core Worker 1195 timed out after 30.01s
+[1703294727] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294727] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294727] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294727] wproc: Core Worker 1195: job 1518618 (pid=31177): Dormant child reaped
+[1703294787] wproc: Core Worker 1192: job 1518668 (pid=31657) timed out. Killing it
+[1703294787] wproc: CHECK job 1518668 from worker Core Worker 1192 timed out after 30.01s
+[1703294787] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294787] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294787] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294787] wproc: Core Worker 1192: job 1518668 (pid=31657): Dormant child reaped
+[1703294847] wproc: Core Worker 1195: job 1518719 (pid=32137) timed out. Killing it
+[1703294847] wproc: CHECK job 1518719 from worker Core Worker 1195 timed out after 30.01s
+[1703294847] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294847] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294847] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294847] wproc: Core Worker 1195: job 1518719 (pid=32137): Dormant child reaped
+[1703294907] wproc: Core Worker 1193: job 1518769 (pid=32614) timed out. Killing it
+[1703294907] wproc: CHECK job 1518769 from worker Core Worker 1193 timed out after 30.01s
+[1703294907] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294907] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294907] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294907] wproc: Core Worker 1193: job 1518769 (pid=32614): Dormant child reaped
+[1703294967] wproc: Core Worker 1192: job 1518819 (pid=669) timed out. Killing it
+[1703294967] wproc: CHECK job 1518819 from worker Core Worker 1192 timed out after 30.01s
+[1703294967] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703294967] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703294967] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703294967] wproc: Core Worker 1192: job 1518819 (pid=669): Dormant child reaped
+[1703295027] wproc: Core Worker 1195: job 1518871 (pid=1228) timed out. Killing it
+[1703295027] wproc: CHECK job 1518871 from worker Core Worker 1195 timed out after 30.01s
+[1703295027] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295027] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295027] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295027] wproc: Core Worker 1195: job 1518871 (pid=1228): Dormant child reaped
+[1703295087] wproc: Core Worker 1192: job 1518921 (pid=1724) timed out. Killing it
+[1703295087] wproc: CHECK job 1518921 from worker Core Worker 1192 timed out after 30.01s
+[1703295087] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295087] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295087] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295087] wproc: Core Worker 1192: job 1518921 (pid=1724): Dormant child reaped
+[1703295147] wproc: Core Worker 1195: job 1518972 (pid=2211) timed out. Killing it
+[1703295147] wproc: CHECK job 1518972 from worker Core Worker 1195 timed out after 30.01s
+[1703295147] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295147] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295147] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295147] wproc: Core Worker 1195: job 1518972 (pid=2211): Dormant child reaped
+[1703295207] wproc: Core Worker 1193: job 1519022 (pid=2688) timed out. Killing it
+[1703295207] wproc: CHECK job 1519022 from worker Core Worker 1193 timed out after 30.01s
+[1703295207] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295207] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295207] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295207] wproc: Core Worker 1193: job 1519022 (pid=2688): Dormant child reaped
+[1703295267] wproc: Core Worker 1192: job 1519072 (pid=3165) timed out. Killing it
+[1703295267] wproc: CHECK job 1519072 from worker Core Worker 1192 timed out after 30.01s
+[1703295267] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295267] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295267] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295267] wproc: Core Worker 1192: job 1519072 (pid=3165): Dormant child reaped
+[1703295327] wproc: Core Worker 1195: job 1519124 (pid=3678) timed out. Killing it
+[1703295327] wproc: CHECK job 1519124 from worker Core Worker 1195 timed out after 30.01s
+[1703295327] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295327] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295327] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295327] wproc: Core Worker 1195: job 1519124 (pid=3678): Dormant child reaped
+[1703295387] wproc: Core Worker 1192: job 1519174 (pid=4158) timed out. Killing it
+[1703295387] wproc: CHECK job 1519174 from worker Core Worker 1192 timed out after 30.01s
+[1703295387] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295387] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295387] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295387] wproc: Core Worker 1192: job 1519174 (pid=4158): Dormant child reaped
+[1703295447] wproc: Core Worker 1195: job 1519225 (pid=4637) timed out. Killing it
+[1703295447] wproc: CHECK job 1519225 from worker Core Worker 1195 timed out after 30.01s
+[1703295447] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295447] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295447] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295447] wproc: Core Worker 1195: job 1519225 (pid=4637): Dormant child reaped
+[1703295507] wproc: Core Worker 1193: job 1519275 (pid=5114) timed out. Killing it
+[1703295507] wproc: CHECK job 1519275 from worker Core Worker 1193 timed out after 30.01s
+[1703295507] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295507] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295507] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295507] wproc: Core Worker 1193: job 1519275 (pid=5114): Dormant child reaped
+[1703295567] wproc: Core Worker 1192: job 1519325 (pid=5597) timed out. Killing it
+[1703295567] wproc: CHECK job 1519325 from worker Core Worker 1192 timed out after 30.01s
+[1703295567] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295567] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295567] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295567] wproc: Core Worker 1192: job 1519325 (pid=5597): Dormant child reaped
+[1703295627] wproc: Core Worker 1195: job 1519377 (pid=6110) timed out. Killing it
+[1703295627] wproc: CHECK job 1519377 from worker Core Worker 1195 timed out after 30.01s
+[1703295627] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295627] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295627] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295627] wproc: Core Worker 1195: job 1519377 (pid=6110): Dormant child reaped
+[1703295687] wproc: Core Worker 1192: job 1519427 (pid=6604) timed out. Killing it
+[1703295687] wproc: CHECK job 1519427 from worker Core Worker 1192 timed out after 30.01s
+[1703295687] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295687] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295687] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295687] wproc: Core Worker 1192: job 1519427 (pid=6604): Dormant child reaped
+[1703295713] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703295747] wproc: Core Worker 1193: job 1519478 (pid=7087) timed out. Killing it
+[1703295747] wproc: CHECK job 1519478 from worker Core Worker 1193 timed out after 30.01s
+[1703295747] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295747] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295747] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295748] wproc: Core Worker 1193: job 1519478 (pid=7087): Dormant child reaped
+[1703295807] wproc: Core Worker 1193: job 1519528 (pid=7564) timed out. Killing it
+[1703295807] wproc: CHECK job 1519528 from worker Core Worker 1193 timed out after 30.01s
+[1703295807] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295807] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295807] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295808] wproc: Core Worker 1193: job 1519528 (pid=7564): Dormant child reaped
+[1703295834] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1703295867] wproc: Core Worker 1192: job 1519578 (pid=8043) timed out. Killing it
+[1703295867] wproc: CHECK job 1519578 from worker Core Worker 1192 timed out after 30.01s
+[1703295867] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295867] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295867] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295868] wproc: Core Worker 1192: job 1519578 (pid=8043): Dormant child reaped
+[1703295878] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1703295927] wproc: Core Worker 1194: job 1519630 (pid=8555) timed out. Killing it
+[1703295927] wproc: CHECK job 1519630 from worker Core Worker 1194 timed out after 30.01s
+[1703295927] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295927] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295927] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295928] wproc: Core Worker 1194: job 1519630 (pid=8555): Dormant child reaped
+[1703295987] wproc: Core Worker 1195: job 1519680 (pid=9034) timed out. Killing it
+[1703295987] wproc: CHECK job 1519680 from worker Core Worker 1195 timed out after 30.01s
+[1703295987] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703295987] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703295987] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703295988] wproc: Core Worker 1195: job 1519680 (pid=9034): Dormant child reaped
+[1703296010] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703296047] wproc: Core Worker 1192: job 1519730 (pid=9513) timed out. Killing it
+[1703296047] wproc: CHECK job 1519730 from worker Core Worker 1192 timed out after 30.01s
+[1703296047] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296047] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296047] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296048] wproc: Core Worker 1192: job 1519730 (pid=9513): Dormant child reaped
+[1703296107] wproc: Core Worker 1192: job 1519780 (pid=9990) timed out. Killing it
+[1703296107] wproc: CHECK job 1519780 from worker Core Worker 1192 timed out after 30.01s
+[1703296107] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296107] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296107] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296108] wproc: Core Worker 1192: job 1519780 (pid=9990): Dormant child reaped
+[1703296167] wproc: Core Worker 1194: job 1519831 (pid=10467) timed out. Killing it
+[1703296167] wproc: CHECK job 1519831 from worker Core Worker 1194 timed out after 30.01s
+[1703296167] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296167] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296167] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296168] wproc: Core Worker 1194: job 1519831 (pid=10467): Dormant child reaped
+[1703296201] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;UNKNOWN;SOFT;1;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1703296227] wproc: Core Worker 1193: job 1519882 (pid=10979) timed out. Killing it
+[1703296227] wproc: CHECK job 1519882 from worker Core Worker 1193 timed out after 30.07s
+[1703296227] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296227] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296227] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.07 seconds
+[1703296228] wproc: Core Worker 1193: job 1519882 (pid=10979): Dormant child reaped
+[1703296287] wproc: Core Worker 1192: job 1519932 (pid=11472) timed out. Killing it
+[1703296287] wproc: CHECK job 1519932 from worker Core Worker 1192 timed out after 30.01s
+[1703296287] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296287] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296287] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296288] wproc: Core Worker 1192: job 1519932 (pid=11472): Dormant child reaped
+[1703296332] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1703296347] wproc: Core Worker 1194: job 1519983 (pid=11950) timed out. Killing it
+[1703296347] wproc: CHECK job 1519983 from worker Core Worker 1194 timed out after 30.01s
+[1703296347] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296347] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296347] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296348] wproc: Core Worker 1194: job 1519983 (pid=11950): Dormant child reaped
+[1703296407] wproc: Core Worker 1195: job 1520033 (pid=12427) timed out. Killing it
+[1703296407] wproc: CHECK job 1520033 from worker Core Worker 1195 timed out after 30.01s
+[1703296407] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296407] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296407] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296408] wproc: Core Worker 1195: job 1520033 (pid=12427): Dormant child reaped
+[1703296467] wproc: Core Worker 1195: job 1520083 (pid=12903) timed out. Killing it
+[1703296467] wproc: CHECK job 1520083 from worker Core Worker 1195 timed out after 30.01s
+[1703296467] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296467] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296467] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296468] wproc: Core Worker 1195: job 1520083 (pid=12903): Dormant child reaped
+[1703296527] wproc: Core Worker 1192: job 1520134 (pid=13411) timed out. Killing it
+[1703296527] wproc: CHECK job 1520134 from worker Core Worker 1192 timed out after 30.01s
+[1703296527] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296527] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296527] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296528] wproc: Core Worker 1192: job 1520134 (pid=13411): Dormant child reaped
+[1703296587] wproc: Core Worker 1195: job 1520185 (pid=13890) timed out. Killing it
+[1703296587] wproc: CHECK job 1520185 from worker Core Worker 1195 timed out after 30.01s
+[1703296587] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296587] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296587] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296588] wproc: Core Worker 1195: job 1520185 (pid=13890): Dormant child reaped
+[1703296647] wproc: Core Worker 1192: job 1520235 (pid=14369) timed out. Killing it
+[1703296647] wproc: CHECK job 1520235 from worker Core Worker 1192 timed out after 30.01s
+[1703296647] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296647] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296647] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296648] wproc: Core Worker 1192: job 1520235 (pid=14369): Dormant child reaped
+[1703296707] wproc: Core Worker 1194: job 1520286 (pid=14847) timed out. Killing it
+[1703296707] wproc: CHECK job 1520286 from worker Core Worker 1194 timed out after 30.01s
+[1703296707] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296707] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296707] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296708] wproc: Core Worker 1194: job 1520286 (pid=14847): Dormant child reaped
+[1703296767] wproc: Core Worker 1195: job 1520336 (pid=15324) timed out. Killing it
+[1703296767] wproc: CHECK job 1520336 from worker Core Worker 1195 timed out after 30.01s
+[1703296767] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296767] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296767] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296768] wproc: Core Worker 1195: job 1520336 (pid=15324): Dormant child reaped
+[1703296827] wproc: Core Worker 1192: job 1520387 (pid=15836) timed out. Killing it
+[1703296827] wproc: CHECK job 1520387 from worker Core Worker 1192 timed out after 30.01s
+[1703296827] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296827] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296827] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296828] wproc: Core Worker 1192: job 1520387 (pid=15836): Dormant child reaped
+[1703296887] wproc: Core Worker 1195: job 1520438 (pid=16330) timed out. Killing it
+[1703296887] wproc: CHECK job 1520438 from worker Core Worker 1195 timed out after 30.01s
+[1703296887] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296887] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296887] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296888] wproc: Core Worker 1195: job 1520438 (pid=16330): Dormant child reaped
+[1703296947] wproc: Core Worker 1192: job 1520488 (pid=16824) timed out. Killing it
+[1703296947] wproc: CHECK job 1520488 from worker Core Worker 1192 timed out after 30.01s
+[1703296947] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703296947] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703296947] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703296948] wproc: Core Worker 1192: job 1520488 (pid=16824): Dormant child reaped
+[1703297007] wproc: Core Worker 1194: job 1520539 (pid=17301) timed out. Killing it
+[1703297007] wproc: CHECK job 1520539 from worker Core Worker 1194 timed out after 30.01s
+[1703297007] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297007] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297007] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297008] wproc: Core Worker 1194: job 1520539 (pid=17301): Dormant child reaped
+[1703297067] wproc: Core Worker 1195: job 1520589 (pid=17778) timed out. Killing it
+[1703297067] wproc: CHECK job 1520589 from worker Core Worker 1195 timed out after 30.01s
+[1703297067] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297067] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297067] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297068] wproc: Core Worker 1195: job 1520589 (pid=17778): Dormant child reaped
+[1703297128] wproc: Core Worker 1192: job 1520640 (pid=18290) timed out. Killing it
+[1703297128] wproc: CHECK job 1520640 from worker Core Worker 1192 timed out after 30.01s
+[1703297128] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297128] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297128] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297128] wproc: Core Worker 1192: job 1520640 (pid=18290): Dormant child reaped
+[1703297187] wproc: Core Worker 1194: job 1520691 (pid=18769) timed out. Killing it
+[1703297187] wproc: CHECK job 1520691 from worker Core Worker 1194 timed out after 30.01s
+[1703297187] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297187] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297187] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297187] wproc: Core Worker 1194: job 1520691 (pid=18769): Dormant child reaped
+[1703297247] wproc: Core Worker 1193: job 1520741 (pid=19248) timed out. Killing it
+[1703297247] wproc: CHECK job 1520741 from worker Core Worker 1193 timed out after 30.01s
+[1703297247] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297247] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297247] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297247] wproc: Core Worker 1193: job 1520741 (pid=19248): Dormant child reaped
+[1703297307] wproc: Core Worker 1192: job 1520791 (pid=19725) timed out. Killing it
+[1703297307] wproc: CHECK job 1520791 from worker Core Worker 1192 timed out after 30.00s
+[1703297307] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297307] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297307] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.00 seconds
+[1703297307] wproc: Core Worker 1192: job 1520791 (pid=19725): Dormant child reaped
+[1703297367] wproc: Core Worker 1194: job 1520842 (pid=20202) timed out. Killing it
+[1703297367] wproc: CHECK job 1520842 from worker Core Worker 1194 timed out after 30.01s
+[1703297367] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297367] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297367] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297367] wproc: Core Worker 1194: job 1520842 (pid=20202): Dormant child reaped
+[1703297427] wproc: Core Worker 1193: job 1520893 (pid=20714) timed out. Killing it
+[1703297427] wproc: CHECK job 1520893 from worker Core Worker 1193 timed out after 30.01s
+[1703297427] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297427] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297427] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297427] wproc: Core Worker 1193: job 1520893 (pid=20714): Dormant child reaped
+[1703297487] wproc: Core Worker 1194: job 1520944 (pid=21209) timed out. Killing it
+[1703297487] wproc: CHECK job 1520944 from worker Core Worker 1194 timed out after 30.01s
+[1703297487] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297487] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297487] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297487] wproc: Core Worker 1194: job 1520944 (pid=21209): Dormant child reaped
+[1703297547] wproc: Core Worker 1193: job 1520994 (pid=21688) timed out. Killing it
+[1703297547] wproc: CHECK job 1520994 from worker Core Worker 1193 timed out after 30.01s
+[1703297547] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297547] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297547] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297547] wproc: Core Worker 1193: job 1520994 (pid=21688): Dormant child reaped
+[1703297607] wproc: Core Worker 1192: job 1521044 (pid=22165) timed out. Killing it
+[1703297607] wproc: CHECK job 1521044 from worker Core Worker 1192 timed out after 30.01s
+[1703297607] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297607] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297607] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297607] wproc: Core Worker 1192: job 1521044 (pid=22165): Dormant child reaped
+[1703297667] wproc: Core Worker 1194: job 1521095 (pid=22642) timed out. Killing it
+[1703297667] wproc: CHECK job 1521095 from worker Core Worker 1194 timed out after 30.01s
+[1703297667] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297667] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297667] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297667] wproc: Core Worker 1194: job 1521095 (pid=22642): Dormant child reaped
+[1703297727] wproc: Core Worker 1193: job 1521146 (pid=23155) timed out. Killing it
+[1703297727] wproc: CHECK job 1521146 from worker Core Worker 1193 timed out after 30.01s
+[1703297727] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297727] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297727] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297727] wproc: Core Worker 1193: job 1521146 (pid=23155): Dormant child reaped
+[1703297787] wproc: Core Worker 1194: job 1521197 (pid=23650) timed out. Killing it
+[1703297787] wproc: CHECK job 1521197 from worker Core Worker 1194 timed out after 30.01s
+[1703297787] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297787] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297787] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297787] wproc: Core Worker 1194: job 1521197 (pid=23650): Dormant child reaped
+[1703297847] wproc: Core Worker 1193: job 1521247 (pid=24181) timed out. Killing it
+[1703297847] wproc: CHECK job 1521247 from worker Core Worker 1193 timed out after 30.01s
+[1703297847] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297847] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297847] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297847] wproc: Core Worker 1193: job 1521247 (pid=24181): Dormant child reaped
+[1703297907] wproc: Core Worker 1192: job 1521297 (pid=24663) timed out. Killing it
+[1703297907] wproc: CHECK job 1521297 from worker Core Worker 1192 timed out after 30.01s
+[1703297907] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297907] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297907] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297907] wproc: Core Worker 1192: job 1521297 (pid=24663): Dormant child reaped
+[1703297916] Auto-save of retention data completed successfully.
+[1703297967] wproc: Core Worker 1194: job 1521348 (pid=25140) timed out. Killing it
+[1703297967] wproc: CHECK job 1521348 from worker Core Worker 1194 timed out after 30.01s
+[1703297967] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703297967] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703297967] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703297967] wproc: Core Worker 1194: job 1521348 (pid=25140): Dormant child reaped
+[1703298027] wproc: Core Worker 1193: job 1521399 (pid=25654) timed out. Killing it
+[1703298027] wproc: CHECK job 1521399 from worker Core Worker 1193 timed out after 30.01s
+[1703298027] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298027] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298027] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298027] wproc: Core Worker 1193: job 1521399 (pid=25654): Dormant child reaped
+[1703298087] wproc: Core Worker 1194: job 1521450 (pid=26148) timed out. Killing it
+[1703298087] wproc: CHECK job 1521450 from worker Core Worker 1194 timed out after 30.01s
+[1703298087] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298087] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298087] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298087] wproc: Core Worker 1194: job 1521450 (pid=26148): Dormant child reaped
+[1703298147] wproc: Core Worker 1193: job 1521500 (pid=26627) timed out. Killing it
+[1703298147] wproc: CHECK job 1521500 from worker Core Worker 1193 timed out after 30.01s
+[1703298147] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298147] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298147] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298147] wproc: Core Worker 1193: job 1521500 (pid=26627): Dormant child reaped
+[1703298207] wproc: Core Worker 1192: job 1521550 (pid=27104) timed out. Killing it
+[1703298207] wproc: CHECK job 1521550 from worker Core Worker 1192 timed out after 30.01s
+[1703298207] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298207] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298207] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298207] wproc: Core Worker 1192: job 1521550 (pid=27104): Dormant child reaped
+[1703298267] wproc: Core Worker 1194: job 1521601 (pid=27581) timed out. Killing it
+[1703298267] wproc: CHECK job 1521601 from worker Core Worker 1194 timed out after 30.01s
+[1703298267] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298267] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298267] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298267] wproc: Core Worker 1194: job 1521601 (pid=27581): Dormant child reaped
+[1703298327] wproc: Core Worker 1193: job 1521652 (pid=28093) timed out. Killing it
+[1703298327] wproc: CHECK job 1521652 from worker Core Worker 1193 timed out after 30.01s
+[1703298327] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298327] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298327] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298327] wproc: Core Worker 1193: job 1521652 (pid=28093): Dormant child reaped
+[1703298387] wproc: Core Worker 1194: job 1521703 (pid=28573) timed out. Killing it
+[1703298387] wproc: CHECK job 1521703 from worker Core Worker 1194 timed out after 30.01s
+[1703298387] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298387] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298387] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298387] wproc: Core Worker 1194: job 1521703 (pid=28573): Dormant child reaped
+[1703298447] wproc: Core Worker 1193: job 1521753 (pid=29053) timed out. Killing it
+[1703298447] wproc: CHECK job 1521753 from worker Core Worker 1193 timed out after 30.01s
+[1703298447] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298447] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298447] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298447] wproc: Core Worker 1193: job 1521753 (pid=29053): Dormant child reaped
+[1703298507] wproc: Core Worker 1192: job 1521803 (pid=29530) timed out. Killing it
+[1703298507] wproc: CHECK job 1521803 from worker Core Worker 1192 timed out after 30.01s
+[1703298507] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298507] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298507] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298507] wproc: Core Worker 1192: job 1521803 (pid=29530): Dormant child reaped
+[1703298567] wproc: Core Worker 1194: job 1521854 (pid=30007) timed out. Killing it
+[1703298567] wproc: CHECK job 1521854 from worker Core Worker 1194 timed out after 30.01s
+[1703298567] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298567] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298567] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298567] wproc: Core Worker 1194: job 1521854 (pid=30007): Dormant child reaped
+[1703298627] wproc: Core Worker 1193: job 1521905 (pid=30519) timed out. Killing it
+[1703298627] wproc: CHECK job 1521905 from worker Core Worker 1193 timed out after 30.01s
+[1703298627] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298627] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298627] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298627] wproc: Core Worker 1193: job 1521905 (pid=30519): Dormant child reaped
+[1703298687] wproc: Core Worker 1194: job 1521956 (pid=31009) timed out. Killing it
+[1703298687] wproc: CHECK job 1521956 from worker Core Worker 1194 timed out after 30.01s
+[1703298687] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298687] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298687] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298687] wproc: Core Worker 1194: job 1521956 (pid=31009): Dormant child reaped
+[1703298747] wproc: Core Worker 1193: job 1522006 (pid=31488) timed out. Killing it
+[1703298747] wproc: CHECK job 1522006 from worker Core Worker 1193 timed out after 30.01s
+[1703298747] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298747] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298747] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298747] wproc: Core Worker 1193: job 1522006 (pid=31488): Dormant child reaped
+[1703298807] wproc: Core Worker 1192: job 1522056 (pid=31965) timed out. Killing it
+[1703298807] wproc: CHECK job 1522056 from worker Core Worker 1192 timed out after 30.01s
+[1703298807] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298807] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298807] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298807] wproc: Core Worker 1192: job 1522056 (pid=31965): Dormant child reaped
+[1703298867] wproc: Core Worker 1194: job 1522107 (pid=32442) timed out. Killing it
+[1703298867] wproc: CHECK job 1522107 from worker Core Worker 1194 timed out after 30.01s
+[1703298867] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298867] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298867] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298867] wproc: Core Worker 1194: job 1522107 (pid=32442): Dormant child reaped
+[1703298927] wproc: Core Worker 1193: job 1522158 (pid=508) timed out. Killing it
+[1703298927] wproc: CHECK job 1522158 from worker Core Worker 1193 timed out after 30.01s
+[1703298927] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298927] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298927] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298927] wproc: Core Worker 1193: job 1522158 (pid=508): Dormant child reaped
+[1703298987] wproc: Core Worker 1194: job 1522209 (pid=1030) timed out. Killing it
+[1703298987] wproc: CHECK job 1522209 from worker Core Worker 1194 timed out after 30.01s
+[1703298987] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703298987] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703298987] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703298987] wproc: Core Worker 1194: job 1522209 (pid=1030): Dormant child reaped
+[1703299047] wproc: Core Worker 1193: job 1522259 (pid=1538) timed out. Killing it
+[1703299047] wproc: CHECK job 1522259 from worker Core Worker 1193 timed out after 30.01s
+[1703299047] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299047] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299047] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299047] wproc: Core Worker 1193: job 1522259 (pid=1538): Dormant child reaped
+[1703299107] wproc: Core Worker 1192: job 1522309 (pid=2021) timed out. Killing it
+[1703299107] wproc: CHECK job 1522309 from worker Core Worker 1192 timed out after 30.01s
+[1703299107] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299107] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299107] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299107] wproc: Core Worker 1192: job 1522309 (pid=2021): Dormant child reaped
+[1703299167] wproc: Core Worker 1194: job 1522360 (pid=2500) timed out. Killing it
+[1703299167] wproc: CHECK job 1522360 from worker Core Worker 1194 timed out after 30.01s
+[1703299167] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299167] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299167] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299167] wproc: Core Worker 1194: job 1522360 (pid=2500): Dormant child reaped
+[1703299227] wproc: Core Worker 1193: job 1522411 (pid=3013) timed out. Killing it
+[1703299227] wproc: CHECK job 1522411 from worker Core Worker 1193 timed out after 30.01s
+[1703299227] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299227] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299227] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299227] wproc: Core Worker 1193: job 1522411 (pid=3013): Dormant child reaped
+[1703299287] wproc: Core Worker 1194: job 1522462 (pid=3505) timed out. Killing it
+[1703299287] wproc: CHECK job 1522462 from worker Core Worker 1194 timed out after 30.01s
+[1703299287] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299287] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299287] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299287] wproc: Core Worker 1194: job 1522462 (pid=3505): Dormant child reaped
+[1703299347] wproc: Core Worker 1193: job 1522512 (pid=3985) timed out. Killing it
+[1703299347] wproc: CHECK job 1522512 from worker Core Worker 1193 timed out after 30.01s
+[1703299347] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299347] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299347] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299347] wproc: Core Worker 1193: job 1522512 (pid=3985): Dormant child reaped
+[1703299407] wproc: Core Worker 1192: job 1522562 (pid=4462) timed out. Killing it
+[1703299407] wproc: CHECK job 1522562 from worker Core Worker 1192 timed out after 30.01s
+[1703299407] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299407] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299407] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299407] wproc: Core Worker 1192: job 1522562 (pid=4462): Dormant child reaped
+[1703299467] wproc: Core Worker 1195: job 1522613 (pid=4940) timed out. Killing it
+[1703299467] wproc: CHECK job 1522613 from worker Core Worker 1195 timed out after 30.01s
+[1703299467] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299467] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299467] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299467] wproc: Core Worker 1195: job 1522613 (pid=4940): Dormant child reaped
+[1703299527] wproc: Core Worker 1192: job 1522664 (pid=5454) timed out. Killing it
+[1703299527] wproc: CHECK job 1522664 from worker Core Worker 1192 timed out after 30.01s
+[1703299527] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299527] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299527] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299527] wproc: Core Worker 1192: job 1522664 (pid=5454): Dormant child reaped
+[1703299587] wproc: Core Worker 1195: job 1522715 (pid=5935) timed out. Killing it
+[1703299587] wproc: CHECK job 1522715 from worker Core Worker 1195 timed out after 30.01s
+[1703299587] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299587] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299587] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299587] wproc: Core Worker 1195: job 1522715 (pid=5935): Dormant child reaped
+[1703299647] wproc: Core Worker 1192: job 1522765 (pid=6415) timed out. Killing it
+[1703299647] wproc: CHECK job 1522765 from worker Core Worker 1192 timed out after 30.01s
+[1703299647] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299647] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299647] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299647] wproc: Core Worker 1192: job 1522765 (pid=6415): Dormant child reaped
+[1703299707] wproc: Core Worker 1194: job 1522816 (pid=6893) timed out. Killing it
+[1703299707] wproc: CHECK job 1522816 from worker Core Worker 1194 timed out after 30.01s
+[1703299707] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299707] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299707] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299707] wproc: Core Worker 1194: job 1522816 (pid=6893): Dormant child reaped
+[1703299767] wproc: Core Worker 1195: job 1522866 (pid=7371) timed out. Killing it
+[1703299767] wproc: CHECK job 1522866 from worker Core Worker 1195 timed out after 30.01s
+[1703299767] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299767] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299767] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299767] wproc: Core Worker 1195: job 1522866 (pid=7371): Dormant child reaped
+[1703299827] wproc: Core Worker 1192: job 1522917 (pid=7884) timed out. Killing it
+[1703299827] wproc: CHECK job 1522917 from worker Core Worker 1192 timed out after 30.01s
+[1703299827] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299827] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299827] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299827] wproc: Core Worker 1192: job 1522917 (pid=7884): Dormant child reaped
+[1703299887] wproc: Core Worker 1195: job 1522968 (pid=8379) timed out. Killing it
+[1703299887] wproc: CHECK job 1522968 from worker Core Worker 1195 timed out after 30.01s
+[1703299887] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299887] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299887] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299887] wproc: Core Worker 1195: job 1522968 (pid=8379): Dormant child reaped
+[1703299947] wproc: Core Worker 1192: job 1523018 (pid=8865) timed out. Killing it
+[1703299947] wproc: CHECK job 1523018 from worker Core Worker 1192 timed out after 30.01s
+[1703299947] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703299947] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703299947] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703299947] wproc: Core Worker 1192: job 1523018 (pid=8865): Dormant child reaped
+[1703300007] wproc: Core Worker 1194: job 1523069 (pid=9342) timed out. Killing it
+[1703300007] wproc: CHECK job 1523069 from worker Core Worker 1194 timed out after 30.01s
+[1703300007] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703300007] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703300007] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703300007] wproc: Core Worker 1194: job 1523069 (pid=9342): Dormant child reaped
+[1703300067] wproc: Core Worker 1195: job 1523119 (pid=9819) timed out. Killing it
+[1703300067] wproc: CHECK job 1523119 from worker Core Worker 1195 timed out after 30.01s
+[1703300067] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703300067] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703300067] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703300067] wproc: Core Worker 1195: job 1523119 (pid=9819): Dormant child reaped
+[1703300127] wproc: Core Worker 1192: job 1523170 (pid=10331) timed out. Killing it
+[1703300127] wproc: CHECK job 1523170 from worker Core Worker 1192 timed out after 30.01s
+[1703300127] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703300127] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703300127] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703300127] wproc: Core Worker 1192: job 1523170 (pid=10331): Dormant child reaped
+[1703300187] wproc: Core Worker 1195: job 1523221 (pid=10810) timed out. Killing it
+[1703300187] wproc: CHECK job 1523221 from worker Core Worker 1195 timed out after 30.01s
+[1703300187] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703300187] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703300187] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703300187] wproc: Core Worker 1195: job 1523221 (pid=10810): Dormant child reaped
+[1703300247] wproc: Core Worker 1192: job 1523271 (pid=11290) timed out. Killing it
+[1703300247] wproc: CHECK job 1523271 from worker Core Worker 1192 timed out after 30.01s
+[1703300247] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703300247] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703300247] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703300247] wproc: Core Worker 1192: job 1523271 (pid=11290): Dormant child reaped
+[1703300307] wproc: Core Worker 1194: job 1523322 (pid=11767) timed out. Killing it
+[1703300307] wproc: CHECK job 1523322 from worker Core Worker 1194 timed out after 30.01s
+[1703300307] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703300307] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703300307] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703300307] wproc: Core Worker 1194: job 1523322 (pid=11767): Dormant child reaped
+[1703300367] wproc: Core Worker 1195: job 1523372 (pid=12244) timed out. Killing it
+[1703300367] wproc: CHECK job 1523372 from worker Core Worker 1195 timed out after 30.01s
+[1703300367] wproc:   host=Exper03.exxperience.cl; service=(null);
+[1703300367] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1703300367] Warning: Check of host 'Exper03.exxperience.cl' timed out after 30.01 seconds
+[1703300367] wproc: Core Worker 1195: job 1523372 (pid=12244): Dormant child reaped

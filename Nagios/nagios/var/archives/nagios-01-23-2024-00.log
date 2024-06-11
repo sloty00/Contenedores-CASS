@@ -1,0 +1,925 @@
+[1705892400] LOG ROTATION: DAILY
+[1705892400] LOG VERSION: 2.0
+[1705892400] CURRENT HOST STATE: ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.27 ms
+[1705892400] CURRENT HOST STATE: Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.30 ms
+[1705892400] CURRENT HOST STATE: Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1705892400] CURRENT HOST STATE: Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.26 ms
+[1705892400] CURRENT HOST STATE: Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 36.09 ms
+[1705892400] CURRENT HOST STATE: Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.51 ms
+[1705892400] CURRENT HOST STATE: Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.35 ms
+[1705892400] CURRENT HOST STATE: Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.19 ms
+[1705892400] CURRENT HOST STATE: Exper03.exxperience.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1705892400] CURRENT HOST STATE: Ext Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1705892400] CURRENT HOST STATE: Ext Telsur;UP;HARD;1;PING OK - Packet loss = 37%, RTA = 1.17 ms
+[1705892400] CURRENT HOST STATE: FW ADL Diagnostic;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 33.99 ms
+[1705892400] CURRENT HOST STATE: FW Blueshell;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.59 ms
+[1705892400] CURRENT HOST STATE: FW Cass Entel;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.89 ms
+[1705892400] CURRENT HOST STATE: FW Cass Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1705892400] CURRENT HOST STATE: FW Clinica PV Movistar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 42.43 ms
+[1705892400] CURRENT HOST STATE: FW Clinica PV Telsur;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1705892400] CURRENT HOST STATE: FW Confe;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.15 ms
+[1705892400] CURRENT HOST STATE: FW Electric Works;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.87 ms
+[1705892400] CURRENT HOST STATE: FW Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.36 ms
+[1705892400] CURRENT HOST STATE: FW OyC;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 45.24 ms
+[1705892400] CURRENT HOST STATE: FW Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1705892400] CURRENT HOST STATE: Gore Los Lagos;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1705892400] CURRENT HOST STATE: Host-10.0.0.120;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1705892400] CURRENT HOST STATE: Host-10.0.0.121;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1705892400] CURRENT HOST STATE: Host-10.0.0.124;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1705892400] CURRENT HOST STATE: Internet;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 17.85 ms
+[1705892400] CURRENT HOST STATE: Opitz y Cardenas;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 38.79 ms
+[1705892400] CURRENT HOST STATE: Pasmar;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.30 ms
+[1705892400] CURRENT HOST STATE: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1705892400] CURRENT HOST STATE: SRV01USER_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.71 ms
+[1705892400] CURRENT HOST STATE: SRV04AD01.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1705892400] CURRENT HOST STATE: SRV05AD02_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.49 ms
+[1705892400] CURRENT HOST STATE: SRV11VIBE_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1705892400] CURRENT HOST STATE: SRVAD1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.69 ms
+[1705892400] CURRENT HOST STATE: SRVAD2.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1705892400] CURRENT HOST STATE: SRVADMIN.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.34 ms
+[1705892400] CURRENT HOST STATE: SRVCONT.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.90 ms
+[1705892400] CURRENT HOST STATE: SRVDC01_cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.41 ms
+[1705892400] CURRENT HOST STATE: SRVDC1.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.59 ms
+[1705892400] CURRENT HOST STATE: SRVDNS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1705892400] CURRENT HOST STATE: SRVWEB_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1705892400] CURRENT HOST STATE: SRV_Cfiler.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1705892400] CURRENT HOST STATE: SRV_GLPI;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1705892400] CURRENT HOST STATE: SRV_GXConsultores;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.38 ms
+[1705892400] CURRENT HOST STATE: SRV_Oraculo_cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.25 ms
+[1705892400] CURRENT HOST STATE: SRV_SOS2021.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1705892400] CURRENT HOST STATE: SRV_SUM;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1705892400] CURRENT HOST STATE: SRV_Soporte;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.91 ms
+[1705892400] CURRENT HOST STATE: SRV_chat.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1705892400] CURRENT HOST STATE: SRV_email.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.12 ms
+[1705892400] CURRENT HOST STATE: SRV_nagios;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1705892400] CURRENT HOST STATE: SRV_sync.cass.cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1705892400] CURRENT HOST STATE: Servidor Vcenter;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1705892400] CURRENT HOST STATE: Servidores CASS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.34 ms
+[1705892400] CURRENT HOST STATE: Ups Principal;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1705892400] CURRENT HOST STATE: Veeam2023.cass.pmc;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1705892400] CURRENT HOST STATE: web_cass_cl;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1705892400] CURRENT SERVICE STATE: ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 35.39 ms
+[1705892400] CURRENT SERVICE STATE: Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.31 ms
+[1705892400] CURRENT SERVICE STATE: Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.82 ms
+[1705892400] CURRENT SERVICE STATE: Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 59.51 ms
+[1705892400] CURRENT SERVICE STATE: Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.27 ms
+[1705892400] CURRENT SERVICE STATE: Ext Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.21 ms
+[1705892400] CURRENT SERVICE STATE: FW ADL Diagnostic;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 34.02 ms
+[1705892400] CURRENT SERVICE STATE: FW Blueshell;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.12 ms
+[1705892400] CURRENT SERVICE STATE: FW Cass Entel;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.95 ms
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda DMZ;OK;HARD;1;OK - Average IN: 7.71KB (0.01%), Average OUT: 5.06KB (0.00%)Total RX: 130.87GBytes, Total TX: 53.82GBytes
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda LAN;OK;HARD;1;OK - Average IN: 574.15B (0.00%), Average OUT: 963.92B (0.00%)Total RX: 2259.07GBytes, Total TX: 3965.13GBytes
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;OK - Average IN: 200.77B (0.00%), Average OUT: 81.42B (0.00%)Total RX: 18407.21GBytes, Total TX: 11180.27GBytes
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto DMZ;OK;HARD;1;OK: Interface eth2 (index 4) is up.
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto LAN;OK;HARD;1;OK: Interface eth0 (index 2) is up.
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Estado Puerto WAN;OK;HARD;1;OK: Interface eth1 (index 3) is up.
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Estado TCP Sophos;OK;HARD;1;TCP OK - 0.001 second response time on 201.220.96.34 port 4444
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1705892400] CURRENT SERVICE STATE: FW Cass Telsur;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (115293423) 13 days, 8:15:34.23
+[1705892400] CURRENT SERVICE STATE: FW Clinica PV Movistar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 44.19 ms
+[1705892400] CURRENT SERVICE STATE: FW Confe;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 38.66 ms
+[1705892400] CURRENT SERVICE STATE: FW Electric Works;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 33.90 ms
+[1705892400] CURRENT SERVICE STATE: FW Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.83 ms
+[1705892400] CURRENT SERVICE STATE: FW Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.39 ms
+[1705892400] CURRENT SERVICE STATE: Gore Los Lagos;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.17 ms
+[1705892400] CURRENT SERVICE STATE: Host-10.0.0.120;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1705892400] CURRENT SERVICE STATE: Host-10.0.0.121;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1705892400] CURRENT SERVICE STATE: Pasmar;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.32 ms
+[1705892400] CURRENT SERVICE STATE: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:36TB - Free:13TB - Used Space: 73%
+[1705892400] CURRENT SERVICE STATE: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1705892400] CURRENT SERVICE STATE: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1346MB - Free:2484MB = 36%
+[1705892400] CURRENT SERVICE STATE: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1705892400] CURRENT SERVICE STATE: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=0C
+[1705892400] CURRENT SERVICE STATE: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (29051266) 3 days, 8:41:52.66
+[1705892400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates: 4 critical, 0 optional
+[1705892400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento C;WARNING;HARD;3;c:\ - total: 119.40 Gb - used: 96.99 Gb (81%) - free 22.41 Gb (19%)
+[1705892400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Almacenamiento U;OK;HARD;1;u:\ - total: 1023.98 Gb - used: 239.69 Gb (23%) - free 784.29 Gb (77%)
+[1705892400] CURRENT SERVICE STATE: SRV01USER_cass.cl;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1705892400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Memoria;OK;HARD;1;Memory usage: total:23551.21 MB - used: 2290.29 MB (10%) - free: 21260.92 MB (90%)
+[1705892400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.54 ms
+[1705892400] CURRENT SERVICE STATE: SRV01USER_cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 0 day(s) 15 hour(s) 54 minute(s)
+[1705892400] CURRENT SERVICE STATE: SRV04AD01.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1705892400] CURRENT SERVICE STATE: SRV05AD02_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.60 ms
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 78600 MiB (85.76% inode=-):
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.00
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7693 MB - Used: 3917 MB - 50% [SWAP] Total: 7944 MB - Used: 0 MB - 0%
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.18 ms
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Proceso Vibe;OK;HARD;1;PROCS OK: 0 processes with command name 'vibe'
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos;OK;HARD;1;PROCS OK: 311 processes
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 80
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.001 second response time on 10.0.2.13 port 443
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Servicio Vibe;OK;HARD;1;OK: Service vibe is running!
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 48 day(s) 15 hour(s) 35 minute(s)
+[1705892400] CURRENT SERVICE STATE: SRV11VIBE_cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1705892400] CURRENT SERVICE STATE: SRVAD1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.74 ms
+[1705892400] CURRENT SERVICE STATE: SRVAD2.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.56 ms
+[1705892400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 1 critical, 0 optional
+[1705892400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 299.66 Gb - used: 161.79 Gb (54%) - free 137.87 Gb (46%)
+[1705892400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;CPU;OK;HARD;1;CPU Load 1% (5 min average)
+[1705892400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:15291.55 MB - used: 7552.06 MB (49%) - free: 7739.49 MB (51%)
+[1705892400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1705892400] CURRENT SERVICE STATE: SRVADMIN.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 12 day(s) 15 hour(s) 31 minute(s)
+[1705892400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Actualizacion;OK;HARD;1;OK - no pending updates.
+[1705892400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Almacenamiento;OK;HARD;1;c:\ - total: 299.33 Gb - used: 44.24 Gb (15%) - free 255.09 Gb (85%)
+[1705892400] CURRENT SERVICE STATE: SRVCONT.cass.cl;CPU;OK;HARD;1;CPU Load 3% (5 min average)
+[1705892400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Memoria;OK;HARD;1;Memory usage: total:14143.13 MB - used: 3057.77 MB (22%) - free: 11085.36 MB (78%)
+[1705892400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.53 ms
+[1705892400] CURRENT SERVICE STATE: SRVCONT.cass.cl;Tiempo Activo;OK;HARD;1;System Uptime - 35 day(s) 1 hour(s) 0 minute(s)
+[1705892400] CURRENT SERVICE STATE: SRVDC1.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.87 ms
+[1705892400] CURRENT SERVICE STATE: SRVDNS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1705892400] CURRENT SERVICE STATE: SRVWEB_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: / 2401779 MB (71% inode=-):
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;CPU;OK;HARD;1;OK - load average: 0.07, 0.10, 0.12
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Http;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Https;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 3893 MB - Used: 1258 MB - 32% [SWAP] Total: 2047 MB - Used: 249 MB - 12%
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos;OK;HARD;1;PROCS OK: 312 processes
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Procs Apache;OK;HARD;1;PROCS OK: 11 processes with args 'apache2'
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Serv Apache;OK;HARD;1;OK: Service apache is running!
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Servicio General;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 50 day(s) 19 hour(s) 34 minute(s)
+[1705892400] CURRENT SERVICE STATE: SRV_Cfiler.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1705892400] CURRENT SERVICE STATE: SRV_GLPI;Http;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 364 bytes in 0.001 second response time
+[1705892400] CURRENT SERVICE STATE: SRV_GLPI;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1705892400] CURRENT SERVICE STATE: SRV_Oraculo_cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.87 ms
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 118358 MiB (91.09% inode=-):
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7946 MB - Used: 1274 MB - 16% [SWAP] Total: 10239 MB - Used: 0 MB - 0%
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos;OK;HARD;1;PROCS OK: 302 processes
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 50 day(s) 19 hour(s) 32 minute(s)
+[1705892400] CURRENT SERVICE STATE: SRV_SOS2021.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1705892400] CURRENT SERVICE STATE: SRV_SUM;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1705892400] CURRENT SERVICE STATE: SRV_Soporte;Actualizacion;CRITICAL;HARD;3;Hay 6 actualizaciones pendientes.
+[1705892400] CURRENT SERVICE STATE: SRV_Soporte;Agentes;OK;HARD;1;OK: Agent_version was ['3.0.1']
+[1705892400] CURRENT SERVICE STATE: SRV_Soporte;CPU;OK;HARD;1;OK: Percent was 41.67 %
+[1705892400] CURRENT SERVICE STATE: SRV_Soporte;Memoria;OK;HARD;1;OK: Memory usage was 39.40 % (Available: 10.42 GB, Total: 17.18 GB, Free: 10.42 GB, Used: 6.76 GB)
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 946638 MiB (90.53% inode=-):
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.10, 0.11, 0.09
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 7919 MB - Used: 3268 MB - 41% [SWAP] Total: 2048 MB - Used: 467 MB - 22%
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Docker;OK;HARD;1;PROCS OK: 0 processes with command name 'docker'
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Proceso Nginx;OK;HARD;1;PROCS OK: 3 processes with command name 'nginx'
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos;OK;HARD;1;PROCS OK: 301 processes
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 1 process with STATE = Z
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Contenedor;OK;HARD;1;TCP OK - 0.000 second response time on port 8000
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTP;OK;HARD;1;TCP OK - 0.000 second response time on port 80
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto HTTPS;OK;HARD;1;TCP OK - 0.000 second response time on port 443
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Puerto Portainer;OK;HARD;1;TCP OK - 0.000 second response time on port 9443
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Docker;OK;HARD;1;OK: Service docker is running!
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Servicio Nginx;OK;HARD;1;OK: Service nginx is running!
+[1705892400] CURRENT SERVICE STATE: SRV_chat.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 2 users currently logged in
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Actualizacion;OK;HARD;1;Updates OK : no updates available
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento /;OK;HARD;1;DISK OK - free space: /var/tmp 462658 MiB (91.32% inode=-):
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail;OK;HARD;1;DISK OK - free space: /mail 1788966 MiB (91.35% inode=99%):
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Almacenamiento Mail2;OK;HARD;1;DISK OK - free space: /mail2 475402 MiB (99.61% inode=100%):
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;CPU;OK;HARD;1;OK - load average per CPU: 0.01, 0.01, 0.01
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Pop;OK;HARD;1;POP OK - 0.001 second response time on 10.0.2.25 port 110 [+OK GroupWise POP3 server ready]
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Correo Smtp;OK;HARD;1;SMTP OK - 0.011 sec. response time
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Memoria;OK;HARD;1;[MEMORY] Total: 11939 MB - Used: 3002 MB - 25% [SWAP] Total: 2048 MB - Used: 24 MB - 1%
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.20 ms
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos;OK;HARD;1;PROCS OK: 311 processes
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Procesos Zombies;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Tiempo Activo;OK;HARD;1;Uptime OK: 50 day(s) 19 hour(s) 31 minute(s)
+[1705892400] CURRENT SERVICE STATE: SRV_email.cass.cl;Usuarios Login;OK;HARD;1;USERS OK - 1 users currently logged in
+[1705892400] CURRENT SERVICE STATE: SRV_nagios;Actualizacion;OK;HARD;1;YUM OK: 0 Updates Available
+[1705892400] CURRENT SERVICE STATE: SRV_nagios;CPU;OK;HARD;1;OK - load average: 0.10, 0.10, 0.12
+[1705892400] CURRENT SERVICE STATE: SRV_nagios;Memoria;OK;HARD;1;[MEMORY] Total: 7740 MB - Used: 641 MB - 8% [SWAP] Total: 7935 MB - Used: 0 MB - 0%
+[1705892400] CURRENT SERVICE STATE: SRV_nagios;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1705892400] CURRENT SERVICE STATE: SRV_nagios;Procesos;OK;HARD;1;PROCS OK: 57 processes with STATE = RSZDT
+[1705892400] CURRENT SERVICE STATE: SRV_nagios;Usarios Login;OK;HARD;1;USERS OK - 0 users currently logged in
+[1705892400] CURRENT SERVICE STATE: SRV_sync.cass.cl;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.59 ms
+[1705892400] CURRENT SERVICE STATE: Servidor Vcenter;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1705892400] CURRENT SERVICE STATE: Servidores CASS;Ancho de Banda GE/1/0/3;OK;HARD;1;OK - Average IN: 6.98KB (0.01%), Average OUT: 7.23KB (0.01%)Total RX: 12912.21GBytes, Total TX: 50818.88GBytes
+[1705892400] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 3;OK;HARD;1;OK: Interface GigabitEthernet1/0/3 (index 3) is up.
+[1705892400] CURRENT SERVICE STATE: Servidores CASS;Estado Puerto 80;OK;HARD;1;TCP OK - 0.002 second response time on 10.0.0.17 port 80
+[1705892400] CURRENT SERVICE STATE: Servidores CASS;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1705892400] CURRENT SERVICE STATE: Servidores CASS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (439077730) 50 days, 19:39:37.30
+[1705892400] CURRENT SERVICE STATE: Ups Principal;Carga;OK;HARD;1;OK: Estimated battery charge 100%, approximately 0 minutes runtime remaining.
+[1705892400] CURRENT SERVICE STATE: Ups Principal;Estado;OK;HARD;1;OK: Battery Status Normal.
+[1705892400] CURRENT SERVICE STATE: Ups Principal;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.13 ms
+[1705892400] CURRENT SERVICE STATE: Ups Principal;Temperatura;OK;HARD;1;OK: Battery Temperature is 28 degrees C (82.4 degrees F).
+[1705892400] CURRENT SERVICE STATE: Ups Principal;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (78795173) 9 days, 2:52:31.73
+[1705892400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 5 critical, 0 optional
+[1705892400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Almacenamiento;OK;HARD;1;c:\ - total: 99.33 Gb - used: 84.11 Gb (85%) - free 15.22 Gb (15%)
+[1705892400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 42% (5 min average)
+[1705892400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Memoria;OK;HARD;1;Memory usage: total:28159.25 MB - used: 20186.04 MB (72%) - free: 7973.22 MB (28%)
+[1705892400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.98 ms
+[1705892400] CURRENT SERVICE STATE: Veeam2023.cass.pmc;Tiempo Activo;OK;HARD;1;System Uptime - 32 day(s) 23 hour(s) 0 minute(s)
+[1705892400] CURRENT SERVICE STATE: web_cass_cl;Certificado;OK;HARD;1;SSL OK - Certificate '*.cass.cl' will expire in 347 days on 2025-01-03 20:59 -0300/-03.
+[1705892400] CURRENT SERVICE STATE: web_cass_cl;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 302 Found - 1071 bytes in 0.201 second response time
+[1705893566] Auto-save of retention data completed successfully.
+[1705893743] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 94.00 %
+[1705893863] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 28.77 %
+[1705894763] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.38 %
+[1705894884] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 40.90 %
+[1705895844] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 97.75 %
+[1705895965] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;2;WARNING: Percent was 62.85 %
+[1705896086] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;3;OK: Percent was 37.88 %
+[1705897166] Auto-save of retention data completed successfully.
+[1705898306] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.62 %
+[1705898427] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 4.55 %
+[1705899208] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.38 %
+[1705899328] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 0.75 %
+[1705900766] Auto-save of retention data completed successfully.
+[1705900769] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.10 %
+[1705900889] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 4.55 %
+[1705901070] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.62 %
+[1705901191] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.35 %
+[1705902332] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.40 %
+[1705902453] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 1.50 %
+[1705903414] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.60 %
+[1705903534] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 0.75 %
+[1705904366] Auto-save of retention data completed successfully.
+[1705907794] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 69.68 %
+[1705907915] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 4.57 %
+[1705907966] Auto-save of retention data completed successfully.
+[1705909416] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.15 %
+[1705909537] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 3.80 %
+[1705910865] SERVICE ALERT: SRV_nagios;Actualizacion;CRITICAL;SOFT;1;YUM CRITICAL: Yum nagios plugin has self terminated after exceeding the timeout (30 seconds)
+[1705910928] SERVICE ALERT: SRV_nagios;Actualizacion;OK;SOFT;2;YUM OK: 0 Updates Available
+[1705911278] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.18 %
+[1705911398] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 44.70 %
+[1705911566] Auto-save of retention data completed successfully.
+[1705912358] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.10 %
+[1705912479] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.12 %
+[1705913379] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.38 %
+[1705913500] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 13.65 %
+[1705915166] Auto-save of retention data completed successfully.
+[1705915241] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 86.13 %
+[1705915362] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 4.55 %
+[1705917403] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.90 %
+[1705917524] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 3.77 %
+[1705918766] Auto-save of retention data completed successfully.
+[1705919565] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.38 %
+[1705919686] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 39.40 %
+[1705921727] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.20 %
+[1705921847] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 35.60 %
+[1705922366] Auto-save of retention data completed successfully.
+[1705923346] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.77 %
+[1705923467] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 40.15 %
+[1705923768] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.62 %
+[1705923889] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 42.42 %
+[1705924250] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 87.10 %
+[1705924371] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;2;WARNING: Percent was 62.88 %
+[1705924492] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;3;OK: Percent was 37.90 %
+[1705925966] Auto-save of retention data completed successfully.
+[1705927127] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705927247] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 13.57KB (0.01%), Average OUT: 8.51KB (0.01%)Total RX: 131.31GBytes, Total TX: 54.07GBytes
+[1705927249] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705927369] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 208.79B (0.00%), Average OUT: 58.37B (0.00%)Total RX: 18486.68GBytes, Total TX: 11317.31GBytes
+[1705927662] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705927782] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705927852] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 75.75 %
+[1705927973] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 40.15 %
+[1705928020] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV11VIBE_cass.cl;Actualizacion;1705928019
+[1705928025] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV11VIBE_cass.cl;Actualizacion;1705928024
+[1705928030] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV11VIBE_cass.cl;Actualizacion;1705928029
+[1705928445] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1705928565] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 44.73KB (0.04%), Average OUT: 424.47KB (0.34%)Total RX: 2260.35GBytes, Total TX: 3969.26GBytes
+[1705928694] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 71.20 %
+[1705928814] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.65 %
+[1705928935] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705929055] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 58.64KB (0.05%), Average OUT: 328.19KB (0.26%)Total RX: 2260.37GBytes, Total TX: 3969.43GBytes
+[1705929566] Auto-save of retention data completed successfully.
+[1705929683] Caught SIGTERM, shutting down...
+[1705929683] Caught SIGTERM, shutting down...
+[1705929683] Successfully shutdown... (PID=30400)
+[1705929712] Nagios 4.4.11 starting... (PID=10548)
+[1705929712] Local time is Mon Jan 22 10:21:52 -03 2024
+[1705929712] LOG VERSION: 2.0
+[1705929712] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705929712] qh: core query handler registered
+[1705929712] qh: echo service query handler registered
+[1705929712] qh: help for the query handler registered
+[1705929712] wproc: Successfully registered manager as @wproc with query handler
+[1705929712] wproc: Registry request: name=Core Worker 10549;pid=10549
+[1705929712] wproc: Registry request: name=Core Worker 10550;pid=10550
+[1705929712] wproc: Registry request: name=Core Worker 10551;pid=10551
+[1705929712] wproc: Registry request: name=Core Worker 10552;pid=10552
+[1705929712] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705929712] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705929712] Successfully launched command file worker with pid 10553
+[1705929835] Caught SIGTERM, shutting down...
+[1705929835] Caught SIGTERM, shutting down...
+[1705929835] Successfully shutdown... (PID=10548)
+[1705929835] Nagios 4.4.11 starting... (PID=11611)
+[1705929835] Local time is Mon Jan 22 10:23:55 -03 2024
+[1705929835] LOG VERSION: 2.0
+[1705929835] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705929835] qh: core query handler registered
+[1705929835] qh: echo service query handler registered
+[1705929835] qh: help for the query handler registered
+[1705929835] wproc: Successfully registered manager as @wproc with query handler
+[1705929835] wproc: Registry request: name=Core Worker 11613;pid=11613
+[1705929835] wproc: Registry request: name=Core Worker 11612;pid=11612
+[1705929835] wproc: Registry request: name=Core Worker 11614;pid=11614
+[1705929835] wproc: Registry request: name=Core Worker 11615;pid=11615
+[1705929835] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705929835] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705929835] Successfully launched command file worker with pid 11616
+[1705929881] Caught SIGTERM, shutting down...
+[1705929881] Caught SIGTERM, shutting down...
+[1705929881] Caught SIGTERM, shutting down...
+[1705929881] Successfully shutdown... (PID=11611)
+[1705929881] Nagios 4.4.11 starting... (PID=12049)
+[1705929881] Local time is Mon Jan 22 10:24:41 -03 2024
+[1705929881] LOG VERSION: 2.0
+[1705929881] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705929881] qh: core query handler registered
+[1705929881] qh: echo service query handler registered
+[1705929881] qh: help for the query handler registered
+[1705929881] wproc: Successfully registered manager as @wproc with query handler
+[1705929881] wproc: Registry request: name=Core Worker 12050;pid=12050
+[1705929881] wproc: Registry request: name=Core Worker 12051;pid=12051
+[1705929881] wproc: Registry request: name=Core Worker 12053;pid=12053
+[1705929881] wproc: Registry request: name=Core Worker 12052;pid=12052
+[1705929881] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705929881] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705929881] Successfully launched command file worker with pid 12054
+[1705929991] Caught SIGTERM, shutting down...
+[1705929991] Caught SIGTERM, shutting down...
+[1705929991] Caught SIGTERM, shutting down...
+[1705929991] Successfully shutdown... (PID=12049)
+[1705929991] Nagios 4.4.11 starting... (PID=13022)
+[1705929991] Local time is Mon Jan 22 10:26:31 -03 2024
+[1705929991] LOG VERSION: 2.0
+[1705929991] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705929991] qh: core query handler registered
+[1705929991] qh: echo service query handler registered
+[1705929991] qh: help for the query handler registered
+[1705929991] wproc: Successfully registered manager as @wproc with query handler
+[1705929991] wproc: Registry request: name=Core Worker 13024;pid=13024
+[1705929991] wproc: Registry request: name=Core Worker 13025;pid=13025
+[1705929991] wproc: Registry request: name=Core Worker 13023;pid=13023
+[1705929991] wproc: Registry request: name=Core Worker 13026;pid=13026
+[1705929991] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705929991] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705929991] Successfully launched command file worker with pid 13027
+[1705930026] Caught SIGTERM, shutting down...
+[1705930026] Caught SIGTERM, shutting down...
+[1705930026] Caught SIGTERM, shutting down...
+[1705930026] Successfully shutdown... (PID=13022)
+[1705930026] Nagios 4.4.11 starting... (PID=13289)
+[1705930026] Local time is Mon Jan 22 10:27:06 -03 2024
+[1705930026] LOG VERSION: 2.0
+[1705930026] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705930026] qh: core query handler registered
+[1705930026] qh: echo service query handler registered
+[1705930026] qh: help for the query handler registered
+[1705930026] wproc: Successfully registered manager as @wproc with query handler
+[1705930026] wproc: Registry request: name=Core Worker 13292;pid=13292
+[1705930026] wproc: Registry request: name=Core Worker 13291;pid=13291
+[1705930026] wproc: Registry request: name=Core Worker 13290;pid=13290
+[1705930026] wproc: Registry request: name=Core Worker 13293;pid=13293
+[1705930026] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705930026] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705930026] Successfully launched command file worker with pid 13294
+[1705930229] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705930248] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705930349] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705930369] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.39KB (0.01%), Average OUT: 7.79KB (0.01%)Total RX: 131.36GBytes, Total TX: 54.10GBytes
+[1705930525] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705930645] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1705930975] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.62 %
+[1705931095] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.38 %
+[1705931149] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705931274] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1705931336] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.35 %
+[1705931457] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 34.12 %
+[1705932793] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1705932819] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705932840] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705932854] SERVICE ALERT: Veeam2023.cass.pmc;Actualizacion;CRITICAL;HARD;3;Updates: 5 critical, 0 optional
+[1705932939] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705932960] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.51KB (0.01%), Average OUT: 6.81KB (0.01%)Total RX: 131.42GBytes, Total TX: 54.15GBytes
+[1705933024] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705933138] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 64.83 %
+[1705933144] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1705933259] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 56.52 %
+[1705933331] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705933451] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 10.73KB (0.01%), Average OUT: 8.35KB (0.01%)Total RX: 131.42GBytes, Total TX: 54.15GBytes
+[1705933626] Auto-save of retention data completed successfully.
+[1705933740] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 67.75 %
+[1705933860] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 33.35 %
+[1705933903] Caught SIGTERM, shutting down...
+[1705933903] Caught SIGTERM, shutting down...
+[1705933903] Successfully shutdown... (PID=13289)
+[1705933903] Nagios 4.4.11 starting... (PID=13726)
+[1705933903] Local time is Mon Jan 22 11:31:43 -03 2024
+[1705933903] LOG VERSION: 2.0
+[1705933903] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705933903] qh: core query handler registered
+[1705933903] qh: echo service query handler registered
+[1705933903] qh: help for the query handler registered
+[1705933903] wproc: Successfully registered manager as @wproc with query handler
+[1705933903] wproc: Registry request: name=Core Worker 13729;pid=13729
+[1705933903] wproc: Registry request: name=Core Worker 13727;pid=13727
+[1705933903] wproc: Registry request: name=Core Worker 13730;pid=13730
+[1705933903] wproc: Registry request: name=Core Worker 13728;pid=13728
+[1705933903] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705933903] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705933903] Successfully launched command file worker with pid 13731
+[1705933917] Caught SIGTERM, shutting down...
+[1705933917] Caught SIGTERM, shutting down...
+[1705933917] Caught SIGTERM, shutting down...
+[1705933917] Successfully shutdown... (PID=13726)
+[1705933917] Nagios 4.4.11 starting... (PID=13827)
+[1705933917] Local time is Mon Jan 22 11:31:57 -03 2024
+[1705933917] LOG VERSION: 2.0
+[1705933917] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705933917] qh: core query handler registered
+[1705933917] qh: echo service query handler registered
+[1705933917] qh: help for the query handler registered
+[1705933917] wproc: Successfully registered manager as @wproc with query handler
+[1705933917] wproc: Registry request: name=Core Worker 13828;pid=13828
+[1705933917] wproc: Registry request: name=Core Worker 13830;pid=13830
+[1705933917] wproc: Registry request: name=Core Worker 13829;pid=13829
+[1705933917] wproc: Registry request: name=Core Worker 13831;pid=13831
+[1705933917] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705933917] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705933917] Successfully launched command file worker with pid 13832
+[1705933934] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Https;1705933933
+[1705933939] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Https;1705933937
+[1705933981] Caught SIGTERM, shutting down...
+[1705933981] Caught SIGTERM, shutting down...
+[1705933981] Successfully shutdown... (PID=13827)
+[1705933981] Nagios 4.4.11 starting... (PID=14412)
+[1705933981] Local time is Mon Jan 22 11:33:01 -03 2024
+[1705933981] LOG VERSION: 2.0
+[1705933981] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705933981] qh: core query handler registered
+[1705933981] qh: echo service query handler registered
+[1705933981] qh: help for the query handler registered
+[1705933981] wproc: Successfully registered manager as @wproc with query handler
+[1705933981] wproc: Registry request: name=Core Worker 14414;pid=14414
+[1705933981] wproc: Registry request: name=Core Worker 14415;pid=14415
+[1705933981] wproc: Registry request: name=Core Worker 14413;pid=14413
+[1705933981] wproc: Registry request: name=Core Worker 14416;pid=14416
+[1705933981] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705933981] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705933981] Successfully launched command file worker with pid 14417
+[1705934049] SERVICE ALERT: SRV11VIBE_cass.cl;Actualizacion;UNKNOWN;HARD;3;CHECK_NRPE: Receive header underflow - only 0 bytes received (4 expected).
+[1705934131] SERVICE ALERT: SRV11VIBE_cass.cl;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : discontinued OS Release SLE 15.1: At least one of your Repositories might be out of date. Please run "zypper refresh" as root to update it.  3 security update(s): 1 recommended update(s):  2 package update(s):
+[1705934285] Caught SIGTERM, shutting down...
+[1705934285] Caught SIGTERM, shutting down...
+[1705934285] Caught SIGTERM, shutting down...
+[1705934285] Successfully shutdown... (PID=14412)
+[1705934285] Nagios 4.4.11 starting... (PID=16979)
+[1705934285] Local time is Mon Jan 22 11:38:05 -03 2024
+[1705934285] LOG VERSION: 2.0
+[1705934285] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705934285] qh: core query handler registered
+[1705934285] qh: echo service query handler registered
+[1705934285] qh: help for the query handler registered
+[1705934285] wproc: Successfully registered manager as @wproc with query handler
+[1705934285] wproc: Registry request: name=Core Worker 16982;pid=16982
+[1705934285] wproc: Registry request: name=Core Worker 16983;pid=16983
+[1705934285] wproc: Registry request: name=Core Worker 16981;pid=16981
+[1705934285] wproc: Registry request: name=Core Worker 16980;pid=16980
+[1705934285] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705934285] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705934285] Successfully launched command file worker with pid 16984
+[1705934357] Caught SIGTERM, shutting down...
+[1705934357] Caught SIGTERM, shutting down...
+[1705934357] Caught SIGTERM, shutting down...
+[1705934357] Successfully shutdown... (PID=16979)
+[1705934357] Nagios 4.4.11 starting... (PID=17709)
+[1705934357] Local time is Mon Jan 22 11:39:17 -03 2024
+[1705934357] LOG VERSION: 2.0
+[1705934357] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705934357] qh: core query handler registered
+[1705934357] qh: echo service query handler registered
+[1705934357] qh: help for the query handler registered
+[1705934357] wproc: Successfully registered manager as @wproc with query handler
+[1705934357] wproc: Registry request: name=Core Worker 17710;pid=17710
+[1705934357] wproc: Registry request: name=Core Worker 17711;pid=17711
+[1705934357] wproc: Registry request: name=Core Worker 17713;pid=17713
+[1705934357] wproc: Registry request: name=Core Worker 17712;pid=17712
+[1705934357] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705934357] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705934357] Successfully launched command file worker with pid 17714
+[1705934419] Caught SIGTERM, shutting down...
+[1705934419] Caught SIGTERM, shutting down...
+[1705934419] Caught SIGTERM, shutting down...
+[1705934419] Successfully shutdown... (PID=17709)
+[1705934419] Nagios 4.4.11 starting... (PID=18275)
+[1705934419] Local time is Mon Jan 22 11:40:19 -03 2024
+[1705934419] LOG VERSION: 2.0
+[1705934419] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705934419] qh: core query handler registered
+[1705934419] qh: echo service query handler registered
+[1705934419] qh: help for the query handler registered
+[1705934419] wproc: Successfully registered manager as @wproc with query handler
+[1705934419] wproc: Registry request: name=Core Worker 18276;pid=18276
+[1705934419] wproc: Registry request: name=Core Worker 18279;pid=18279
+[1705934419] wproc: Registry request: name=Core Worker 18277;pid=18277
+[1705934419] wproc: Registry request: name=Core Worker 18278;pid=18278
+[1705934419] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705934419] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705934419] Successfully launched command file worker with pid 18280
+[1705935088] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705935095] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705935208] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 62.49KB (0.05%), Average OUT: 472.46KB (0.38%)Total RX: 2260.79GBytes, Total TX: 3972.91GBytes
+[1705935215] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1705935672] Caught SIGTERM, shutting down...
+[1705935672] Caught SIGTERM, shutting down...
+[1705935672] Caught SIGTERM, shutting down...
+[1705935672] Successfully shutdown... (PID=18275)
+[1705935672] Nagios 4.4.11 starting... (PID=28909)
+[1705935672] Local time is Mon Jan 22 12:01:12 -03 2024
+[1705935672] LOG VERSION: 2.0
+[1705935672] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705935672] qh: core query handler registered
+[1705935672] qh: echo service query handler registered
+[1705935672] qh: help for the query handler registered
+[1705935672] wproc: Successfully registered manager as @wproc with query handler
+[1705935672] wproc: Registry request: name=Core Worker 28912;pid=28912
+[1705935672] wproc: Registry request: name=Core Worker 28913;pid=28913
+[1705935672] wproc: Registry request: name=Core Worker 28910;pid=28910
+[1705935672] wproc: Registry request: name=Core Worker 28911;pid=28911
+[1705935672] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705935672] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705935672] Successfully launched command file worker with pid 28914
+[1705935677] SERVICE ALERT: SRV_GLPI;Actualizacion;UNKNOWN;SOFT;1;UNKNOWN: The node (check_zypper) requested does not exist.
+[1705935688] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Actualizacion;1705935687
+[1705935688] SERVICE ALERT: SRV_GLPI;Actualizacion;UNKNOWN;SOFT;2;UNKNOWN: The node (check_zypper) requested does not exist.
+[1705935744] Caught SIGTERM, shutting down...
+[1705935744] Caught SIGTERM, shutting down...
+[1705935744] Caught SIGTERM, shutting down...
+[1705935744] Successfully shutdown... (PID=28909)
+[1705935744] Nagios 4.4.11 starting... (PID=29563)
+[1705935744] Local time is Mon Jan 22 12:02:24 -03 2024
+[1705935744] LOG VERSION: 2.0
+[1705935744] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705935744] qh: core query handler registered
+[1705935744] qh: echo service query handler registered
+[1705935744] qh: help for the query handler registered
+[1705935744] wproc: Successfully registered manager as @wproc with query handler
+[1705935744] wproc: Registry request: name=Core Worker 29564;pid=29564
+[1705935744] wproc: Registry request: name=Core Worker 29567;pid=29567
+[1705935744] wproc: Registry request: name=Core Worker 29566;pid=29566
+[1705935744] wproc: Registry request: name=Core Worker 29565;pid=29565
+[1705935744] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705935744] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705935744] Successfully launched command file worker with pid 29568
+[1705935754] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Actualizacion;1705935753
+[1705935757] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;Actualizacion;CRITICAL;notify-service-by-email;Updates CRITICAL : installed Tumbleweed version (20220929) is older than 60 days (1700751295 lt 1664420400): 1534 package update(s):
+[1705935757] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;Actualizacion;CRITICAL;notify-service-by-email;Updates CRITICAL : installed Tumbleweed version (20220929) is older than 60 days (1700751295 lt 1664420400): 1534 package update(s):
+[1705935757] SERVICE NOTIFICATION: soporteti;SRV_GLPI;Actualizacion;CRITICAL;notify-service-by-telegram;Updates CRITICAL : installed Tumbleweed version (20220929) is older than 60 days (1700751295 lt 1664420400): 1534 package update(s):
+[1705935757] SERVICE NOTIFICATION: soporteti;SRV_GLPI;Actualizacion;CRITICAL;notify-service-by-email;Updates CRITICAL : installed Tumbleweed version (20220929) is older than 60 days (1700751295 lt 1664420400): 1534 package update(s):
+[1705935757] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;Actualizacion;CRITICAL;notify-service-by-telegram;Updates CRITICAL : installed Tumbleweed version (20220929) is older than 60 days (1700751295 lt 1664420400): 1534 package update(s):
+[1705935757] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;Actualizacion;CRITICAL;notify-service-by-email;Updates CRITICAL : installed Tumbleweed version (20220929) is older than 60 days (1700751295 lt 1664420400): 1534 package update(s):
+[1705935757] SERVICE ALERT: SRV_GLPI;Actualizacion;CRITICAL;HARD;3;Updates CRITICAL : installed Tumbleweed version (20220929) is older than 60 days (1700751295 lt 1664420400): 1534 package update(s):
+[1705935760] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Actualizacion;1705935759
+[1705935765] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Actualizacion;1705935764
+[1705935783] Caught SIGTERM, shutting down...
+[1705935783] Caught SIGTERM, shutting down...
+[1705935783] Caught SIGTERM, shutting down...
+[1705935783] Successfully shutdown... (PID=29563)
+[1705935783] Nagios 4.4.11 starting... (PID=29958)
+[1705935783] Local time is Mon Jan 22 12:03:03 -03 2024
+[1705935783] LOG VERSION: 2.0
+[1705935783] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705935783] qh: core query handler registered
+[1705935783] qh: echo service query handler registered
+[1705935783] qh: help for the query handler registered
+[1705935783] wproc: Successfully registered manager as @wproc with query handler
+[1705935783] wproc: Registry request: name=Core Worker 29961;pid=29961
+[1705935783] wproc: Registry request: name=Core Worker 29960;pid=29960
+[1705935783] wproc: Registry request: name=Core Worker 29959;pid=29959
+[1705935783] wproc: Registry request: name=Core Worker 29962;pid=29962
+[1705935783] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705935783] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705935783] Successfully launched command file worker with pid 29963
+[1705935783] Caught SIGTERM, shutting down...
+[1705935783] Caught SIGTERM, shutting down...
+[1705935783] Caught SIGTERM, shutting down...
+[1705935783] Successfully shutdown... (PID=29958)
+[1705935783] Nagios 4.4.11 starting... (PID=29979)
+[1705935783] Local time is Mon Jan 22 12:03:03 -03 2024
+[1705935783] LOG VERSION: 2.0
+[1705935783] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705935783] qh: core query handler registered
+[1705935783] qh: echo service query handler registered
+[1705935783] qh: help for the query handler registered
+[1705935783] wproc: Successfully registered manager as @wproc with query handler
+[1705935783] wproc: Registry request: name=Core Worker 29980;pid=29980
+[1705935783] wproc: Registry request: name=Core Worker 29983;pid=29983
+[1705935783] wproc: Registry request: name=Core Worker 29981;pid=29981
+[1705935783] wproc: Registry request: name=Core Worker 29982;pid=29982
+[1705935783] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705935783] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705935783] Successfully launched command file worker with pid 29984
+[1705935790] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Actualizacion;1705935789
+[1705935790] SERVICE NOTIFICATION: nagiosadmin;SRV_GLPI;Actualizacion;WARNING;notify-service-by-email;(No output on stdout) stderr: /bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+[1705935790] SERVICE NOTIFICATION: andresnavarro;SRV_GLPI;Actualizacion;WARNING;notify-service-by-email;(No output on stdout) stderr: /bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+[1705935790] SERVICE NOTIFICATION: soporteti;SRV_GLPI;Actualizacion;WARNING;notify-service-by-telegram;(No output on stdout) stderr: /bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+[1705935790] SERVICE NOTIFICATION: soporteti;SRV_GLPI;Actualizacion;WARNING;notify-service-by-email;(No output on stdout) stderr: /bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+[1705935790] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;Actualizacion;WARNING;notify-service-by-telegram;(No output on stdout) stderr: /bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+[1705935790] SERVICE NOTIFICATION: carlosstange;SRV_GLPI;Actualizacion;WARNING;notify-service-by-email;(No output on stdout) stderr: /bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+[1705935790] SERVICE ALERT: SRV_GLPI;Actualizacion;WARNING;HARD;3;(No output on stdout) stderr: /bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+[1705935800] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Actualizacion;1705932194
+[1705935805] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;SRV_GLPI;Actualizacion;1705935804
+[1705935840] Caught SIGTERM, shutting down...
+[1705935840] Caught SIGTERM, shutting down...
+[1705935840] Caught SIGTERM, shutting down...
+[1705935840] Successfully shutdown... (PID=29979)
+[1705935840] Nagios 4.4.11 starting... (PID=30530)
+[1705935840] Local time is Mon Jan 22 12:04:00 -03 2024
+[1705935840] LOG VERSION: 2.0
+[1705935840] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705935840] qh: core query handler registered
+[1705935840] qh: echo service query handler registered
+[1705935840] qh: help for the query handler registered
+[1705935840] wproc: Successfully registered manager as @wproc with query handler
+[1705935840] wproc: Registry request: name=Core Worker 30532;pid=30532
+[1705935840] wproc: Registry request: name=Core Worker 30533;pid=30533
+[1705935840] wproc: Registry request: name=Core Worker 30531;pid=30531
+[1705935840] wproc: Registry request: name=Core Worker 30534;pid=30534
+[1705935840] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705935840] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705935840] Successfully launched command file worker with pid 30535
+[1705935841] Caught SIGTERM, shutting down...
+[1705935841] Caught SIGTERM, shutting down...
+[1705935841] Caught SIGTERM, shutting down...
+[1705935841] Successfully shutdown... (PID=30530)
+[1705935841] Nagios 4.4.11 starting... (PID=30551)
+[1705935841] Local time is Mon Jan 22 12:04:01 -03 2024
+[1705935841] LOG VERSION: 2.0
+[1705935841] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1705935841] qh: core query handler registered
+[1705935841] qh: echo service query handler registered
+[1705935841] qh: help for the query handler registered
+[1705935841] wproc: Successfully registered manager as @wproc with query handler
+[1705935841] wproc: Registry request: name=Core Worker 30554;pid=30554
+[1705935841] wproc: Registry request: name=Core Worker 30556;pid=30556
+[1705935841] wproc: Registry request: name=Core Worker 30553;pid=30553
+[1705935841] wproc: Registry request: name=Core Worker 30555;pid=30555
+[1705935841] Warning: Duplicate definition found for service 'Ping' on host 'SRV_chat.cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 220)
+[1705935841] Warning: Duplicate definition found for service 'Ping' on host 'SRV11VIBE_cass.cl' (config file '/usr/local/nagios/etc/objects/linux_service.cfg', starting on line 56)
+[1705935841] Successfully launched command file worker with pid 30557
+[1705935862] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705935886] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705935992] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.50KB (0.01%), Average OUT: 7.35KB (0.01%)Total RX: 131.46GBytes, Total TX: 54.17GBytes
+[1705936006] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1705936299] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705936307] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705936334] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705936434] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;(No output on stdout) stderr:
+[1705936437] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1705936465] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;2;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705936564] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705936567] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;HARD;3;(No output on stdout) stderr:
+[1705936585] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;3;OK: Interface eth0 (index 2) is up.
+[1705936642] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;HARD;1;(No output on stdout) stderr:
+[1705936676] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705936694] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1705936722] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705936796] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1705936829] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;3;(No output on stdout) stderr:
+[1705936835] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705936842] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 75.79KB (0.06%), Average OUT: 128.67KB (0.10%)Total RX: 131.48GBytes, Total TX: 54.21GBytes
+[1705936955] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1705937029] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705937032] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705937071] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 66.68 %
+[1705937106] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705937137] SERVICE ALERT: Qnap NAS;Almacenamiento;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937139] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705937145] SERVICE ALERT: Qnap NAS;Temperatura;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937146] SERVICE ALERT: Qnap NAS;Estado;CRITICAL;SOFT;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937148] HOST ALERT: Qnap NAS;DOWN;SOFT;1;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937149] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705937157] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 11.03KB (0.01%), Average OUT: 6.50KB (0.01%)Total RX: 131.49GBytes, Total TX: 54.21GBytes
+[1705937158] SERVICE ALERT: Qnap NAS;Memoria;CRITICAL;HARD;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937176] SERVICE ALERT: Qnap NAS;Sysinfo;CRITICAL;HARD;1;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937180] SERVICE ALERT: Qnap NAS;Tiempo Activo;CRITICAL;HARD;1;CRITICAL - Plugin timed out while executing system call
+[1705937192] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 31.82 %
+[1705937209] HOST ALERT: Qnap NAS;DOWN;SOFT;2;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937227] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1705937259] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 77.78KB (0.06%), Average OUT: 616.64KB (0.49%)Total RX: 2261.25GBytes, Total TX: 3974.53GBytes
+[1705937262] SERVICE ALERT: Qnap NAS;Almacenamiento;CRITICAL;HARD;3;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937270] SERVICE ALERT: Qnap NAS;Temperatura;CRITICAL;HARD;3;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937271] SERVICE ALERT: Qnap NAS;Estado;CRITICAL;HARD;3;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705937272] HOST ALERT: Qnap NAS;DOWN;SOFT;3;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937335] HOST ALERT: Qnap NAS;DOWN;SOFT;4;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937396] HOST ALERT: Qnap NAS;DOWN;SOFT;5;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937456] HOST ALERT: Qnap NAS;DOWN;SOFT;6;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937516] HOST ALERT: Qnap NAS;DOWN;SOFT;7;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937576] HOST ALERT: Qnap NAS;DOWN;SOFT;8;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937636] HOST ALERT: Qnap NAS;DOWN;SOFT;9;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937696] HOST NOTIFICATION: nagiosadmin;Qnap NAS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937696] HOST NOTIFICATION: andresnavarro;Qnap NAS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937696] HOST NOTIFICATION: soporteti;Qnap NAS;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937696] HOST NOTIFICATION: soporteti;Qnap NAS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937696] HOST NOTIFICATION: carlosstange;Qnap NAS;DOWN;notify-host-by-telegram;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937696] HOST NOTIFICATION: carlosstange;Qnap NAS;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (10.0.0.28)
+[1705937696] HOST ALERT: Qnap NAS;DOWN;HARD;10;CRITICAL - Host Unreachable (10.0.0.28)
+[1705938573] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.15 %
+[1705938694] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 34.10 %
+[1705939441] Auto-save of retention data completed successfully.
+[1705940192] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_CHECK;Qnap NAS;1705940190
+[1705940197] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_CHECK;Qnap NAS;1705940196
+[1705940211] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_CHECK;Qnap NAS;1705940209
+[1705940215] HOST NOTIFICATION: nagiosadmin;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1705940215] HOST NOTIFICATION: andresnavarro;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1705940215] HOST NOTIFICATION: soporteti;Qnap NAS;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1705940215] HOST NOTIFICATION: soporteti;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1705940215] HOST NOTIFICATION: carlosstange;Qnap NAS;UP;notify-host-by-telegram;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1705940215] HOST NOTIFICATION: carlosstange;Qnap NAS;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1705940215] HOST ALERT: Qnap NAS;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1705940218] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940218] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940218] SERVICE NOTIFICATION: soporteti;Qnap NAS;Memoria;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940218] SERVICE NOTIFICATION: soporteti;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940218] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Memoria;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940218] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Memoria;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940219] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_CHECK;Qnap NAS;1705940218
+[1705940236] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940236] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940236] SERVICE NOTIFICATION: soporteti;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940236] SERVICE NOTIFICATION: soporteti;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940236] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940236] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Sysinfo;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940237] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;Qnap NAS;Estado;1705940236
+[1705940240] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1705940240] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1705940240] SERVICE NOTIFICATION: soporteti;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-telegram;CRITICAL - Plugin timed out while executing system call
+[1705940240] SERVICE NOTIFICATION: soporteti;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1705940240] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-telegram;CRITICAL - Plugin timed out while executing system call
+[1705940240] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Tiempo Activo;CRITICAL;notify-service-by-email;CRITICAL - Plugin timed out while executing system call
+[1705940242] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940242] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940242] SERVICE NOTIFICATION: soporteti;Qnap NAS;Estado;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940242] SERVICE NOTIFICATION: soporteti;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940242] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Estado;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940242] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Estado;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940243] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;Qnap NAS;Estado;1705940242
+[1705940261] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;Qnap NAS;Estado;1705940259
+[1705940262] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940262] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940262] SERVICE NOTIFICATION: soporteti;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940262] SERVICE NOTIFICATION: soporteti;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940262] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940262] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Almacenamiento;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940266] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;Qnap NAS;Estado;1705940264
+[1705940270] SERVICE NOTIFICATION: nagiosadmin;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940270] SERVICE NOTIFICATION: andresnavarro;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940270] SERVICE NOTIFICATION: soporteti;Qnap NAS;Temperatura;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940270] SERVICE NOTIFICATION: soporteti;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940270] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Temperatura;CRITICAL;notify-service-by-telegram;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940270] SERVICE NOTIFICATION: carlosstange;Qnap NAS;Temperatura;CRITICAL;notify-service-by-email;CRITICAL: SNMP to 10.0.0.28 is not available or wrong community string
+[1705940303] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;Qnap NAS;Estado;1705940302
+[1705940322] EXTERNAL COMMAND: DISABLE_HOST_SVC_NOTIFICATIONS;Qnap NAS
+[1705940322] EXTERNAL COMMAND: DISABLE_HOST_NOTIFICATIONS;Qnap NAS
+[1705940333] EXTERNAL COMMAND: DISABLE_HOST_NOTIFICATIONS;Qnap NAS
+[1705940469] SERVICE ALERT: Qnap NAS;Tiempo Activo;OK;HARD;1;SNMP OK - Timeticks: (9606469) 1 day, 2:41:04.69
+[1705940472] SERVICE ALERT: Qnap NAS;Sysinfo;OK;HARD;1;NAS Cloud, Model TS-879U-RP, Firmware 4.3.6, Max HD number 8, No. Volume 1
+[1705940484] SERVICE ALERT: Qnap NAS;Estado;OK;HARD;1;Power Supply #1 - OK: GOOD
+[1705940498] SERVICE ALERT: Qnap NAS;Almacenamiento;OK;HARD;1;OK: Total:50TB - Used:36TB - Free:13TB - Used Space: 73%
+[1705940505] SERVICE ALERT: Qnap NAS;Temperatura;OK;HARD;1;OK: Temperature=35C
+[1705940513] SERVICE ALERT: Qnap NAS;Memoria;OK;HARD;1;OK: Total:3830MB - Used:1100MB - Free:2730MB = 29%
+[1705942054] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.88 %
+[1705942175] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.65 %
+[1705943041] Auto-save of retention data completed successfully.
+[1705944497] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705944617] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 320.54B (0.00%), Average OUT: 112.71B (0.00%)Total RX: 18489.13GBytes, Total TX: 11319.08GBytes
+[1705945176] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 73.12 %
+[1705945296] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 39.40 %
+[1705945417] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.17 %
+[1705945538] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 54.55 %
+[1705945647] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705945697] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705945778] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 75.75 %
+[1705945782] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;(No output on stdout) stderr:
+[1705945817] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1705945899] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;2;WARNING: Percent was 62.85 %
+[1705946020] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;3;OK: Percent was 34.82 %
+[1705946075] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1705946099] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705946195] SERVICE ALERT: SRV_email.cass.cl;Correo Smtp;OK;SOFT;2;SMTP OK - 0.004 sec. response time
+[1705946219] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705946641] Auto-save of retention data completed successfully.
+[1705946689] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705946792] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1705946790
+[1705946792] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 77.96KB (0.06%), Average OUT: 1.01MB (0.81%)Total RX: 2261.72GBytes, Total TX: 3978.17GBytes
+[1705946799] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;FW Cass Telsur;Ancho de Banda LAN;1705950395
+[1705947247] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705947249] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705947292] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705947367] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 9.33KB (0.01%), Average OUT: 6.83KB (0.01%)Total RX: 131.64GBytes, Total TX: 54.33GBytes
+[1705947369] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705947413] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 250.43B (0.00%), Average OUT: 87.91B (0.00%)Total RX: 18489.13GBytes, Total TX: 11319.08GBytes
+[1705948001] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 78.80 %
+[1705948121] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.88 %
+[1705948143] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705948263] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 251.66B (0.00%), Average OUT: 86.47B (0.00%)Total RX: 18489.13GBytes, Total TX: 11319.08GBytes
+[1705948422] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 61.38 %
+[1705948542] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 44.70 %
+[1705948842] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.17 %
+[1705948963] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.65 %
+[1705950241] Auto-save of retention data completed successfully.
+[1705951157] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705951246] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705951278] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 22.77KB (0.02%), Average OUT: 8.42KB (0.01%)Total RX: 131.71GBytes, Total TX: 54.37GBytes
+[1705951366] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1705952445] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705952565] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 51.63KB (0.04%), Average OUT: 365.02KB (0.29%)Total RX: 2262.13GBytes, Total TX: 3981.78GBytes
+[1705952683] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 65.15 %
+[1705952804] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 3.80 %
+[1705952959] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705953079] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705953704] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.95 %
+[1705953825] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 38.62 %
+[1705953841] Auto-save of retention data completed successfully.
+[1705954615] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705954735] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 75.60KB (0.06%), Average OUT: 460.77KB (0.37%)Total RX: 2262.27GBytes, Total TX: 3982.79GBytes
+[1705954886] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705954889] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705954905] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.52 %
+[1705954948] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705955006] SERVICE ALERT: FW Cass Telsur;Estado Puerto DMZ;OK;SOFT;2;OK: Interface eth2 (index 4) is up.
+[1705955014] SERVICE ALERT: FW Cass Telsur;Estado Puerto WAN;OK;SOFT;2;OK: Interface eth1 (index 3) is up.
+[1705955026] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 33.33 %
+[1705955078] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;2;(No output on stdout) stderr:
+[1705955099] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1705955165] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705955203] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;3;OK - Average IN: 48.22KB (0.04%), Average OUT: 14.79KB (0.01%)Total RX: 131.86GBytes, Total TX: 54.45GBytes
+[1705955232] SERVICE ALERT: SRV_email.cass.cl;Actualizacion;OK;SOFT;2;Updates OK : no updates available
+[1705955286] SERVICE ALERT: FW Cass Telsur;Ancho de Banda LAN;OK;SOFT;2;OK - Average IN: 122.18KB (0.10%), Average OUT: 2.17MB (1.73%)Total RX: 2262.32GBytes, Total TX: 3983.54GBytes
+[1705956887] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.18 %
+[1705957008] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 3.77 %
+[1705957133] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;CRITICAL;SOFT;1;(No output on stdout) stderr:
+[1705957213] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;UNKNOWN;SOFT;1;UNKNOWN: Improper interface status, status received: DNE - No response from remote host "201.220.96.34"
+[1705957253] SERVICE ALERT: FW Cass Telsur;Ancho de Banda DMZ;OK;SOFT;2;OK - Average IN: 23.60KB (0.02%), Average OUT: 24.08KB (0.02%)Total RX: 131.92GBytes, Total TX: 54.50GBytes
+[1705957334] SERVICE ALERT: FW Cass Telsur;Ancho de Banda WAN;OK;SOFT;2;OK - Average IN: 328.60B (0.00%), Average OUT: 109.07B (0.00%)Total RX: 18489.47GBytes, Total TX: 11324.57GBytes
+[1705957441] Auto-save of retention data completed successfully.
+[1705958449] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 63.97 %
+[1705958570] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 34.85 %
+[1705958876] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;WARNING;SOFT;1;WARNING: SNMP error: No response from remote host "201.220.96.34"
+[1705958996] SERVICE ALERT: FW Cass Telsur;Estado Puerto LAN;OK;SOFT;2;OK: Interface eth0 (index 2) is up.
+[1705959111] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 66.28 %
+[1705959232] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 0.75 %
+[1705961041] Auto-save of retention data completed successfully.
+[1705963192] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 76.53 %
+[1705963313] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 37.10 %
+[1705964153] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 67.40 %
+[1705964274] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 36.35 %
+[1705964641] Auto-save of retention data completed successfully.
+[1705966735] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.60 %
+[1705966856] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 34.07 %
+[1705967457] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.90 %
+[1705967578] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 0.75 %
+[1705968241] Auto-save of retention data completed successfully.
+[1705971059] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 68.17 %
+[1705971180] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 30.30 %
+[1705971841] Auto-save of retention data completed successfully.
+[1705972036] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;1;CPU Load 96% (5 min average)
+[1705972156] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;SOFT;2;CPU Load 99% (5 min average)
+[1705972276] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972276] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972276] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1705972276] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972276] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1705972276] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972276] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1705972576] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1705972576] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1705972576] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-telegram;CPU Load 100% (5 min average)
+[1705972576] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1705972576] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-telegram;CPU Load 100% (5 min average)
+[1705972576] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1705972576] SERVICE ALERT: Veeam2023.cass.pmc;CPU;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1705972756] SERVICE NOTIFICATION: nagiosadmin;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972756] SERVICE NOTIFICATION: andresnavarro;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972756] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1705972756] SERVICE NOTIFICATION: soporteti;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972756] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-telegram;CPU Load 99% (5 min average)
+[1705972756] SERVICE NOTIFICATION: carlosstange;Veeam2023.cass.pmc;CPU;WARNING;notify-service-by-email;CPU Load 99% (5 min average)
+[1705972756] SERVICE ALERT: Veeam2023.cass.pmc;CPU;WARNING;HARD;3;CPU Load 99% (5 min average)
+[1705973296] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;CPU;STARTED; Service appears to have started flapping (20.0% change >= 20.0% threshold)
+[1705973296] SERVICE ALERT: Veeam2023.cass.pmc;CPU;OK;HARD;1;CPU Load 89% (5 min average)
+[1705973956] SERVICE FLAPPING ALERT: Veeam2023.cass.pmc;CPU;STOPPED; Service appears to have stopped flapping (4.8% change < 5.0% threshold)
+[1705974181] SERVICE ALERT: SRV_Soporte;CPU;CRITICAL;SOFT;1;CRITICAL: Percent was 73.47 %
+[1705974302] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 33.33 %
+[1705975441] Auto-save of retention data completed successfully.
+[1705975623] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.90 %
+[1705975743] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 50.00 %
+[1705976044] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 60.92 %
+[1705976164] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 45.45 %
+[1705976645] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.98 %
+[1705976766] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 47.73 %
+[1705976956] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;CRITICAL;SOFT;1;CHECK_NRPE STATE CRITICAL: Socket timeout after 30 seconds.
+[1705977078] SERVICE ALERT: SRVCONT.cass.cl;Actualizacion;OK;SOFT;2;OK - no pending updates.
+[1705977547] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.88 %
+[1705977668] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 33.35 %
+[1705978448] SERVICE ALERT: SRV_Soporte;CPU;WARNING;SOFT;1;WARNING: Percent was 62.88 %
+[1705978569] SERVICE ALERT: SRV_Soporte;CPU;OK;SOFT;2;OK: Percent was 40.15 %
