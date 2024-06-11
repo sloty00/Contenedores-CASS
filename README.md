@@ -23,13 +23,8 @@ Rustdesk es una solución de escritorio remoto de código abierto. Permite el ac
 
 Los archivos de configuración `.yml` en este repositorio muestran cómo se han configurado estos servicios en contenedores. Cada archivo está documentado con detalles específicos sobre los parámetros de configuración y los pasos necesarios para su despliegue.
 
-Las YAML presentadas son de su autoría y demuestran un profundo conocimiento y experiencia en el 
-manejo de contenedores y la implementación de infraestructura como código.
+Las YAML presentadas son de su autoría y demuestran un profundo conocimiento y experiencia en el manejo de contenedores y la implementación de infraestructura como código.
 
-He mostrado una notable habilidad para diseñar y configurar entornos de desarrollo y producción, 
-asegurando la eficiencia y escalabilidad de las aplicaciones. Su enfoque meticuloso y detallado se refleja 
-en la claridad y precisión de sus archivos .yml, los cuales facilitan el entendimiento y la replicación 
-de los despliegues.
+He mostrado una notable habilidad para diseñar y configurar entornos de desarrollo y producción, asegurando la eficiencia y escalabilidad de las aplicaciones. Su enfoque meticuloso y detallado se refleja en la claridad y precisión de sus archivos .yml, los cuales facilitan el entendimiento y la replicación de los despliegues.
 
-Además, su capacidad para documentar de manera efectiva sus procesos garantiza que otros desarrolladores puedan seguir 
-sus pasos con facilidad, promoviendo buenas prácticas en el desarrollo y la implementación de aplicaciones en contenedores.
+Además, su capacidad para documentar de manera efectiva sus procesos garantiza que otros desarrolladores puedan seguir sus pasos con facilidad, promoviendo buenas prácticas en el desarrollo y la implementación de aplicaciones en contenedores.
