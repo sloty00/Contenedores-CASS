@@ -70,6 +70,82 @@ Para configurar el sistema de monitoreo, sigue estos pasos:
 ![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/a43dd921-2c1e-4c31-9f10-1a93d8a7fb87)
 ![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/f2e56b9d-801d-49a6-a5d6-5611400b2736)
 
+### Grafana
+
+Este repositorio contiene la documentación y las imágenes de una implementación de un sistema de monitoreo utilizando Grafana. A continuación, se detallan las características principales y la estructura del sistema.
+
+#### Descripción del Proyecto
+
+El proyecto consiste en un dashboard de Grafana que integra métricas de 9 servidores mediante agentes de Prometheus. Este dashboard está diseñado para proporcionar una vista unificada y completa del rendimiento y estado de todos los servidores.
+
+#### Características
+
+1. **Métricas Integradas**:
+   - Cada servidor está configurado con un agente de Prometheus para recopilar métricas detalladas.
+   - Las métricas cubren diversos aspectos como uso de CPU, memoria, disco, red, entre otros.
+
+2. **Dashboard Unificado**:
+   - El dashboard de Grafana centraliza las métricas de todos los servidores en una única interfaz.
+   - Se han configurado aproximadamente 7 paneles de métricas para cada uno de los 15 ítems del dashboard.
+
+3. **Visualización Completa**:
+   - Gráficos interactivos y paneles detallados permiten una comprensión rápida y eficaz del estado del sistema.
+   - La visualización incluye tendencias históricas y alertas en tiempo real.
+
+#### Estructura del Dashboard
+
+El dashboard está estructurado de la siguiente manera:
+
+1. **Resumen General**:
+   - Paneles que muestran un resumen del estado de todos los servidores.
+   - Métricas clave como uso de CPU promedio, memoria utilizada y tráfico de red agregado.
+
+2. **Detalles por Servidor**:
+   - Paneles individuales para cada servidor que detallan métricas específicas.
+   - Visualizaciones de uso de recursos como CPU, memoria, disco y red.
+
+3. **Alertas y Tendencias**:
+   - Paneles que muestran alertas configuradas para condiciones críticas.
+   - Gráficos históricos para identificar tendencias y patrones en el rendimiento del sistema.
+
+#### Instalación y Configuración
+
+Aunque el código de implementación no está incluido en este repositorio, a continuación se describen los pasos generales para replicar esta configuración:
+
+1. **Instalación de Prometheus**:
+   - Instalar y configurar Prometheus en cada servidor para recopilar métricas.
+
+2. **Configuración de Agentes**:
+   - Configurar agentes de Prometheus en cada servidor para exportar las métricas a Prometheus.
+
+3. **Configuración de Grafana**:
+   - Instalar Grafana y configurar Prometheus como fuente de datos.
+   - Crear un dashboard en Grafana y añadir paneles con las métricas recopiladas.
+
+#### Visualización
+
+Incluimos algunas capturas de pantalla del dashboard de Grafana para mostrar cómo se ve la configuración en acción:
+
+![Dashboard General](imagenes/dashboard_general.png)
+*Resumen general del estado de todos los servidores.*
+
+![Detalle del Servidor](imagenes/detalle_servidor.png)
+*Panel de detalles de uno de los servidores.*
+
+![Alertas y Tendencias](imagenes/alertas_tendencias.png)
+*Paneles de alertas y tendencias históricas.*
+
+#### Estado del Proyecto
+
+Este proyecto está completo desde el punto de vista de monitoreo y visualización, pero aún no ha sido pasado a producción. Cualquier feedback y sugerencia son bienvenidos para mejorar la configuración y despliegue final.
+
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/68f98dc8-9d19-459f-a399-236974f8a903)
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/b872c143-f4ec-4fdc-ba05-5c1b4d79ef70)
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/0880ba20-9f9a-42eb-88ce-1c5dd632cb6c)
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/5bdec9a5-ce3f-4c9f-9e32-f73e6dcdb200)
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/accd534d-d217-4903-9e4b-45812964c88f)
+![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/2784ce61-d6b4-4f8b-851e-08a40cadfa65)
+
 ## Configuración y Despliegue
 
 Los archivos de configuración `.yml` en este repositorio muestran cómo se han configurado estos servicios en contenedores. Cada archivo está documentado con detalles específicos sobre los parámetros de configuración y los pasos necesarios para su despliegue.
