@@ -122,22 +122,13 @@ Aunque el código de implementación no está incluido en este repositorio, a co
    - Instalar Grafana y configurar Prometheus como fuente de datos.
    - Crear un dashboard en Grafana y añadir paneles con las métricas recopiladas.
 
-#### Visualización
-
-Incluimos algunas capturas de pantalla del dashboard de Grafana para mostrar cómo se ve la configuración en acción:
-
-![Dashboard General](imagenes/dashboard_general.png)
-*Resumen general del estado de todos los servidores.*
-
-![Detalle del Servidor](imagenes/detalle_servidor.png)
-*Panel de detalles de uno de los servidores.*
-
-![Alertas y Tendencias](imagenes/alertas_tendencias.png)
-*Paneles de alertas y tendencias históricas.*
-
 #### Estado del Proyecto
 
 Este proyecto está completo desde el punto de vista de monitoreo y visualización, pero aún no ha sido pasado a producción. Cualquier feedback y sugerencia son bienvenidos para mejorar la configuración y despliegue final.
+
+#### Visualización
+
+Incluimos algunas capturas de pantalla del dashboard de Grafana para mostrar cómo se ve la configuración en acción:
 
 ![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/68f98dc8-9d19-459f-a399-236974f8a903)
 ![image](https://github.com/sloty00/Contenedores-CASS/assets/22121541/b872c143-f4ec-4fdc-ba05-5c1b4d79ef70)
