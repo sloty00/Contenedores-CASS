@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+#MariaDB Container
+#  mariadb:
+#    image: mariadb:10.7
+#    container_name: mariadb
+#    hostname: mariadb
+#    ports:
+#      - "3306:3306"
+#    environment:
+#      - MARIADB_ROOT_PASSWORD=Admin.Cass.2023#
+#      - MARIADB_DATABASE=glpidb
+#      - MARIADB_USER=glpi_user
+#      - MARIADB_PASSWORD=Admin.Cass.2023
+
+#GLPI Container
+  glpi:
+    image: diouxx/glpi
+    container_name : glpi
+    hostname: glpi
+    ports:
+      - "8080:80"
+      - "62354:62354"
+#      - "443:443"
+#          volumes:
+#            - ./glpi/:/var/www/html/glpi
+    environment:
+      - TIMEZONE=America/Santiago
+    restart: unless-stopped

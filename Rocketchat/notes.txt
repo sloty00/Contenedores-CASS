@@ -1,0 +1,29 @@
+- Upgrade
+    - docker-compose down
+    - docker-compose pull
+    - docker-compose up -d
+    
+# https://docs.rocket.chat/deploy/prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/docker-mongo-backup-and-restore
+- Backup
+    - docker exec <database_name> sh -c 'mongodump --archive' > db.dump
+    
+- Restore
+    - docker-compose down -v
+    - docker-compose up mongodb -d
+    - docker exec -i <database_name> sh -c 'mongorestore --archive' < db.dump
+    - docker-compose up -d
+    
+- Reverse proxy
+    - Test nginx config
+        - nginx -t
+    - Stop nginx 
+        - systemctl stop nginx
+    - Start nginx
+        - systemctl start nginx
+    
+    
+    
+    
+    
+    
+    
