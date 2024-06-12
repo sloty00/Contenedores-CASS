@@ -150,4 +150,4 @@ Las YAML configuradas son de mi ejecutoria y demuestran un profundo conocimiento
 
 He mostrado una notable habilidad para diseñar y configurar entornos de desarrollo y producción, asegurando la eficiencia y escalabilidad de las aplicaciones. Mi enfoque meticuloso y detallado se refleja en la claridad y precisión de sus archivos .yml, los cuales facilitan el entendimiento y la replicación de los despliegues.
 
-Además, su capacidad para documentar de manera efectiva sus procesos garantiza que otros desarrolladores puedan seguir sus pasos con facilidad, promoviendo buenas prácticas en el desarrollo y la implementación de aplicaciones en contenedores.
+Además, mi capacidad para documentar de manera efectiva sus procesos garantiza que otros desarrolladores puedan seguir sus pasos con facilidad, promoviendo buenas prácticas en el desarrollo y la implementación de aplicaciones en contenedores.
